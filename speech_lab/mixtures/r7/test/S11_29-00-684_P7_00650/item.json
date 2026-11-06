@@ -1,0 +1,29 @@
+{
+ "id": "S11_29-00-684_P7_00650",
+ "split": "test",
+ "session": 11,
+ "seg": "29-00-684",
+ "seg_start_s": 1740.684,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "How fast can a dog run?",
+ "start_s": 0.65,
+ "end_s": 2.3,
+ "dur": 1.65,
+ "ctx_s": 0.65,
+ "utt_offset_samples": 10400,
+ "n_samples": 36800,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.009481264896749053,
+ "align_how": "minute_line",
+ "az_ref_mean": -10.68,
+ "el_ref_mean": 0.25,
+ "az_ref_range": 8.88,
+ "doa_valid_frac": 1.0
+}

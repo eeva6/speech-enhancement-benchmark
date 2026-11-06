@@ -1,0 +1,59 @@
+{
+ "easycom": {
+  "spec": {
+   "cluster": "spectral",
+   "vad_thr": 0.05,
+   "kmax": 6
+  },
+  "ahc": {
+   "cluster": "ahc",
+   "vad_thr": 0.1,
+   "ahc_thr": 0.8
+  },
+  "spec_sp": {
+   "cluster": "spectral",
+   "vad_thr": 0.05,
+   "kmax": 6,
+   "spatial": "world",
+   "beta": 0.15,
+   "sigma": 30.0
+  },
+  "ahc_sp": {
+   "cluster": "ahc",
+   "vad_thr": 0.1,
+   "ahc_thr": 0.8,
+   "spatial": "max",
+   "beta": 0.15,
+   "sigma": 15.0
+  },
+  "sp_head": {
+   "cluster": "spectral",
+   "vad_thr": 0.05,
+   "kmax": 6,
+   "spatial": "head",
+   "beta": 0.15,
+   "sigma": 30.0
+  },
+  "sp_world": {
+   "cluster": "spectral",
+   "vad_thr": 0.05,
+   "kmax": 6,
+   "spatial": "world",
+   "beta": 0.15,
+   "sigma": 30.0
+  },
+  "sp_max": {
+   "cluster": "spectral",
+   "vad_thr": 0.05,
+   "kmax": 6,
+   "spatial": "max",
+   "beta": 0.15,
+   "sigma": 30.0
+  },
+  "platform": {
+   "kind": "platform",
+   "dom_db": 6.0,
+   "vad_thr": 0.5
+  }
+ }
+}

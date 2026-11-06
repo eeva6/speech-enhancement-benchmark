@@ -1,0 +1,29 @@
+{
+ "id": "S4_19-00-532_P3_30400",
+ "split": "val",
+ "session": 4,
+ "seg": "19-00-532",
+ "seg_start_s": 1140.532,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "About his door, yeah.",
+ "start_s": 30.4,
+ "end_s": 31.75,
+ "dur": 1.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 53600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 48.17,
+ "el_ref_mean": -1.38,
+ "az_ref_range": 4.35,
+ "doa_valid_frac": 1.0
+}

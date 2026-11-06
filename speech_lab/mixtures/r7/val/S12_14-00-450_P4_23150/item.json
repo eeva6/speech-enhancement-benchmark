@@ -1,0 +1,29 @@
+{
+ "id": "S12_14-00-450_P4_23150",
+ "split": "val",
+ "session": 12,
+ "seg": "14-00-450",
+ "seg_start_s": 840.45,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "What- is Charlie standing in front of the door of heaven?",
+ "start_s": 23.15,
+ "end_s": 29.9,
+ "dur": 6.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 140000,
+ "overlap": true,
+ "ovl_frac": 0.222,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.09052265522768721,
+ "align_how": "minute_line",
+ "az_ref_mean": 15.12,
+ "el_ref_mean": 7.97,
+ "az_ref_range": 3.74,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_27-00-632_P3_13700",
+ "split": "val",
+ "session": 4,
+ "seg": "27-00-632",
+ "seg_start_s": 1620.632,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "What time is it in London?",
+ "start_s": 13.7,
+ "end_s": 15.35,
+ "dur": 1.65,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 58400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 3.45,
+ "align_res_absmed_ms": 0.015129471194086364,
+ "align_how": "session_slope",
+ "az_ref_mean": 9.34,
+ "el_ref_mean": 3.75,
+ "az_ref_range": 1.0,
+ "doa_valid_frac": 1.0
+}

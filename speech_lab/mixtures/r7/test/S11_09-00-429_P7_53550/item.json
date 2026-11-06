@@ -1,0 +1,29 @@
+{
+ "id": "S11_09-00-429_P7_53550",
+ "split": "test",
+ "session": 11,
+ "seg": "09-00-429",
+ "seg_start_s": 540.429,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Cause then they are- they don't have any family and [H] they're that person's father, I guess. I don't know.",
+ "start_s": 53.55,
+ "end_s": 59.1,
+ "dur": 5.55,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 120800,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.10786390339490026,
+ "align_how": "minute_line",
+ "az_ref_mean": -64.44,
+ "el_ref_mean": 0.62,
+ "az_ref_range": 3.72,
+ "doa_valid_frac": 1.0
+}

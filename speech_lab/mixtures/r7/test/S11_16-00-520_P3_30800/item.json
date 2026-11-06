@@ -1,0 +1,29 @@
+{
+ "id": "S11_16-00-520_P3_30800",
+ "split": "test",
+ "session": 11,
+ "seg": "16-00-520",
+ "seg_start_s": 960.52,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Yeah. I guess you could do it at the South- Well, you can't run south from the South Pole, can you?",
+ "start_s": 30.8,
+ "end_s": 34.75,
+ "dur": 3.95,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 95200,
+ "overlap": true,
+ "ovl_frac": 0.013,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.02951199348899536,
+ "align_how": "minute_line",
+ "az_ref_mean": 45.29,
+ "el_ref_mean": 6.42,
+ "az_ref_range": 25.46,
+ "doa_valid_frac": 1.0
+}

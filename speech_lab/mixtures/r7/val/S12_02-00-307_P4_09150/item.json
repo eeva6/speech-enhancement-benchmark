@@ -1,0 +1,29 @@
+{
+ "id": "S12_02-00-307_P4_09150",
+ "split": "val",
+ "session": 12,
+ "seg": "02-00-307",
+ "seg_start_s": 120.307,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "Yeah, it's a really important job. Especially these days, right? You've just gotta prepare the next generation? So, it's pretty cool.",
+ "start_s": 9.15,
+ "end_s": 15.45,
+ "dur": 6.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 132800,
+ "overlap": true,
+ "ovl_frac": 0.548,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.4588067240547389,
+ "align_how": "minute_line",
+ "az_ref_mean": 17.82,
+ "el_ref_mean": 7.71,
+ "az_ref_range": 10.94,
+ "doa_valid_frac": 1.0
+}

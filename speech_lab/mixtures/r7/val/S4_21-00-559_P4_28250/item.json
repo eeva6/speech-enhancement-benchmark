@@ -1,0 +1,29 @@
+{
+ "id": "S4_21-00-559_P4_28250",
+ "split": "val",
+ "session": 4,
+ "seg": "21-00-559",
+ "seg_start_s": 1260.559,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "Ah. His, his- The lenses to his glasses.",
+ "start_s": 28.25,
+ "end_s": 31.6,
+ "dur": 3.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 85600,
+ "overlap": true,
+ "ovl_frac": 0.627,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.18377068045083433,
+ "align_how": "minute_line",
+ "az_ref_mean": 11.64,
+ "el_ref_mean": 8.67,
+ "az_ref_range": 61.88,
+ "doa_valid_frac": 1.0
+}

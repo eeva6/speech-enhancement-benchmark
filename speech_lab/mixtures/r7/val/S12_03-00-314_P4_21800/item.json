@@ -1,0 +1,29 @@
+{
+ "id": "S12_03-00-314_P4_21800",
+ "split": "val",
+ "session": 12,
+ "seg": "03-00-314",
+ "seg_start_s": 180.314,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Can we get some water to start with please?",
+ "start_s": 21.8,
+ "end_s": 24.2,
+ "dur": 2.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 70400,
+ "overlap": true,
+ "ovl_frac": 0.792,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.25861964968498796,
+ "align_how": "session_slope",
+ "az_ref_mean": -12.45,
+ "el_ref_mean": 36.32,
+ "az_ref_range": 10.62,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_19-00-532_P6_09500",
+ "split": "val",
+ "session": 4,
+ "seg": "19-00-532",
+ "seg_start_s": 1140.532,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "He's-  He'll say",
+ "start_s": 9.5,
+ "end_s": 11.15,
+ "dur": 1.65,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 58400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03946890683437232,
+ "align_how": "minute_line",
+ "az_ref_mean": -24.95,
+ "el_ref_mean": 11.06,
+ "az_ref_range": 13.42,
+ "doa_valid_frac": 1.0
+}

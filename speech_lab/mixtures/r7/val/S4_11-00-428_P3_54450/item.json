@@ -1,0 +1,29 @@
+{
+ "id": "S4_11-00-428_P3_54450",
+ "split": "val",
+ "session": 4,
+ "seg": "11-00-428",
+ "seg_start_s": 660.428,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "Well. Yeah. I don't think that's in the spirit of the puzzle, but.",
+ "start_s": 54.45,
+ "end_s": 58.5,
+ "dur": 4.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 96800,
+ "overlap": true,
+ "ovl_frac": 0.852,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03195756653440185,
+ "align_how": "session_slope",
+ "az_ref_mean": 90.88,
+ "el_ref_mean": -11.09,
+ "az_ref_range": 14.81,
+ "doa_valid_frac": 1.0
+}

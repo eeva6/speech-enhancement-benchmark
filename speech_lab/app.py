@@ -1,0 +1,276 @@
+"""Interactive demo: upload a recording, run enhancement methods, listen, compare, export.
+
+    python app.py            # http://127.0.0.1:7860
+Tabs:
+  1. Process      - upload (any rate/channels -> mono 16 kHz), pick methods, optional enrolment clip (needed
+                    for target-speaker extraction) and optional clean reference (enables SI-SDR/ESTOI/PESQ).
+  2. Benchmark examples - browse the pre-computed benchmark outputs side by side.
+  3. Results      - the measured summary tables and figures from results/<tag>/.
+  4. Multichannel (round 5) - upload a MULTICHANNEL wav (e.g. a LibriCSS 7-mic segment), pick the array geometry;
+                    runs delay-and-sum and online MVDR steered to an ESTIMATED direction (SRP-PHAT; causal tracker
+                    for the online MVDR), optionally followed by DeepFilterNet3 or TSE; shows the SRP-PHAT map.
+  5. Real recordings (round 5) - browse the round-5 LibriCSS items and every method's output.
+"""
+import json, os, tempfile, time
+# gradio pings itself on localhost at startup; keep that request off any HTTP proxy
+for _k in ("NO_PROXY", "no_proxy"):
+    os.environ[_k] = ",".join(filter(None, [os.environ.get(_k, ""), "localhost,127.0.0.1"]))
+from pathlib import Path
+import numpy as np
+import pandas as pd
+import gradio as gr
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from selab.common import FS, load, save, MIX, OUT, RES
+from selab import classical, neural
+from selab.metrics import all_metrics
+
+METHODS = {
+    "Spectral subtraction (Berouti)": classical.specsub,
+    "Wiener, decision-directed": classical.wiener_dd,
+    "MMSE log-spectral amplitude": classical.mmse_lsa,
+    "noisereduce spectral gating": classical.noisereduce_ng,
+    "MetricGAN+ (SpeechBrain)": neural.run_metricgan,
+    "Demucs DNS64 (causal)": neural.run_demucs,
+    "SepFormer WHAM! enhancement (slow on CPU)": neural.run_sepformer_enh,
+    "Target-speaker extraction: Conv-TasNet + ECAPA (needs enrolment)": neural.run_tse_ecapa,
+}
+TAG = "r1"
+
+# ---- round 5: multichannel uploads -----------------------------------------------------------------
+from selab import r5methods as R5
+GEOMS = {
+    "LibriCSS / MS 7-mic circle (centre + 6 on r = 4.25 cm)": [[0.0, 0.0]] + [[0.0425 * np.cos(np.deg2rad(60 * i)), 0.0425 * np.sin(np.deg2rad(60 * i))] for i in range(6)],
+    "Linear, 4 mics, 4 cm spacing (rounds 1-3 simulation)": [[-0.06, 0.0], [-0.02, 0.0], [0.02, 0.0], [0.06, 0.0]],
+}
+MC_METHODS = ["Delay-and-sum (estimated DOA)", "Online MVDR (estimated DOA, causal, 32 ms)",
+              "Online MVDR dir-gated (estimated DOA, causal)", "Online MVDR (est. DOA) -> DeepFilterNet3",
+              "Online MVDR (est. DOA) -> TSE (needs enrolment)",
+              "Round 6: superdirective, 4 ms latency (+6 dB WNG floor), causal tracker (+ECAPA check if enrolment given)",
+              "Round 6: superdirective, 8 ms latency, causal tracker (+ECAPA check if enrolment given)"]
+
+
+def process_mc(path, geom, custom_xy, methods, enrol_path):
+    import soundfile as sf
+    if not path:
+        raise gr.Error("Upload a multichannel wav first.")
+    x, sr = sf.read(path, dtype="float32", always_2d=True)
+    x = x.T
+    if sr != FS:
+        from scipy.signal import resample_poly
+        g = np.gcd(int(sr), FS); x = np.stack([resample_poly(c, FS // g, sr // g) for c in x]).astype(np.float32)
+    xy = json.loads(custom_xy) if custom_xy and custom_xy.strip() else GEOMS[geom]
+    if len(xy) != x.shape[0]:
+        raise gr.Error(f"The file has {x.shape[0]} channels but the geometry has {len(xy)} microphones.")
+    x = 0.9 * x / (np.max(np.abs(x)) + 1e-9)
+    enrol = load(enrol_path) if enrol_path else None
+    trk, P = R5.causal_track(x, xy)
+    az_seg = R5.doa_blind(P)
+    fig, ax = plt.subplots(1, 2, figsize=(10, 3.2))
+    ax[0].imshow(P.T / (P.max(1)[None] + 1e-9), aspect="auto", origin="lower", extent=[0, x.shape[1] / FS, 0, 360], cmap="magma")
+    ax[0].plot(np.arange(len(trk)) * R5.HOP / FS, trk, "c", lw=1, label="causal tracker"); ax[0].set_ylabel("azimuth (deg)")
+    ax[0].set_xlabel("s"); ax[0].legend(fontsize=7); ax[0].set_title("SRP-PHAT map (per-frame normalised)", fontsize=9)
+    ax[1].plot(R5.AZ, P.sum(0) / P.sum(0).max()); ax[1].axvline(az_seg, color="r", ls="--")
+    ax[1].set_title(f"whole-file SRP-PHAT: peak {az_seg:.0f} deg", fontsize=9); ax[1].set_xlabel("azimuth (deg)")
+    fig.tight_layout()
+    rows, outs = [dict(method="(input mic 0)", status="ok", doa_deg=az_seg)], []
+    tmp = Path(tempfile.mkdtemp()); save(tmp / "input_mic0.wav", x[0]); outs.append(str(tmp / "input_mic0.wav"))
+    for name in methods:
+        t0 = time.perf_counter()
+        try:
+            if name.startswith("Round 6"):
+                from selab import r6
+                mode = "rt" if enrol is not None else "rtn"
+                t6 = r6.track(x, xy, mode, enrol=enrol)
+                # 4 ms: the held-out frozen configuration (+6 dB white-noise-gain floor); 8 ms: default (0 dB)
+                y, _info = (r6.run_filter("sd4", x, xy, t6, wng_db=6.0) if "4 ms" in name else r6.run_filter("sd8", x, xy, t6))
+            elif name.startswith("Delay"):
+                y = R5.get_methods()["ds_est"](x, xy, {"az_blind": az_seg})
+            elif "dir-gated" in name:
+                y = R5.run_online(x, xy, trk, directional=True)
+            else:
+                y = R5.run_online(x, xy, trk)
+                if "DeepFilterNet3" in name:
+                    y = R5._lv(neural.run_deepfilternet, y)
+                elif "TSE" in name:
+                    if enrol is None:
+                        rows.append(dict(method=name, status="skipped: needs an enrolment clip")); continue
+                    y = neural.run_tse_ecapa(y, enrol=enrol)
+        except Exception as e:
+            rows.append(dict(method=name, status=f"failed: {e!r}")); continue
+        dt = time.perf_counter() - t0
+        p = tmp / ("".join(ch if ch.isalnum() else "_" for ch in name.split(" (")[0]).strip("_") + ".wav")
+        save(p, np.nan_to_num(y)[: x.shape[1]]); outs.append(str(p))
+        rows.append(dict(method=name, status="ok", seconds=round(dt, 2), rtf=round(dt / (x.shape[1] / FS), 3)))
+    aud = [gr.update(value=outs[i], label=Path(outs[i]).stem, visible=True) if i < len(outs) else gr.update(visible=False) for i in range(len(MC_METHODS) + 1)]
+    return [pd.DataFrame(rows), fig, outs] + aud
+
+
+def r5_ids():
+    mp = MIX / "r5" / "meta.json"
+    return [m["id"] for m in json.load(open(mp))] if mp.exists() else []
+
+
+def r5_view(mid):
+    if not mid:
+        return [None] + [gr.update(visible=False)] * 16
+    d = MIX / "r5" / mid
+    meths = sorted(p.name for p in (OUT / "r5").iterdir() if (p / f"{mid}.wav").exists()) if (OUT / "r5").exists() else []
+    items = [("unprocessed mic 0", d / "mix.wav"), ("enrolment (same talker, other sentence)", d / "enrol.wav")] + [(m, OUT / "r5" / m / f"{mid}.wav") for m in meths if m != "noisy"]
+    tab = None
+    ws = sorted((RES / "r5").glob("wer_r5*.csv"))
+    if ws:
+        ww = pd.concat([pd.read_csv(p) for p in ws], ignore_index=True).drop_duplicates(["method", "id"]); tab = ww[ww.id == mid][["method", "wer", "word_correct", "hyp"]].round(3)
+    ups = [gr.update(value=str(p), label=n, visible=True) for n, p in items][:16]
+    ups += [gr.update(visible=False)] * (16 - len(ups))
+    return [tab] + ups
+
+
+def plot_pair(x, y, title):
+    fig, ax = plt.subplots(2, 2, figsize=(10, 4.2))
+    for col, (sig, name) in enumerate([(x, "input"), (y, title)]):
+        t = np.arange(len(sig)) / FS
+        ax[0, col].plot(t, sig, lw=.4); ax[0, col].set_title(name, fontsize=9); ax[0, col].set_ylim(-1, 1)
+        ax[1, col].specgram(sig + 1e-9, NFFT=512, Fs=FS, noverlap=384, cmap="magma", vmin=-120)
+        ax[1, col].set_ylabel("Hz", fontsize=8)
+    fig.tight_layout()
+    return fig
+
+
+def process(audio_path, methods, enrol_path, ref_path):
+    if not audio_path:
+        raise gr.Error("Upload a recording first.")
+    x = load(audio_path)
+    if np.max(np.abs(x)) > 0:
+        x = 0.9 * x / np.max(np.abs(x))
+    enrol = load(enrol_path) if enrol_path else None
+    ref = load(ref_path) if ref_path else None
+    rows, outs, figs = [], [], []
+    tmp = Path(tempfile.mkdtemp())
+    for name in methods:
+        if "enrolment" in name and enrol is None:
+            rows.append(dict(method=name, status="skipped: needs an enrolment clip of the target talker")); continue
+        t0 = time.perf_counter()
+        try:
+            y = METHODS[name](x, enrol=enrol, info={})
+        except Exception as e:
+            rows.append(dict(method=name, status=f"failed: {e!r}")); continue
+        dt = time.perf_counter() - t0
+        y = np.nan_to_num(y)[: len(x)]
+        p = tmp / (name.split(" (")[0].replace(" ", "_").replace(":", "").replace(",", "") + ".wav")
+        save(p, y)
+        r = dict(method=name, status="ok", seconds=round(dt, 2), rtf=round(dt / (len(x) / FS), 3))
+        if ref is not None:
+            n = min(len(ref), len(y))
+            m = all_metrics(ref[:n], y[:n], x[:n])
+            r.update({k: round(v, 3) for k, v in m.items()})
+        rows.append(r); outs.append(str(p)); figs.append(plot_pair(x, y, name))
+    if ref is not None:
+        n = min(len(ref), len(x))
+        m = all_metrics(ref[:n], x[:n], x[:n]); rows.insert(0, dict(method="(unprocessed input)", status="ok", **{k: round(v, 3) for k, v in m.items()}))
+    df = pd.DataFrame(rows)
+    audio_updates = [gr.update(value=outs[i] if i < len(outs) else None, label=methods[i] if i < len(outs) else "", visible=i < len(outs)) for i in range(len(METHODS))]
+    plot_updates = [gr.update(value=figs[i] if i < len(figs) else None, visible=i < len(figs)) for i in range(len(METHODS))]
+    return [df, outs] + audio_updates + plot_updates
+
+
+def example_ids():
+    mp = MIX / TAG / "meta.json"
+    return [m["id"] for m in json.load(open(mp))] if mp.exists() else []
+
+
+def example_view(mid):
+    d = MIX / TAG / mid
+    methods = sorted(p.name for p in (OUT / TAG).iterdir() if (p / f"{mid}.wav").exists()) if (OUT / TAG).exists() else []
+    items = [("mixture", d / "mix.wav"), ("clean reference", d / "ref.wav")] + [(m, OUT / TAG / m / f"{mid}.wav") for m in methods]
+    met = RES / TAG / "metrics.csv"
+    tab = None
+    if met.exists():
+        df = pd.read_csv(met); tab = df[df.id == mid][["method", "si_sdr", "si_sdri", "stoi", "estoi", "pesq"]].round(3)
+        w = RES / TAG / "wer.csv"
+        if w.exists():
+            ww = pd.read_csv(w); tab = tab.merge(ww[ww.id == mid][["method", "wer", "hyp"]], on="method", how="left")
+    ups = [gr.update(value=str(p), label=n, visible=True) for n, p in items][:20]
+    ups += [gr.update(visible=False)] * (20 - len(ups))
+    return [tab] + ups
+
+
+def results_md():
+    p = RES / TAG / "summary.md"
+    return p.read_text() if p.exists() else "Run the benchmark first (scripts/run_round1.sh, then python -m selab.analyze)."
+
+
+def figs():
+    return [str(p) for p in sorted((RES / TAG / "figs").glob("*.png"))] if (RES / TAG / "figs").exists() else []
+
+
+with gr.Blocks(title="Speech Enhancement Benchmark Lab") as demo:
+    gr.Markdown("# Speech Enhancement Benchmark Lab\nSignal processing of *recorded* audio only — this does not "
+                "reduce sound physically reaching a listener's ears. Objective metrics need a clean reference; "
+                "without one you get runtime only, so listen.")
+    with gr.Tab("Process"):
+        with gr.Row():
+            inp = gr.Audio(type="filepath", label="Noisy recording")
+            enr = gr.Audio(type="filepath", label="Enrolment clip of target talker (optional, for TSE)")
+            ref = gr.Audio(type="filepath", label="Clean reference (optional, enables metrics)")
+        sel = gr.CheckboxGroup(list(METHODS), value=["Wiener, decision-directed", "Demucs DNS64 (causal)"], label="Methods")
+        go = gr.Button("Process", variant="primary")
+        table = gr.Dataframe(label="Metrics / runtime")
+        files = gr.File(label="Export processed recordings", file_count="multiple")
+        auds, plots = [], []
+        for i in range(len(METHODS)):
+            auds.append(gr.Audio(visible=False, interactive=False))
+            plots.append(gr.Plot(visible=False))
+        go.click(process, [inp, sel, enr, ref], [table, files] + auds + plots)
+    with gr.Tab("Benchmark examples"):
+        ids = example_ids()
+        dd = gr.Dropdown(ids, value=ids[0] if ids else None, label="Benchmark mixture (condition_snr_index)")
+        etab = gr.Dataframe(label="Measured metrics for this mixture (WER from Whisper base.en)")
+        eauds = [gr.Audio(visible=False, interactive=False) for _ in range(20)]
+        dd.change(example_view, dd, [etab] + eauds)
+        demo.load(example_view, dd, [etab] + eauds)
+    with gr.Tab("Results"):
+        gr.Markdown(results_md())
+        gr.Gallery(figs(), columns=2, height="auto")
+    with gr.Tab("Multichannel (round 5)"):
+        gr.Markdown("Upload a **multichannel** wav. Direction is **estimated** (SRP-PHAT): the online MVDR follows a causal "
+                    "tracker, so it can steer to whoever dominates. Channel order must match the geometry.")
+        with gr.Row():
+            mc_in = gr.File(label="Multichannel wav", file_types=[".wav", ".flac"], type="filepath")
+            mc_en = gr.Audio(type="filepath", label="Enrolment clip (optional, for TSE)")
+        mc_geom = gr.Dropdown(list(GEOMS), value=list(GEOMS)[0], label="Array geometry")
+        mc_xy = gr.Textbox(label="...or custom mic x,y in metres as JSON, e.g. [[0,0],[0.04,0]] (overrides the dropdown)")
+        mc_sel = gr.CheckboxGroup(MC_METHODS, value=MC_METHODS[:2], label="Methods")
+        mc_go = gr.Button("Process", variant="primary")
+        mc_tab = gr.Dataframe(label="Runtime / estimated DOA"); mc_plot = gr.Plot(); mc_files = gr.File(file_count="multiple", label="Export")
+        mc_auds = [gr.Audio(visible=False, interactive=False) for _ in range(len(MC_METHODS) + 1)]
+        mc_go.click(process_mc, [mc_in, mc_geom, mc_xy, mc_sel, mc_en], [mc_tab, mc_plot, mc_files] + mc_auds)
+    with gr.Tab("Real recordings (round 5)"):
+        rids = r5_ids()
+        rdd = gr.Dropdown(rids, value=rids[0] if rids else None, label="LibriCSS item (condition_session_utterance)")
+        rtab = gr.Dataframe(label="Whisper WER / word-correct for this item")
+        rauds = [gr.Audio(visible=False, interactive=False) for _ in range(16)]
+        rdd.change(r5_view, rdd, [rtab] + rauds)
+        p5 = RES / "r5" / "summary_r5.md"
+        gr.Markdown(p5.read_text() if p5.exists() else "Run scripts/run_round5.sh first.")
+    with gr.Tab("Real-time demo (Conversation Bubble)"):
+        gr.Markdown("Voice-boost listening demo: causal 2 ms block streaming engine (selab/rtdemo). Instant mode "
+                    "switching needs WebAudio, so the player is a small page served by this same server at "
+                    "**/rtdemo/** (embedded below; open it in its own tab if the frame is too small). EasyCom scenes "
+                    "are INTERNAL ONLY (CC BY-NC research licence). See results/rtdemo/README_DEMO.md.")
+        gr.HTML('<iframe src="/rtdemo/" style="width:100%;height:1250px;border:0"></iframe>'
+                '<p><a href="/rtdemo/" target="_blank">Open the listening page in a new tab</a></p>')
+
+if __name__ == "__main__":
+    # Local only (no share link). The real-time demo page (/rtdemo/) is mounted on the same FastAPI app.
+    host = os.environ.get("LAB_HOST", "0.0.0.0")
+    try:
+        import uvicorn
+        from fastapi import FastAPI
+        from selab.rtdemo.server import add_routes
+        app = add_routes(FastAPI())
+        app = gr.mount_gradio_app(app, demo, path="/")
+        uvicorn.run(app, host=host, port=7860, log_level="warning")
+    except ImportError:
+        demo.launch(server_name=host, server_port=7860)

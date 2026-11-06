@@ -1,0 +1,29 @@
+{
+ "id": "S4_01-00-293_P4_57600",
+ "split": "val",
+ "session": 4,
+ "seg": "01-00-293",
+ "seg_start_s": 60.293,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "Nice! Taking care of those kids.",
+ "start_s": 57.6,
+ "end_s": 59.15,
+ "dur": 1.55,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 56800,
+ "overlap": true,
+ "ovl_frac": 0.323,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.1414861690136604,
+ "align_how": "minute_line",
+ "az_ref_mean": 30.36,
+ "el_ref_mean": 2.63,
+ "az_ref_range": 5.46,
+ "doa_valid_frac": 1.0
+}

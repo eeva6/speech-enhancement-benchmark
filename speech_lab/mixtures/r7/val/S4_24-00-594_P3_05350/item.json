@@ -1,0 +1,29 @@
+{
+ "id": "S4_24-00-594_P3_05350",
+ "split": "val",
+ "session": 4,
+ "seg": "24-00-594",
+ "seg_start_s": 1440.594,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Is it attached to the ceiling?",
+ "start_s": 5.35,
+ "end_s": 6.7,
+ "dur": 1.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 53600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.19293614604976028,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 3.65,
+ "el_ref_mean": -37.67,
+ "az_ref_range": 10.72,
+ "doa_valid_frac": 1.0
+}

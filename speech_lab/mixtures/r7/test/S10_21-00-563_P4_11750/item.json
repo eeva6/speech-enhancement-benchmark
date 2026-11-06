@@ -1,0 +1,29 @@
+{
+ "id": "S10_21-00-563_P4_11750",
+ "split": "test",
+ "session": 10,
+ "seg": "21-00-563",
+ "seg_start_s": 1260.563,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "[L] [U]",
+ "start_s": 11.75,
+ "end_s": 14.85,
+ "dur": 3.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 81600,
+ "overlap": true,
+ "ovl_frac": 0.242,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0540456658200128,
+ "align_how": "session_slope",
+ "az_ref_mean": -48.94,
+ "el_ref_mean": -3.32,
+ "az_ref_range": 104.25,
+ "doa_valid_frac": 1.0
+}

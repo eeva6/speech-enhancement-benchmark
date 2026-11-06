@@ -1,0 +1,17 @@
+{
+ "method": "demucs_dns64",
+ "tag": "r1",
+ "n": 192,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 2.246205674000066,
+ "mean_proc_s": 2.2623552330261805,
+ "rtf": 0.39084095325391927,
+ "peak_rss_mb": 931.01953125,
+ "rss_before_mb": 248.453125,
+ "n_params": 33533569,
+ "noise_psd": "ms",
+ "infos": {},
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

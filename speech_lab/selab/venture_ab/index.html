@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<title>Conversation Bubble: real 7-mic before/after</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;background:#f5f5f2;color:#1d1d1f}
+ header{padding:16px 22px;background:#1d2b36;color:#fff}
+ header h1{font-size:19px;margin:0}
+ header p{margin:6px 0 0;font-size:13px;opacity:.88;max-width:1100px}
+ main{display:grid;grid-template-columns:300px 1fr;gap:16px;padding:16px 22px}
+ .card{background:#fff;border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.08);margin-bottom:14px}
+ h2{font-size:15px;margin:0 0 8px} h3{font-size:13px;margin:10px 0 4px}
+ button{font:inherit;padding:7px 12px;border-radius:7px;border:1px solid #c9c9c9;background:#fff;cursor:pointer}
+ button.on{background:#1d6fd6;color:#fff;border-color:#1d6fd6}
+ #ab{font-size:18px;padding:12px 22px;min-width:260px}
+ #ab.isB{background:#16642b;color:#fff;border-color:#16642b}
+ #ab.isA{background:#444;color:#fff;border-color:#444}
+ .clip{display:block;width:100%;text-align:left;margin:3px 0;font-size:13px}
+ .clip small{color:#666}
+ .clip.on small{color:#e6eefc}
+ .modes button{display:block;width:100%;text-align:left;margin:4px 0;font-size:13px}
+ .tag{display:inline-block;font-size:10.5px;font-weight:700;padding:1px 6px;border-radius:8px;margin-left:5px}
+ .tA{background:#d8e8fb;color:#123f7a}.tB{background:#e3f4e6;color:#16642b}.tC{background:#fbe7d3;color:#8a4a10}.tO{background:#fde2e1;color:#9b1c1c}.tR{background:#eee;color:#444}
+ .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:6px 0}
+ .muted{color:#666;font-size:12.5px}
+ table{border-collapse:collapse;font-size:12.5px;width:100%} td,th{border-bottom:1px solid #eee;padding:4px 5px;text-align:right} th:first-child,td:first-child{text-align:left}
+ th{background:#fafafa;font-weight:600}
+ .pos{color:#16642b;font-weight:600}.neg{color:#9b1c1c}
+ .warn{background:#fff4e5;border-left:4px solid #e08a00;padding:8px 10px;font-size:12.5px;margin:8px 0}
+ .no{background:#fde2e1;border-left:4px solid #9b1c1c;padding:8px 10px;font-size:12.5px;margin:8px 0}
+ #seek{width:100%} kbd{background:#eee;border-radius:4px;padding:0 4px;font-size:12px}
+ .cap{font-size:14px;line-height:1.45}
+ .tx{font-family:Georgia,serif;font-size:13px;color:#333;background:#fafaf7;padding:6px 8px;border-radius:6px}
+</style></head>
+<body>
+<header><h1>Conversation Bubble: before/after on real 7-mic recordings</h1>
+<p>Real recordings of LibriSpeech talkers replayed over loudspeakers in a real meeting room (LibriCSS), captured by a 7-mic table array (8.5 cm across).
+Every number on this page was measured on these clips. Clips were picked by a fixed random rule from held-out sessions, not hand-picked (one extra clip is labelled BEST CASE).
+This is captured audio, not what reaches anyone's ear.</p></header>
+<main>
+<section>
+ <div class="card"><h2>Clips</h2><div id="clips"></div></div>
+ <div class="card"><h2>What is and is not claimed</h2>
+  <div class="muted">
+  <p><span class="tag tA">A</span> <b>Captured-audio improvement</b>: what the mic array plus processing does to the recorded signal. Measured.</p>
+  <p><span class="tag tB">B</span> <b>Target vs competing talker(s)</b>: change in the target-to-other-talker ratio, measured separately from noise.</p>
+  <p><span class="tag tC">C</span> <b>ANC at the ear</b>: SIMULATED only (lab simulation curves, not a device or head).</p>
+  <p><span class="tag tO">D</span> <b>Open-room reduction: NOT claimed.</b> Nothing here makes the room quieter for anyone. Processing changes only the signal the wearer would be fed.</p>
+  <p><b>ORACLE</b> modes use information only the lab has (true talker direction or true signals). They are upper bounds, not products.</p>
+  </div></div>
+</section>
+<section>
+ <div class="card">
+  <div class="row"><b id="ctitle"></b></div>
+  <div class="cap" id="caption"></div>
+  <h3>What the target says</h3><div class="tx" id="text"></div>
+  <div class="row" style="margin-top:12px">
+   <button id="play" disabled>Play</button>
+   <button id="ab" class="isA" disabled>Now: A (before)</button>
+   <span class="muted">press <kbd>space</kbd> to switch A/B instantly while playing</span>
+  </div>
+  <input type="range" id="seek" min="0" max="1000" value="0">
+  <div class="row"><span id="time" class="muted">0.0 / 0.0 s</span> <label class="muted"><input type="checkbox" id="loop" checked> loop</label>
+   <label class="muted">Volume <input type="range" id="vol" min="0" max="100" value="70"></label>
+   <span class="muted">All tracks are level-matched (same gated loudness), so louder never wins by itself. The SIMULATED ANC track keeps its level drop.</span><span id="status" class="muted"></span></div>
+  <h3>A = Unprocessed centre mic. Choose B:</h3>
+  <div class="modes" id="modes"></div>
+  <div id="modedesc" class="muted"></div>
+ </div>
+ <div class="card"><h2>Measured on this clip <span class="muted">(Δ = mode minus unprocessed)</span></h2>
+  <table id="mt"></table>
+  <div class="muted" id="mnote"></div>
+ </div>
+ <div class="card"><h2>Across the clip set</h2>
+  <div id="sum"></div>
+ </div>
+ <div class="card"><div class="muted" id="attr"></div></div>
+</section>
+</main>
+<script>
+let D=null, ctx=null, bufs={}, srcs=[], gains={}, master=null, playing=false, t0=0, off=0, dur=0, cur=null, modeB=null, isB=false, raf=null;
+const $=id=>document.getElementById(id);
+const fmt=(v,k=1,sgn=true)=>v===null||v===undefined||Number.isNaN(v)?'n/a':((sgn&&v>0?'+':'')+v.toFixed(k));
+const cls=v=>v===null||v===undefined?'':(v>0?'pos':(v<0?'neg':''));
+function tagFor(m){return m.cat==='A'?'<span class="tag tA">A</span>':m.cat==='C'?'<span class="tag tC">C SIMULATED</span>':m.cat==='ref'?'<span class="tag tR">reference</span>':'';}
+async function init(){
+ D=await (await fetch('metrics.json')).json();
+ $('attr').textContent=D.attribution;
+ const cl=$('clips');
+ D.clips.forEach((c,i)=>{const b=document.createElement('button');b.className='clip';b.id='clip'+i;
+  b.innerHTML=`<b>${c.n}. ${c.kind==='group'?'Group: ':''}${c.cond} s${c.session}</b> ${c.best_case?'<span class="tag tO">BEST CASE</span>':''}<br><small>${c.dur} s · ${c.kind==='group'?'target = talkers in one sector ('+c.group_size+' seats)':'target = 1 talker'}</small>`;
+  b.onclick=()=>loadClip(i);cl.appendChild(b);});
+ renderSummary();
+ loadClip(0);
+}
+function minfo(id){return D.modes.find(m=>m.id===id)}
+async function loadClip(i){
+ stop(); off=0; cur=D.clips[i];
+ document.querySelectorAll('.clip').forEach((b,j)=>b.classList.toggle('on',j===i));
+ $('ctitle').innerHTML=`Clip ${cur.n}: ${cur.kind==='group'?'GROUP (sector) clip, ':''}${cur.cond}, session ${cur.session}, ${cur.dur} s ${cur.best_case?'<span class="tag tO">BEST CASE (post-hoc, not representative)</span>':''}`;
+ $('caption').textContent=cur.caption; $('text').textContent=cur.text.toLowerCase();
+ const md=$('modes'); md.innerHTML='';
+ const opts=cur.tracks.filter(t=>t!=='raw');
+ modeB = opts.includes(cur.default_b)?cur.default_b:opts[0];
+ opts.forEach(t=>{const m=minfo(t);const b=document.createElement('button');b.id='m_'+t;b.innerHTML=m.label+tagFor(m);b.onclick=()=>{modeB=t;markModes();if(isB)applyGains();};md.appendChild(b);});
+ markModes(); renderTable();
+ $('play').disabled=true; $('ab').disabled=true; $('status').textContent=' loading…';
+ if(!ctx){ctx=new (window.AudioContext||window.webkitAudioContext)();master=ctx.createGain();master.gain.value=0.7;
+  const comp=ctx.createDynamicsCompressor();comp.threshold.value=-6;comp.ratio.value=20;master.connect(comp);comp.connect(ctx.destination);}
+ bufs={};
+ await Promise.all(cur.tracks.map(async t=>{const ab=await (await fetch(cur.files[t])).arrayBuffer();bufs[t]=await ctx.decodeAudioData(ab);}));
+ dur=bufs['raw'].duration; $('play').disabled=false; $('ab').disabled=false; $('status').textContent=''; updTime();
+ window.__ready=true;
+}
+function markModes(){document.querySelectorAll('.modes button').forEach(b=>b.classList.toggle('on',b.id==='m_'+modeB));
+ const m=minfo(modeB); $('modedesc').textContent=m?m.desc:''; $('ab').textContent=isB?('Now: B ('+m.short+')'):'Now: A (before)';}
+function applyGains(){const now=ctx.currentTime;for(const t in gains){const v=(isB? t===modeB : t==='raw')?1:0;gains[t].gain.cancelScheduledValues(now);gains[t].gain.setTargetAtTime(v,now,0.008);}
+ $('ab').className=isB?'isB':'isA'; markModes();}
+function start(){
+ if(ctx.state==='suspended')ctx.resume();
+ srcs=[];gains={};
+ for(const t of cur.tracks){const s=ctx.createBufferSource();s.buffer=bufs[t];s.loop=$('loop').checked;const g=ctx.createGain();g.gain.value=(isB? t===modeB : t==='raw')?1:0;s.connect(g);g.connect(master);srcs.push(s);gains[t]=g;}
+ const when=ctx.currentTime+0.05; srcs.forEach(s=>s.start(when,off%dur)); t0=when-off; playing=true; $('play').textContent='Pause';
+ srcs[0].onended=()=>{if(playing&&!$('loop').checked){stop();off=0;updTime();}};
+ tick();
+}
+function stop(){if(playing){off=(ctx.currentTime-t0)%dur;srcs.forEach(s=>{try{s.stop()}catch(e){}});}playing=false;$('play').textContent='Play';cancelAnimationFrame(raf);}
+function tick(){updTime();raf=requestAnimationFrame(tick);}
+function updTime(){const t=playing?((ctx.currentTime-t0)%dur):off;$('time').textContent=`${Math.max(0,t).toFixed(1)} / ${dur.toFixed(1)} s`;$('seek').value=dur?Math.round(1000*Math.max(0,t)/dur):0;}
+$('play').onclick=()=>playing?stop():start();
+$('ab').onclick=()=>{isB=!isB;if(playing)applyGains();else{$('ab').className=isB?'isB':'isA';markModes();}};
+document.addEventListener('keydown',e=>{if(e.code==='Space'&&!$('ab').disabled){e.preventDefault();$('ab').click();}});
+$('seek').oninput=e=>{const was=playing;stop();off=dur*e.target.value/1000;if(was)start();else updTime();};
+$('vol').oninput=e=>{if(master)master.gain.value=e.target.value/100;};
+function renderTable(){
+ const M=cur.metrics, rows=cur.tracks.filter(t=>t!=='target_ref');
+ const bl=cur.kind==='group'?'Δ target-group vs other talkers (dB) [B]':'Δ target vs competing talker (dB) [B]';
+ let h=`<tr><th>Mode</th><th>Δ SNR (dB) [A]</th><th>${bl}</th><th>Δ vs room noise (dB)</th><th>Δ SI-SDR (dB)</th><th>Δ STOI</th><th>Δ ESTOI</th><th>Whisper words right</th></tr>`;
+ for(const t of rows){const m=M[t]||{},mi=minfo(t);
+  const wc=m.word_correct===null||m.word_correct===undefined?'n/a':Math.round(100*m.word_correct)+'%';
+  if(t==='raw'){h+=`<tr><td>${mi.label}</td><td>${fmt(m.snr,1,false)} abs</td><td>${fmt(m.sir_ov,1,false)} abs</td><td>${fmt(m.snr_noise,1,false)} abs</td><td>${fmt(m.si_sdr,1,false)} abs</td><td>${fmt(m.stoi,2,false)} abs</td><td>${fmt(m.estoi,2,false)} abs</td><td>${wc}</td></tr>`;continue;}
+  h+=`<tr><td>${mi.label}${tagFor(mi)}</td><td class="${cls(m.d_snr)}">${fmt(m.d_snr)}</td><td class="${cls(m.d_sir_ov)}">${fmt(m.d_sir_ov)}</td><td class="${cls(m.d_snr_noise)}">${fmt(m.d_snr_noise)}</td><td class="${cls(m.d_si_sdr)}">${fmt(m.d_si_sdr)}</td><td class="${cls(m.d_stoi)}">${fmt(m.d_stoi,3)}</td><td class="${cls(m.d_estoi)}">${fmt(m.d_estoi,3)}</td><td>${wc} <span class="${cls(m.d_word_correct)}">(${fmt(m.d_word_correct===undefined?null:100*m.d_word_correct,0)})</span></td></tr>`;}
+ const tr=M['target_ref']; if(tr&&tr.word_correct!==undefined&&tr.word_correct!==null)h+=`<tr><td>${minfo('target_ref').label}</td><td colspan=6 class="muted">scoring reference</td><td>${Math.round(100*tr.word_correct)}%</td></tr>`;
+ $('mt').innerHTML=h;
+ $('mnote').innerHTML=`SNR = target vs everything else; B = target vs the other talker(s) only, over the ${fmt(M.raw.ov_s,1,false)} s where both speak; "room noise" = the residual after removing all loudspeakers (real room noise plus system-ID model error). Each component was passed through the same filter (exact, the filters are linear). SI-SDR/STOI use the estimated target image at the centre mic. Whisper base.en after normalising to −26 dBFS. SIMULATED ANC: SNR numbers come from simulated curves; reference metrics n/a.`;
+}
+function renderSummary(){
+ let h='';
+ for(const [k,lab] of [['selected12','Single-target clips (pre-registered random 12)'],['groups','Group (sector) clips']]){
+  const S=D.summary[k]; if(!S)continue;
+  h+=`<h3>${lab}</h3><table><tr><th>Mode</th><th>n</th><th>Δ SNR median [range]</th><th>Δ B ratio median [range]</th><th>Δ STOI median</th><th>Δ words right, mean [95% CI]</th></tr>`;
+  for(const t of Object.keys(S)){const s=S[t];if(!s||typeof s!=='object'||t==='raw'||!s.d_snr)continue;const mi=minfo(t);if(!mi)continue;
+   const r=x=>x?`${fmt(x.median)} [${fmt(x.min)}, ${fmt(x.max)}]`:'n/a';
+   const w=s.d_word_correct?`${fmt(100*s.d_word_correct.mean,0)} pts [${fmt(100*s.d_word_correct.ci95[0],0)}, ${fmt(100*s.d_word_correct.ci95[1],0)}]`:'n/a';
+   h+=`<tr><td>${mi.label}${tagFor(mi)}</td><td>${s.n}</td><td>${r(s.d_snr)}</td><td>${r(s.d_sir_ov)}</td><td>${s.d_stoi?fmt(s.d_stoi.median,3):'n/a'}</td><td>${w}</td></tr>`;}
+  h+='</table>';}
+ h+=`<div class="muted">CIs: cluster bootstrap over recordings (wide: few recordings). Medians and ranges are over clips.</div>`;
+ $('sum').innerHTML=h;
+}
+init().catch(e=>{$('status').textContent=' failed to load: '+e;console.error(e);});
+</script>
+</body></html>

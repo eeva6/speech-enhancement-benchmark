@@ -1,0 +1,29 @@
+{
+ "id": "S4_28-00-637_P4_08500",
+ "split": "val",
+ "session": 4,
+ "seg": "28-00-637",
+ "seg_start_s": 1680.637,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Play The Unforgiven by Metallica.",
+ "start_s": 8.5,
+ "end_s": 11.25,
+ "dur": 2.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 76000,
+ "overlap": true,
+ "ovl_frac": 0.036,
+ "t_since_turn_onset": 3.55,
+ "align_res_absmed_ms": 0.007224587534437887,
+ "align_how": "minute_line",
+ "az_ref_mean": -4.27,
+ "el_ref_mean": 2.29,
+ "az_ref_range": 1.17,
+ "doa_valid_frac": 1.0
+}

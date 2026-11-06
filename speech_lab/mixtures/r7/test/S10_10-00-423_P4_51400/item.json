@@ -1,0 +1,29 @@
+{
+ "id": "S10_10-00-423_P4_51400",
+ "split": "test",
+ "session": 10,
+ "seg": "10-00-423",
+ "seg_start_s": 600.423,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So, but you know that one of them is lying and one of them is true and there's only two possibilities, right?",
+ "start_s": 51.4,
+ "end_s": 56.8,
+ "dur": 5.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 118400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03380286034371238,
+ "align_how": "minute_line",
+ "az_ref_mean": 19.71,
+ "el_ref_mean": 1.26,
+ "az_ref_range": 7.99,
+ "doa_valid_frac": 1.0
+}

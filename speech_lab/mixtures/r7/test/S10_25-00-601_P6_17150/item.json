@@ -1,0 +1,29 @@
+{
+ "id": "S10_25-00-601_P6_17150",
+ "split": "test",
+ "session": 10,
+ "seg": "25-00-601",
+ "seg_start_s": 1500.601,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Yeah, possibly. Okay.",
+ "start_s": 17.15,
+ "end_s": 18.55,
+ "dur": 1.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 54400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 1.8829720793291926,
+ "align_how": "no_fit_session_offset",
+ "az_ref_mean": -1.18,
+ "el_ref_mean": 2.7,
+ "az_ref_range": 3.21,
+ "doa_valid_frac": 1.0
+}

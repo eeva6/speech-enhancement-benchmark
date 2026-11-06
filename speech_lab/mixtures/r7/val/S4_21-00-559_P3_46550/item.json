@@ -1,0 +1,29 @@
+{
+ "id": "S4_21-00-559_P3_46550",
+ "split": "val",
+ "session": 4,
+ "seg": "21-00-559",
+ "seg_start_s": 1260.559,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "It's transparent.",
+ "start_s": 46.55,
+ "end_s": 47.95,
+ "dur": 1.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 54400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 1.35,
+ "align_res_absmed_ms": 0.03605852180044167,
+ "align_how": "session_slope",
+ "az_ref_mean": -6.42,
+ "el_ref_mean": -2.78,
+ "az_ref_range": 40.34,
+ "doa_valid_frac": 1.0
+}

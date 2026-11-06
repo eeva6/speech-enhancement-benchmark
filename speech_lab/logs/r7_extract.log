@@ -1,0 +1,49 @@
+02:05:57 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.001
+02:06:15 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.002
+02:06:32 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.003
+02:06:44 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.004
+02:06:53 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.005
+02:07:42 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.006
+02:07:45 extracted 20 skipped 0 Main/Close_Microphone_Audio/Session_10/04-00-350_Participant_ID_4.wav 108s
+02:07:47 extracted 40 skipped 0 Main/Close_Microphone_Audio/Session_10/19-00-538_Participant_ID_4.wav 110s
+02:07:49 extracted 60 skipped 0 Main/Close_Microphone_Audio/Session_10/29-00-656_Participant_ID_4.wav 111s
+02:07:50 extracted 80 skipped 0 Main/Close_Microphone_Audio/Session_11/07-00-415_Participant_ID_3.wav 113s
+02:07:52 extracted 100 skipped 0 Main/Close_Microphone_Audio/Session_11/20-00-568_Participant_ID_7.wav 114s
+02:07:53 extracted 120 skipped 0 Main/Close_Microphone_Audio/Session_11/27-00-667_Participant_ID_5.wav 116s
+02:07:55 extracted 140 skipped 0 Main/Close_Microphone_Audio/Session_12/04-00-332_Participant_ID_6.wav 117s
+02:07:56 extracted 160 skipped 0 Main/Close_Microphone_Audio/Session_12/14-00-450_Participant_ID_6.wav 119s
+02:07:58 extracted 180 skipped 0 Main/Close_Microphone_Audio/Session_12/24-00-587_Participant_ID_6.wav 120s
+02:08:40 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.007
+02:08:49 extracted 200 skipped 0 Main/Close_Microphone_Audio/Session_4/02-00-322_Participant_ID_4.wav 172s
+02:08:51 extracted 220 skipped 0 Main/Close_Microphone_Audio/Session_4/07-00-382_Participant_ID_4.wav 173s
+02:08:52 extracted 240 skipped 0 Main/Close_Microphone_Audio/Session_4/15-00-480_Participant_ID_4.wav 175s
+02:08:54 extracted 260 skipped 0 Main/Close_Microphone_Audio/Session_4/20-00-540_Participant_ID_4.wav 177s
+02:08:55 extracted 280 skipped 0 Main/Close_Microphone_Audio/Session_4/25-00-599_Participant_ID_4.wav 178s
+02:08:57 extracted 300 skipped 0 Main/Close_Microphone_Audio/Session_4/30-00-679_Participant_ID_4.wav 180s
+02:09:39 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.008
+02:10:37 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.009
+02:10:41 extracted 320 skipped 0 Main/Glasses_Microphone_Array_Audio/Session_10/19-00-538.wav 284s
+02:10:50 extracted 340 skipped 0 Main/Glasses_Microphone_Array_Audio/Session_11/10-00-445.wav 293s
+02:11:38 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.010
+02:11:41 extracted 360 skipped 0 Main/Glasses_Microphone_Array_Audio/Session_12/06-00-365.wav 343s
+02:11:51 extracted 380 skipped 0 Main/Glasses_Microphone_Array_Audio/Session_12/26-00-604.wav 354s
+02:12:39 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.011
+02:13:35 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.012
+02:13:48 extracted 400 skipped 0 Main/Glasses_Microphone_Array_Audio/Session_4/19-00-532.wav 471s
+02:14:34 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.013
+02:15:31 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.014
+02:16:28 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.015
+02:17:28 reading /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/data/easycom/parts/EasyComDataset.tar.gz.016
+02:17:31 extracted 420 skipped 0 Main/Speech_Transcriptions/Session_10/08-00-390.json 693s
+02:17:31 extracted 440 skipped 0 Main/Speech_Transcriptions/Session_11/04-00-368.json 693s
+02:17:31 extracted 460 skipped 0 Main/Speech_Transcriptions/Session_12/00-00-000.json 694s
+02:17:31 extracted 480 skipped 0 Main/Speech_Transcriptions/Session_12/20-00-535.json 694s
+02:17:31 extracted 500 skipped 0 Main/Speech_Transcriptions/Session_4/10-00-415.json 694s
+02:17:32 extracted 520 skipped 0 Main/Tracked_Poses/Session_10/01-00-304.json 694s
+02:17:32 extracted 540 skipped 0 Main/Tracked_Poses/Session_10/27-00-646.json 695s
+02:17:32 extracted 560 skipped 0 Main/Tracked_Poses/Session_11/25-00-631.json 695s
+02:17:32 extracted 580 skipped 0 Main/Tracked_Poses/Session_12/14-00-450.json 695s
+02:17:33 extracted 600 skipped 0 Main/Tracked_Poses/Session_4/04-00-349.json 696s
+02:17:33 extracted 620 skipped 0 Main/Tracked_Poses/Session_4/27-00-632.json 696s
+past wanted folders at Main/Video_Compressed part 16
+DONE 624 0

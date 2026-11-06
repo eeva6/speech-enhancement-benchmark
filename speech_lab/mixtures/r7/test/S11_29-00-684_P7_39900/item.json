@@ -1,0 +1,29 @@
+{
+ "id": "S11_29-00-684_P7_39900",
+ "split": "test",
+ "session": 11,
+ "seg": "29-00-684",
+ "seg_start_s": 1740.684,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "How m- how much time do I have left on my timer before midnight?",
+ "start_s": 39.9,
+ "end_s": 43.4,
+ "dur": 3.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 88000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.009481264896749053,
+ "align_how": "minute_line",
+ "az_ref_mean": -15.65,
+ "el_ref_mean": -0.8,
+ "az_ref_range": 1.52,
+ "doa_valid_frac": 1.0
+}

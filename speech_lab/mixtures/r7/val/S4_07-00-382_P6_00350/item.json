@@ -1,0 +1,29 @@
+{
+ "id": "S4_07-00-382_P6_00350",
+ "split": "val",
+ "session": 4,
+ "seg": "07-00-382",
+ "seg_start_s": 420.382,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Alright. Puzzle number one. There are three switches downstairs. Each corresponds to one of the three light bulbs in the attic. You can turn the switches on and off and leave them in any position. How would you identify which coores- which switch corresponds to which light bulb if you are allowed one trip upstairs?",
+ "start_s": 0.35,
+ "end_s": 23.5,
+ "dur": 23.15,
+ "ctx_s": 0.35,
+ "utt_offset_samples": 5600,
+ "n_samples": 376000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.23359923216048628,
+ "align_how": "minute_line",
+ "az_ref_mean": -0.6,
+ "el_ref_mean": 9.78,
+ "az_ref_range": 9.59,
+ "doa_valid_frac": 1.0
+}

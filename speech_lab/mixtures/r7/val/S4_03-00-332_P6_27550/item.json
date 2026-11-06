@@ -1,0 +1,29 @@
+{
+ "id": "S4_03-00-332_P6_27550",
+ "split": "val",
+ "session": 4,
+ "seg": "03-00-332",
+ "seg_start_s": 180.332,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "But everything sounds, [H] pre- pretty good.",
+ "start_s": 27.55,
+ "end_s": 29.9,
+ "dur": 2.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 69600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.17566066526342183,
+ "align_how": "minute_line",
+ "az_ref_mean": -38.46,
+ "el_ref_mean": 11.83,
+ "az_ref_range": 37.47,
+ "doa_valid_frac": 1.0
+}

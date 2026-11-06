@@ -1,0 +1,29 @@
+{
+ "id": "S4_04-00-349_P7_52850",
+ "split": "val",
+ "session": 4,
+ "seg": "04-00-349",
+ "seg_start_s": 240.349,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "[H] Quick question. Is the mac and cheese vegetarian?",
+ "start_s": 52.85,
+ "end_s": 56.1,
+ "dur": 3.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 84000,
+ "overlap": true,
+ "ovl_frac": 0.154,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0018228689384613972,
+ "align_how": "session_slope",
+ "az_ref_mean": -22.47,
+ "el_ref_mean": 4.71,
+ "az_ref_range": 81.1,
+ "doa_valid_frac": 1.0
+}

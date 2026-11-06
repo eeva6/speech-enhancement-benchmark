@@ -1,0 +1,30 @@
+{
+ "id": "S11_00-00-000_P3_00500",
+ "split": "test",
+ "session": 11,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group",
+  "2"
+ ],
+ "target": "wearer",
+ "text": "It's surprisingly loud. [H] Hi, Sophie. I see you're a truck driver. What brings you here?",
+ "start_s": 0.5,
+ "end_s": 5.55,
+ "dur": 5.05,
+ "ctx_s": 0.5,
+ "utt_offset_samples": 8000,
+ "n_samples": 88800,
+ "overlap": true,
+ "ovl_frac": 0.327,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.015388130123028532,
+ "align_how": "minute_line",
+ "az_ref_mean": 18.52,
+ "el_ref_mean": 2.4,
+ "az_ref_range": 68.62,
+ "doa_valid_frac": 1.0
+}

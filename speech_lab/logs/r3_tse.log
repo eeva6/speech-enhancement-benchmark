@@ -1,0 +1,3 @@
+== r3 tse_convtasnet_ecapa
+{"method": "tse_convtasnet_ecapa", "n": 144, "n_fail": 0, "rtf": 0.9126340315057301, "peak_rss_mb": 1366.46875, "first_call_s": 34.74989841200001}
+== r3 tse_convtasnet_oracle

@@ -1,0 +1,29 @@
+{
+ "id": "S4_09-00-400_P7_16600",
+ "split": "val",
+ "session": 4,
+ "seg": "09-00-400",
+ "seg_start_s": 540.4,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "3"
+ ],
+ "target": "other",
+ "text": "Yeah, they're they- they need to- they need to- [U] yeah.",
+ "start_s": 16.6,
+ "end_s": 20.4,
+ "dur": 3.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 92800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.10677761019906029,
+ "align_how": "minute_line",
+ "az_ref_mean": -32.82,
+ "el_ref_mean": -1.08,
+ "az_ref_range": 55.89,
+ "doa_valid_frac": 0.934
+}

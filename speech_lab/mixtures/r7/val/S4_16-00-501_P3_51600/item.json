@@ -1,0 +1,29 @@
+{
+ "id": "S4_16-00-501_P3_51600",
+ "split": "val",
+ "session": 4,
+ "seg": "16-00-501",
+ "seg_start_s": 960.501,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Right? And then he goes a mile north. He's going back to the North Pole.",
+ "start_s": 51.6,
+ "end_s": 54.45,
+ "dur": 2.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 77600,
+ "overlap": true,
+ "ovl_frac": 0.035,
+ "t_since_turn_onset": 3.35,
+ "align_res_absmed_ms": 0.08185869228327647,
+ "align_how": "minute_line",
+ "az_ref_mean": 46.34,
+ "el_ref_mean": 4.7,
+ "az_ref_range": 24.4,
+ "doa_valid_frac": 1.0
+}

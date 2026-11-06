@@ -1,0 +1,29 @@
+{
+ "id": "S12_07-00-370_P4_23700",
+ "split": "val",
+ "session": 12,
+ "seg": "07-00-370",
+ "seg_start_s": 420.37,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": " No no no! Am I- Wait.",
+ "start_s": 23.7,
+ "end_s": 26.4,
+ "dur": 2.7,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 75200,
+ "overlap": true,
+ "ovl_frac": 0.278,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.22835302661405876,
+ "align_how": "minute_line",
+ "az_ref_mean": -8.35,
+ "el_ref_mean": 23.21,
+ "az_ref_range": 21.88,
+ "doa_valid_frac": 1.0
+}

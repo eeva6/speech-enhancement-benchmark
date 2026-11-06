@@ -1,0 +1,29 @@
+{
+ "id": "S10_09-00-403_P6_32300",
+ "split": "test",
+ "session": 10,
+ "seg": "09-00-403",
+ "seg_start_s": 540.403,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "I mean, you can be.",
+ "start_s": 32.3,
+ "end_s": 33.55,
+ "dur": 1.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 52000,
+ "overlap": true,
+ "ovl_frac": 0.52,
+ "t_since_turn_onset": 6.85,
+ "align_res_absmed_ms": 0.012839156624977477,
+ "align_how": "session_slope",
+ "az_ref_mean": -2.24,
+ "el_ref_mean": 2.25,
+ "az_ref_range": 2.83,
+ "doa_valid_frac": 1.0
+}

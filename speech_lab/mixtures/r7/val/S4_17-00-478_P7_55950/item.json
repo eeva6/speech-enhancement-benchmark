@@ -1,0 +1,29 @@
+{
+ "id": "S4_17-00-478_P7_55950",
+ "split": "val",
+ "session": 4,
+ "seg": "17-00-478",
+ "seg_start_s": 1020.478,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Right. So if you ask them-",
+ "start_s": 55.95,
+ "end_s": 57.8,
+ "dur": 1.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 61600,
+ "overlap": true,
+ "ovl_frac": 0.838,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -54.72,
+ "el_ref_mean": 1.49,
+ "az_ref_range": 5.45,
+ "doa_valid_frac": 1.0
+}

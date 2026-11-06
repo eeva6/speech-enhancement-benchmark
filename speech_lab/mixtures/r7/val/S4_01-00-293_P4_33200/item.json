@@ -1,0 +1,29 @@
+{
+ "id": "S4_01-00-293_P4_33200",
+ "split": "val",
+ "session": 4,
+ "seg": "01-00-293",
+ "seg_start_s": 60.293,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "That's great. Oh. That's a little concerning actually.",
+ "start_s": 33.2,
+ "end_s": 38.1,
+ "dur": 4.9,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 110400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 6.95,
+ "align_res_absmed_ms": 0.1414861690136604,
+ "align_how": "minute_line",
+ "az_ref_mean": -12.91,
+ "el_ref_mean": 8.45,
+ "az_ref_range": 30.17,
+ "doa_valid_frac": 1.0
+}

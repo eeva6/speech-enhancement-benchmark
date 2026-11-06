@@ -1,0 +1,29 @@
+{
+ "id": "S4_29-00-654_P6_45350",
+ "split": "val",
+ "session": 4,
+ "seg": "29-00-654",
+ "seg_start_s": 1740.654,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Nope! Yep.",
+ "start_s": 45.35,
+ "end_s": 46.6,
+ "dur": 1.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 52000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.014265026948123705,
+ "align_how": "minute_line",
+ "az_ref_mean": 13.05,
+ "el_ref_mean": 3.84,
+ "az_ref_range": 2.08,
+ "doa_valid_frac": 1.0
+}

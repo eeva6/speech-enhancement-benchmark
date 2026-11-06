@@ -1,0 +1,29 @@
+{
+ "id": "S4_07-00-382_P6_33300",
+ "split": "val",
+ "session": 4,
+ "seg": "07-00-382",
+ "seg_start_s": 420.382,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "corresponding to three lightbulbs in the attic. You can turn the switches on and off and leave them in any position. How would you identify which switch corresponds to which lightbulb?",
+ "start_s": 33.3,
+ "end_s": 45.0,
+ "dur": 11.7,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 219200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 4.1,
+ "align_res_absmed_ms": 0.23359923216048628,
+ "align_how": "minute_line",
+ "az_ref_mean": -3.59,
+ "el_ref_mean": 11.79,
+ "az_ref_range": 3.06,
+ "doa_valid_frac": 1.0
+}

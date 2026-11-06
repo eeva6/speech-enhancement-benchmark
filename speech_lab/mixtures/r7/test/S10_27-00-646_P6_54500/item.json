@@ -1,0 +1,29 @@
+{
+ "id": "S10_27-00-646_P6_54500",
+ "split": "test",
+ "session": 10,
+ "seg": "27-00-646",
+ "seg_start_s": 1620.646,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Tell me what's going on in the world today.",
+ "start_s": 54.5,
+ "end_s": 56.8,
+ "dur": 2.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 68800,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 3.6,
+ "align_res_absmed_ms": 0.020128982214373536,
+ "align_how": "session_slope",
+ "az_ref_mean": -4.63,
+ "el_ref_mean": 1.59,
+ "az_ref_range": 2.29,
+ "doa_valid_frac": 1.0
+}

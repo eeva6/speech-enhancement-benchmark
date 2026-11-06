@@ -1,0 +1,29 @@
+{
+ "id": "S4_29-00-654_P6_28800",
+ "split": "val",
+ "session": 4,
+ "seg": "29-00-654",
+ "seg_start_s": 1740.654,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Remove wine from dinner party list.",
+ "start_s": 28.8,
+ "end_s": 31.0,
+ "dur": 2.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 67200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 17.3,
+ "align_res_absmed_ms": 0.014265026948123705,
+ "align_how": "minute_line",
+ "az_ref_mean": -12.49,
+ "el_ref_mean": 2.2,
+ "az_ref_range": 1.14,
+ "doa_valid_frac": 1.0
+}

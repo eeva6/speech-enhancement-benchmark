@@ -1,0 +1,29 @@
+{
+ "id": "S11_03-00-356_P3_39900",
+ "split": "test",
+ "session": 11,
+ "seg": "03-00-356",
+ "seg_start_s": 180.356,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "[L] Monkey learning. [L]",
+ "start_s": 39.9,
+ "end_s": 42.7,
+ "dur": 2.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 76800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0250531556957867,
+ "align_how": "session_slope",
+ "az_ref_mean": 47.12,
+ "el_ref_mean": 2.93,
+ "az_ref_range": 26.3,
+ "doa_valid_frac": 1.0
+}

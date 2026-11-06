@@ -1,0 +1,55 @@
+== 05:23:53 --method mvdr_online_est --tag r5ctx
+{"method": "mvdr_online_est", "n": 0, "note": "nothing to do"}
+mvdr_online_est cut 48
+== 05:24:02 --method tse_dryenrol --tag r5 --items sub48
+{"method": "tse_dryenrol", "tag": "r5", "n": 48, "n_fail": 0, "rtf": 1.1299067271543675}
+== 05:30:00 sens_ref
+0      exact           ds_est  48 -0.490832  0.000088    7.958843
+1      exact  mvdr_online_est  48 -7.574994 -0.111460    0.874680
+2      exact   deepfilternet3  48 -1.184877 -0.014125    7.264798
+3      exact              tse  48  2.631497  0.006081   11.081172
+4  perturbed           ds_est  48 -0.045957 -0.001902    4.400410
+5  perturbed  mvdr_online_est  48 -4.739138 -0.095412   -0.292770
+6  perturbed   deepfilternet3  48 -0.826173 -0.012977    3.620194
+7  perturbed              tse  48  1.497525  0.005721    5.943892
+== 05:31:04 --method tse --tag r5ctx
+{"method": "tse", "tag": "r5ctx", "n": 48, "n_fail": 0, "rtf": 1.1552779736547798}
+tse cut 48
+== 05:40:57 --method rnnoise --tag r5 --items sub48
+{"method": "rnnoise", "tag": "r5", "n": 48, "n_fail": 0, "rtf": 0.1737131081265509}
+== 05:42:07 rtf_cpu
+  latest = torch.load(latest, map_location="cpu")
+deepfilternet3 {'rtf_wall': 0.3622312344133427, 'rtf_cpu': 0.360722667550319, 'audio_s': 20.369999999999997} (4.61376953125, 5.4140625, 5.84521484375)
+  conf = torch.load(cached_model, map_location="cpu")
+  state_dict = torch.load(path, map_location=device)
+  stats = torch.load(path, map_location=self.device)
+tse {'rtf_wall': 1.6373039765340924, 'rtf_cpu': 0.8114881964162987, 'audio_s': 20.369999999999997} (4.90478515625, 5.39111328125, 5.81787109375)
+objective: 96
+== 05:43:31 dfn rust build
+total 35620
+drwxr-xr-x 2 sandbox sandbox     4096 Oct 22 05:53 .
+drwxr-xr-x 4 sandbox sandbox     4096 Oct 22 02:40 ..
+-rwxr-xr-x 1 sandbox sandbox 23291640 Oct 22 03:59 deep-filter
+-rwxr-xr-x 1 sandbox sandbox 13174120 Oct 22 05:53 libdf.so
+== 05:53:53 dfn timing
+ "capi_vs_python_si_sdr_db": -8.703104019165039,
+ "config": {
+  "sr": 48000,
+  "fft_size": 960,
+  "hop_size": 480,
+  "lookahead_frames": 2,
+  "algorithmic_latency_ms": 40.0,
+  "note": "algorithmic = (fft-hop) analysis/synthesis overlap + lookahead*hop + one hop of buffering"
+ },
+ "end_to_end_latency_ms_estimate": {
+  "algorithmic": 40.0,
+  "plus_p99_compute": 40.74605098
+ },
+ "cli": {
+  "wall_s": 5.217936115000157,
+  "audio_s": 47.0600625,
+  "stderr_tail": "",
+  "returncode": 0
+ }
+}
+== 05:54:40 DONE

@@ -1,0 +1,29 @@
+{
+ "id": "S11_09-00-429_P3_37750",
+ "split": "test",
+ "session": 11,
+ "seg": "09-00-429",
+ "seg_start_s": 540.429,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "5"
+ ],
+ "target": "other",
+ "text": "Yeah, could we do it again? [L]",
+ "start_s": 37.75,
+ "end_s": 39.15,
+ "dur": 1.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 54400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.009146074262389448,
+ "align_how": "minute_line",
+ "az_ref_mean": 51.14,
+ "el_ref_mean": 5.33,
+ "az_ref_range": 3.54,
+ "doa_valid_frac": 1.0
+}

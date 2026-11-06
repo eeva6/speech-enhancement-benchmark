@@ -1,0 +1,29 @@
+{
+ "id": "S11_02-00-354_P3_53550",
+ "split": "test",
+ "session": 11,
+ "seg": "02-00-354",
+ "seg_start_s": 120.354,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "5"
+ ],
+ "target": "other",
+ "text": "Oh, wow. Okay.",
+ "start_s": 53.55,
+ "end_s": 54.7,
+ "dur": 1.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 50400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0764082360547036,
+ "align_how": "session_slope",
+ "az_ref_mean": 36.95,
+ "el_ref_mean": -1.1,
+ "az_ref_range": 20.51,
+ "doa_valid_frac": 1.0
+}

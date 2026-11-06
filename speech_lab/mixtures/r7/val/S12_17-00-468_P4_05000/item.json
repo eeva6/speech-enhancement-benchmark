@@ -1,0 +1,30 @@
+{
+ "id": "S12_17-00-468_P4_05000",
+ "split": "val",
+ "session": 12,
+ "seg": "17-00-468",
+ "seg_start_s": 1020.468,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2",
+  "6"
+ ],
+ "target": "wearer",
+ "text": "Yeah. Once you're shown the goat, right? So- so this is where Bayes comes in right? Given that you have seen a goat [H] if you flip- [H] This is again is a table, right? So like, one third one third and then this particular entry has like two thirds. [H] So, yes. You- you- you choose the other door. ",
+ "start_s": 5.0,
+ "end_s": 21.75,
+ "dur": 16.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 300000,
+ "overlap": true,
+ "ovl_frac": 0.364,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.3050326486118138,
+ "align_how": "minute_line",
+ "az_ref_mean": 12.06,
+ "el_ref_mean": 10.18,
+ "az_ref_range": 13.24,
+ "doa_valid_frac": 1.0
+}

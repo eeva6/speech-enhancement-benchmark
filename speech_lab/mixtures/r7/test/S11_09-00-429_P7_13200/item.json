@@ -1,0 +1,29 @@
+{
+ "id": "S11_09-00-429_P7_13200",
+ "split": "test",
+ "session": 11,
+ "seg": "09-00-429",
+ "seg_start_s": 540.429,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "3"
+ ],
+ "target": "other",
+ "text": "Okay. [L]",
+ "start_s": 13.2,
+ "end_s": 14.6,
+ "dur": 1.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 54400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.10786390339490026,
+ "align_how": "minute_line",
+ "az_ref_mean": -88.47,
+ "el_ref_mean": 0.21,
+ "az_ref_range": 4.38,
+ "doa_valid_frac": 1.0
+}

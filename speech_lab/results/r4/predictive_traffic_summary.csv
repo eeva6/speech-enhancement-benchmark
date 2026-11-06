@@ -1,0 +1,5 @@
+mode,d_estoi,estoi_ci,d_si_sdr,sdr_ci
+fast,-0.027,0.007,0.652,0.506
+minstats,0.011,0.004,0.806,0.262
+oracle,0.111,0.008,5.207,0.392
+predictive,0.023,0.007,3.718,0.464

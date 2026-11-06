@@ -1,0 +1,29 @@
+{
+ "id": "S12_21-00-544_P4_42350",
+ "split": "val",
+ "session": 12,
+ "seg": "21-00-544",
+ "seg_start_s": 1260.544,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Oh. Got it.",
+ "start_s": 42.35,
+ "end_s": 44.75,
+ "dur": 2.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 70400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.36699271004181355,
+ "align_how": "session_slope",
+ "az_ref_mean": 43.8,
+ "el_ref_mean": 2.12,
+ "az_ref_range": 82.25,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_00-00-000_P3_19100",
+ "split": "val",
+ "session": 4,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Have you ever- have you ever worked on, like, legal software?",
+ "start_s": 19.1,
+ "end_s": 22.45,
+ "dur": 3.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 85600,
+ "overlap": true,
+ "ovl_frac": 0.179,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.032628749977448024,
+ "align_how": "minute_line",
+ "az_ref_mean": 18.03,
+ "el_ref_mean": 1.98,
+ "az_ref_range": 38.9,
+ "doa_valid_frac": 1.0
+}

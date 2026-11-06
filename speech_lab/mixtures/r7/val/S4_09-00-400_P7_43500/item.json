@@ -1,0 +1,29 @@
+{
+ "id": "S4_09-00-400_P7_43500",
+ "split": "val",
+ "session": 4,
+ "seg": "09-00-400",
+ "seg_start_s": 540.4,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Five and three",
+ "start_s": 43.5,
+ "end_s": 45.15,
+ "dur": 1.65,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 58400,
+ "overlap": true,
+ "ovl_frac": 0.788,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.10677761019906029,
+ "align_how": "minute_line",
+ "az_ref_mean": -39.92,
+ "el_ref_mean": 0.75,
+ "az_ref_range": 60.35,
+ "doa_valid_frac": 1.0
+}

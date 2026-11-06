@@ -1,0 +1,30 @@
+{
+ "id": "S11_23-00-605_P3_18850",
+ "split": "test",
+ "session": 11,
+ "seg": "23-00-605",
+ "seg_start_s": 1380.605,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group",
+  "7"
+ ],
+ "target": "group",
+ "text": "Oh! No, that's good though. There's so many blue things in this room!",
+ "start_s": 18.85,
+ "end_s": 21.85,
+ "dur": 3.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 80000,
+ "overlap": true,
+ "ovl_frac": 0.7,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0894279801286757,
+ "align_how": "minute_line",
+ "az_ref_mean": -72.99,
+ "el_ref_mean": 8.78,
+ "az_ref_range": 16.64,
+ "doa_valid_frac": 1.0
+}

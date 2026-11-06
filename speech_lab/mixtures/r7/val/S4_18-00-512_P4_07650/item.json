@@ -1,0 +1,29 @@
+{
+ "id": "S4_18-00-512_P4_07650",
+ "split": "val",
+ "session": 4,
+ "seg": "18-00-512",
+ "seg_start_s": 1080.512,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "You also have to figure out",
+ "start_s": 7.65,
+ "end_s": 9.1,
+ "dur": 1.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 55200,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 3.9,
+ "align_res_absmed_ms": 0.04939643986290321,
+ "align_how": "minute_line",
+ "az_ref_mean": 27.89,
+ "el_ref_mean": 0.83,
+ "az_ref_range": 12.5,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S10_00-00-000_P6_06750",
+ "split": "test",
+ "session": 10,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "[H] Yeah! Can you talk about something?",
+ "start_s": 6.75,
+ "end_s": 9.1,
+ "dur": 2.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 69600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.06730867244186811,
+ "align_how": "minute_line",
+ "az_ref_mean": -6.12,
+ "el_ref_mean": 5.86,
+ "az_ref_range": 1.96,
+ "doa_valid_frac": 1.0
+}

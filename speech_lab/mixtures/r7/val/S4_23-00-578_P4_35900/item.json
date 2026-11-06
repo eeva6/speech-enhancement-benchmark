@@ -1,0 +1,29 @@
+{
+ "id": "S4_23-00-578_P4_35900",
+ "split": "val",
+ "session": 4,
+ "seg": "23-00-578",
+ "seg_start_s": 1380.578,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "The what? No.",
+ "start_s": 35.9,
+ "end_s": 37.8,
+ "dur": 1.9,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 62400,
+ "overlap": true,
+ "ovl_frac": 0.368,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.4038360348204151,
+ "align_how": "session_slope",
+ "az_ref_mean": -66.11,
+ "el_ref_mean": 12.83,
+ "az_ref_range": 24.97,
+ "doa_valid_frac": 1.0
+}

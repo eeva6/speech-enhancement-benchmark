@@ -1,0 +1,29 @@
+{
+ "id": "S12_06-00-365_P4_29400",
+ "split": "val",
+ "session": 12,
+ "seg": "06-00-365",
+ "seg_start_s": 360.365,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So, the North Pole.",
+ "start_s": 29.4,
+ "end_s": 31.2,
+ "dur": 1.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 60800,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 1.95,
+ "align_res_absmed_ms": 0.32951077446341515,
+ "align_how": "minute_line",
+ "az_ref_mean": 25.63,
+ "el_ref_mean": 9.87,
+ "az_ref_range": 26.14,
+ "doa_valid_frac": 1.0
+}

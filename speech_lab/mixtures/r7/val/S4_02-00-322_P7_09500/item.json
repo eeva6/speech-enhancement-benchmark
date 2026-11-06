@@ -1,0 +1,29 @@
+{
+ "id": "S4_02-00-322_P7_09500",
+ "split": "val",
+ "session": 4,
+ "seg": "02-00-322",
+ "seg_start_s": 120.322,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So, I'm Thomas. I just graduate from construction school. I work here a- down the road. I- I work here. So, I'm not sure what we're doing all here, but nice meeting you all.",
+ "start_s": 9.5,
+ "end_s": 20.6,
+ "dur": 11.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 209600,
+ "overlap": true,
+ "ovl_frac": 0.023,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.5573020898737013,
+ "align_how": "session_slope",
+ "az_ref_mean": -20.16,
+ "el_ref_mean": 5.86,
+ "az_ref_range": 12.51,
+ "doa_valid_frac": 1.0
+}

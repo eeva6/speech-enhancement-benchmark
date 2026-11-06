@@ -1,0 +1,30 @@
+{
+ "id": "S10_12-00-438_P6_36450",
+ "split": "test",
+ "session": 10,
+ "seg": "12-00-438",
+ "seg_start_s": 720.438,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4",
+  "1"
+ ],
+ "target": "other",
+ "text": "waste the time. [L]",
+ "start_s": 36.45,
+ "end_s": 39.0,
+ "dur": 2.55,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 72800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.13897516328142956,
+ "align_how": "minute_line",
+ "az_ref_mean": -25.38,
+ "el_ref_mean": 2.76,
+ "az_ref_range": 9.12,
+ "doa_valid_frac": 1.0
+}

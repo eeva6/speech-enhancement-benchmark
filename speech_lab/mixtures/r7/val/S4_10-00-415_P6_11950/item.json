@@ -1,0 +1,29 @@
+{
+ "id": "S4_10-00-415_P6_11950",
+ "split": "val",
+ "session": 4,
+ "seg": "10-00-415",
+ "seg_start_s": 600.415,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Yeah. Yeah, I mean-",
+ "start_s": 11.95,
+ "end_s": 14.2,
+ "dur": 2.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 68000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.13262782886158675,
+ "align_how": "minute_line",
+ "az_ref_mean": -15.29,
+ "el_ref_mean": -2.36,
+ "az_ref_range": 44.61,
+ "doa_valid_frac": 1.0
+}

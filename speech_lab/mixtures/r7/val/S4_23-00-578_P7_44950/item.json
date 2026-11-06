@@ -1,0 +1,29 @@
+{
+ "id": "S4_23-00-578_P7_44950",
+ "split": "val",
+ "session": 4,
+ "seg": "23-00-578",
+ "seg_start_s": 1380.578,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "The temperature control switch?",
+ "start_s": 44.95,
+ "end_s": 47.55,
+ "dur": 2.6,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 73600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.014951259800000116,
+ "align_how": "session_slope",
+ "az_ref_mean": -79.63,
+ "el_ref_mean": -5.72,
+ "az_ref_range": 20.49,
+ "doa_valid_frac": 1.0
+}

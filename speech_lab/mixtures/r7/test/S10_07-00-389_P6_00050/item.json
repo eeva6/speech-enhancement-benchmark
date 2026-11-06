@@ -1,0 +1,29 @@
+{
+ "id": "S10_07-00-389_P6_00050",
+ "split": "test",
+ "session": 10,
+ "seg": "07-00-389",
+ "seg_start_s": 420.389,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Ah! Wait. Wh- what?",
+ "start_s": 0.05,
+ "end_s": 1.4,
+ "dur": 1.35,
+ "ctx_s": 0.05,
+ "utt_offset_samples": 800,
+ "n_samples": 22400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.42126972402911633,
+ "align_how": "session_slope",
+ "az_ref_mean": -3.95,
+ "el_ref_mean": 6.04,
+ "az_ref_range": 5.58,
+ "doa_valid_frac": 1.0
+}

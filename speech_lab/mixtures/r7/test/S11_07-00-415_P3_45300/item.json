@@ -1,0 +1,29 @@
+{
+ "id": "S11_07-00-415_P3_45300",
+ "split": "test",
+ "session": 11,
+ "seg": "07-00-415",
+ "seg_start_s": 420.415,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Puzzle number one. There are three switches downstairs. Each corresponds to one of three lightbulbs in the attic. You can turn the switches on and off and leave them in any position. ",
+ "start_s": 45.3,
+ "end_s": 57.0,
+ "dur": 11.7,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 219200,
+ "overlap": true,
+ "ovl_frac": 0.051,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03653894236776978,
+ "align_how": "session_slope",
+ "az_ref_mean": 25.85,
+ "el_ref_mean": 8.49,
+ "az_ref_range": 38.06,
+ "doa_valid_frac": 1.0
+}

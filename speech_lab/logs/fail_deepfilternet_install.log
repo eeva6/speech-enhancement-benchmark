@@ -1,0 +1,23 @@
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  × Preparing metadata (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [6 lines of output]
+      
+      Cargo, the Rust package manager, is not installed or is not on PATH.
+      This package requires Rust and Cargo to compile extensions. Install it through
+      the system's package manager or via https://rustup.rs/
+      
+      Checking for Rust toolchain....
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 25.0.1 -> 26.2.1
+[notice] To update, run: pip install --upgrade pip

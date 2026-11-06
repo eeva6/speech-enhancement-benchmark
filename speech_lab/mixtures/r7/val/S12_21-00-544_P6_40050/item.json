@@ -1,0 +1,29 @@
+{
+ "id": "S12_21-00-544_P6_40050",
+ "split": "val",
+ "session": 12,
+ "seg": "21-00-544",
+ "seg_start_s": 1260.544,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "As long as Sophie doesn't have to turn around.",
+ "start_s": 40.05,
+ "end_s": 42.8,
+ "dur": 2.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 76000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03495043711154722,
+ "align_how": "minute_line",
+ "az_ref_mean": -25.11,
+ "el_ref_mean": 3.44,
+ "az_ref_range": 67.36,
+ "doa_valid_frac": 1.0
+}

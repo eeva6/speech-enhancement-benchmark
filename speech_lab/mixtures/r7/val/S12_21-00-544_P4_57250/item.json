@@ -1,0 +1,29 @@
+{
+ "id": "S12_21-00-544_P4_57250",
+ "split": "val",
+ "session": 12,
+ "seg": "21-00-544",
+ "seg_start_s": 1260.544,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Yeah. [H]",
+ "start_s": 57.25,
+ "end_s": 59.1,
+ "dur": 1.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 61600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.36699271004181355,
+ "align_how": "session_slope",
+ "az_ref_mean": 29.22,
+ "el_ref_mean": -5.52,
+ "az_ref_range": 39.45,
+ "doa_valid_frac": 0.919
+}

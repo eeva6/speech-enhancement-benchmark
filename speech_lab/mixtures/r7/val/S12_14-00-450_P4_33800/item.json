@@ -1,0 +1,29 @@
+{
+ "id": "S12_14-00-450_P4_33800",
+ "split": "val",
+ "session": 12,
+ "seg": "14-00-450",
+ "seg_start_s": 840.45,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "So, you are honest, and- and you are in front of the gate of heaven.",
+ "start_s": 33.8,
+ "end_s": 38.4,
+ "dur": 4.6,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 105600,
+ "overlap": true,
+ "ovl_frac": 0.228,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.09052265522768721,
+ "align_how": "minute_line",
+ "az_ref_mean": 12.78,
+ "el_ref_mean": 7.15,
+ "az_ref_range": 7.1,
+ "doa_valid_frac": 1.0
+}

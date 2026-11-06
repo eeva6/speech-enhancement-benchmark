@@ -1,0 +1,29 @@
+{
+ "id": "S4_24-00-594_P7_09100",
+ "split": "val",
+ "session": 4,
+ "seg": "24-00-594",
+ "seg_start_s": 1440.594,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Is it- is someone wearing it?",
+ "start_s": 9.1,
+ "end_s": 10.95,
+ "dur": 1.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 61600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 1.3897661119699478,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -22.61,
+ "el_ref_mean": -4.12,
+ "az_ref_range": 36.67,
+ "doa_valid_frac": 1.0
+}

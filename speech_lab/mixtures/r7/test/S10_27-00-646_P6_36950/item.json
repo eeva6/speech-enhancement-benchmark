@@ -1,0 +1,29 @@
+{
+ "id": "S10_27-00-646_P6_36950",
+ "split": "test",
+ "session": 10,
+ "seg": "27-00-646",
+ "seg_start_s": 1620.646,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Turn off my alarm for tomorrow morning.",
+ "start_s": 36.95,
+ "end_s": 39.05,
+ "dur": 2.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 65600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.020128982214373536,
+ "align_how": "session_slope",
+ "az_ref_mean": -5.98,
+ "el_ref_mean": 1.51,
+ "az_ref_range": 4.49,
+ "doa_valid_frac": 1.0
+}

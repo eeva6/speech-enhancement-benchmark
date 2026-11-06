@@ -1,0 +1,29 @@
+{
+ "id": "S11_10-00-445_P7_35000",
+ "split": "test",
+ "session": 11,
+ "seg": "10-00-445",
+ "seg_start_s": 600.445,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So his father can, can be the father's son, right?",
+ "start_s": 35.0,
+ "end_s": 38.35,
+ "dur": 3.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 85600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03024864236067515,
+ "align_how": "minute_line",
+ "az_ref_mean": -67.43,
+ "el_ref_mean": -2.91,
+ "az_ref_range": 3.3,
+ "doa_valid_frac": 1.0
+}

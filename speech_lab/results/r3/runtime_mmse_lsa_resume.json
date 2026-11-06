@@ -1,0 +1,17 @@
+{
+ "method": "mmse_lsa",
+ "tag": "r3",
+ "n": 144,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 0.05623958899968784,
+ "mean_proc_s": 0.06124765119581683,
+ "rtf": 0.009302544977314562,
+ "peak_rss_mb": 274.03515625,
+ "rss_before_mb": 246.28515625,
+ "n_params": null,
+ "noise_psd": "ms",
+ "infos": {},
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

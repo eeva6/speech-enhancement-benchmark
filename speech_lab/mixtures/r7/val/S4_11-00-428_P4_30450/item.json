@@ -1,0 +1,29 @@
+{
+ "id": "S4_11-00-428_P4_30450",
+ "split": "val",
+ "session": 4,
+ "seg": "11-00-428",
+ "seg_start_s": 660.428,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So, you fill",
+ "start_s": 30.45,
+ "end_s": 32.45,
+ "dur": 2.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 64000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.18743980035651475,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 62.16,
+ "el_ref_mean": 5.35,
+ "az_ref_range": 0.76,
+ "doa_valid_frac": 1.0
+}

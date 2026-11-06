@@ -1,0 +1,29 @@
+{
+ "id": "S4_10-00-415_P7_31700",
+ "split": "val",
+ "session": 4,
+ "seg": "10-00-415",
+ "seg_start_s": 600.415,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "you repeat it, for the most part.",
+ "start_s": 31.7,
+ "end_s": 34.2,
+ "dur": 2.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 72000,
+ "overlap": true,
+ "ovl_frac": 0.44,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.6919841980561614,
+ "align_how": "session_slope",
+ "az_ref_mean": -33.17,
+ "el_ref_mean": 7.2,
+ "az_ref_range": 36.12,
+ "doa_valid_frac": 1.0
+}

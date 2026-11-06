@@ -1,0 +1,29 @@
+{
+ "id": "S11_02-00-354_P3_07550",
+ "split": "test",
+ "session": 11,
+ "seg": "02-00-354",
+ "seg_start_s": 120.354,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "What d- what do you do with them? [L]",
+ "start_s": 7.55,
+ "end_s": 9.1,
+ "dur": 1.55,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 56800,
+ "overlap": true,
+ "ovl_frac": 0.032,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0764082360547036,
+ "align_how": "session_slope",
+ "az_ref_mean": 83.66,
+ "el_ref_mean": 1.05,
+ "az_ref_range": 1.79,
+ "doa_valid_frac": 1.0
+}

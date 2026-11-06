@@ -1,0 +1,29 @@
+{
+ "id": "S4_08-00-381_P6_51750",
+ "split": "val",
+ "session": 4,
+ "seg": "08-00-381",
+ "seg_start_s": 480.381,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Alright! So, I- I- I- I will go with Harry Jones and Associates' Law Firm and their [H] and their- [X]",
+ "start_s": 51.75,
+ "end_s": 60.0,
+ "dur": 8.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 164000,
+ "overlap": true,
+ "ovl_frac": 0.182,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.027580477762967348,
+ "align_how": "minute_line",
+ "az_ref_mean": -26.35,
+ "el_ref_mean": 5.57,
+ "az_ref_range": 64.6,
+ "doa_valid_frac": 1.0
+}

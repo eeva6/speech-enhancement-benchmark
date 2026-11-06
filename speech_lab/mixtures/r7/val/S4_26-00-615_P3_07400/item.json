@@ -1,0 +1,29 @@
+{
+ "id": "S4_26-00-615_P3_07400",
+ "split": "val",
+ "session": 4,
+ "seg": "26-00-615",
+ "seg_start_s": 1560.615,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Does soya milk have gluten?",
+ "start_s": 7.4,
+ "end_s": 9.9,
+ "dur": 2.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 72000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03364003714523278,
+ "align_how": "minute_line",
+ "az_ref_mean": 1.84,
+ "el_ref_mean": -1.73,
+ "az_ref_range": 2.53,
+ "doa_valid_frac": 1.0
+}

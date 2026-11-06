@@ -1,0 +1,29 @@
+{
+ "id": "S11_29-00-684_P7_27800",
+ "split": "test",
+ "session": 11,
+ "seg": "29-00-684",
+ "seg_start_s": 1740.684,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "What time is it in Denver?",
+ "start_s": 27.8,
+ "end_s": 29.5,
+ "dur": 1.7,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 59200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.009481264896749053,
+ "align_how": "minute_line",
+ "az_ref_mean": -14.8,
+ "el_ref_mean": -0.09,
+ "az_ref_range": 2.14,
+ "doa_valid_frac": 1.0
+}

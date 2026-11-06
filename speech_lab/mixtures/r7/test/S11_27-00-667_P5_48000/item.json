@@ -1,0 +1,29 @@
+{
+ "id": "S11_27-00-667_P5_48000",
+ "split": "test",
+ "session": 11,
+ "seg": "27-00-667",
+ "seg_start_s": 1620.667,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "What is the quarter of thirty two- Okay, I need to read this [U] again. What is the quarter of",
+ "start_s": 48.0,
+ "end_s": 55.0,
+ "dur": 7.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 144000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 10.65,
+ "align_res_absmed_ms": 0.053643951105186716,
+ "align_how": "session_slope",
+ "az_ref_mean": -1.07,
+ "el_ref_mean": 2.01,
+ "az_ref_range": 4.69,
+ "doa_valid_frac": 1.0
+}

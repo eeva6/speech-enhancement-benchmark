@@ -1,0 +1,29 @@
+{
+ "id": "S4_03-00-332_P4_00700",
+ "split": "val",
+ "session": 4,
+ "seg": "03-00-332",
+ "seg_start_s": 180.332,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "I'm partial to school lunches.",
+ "start_s": 0.7,
+ "end_s": 2.35,
+ "dur": 1.65,
+ "ctx_s": 0.7,
+ "utt_offset_samples": 11200,
+ "n_samples": 37600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.11121889110654593,
+ "align_how": "session_slope",
+ "az_ref_mean": 14.46,
+ "el_ref_mean": 8.49,
+ "az_ref_range": 30.15,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S12_01-00-273_P4_47200",
+ "split": "val",
+ "session": 12,
+ "seg": "01-00-273",
+ "seg_start_s": 60.273,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "Wh- why w- did you choose to become a schoolteacher?",
+ "start_s": 47.2,
+ "end_s": 49.85,
+ "dur": 2.65,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 74400,
+ "overlap": true,
+ "ovl_frac": 0.019,
+ "t_since_turn_onset": 2.95,
+ "align_res_absmed_ms": 0.26183301815763116,
+ "align_how": "minute_line",
+ "az_ref_mean": 22.02,
+ "el_ref_mean": 6.41,
+ "az_ref_range": 9.68,
+ "doa_valid_frac": 1.0
+}

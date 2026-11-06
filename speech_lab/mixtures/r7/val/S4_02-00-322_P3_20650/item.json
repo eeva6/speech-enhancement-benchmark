@@ -1,0 +1,29 @@
+{
+ "id": "S4_02-00-322_P3_20650",
+ "split": "val",
+ "session": 4,
+ "seg": "02-00-322",
+ "seg_start_s": 120.322,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "I'm sorry. I couldn't hear you. What was your name?",
+ "start_s": 20.65,
+ "end_s": 22.75,
+ "dur": 2.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 65600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.04887327304459177,
+ "align_how": "session_slope",
+ "az_ref_mean": 99.51,
+ "el_ref_mean": -5.16,
+ "az_ref_range": 6.75,
+ "doa_valid_frac": 1.0
+}

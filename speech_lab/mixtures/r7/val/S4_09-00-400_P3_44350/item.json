@@ -1,0 +1,29 @@
+{
+ "id": "S4_09-00-400_P3_44350",
+ "split": "val",
+ "session": 4,
+ "seg": "09-00-400",
+ "seg_start_s": 540.4,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I solved the last one and because I can barely hear you, I'm gonna sit this one out.",
+ "start_s": 44.35,
+ "end_s": 47.85,
+ "dur": 3.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 88000,
+ "overlap": true,
+ "ovl_frac": 0.229,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.22432244441006333,
+ "align_how": "minute_line",
+ "az_ref_mean": 38.85,
+ "el_ref_mean": -13.46,
+ "az_ref_range": 100.26,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S11_03-00-356_P5_00050",
+ "split": "test",
+ "session": 11,
+ "seg": "03-00-356",
+ "seg_start_s": 180.356,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "[L] Ex- Yeah. It is- Yeah, the ideas are countless. [H] Yeah. We keep coming with new ideas. Everyone is a new he- monkey scrum. New waves of ideas. [L]",
+ "start_s": 0.05,
+ "end_s": 17.2,
+ "dur": 17.15,
+ "ctx_s": 0.05,
+ "utt_offset_samples": 800,
+ "n_samples": 275200,
+ "overlap": true,
+ "ovl_frac": 0.962,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.28755771927535534,
+ "align_how": "minute_line",
+ "az_ref_mean": -5.28,
+ "el_ref_mean": -2.14,
+ "az_ref_range": 23.83,
+ "doa_valid_frac": 1.0
+}

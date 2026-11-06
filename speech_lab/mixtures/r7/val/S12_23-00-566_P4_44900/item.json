@@ -1,0 +1,29 @@
+{
+ "id": "S12_23-00-566_P4_44900",
+ "split": "val",
+ "session": 12,
+ "seg": "23-00-566",
+ "seg_start_s": 1380.566,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "[H] Is it- Oh, you've already said the tape, right? Oh.",
+ "start_s": 44.9,
+ "end_s": 48.75,
+ "dur": 3.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 93600,
+ "overlap": true,
+ "ovl_frac": 0.494,
+ "t_since_turn_onset": 4.45,
+ "align_res_absmed_ms": 0.2416893985355273,
+ "align_how": "minute_line",
+ "az_ref_mean": 13.52,
+ "el_ref_mean": 0.94,
+ "az_ref_range": 90.51,
+ "doa_valid_frac": 0.922
+}

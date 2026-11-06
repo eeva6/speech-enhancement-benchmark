@@ -1,0 +1,29 @@
+{
+ "id": "S10_23-00-577_P6_47800",
+ "split": "test",
+ "session": 10,
+ "seg": "23-00-577",
+ "seg_start_s": 1380.577,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "No. Not quite.",
+ "start_s": 47.8,
+ "end_s": 49.6,
+ "dur": 1.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 60800,
+ "overlap": true,
+ "ovl_frac": 0.278,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0035434622986940667,
+ "align_how": "session_slope",
+ "az_ref_mean": -56.03,
+ "el_ref_mean": 2.61,
+ "az_ref_range": 108.47,
+ "doa_valid_frac": 1.0
+}

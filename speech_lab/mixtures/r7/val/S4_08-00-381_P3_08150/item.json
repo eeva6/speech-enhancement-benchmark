@@ -1,0 +1,29 @@
+{
+ "id": "S4_08-00-381_P3_08150",
+ "split": "val",
+ "session": 4,
+ "seg": "08-00-381",
+ "seg_start_s": 480.381,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I'm surmising that you could turn the light bulb on and, as long as it's not super LED efficient,",
+ "start_s": 8.15,
+ "end_s": 14.7,
+ "dur": 6.55,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 136800,
+ "overlap": true,
+ "ovl_frac": 0.244,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.02922484782175161,
+ "align_how": "minute_line",
+ "az_ref_mean": 24.4,
+ "el_ref_mean": -2.88,
+ "az_ref_range": 14.59,
+ "doa_valid_frac": 1.0
+}

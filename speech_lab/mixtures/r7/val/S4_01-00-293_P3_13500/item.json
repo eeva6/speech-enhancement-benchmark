@@ -1,0 +1,29 @@
+{
+ "id": "S4_01-00-293_P3_13500",
+ "split": "val",
+ "session": 4,
+ "seg": "01-00-293",
+ "seg_start_s": 60.293,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Are you in like public schools or- Public schools. Gotcha.",
+ "start_s": 13.5,
+ "end_s": 17.0,
+ "dur": 3.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 88000,
+ "overlap": true,
+ "ovl_frac": 0.743,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.12708880240097642,
+ "align_how": "session_slope",
+ "az_ref_mean": 34.61,
+ "el_ref_mean": 3.9,
+ "az_ref_range": 20.97,
+ "doa_valid_frac": 1.0
+}

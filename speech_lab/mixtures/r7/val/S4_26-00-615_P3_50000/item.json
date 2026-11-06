@@ -1,0 +1,29 @@
+{
+ "id": "S4_26-00-615_P3_50000",
+ "split": "val",
+ "session": 4,
+ "seg": "26-00-615",
+ "seg_start_s": 1560.615,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Did the Jets beat the spread?",
+ "start_s": 50.0,
+ "end_s": 52.0,
+ "dur": 2.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 64000,
+ "overlap": true,
+ "ovl_frac": 0.3,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03364003714523278,
+ "align_how": "minute_line",
+ "az_ref_mean": 11.59,
+ "el_ref_mean": 0.95,
+ "az_ref_range": 1.28,
+ "doa_valid_frac": 1.0
+}

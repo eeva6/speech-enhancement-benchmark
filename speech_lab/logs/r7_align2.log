@@ -1,0 +1,153 @@
+02:25:55 align 4 00-00-000 4 minute_clock_plus_pose res_absmed_ms 0.022181910026120022
+02:25:56 align 4 00-00-000 6 minute_clock_plus_pose res_absmed_ms None
+02:25:56 align 4 00-00-000 7 minute_clock_plus_pose res_absmed_ms None
+02:25:57 align 4 01-00-293 7 minute_clock_plus_pose res_absmed_ms None
+02:25:58 align 4 04-00-349 3 no_fit_session_offset res_absmed_ms None
+02:25:58 align 4 04-00-349 4 no_fit_session_offset res_absmed_ms None
+02:25:58 align 4 04-00-349 6 no_fit_session_offset res_absmed_ms None
+02:25:59 align 4 05-00-353 3 minute_clock_plus_pose res_absmed_ms 0.08948803952080198
+02:25:59 align 4 05-00-353 7 minute_clock_plus_pose res_absmed_ms 0.09584645158611238
+02:26:00 align 4 06-00-363 3 minute_clock_plus_pose res_absmed_ms None
+02:26:00 align 4 06-00-363 6 minute_clock_plus_pose res_absmed_ms None
+02:26:01 align 4 06-00-363 7 minute_clock_plus_pose res_absmed_ms None
+02:26:01 align 4 07-00-382 3 minute_clock_plus_pose res_absmed_ms None
+02:26:01 align 4 07-00-382 7 minute_clock_plus_pose res_absmed_ms None
+02:26:02 align 4 08-00-381 7 minute_clock_plus_pose res_absmed_ms None
+02:26:02 align 4 09-00-400 4 minute_clock_plus_pose res_absmed_ms 0.06804027361795306
+02:26:03 align 4 11-00-428 4 minute_clock_plus_pose res_absmed_ms 0.18743980035651475
+02:26:03 align 4 11-00-428 7 minute_clock_plus_pose res_absmed_ms 0.6326426519080997
+02:26:04 align 4 15-00-480 7 minute_clock_plus_pose res_absmed_ms None
+02:26:04 align 4 17-00-478 3 minute_clock_plus_pose res_absmed_ms None
+02:26:04 align 4 17-00-478 7 minute_clock_plus_pose res_absmed_ms None
+02:26:05 align 4 18-00-512 3 minute_clock_plus_pose res_absmed_ms None
+02:26:05 align 4 19-00-532 3 minute_clock_plus_pose res_absmed_ms None
+02:26:06 align 4 19-00-532 7 minute_clock_plus_pose res_absmed_ms None
+02:26:06 align 4 20-00-540 3 minute_clock_plus_pose res_absmed_ms 0.2908965980168432
+02:26:06 align 4 20-00-540 4 minute_clock_plus_pose res_absmed_ms 0.843343383166939
+02:26:07 align 4 24-00-594 3 minute_clock_plus_pose res_absmed_ms 0.19293614604976028
+02:26:07 align 4 24-00-594 7 minute_clock_plus_pose res_absmed_ms 1.3897661119699478
+02:26:08 align 4 25-00-599 7 minute_clock_plus_pose res_absmed_ms None
+02:26:08 align 4 26-00-615 4 minute_clock_plus_pose res_absmed_ms None
+02:26:08 align 4 26-00-615 6 minute_clock_plus_pose res_absmed_ms None
+02:26:08 align 4 26-00-615 7 minute_clock_plus_pose res_absmed_ms None
+02:26:08 align 4 27-00-632 6 minute_clock_plus_pose res_absmed_ms None
+02:26:09 align 4 27-00-632 7 minute_clock_plus_pose res_absmed_ms None
+02:26:09 align 4 28-00-637 3 minute_clock_plus_pose res_absmed_ms None
+02:26:09 align 4 28-00-637 7 minute_clock_plus_pose res_absmed_ms None
+02:26:09 align 4 29-00-654 3 minute_clock_plus_pose res_absmed_ms None
+02:26:09 align 4 29-00-654 4 minute_clock_plus_pose res_absmed_ms 0.9998288005590439
+02:26:10 align 4 30-00-679 3 minute_clock_plus_pose res_absmed_ms None
+02:26:10 align 4 30-00-679 4 minute_clock_plus_pose res_absmed_ms None
+02:26:10 align 4 30-00-679 6 minute_clock_plus_pose res_absmed_ms None
+02:26:10 align 4 31-00-672 3 no_fit_session_offset res_absmed_ms None
+02:26:10 align 4 31-00-672 4 no_fit_session_offset res_absmed_ms None
+02:26:10 align 4 31-00-672 6 no_fit_session_offset res_absmed_ms None
+02:26:11 align 4 31-00-672 7 no_fit_session_offset res_absmed_ms None
+02:26:11 align 12 14-00-450 6 minute_clock_plus_pose res_absmed_ms None
+02:26:12 align 12 25-00-593 6 minute_clock_plus_pose res_absmed_ms None
+02:26:12 align 12 26-00-604 6 minute_clock_plus_pose res_absmed_ms None
+02:26:12 align 12 28-00-636 4 minute_clock_plus_pose res_absmed_ms None
+02:26:12 align 12 29-00-647 4 no_fit_session_offset res_absmed_ms None
+02:26:12 align 12 29-00-647 6 no_fit_session_offset res_absmed_ms None
+02:26:13 align 10 03-00-332 4 minute_clock_plus_pose res_absmed_ms 0.002906498593802098
+02:26:13 align 10 04-00-350 4 minute_clock_plus_pose res_absmed_ms 1.7189693171530962
+02:26:13 align 10 05-00-357 4 minute_clock_plus_pose res_absmed_ms 1.231693138834089
+02:26:14 align 10 10-00-423 6 minute_clock_plus_pose res_absmed_ms None
+02:26:14 align 10 19-00-538 6 no_fit_session_offset res_absmed_ms None
+02:26:14 align 10 20-00-540 4 minute_clock_plus_pose res_absmed_ms 0.7221164414659142
+02:26:15 align 10 22-00-585 4 no_fit_session_offset res_absmed_ms None
+02:26:15 align 10 22-00-585 6 no_fit_session_offset res_absmed_ms None
+02:26:15 align 10 23-00-577 4 minute_clock_plus_pose res_absmed_ms 0.30137485009618104
+02:26:15 align 10 25-00-601 6 no_fit_session_offset res_absmed_ms 1.8829720793291926
+02:26:15 align 10 26-00-618 6 minute_clock_plus_pose res_absmed_ms None
+02:26:16 align 10 28-00-653 4 minute_clock_plus_pose res_absmed_ms None
+02:26:16 align 10 29-00-656 4 no_fit_session_offset res_absmed_ms None
+02:26:16 align 10 29-00-656 6 no_fit_session_offset res_absmed_ms None
+02:26:16 align 11 04-00-368 5 minute_clock_plus_pose res_absmed_ms 0.9161609341390431
+02:26:17 align 11 06-00-393 5 minute_clock_plus_pose res_absmed_ms None
+02:26:17 align 11 06-00-393 7 minute_clock_plus_pose res_absmed_ms None
+02:26:17 align 11 07-00-415 5 minute_clock_plus_pose res_absmed_ms None
+02:26:17 align 11 07-00-415 7 minute_clock_plus_pose res_absmed_ms None
+02:26:17 align 11 08-00-423 5 minute_clock_plus_pose res_absmed_ms None
+02:26:18 align 11 21-00-585 5 minute_clock_plus_pose res_absmed_ms 0.5936952074989676
+02:26:18 align 11 22-00-598 3 no_fit_session_offset res_absmed_ms 1.9685307051986456
+02:26:18 align 11 22-00-598 5 no_fit_session_offset res_absmed_ms None
+02:26:19 align 11 24-00-623 3 minute_clock_plus_pose res_absmed_ms None
+02:26:19 align 11 25-00-631 5 minute_clock_plus_pose res_absmed_ms 0.3882136370521039
+02:26:19 align 11 26-00-642 5 minute_clock_plus_pose res_absmed_ms None
+02:26:19 align 11 26-00-642 7 minute_clock_plus_pose res_absmed_ms None
+02:26:19 align 11 27-00-667 7 minute_clock_plus_pose res_absmed_ms None
+02:26:20 align 11 28-00-666 3 minute_clock_plus_pose res_absmed_ms None
+02:26:20 align 11 28-00-666 7 minute_clock_plus_pose res_absmed_ms 0.0490870515932329
+02:26:20 align 11 29-00-684 3 minute_clock_plus_pose res_absmed_ms None
+02:26:20 align 11 29-00-684 5 minute_clock_plus_pose res_absmed_ms None
+02:26:20 align 11 30-00-709 3 no_fit_session_offset res_absmed_ms None
+02:26:21 align 11 30-00-709 5 no_fit_session_offset res_absmed_ms None
+02:26:21 align 11 30-00-709 7 no_fit_session_offset res_absmed_ms None
+{
+ "4": {
+  "n": 116,
+  "b_ppm_median": -4.036045506325744,
+  "fs_close_eff_median": 48008.40623588775,
+  "res_absmed_ms_median": 0.09850622700469103,
+  "res_p90_ms_median": 0.43559053738135844,
+  "how": {
+   "minute_line": 39,
+   "minute_clock_plus_pose": 38,
+   "session_slope": 32,
+   "no_fit_session_offset": 7
+  }
+ },
+ "10": {
+  "n": 48,
+  "b_ppm_median": -3.881791921560865,
+  "fs_close_eff_median": 48008.41364132777,
+  "res_absmed_ms_median": 0.0400803310185438,
+  "res_p90_ms_median": 0.2887499060307164,
+  "how": {
+   "session_slope": 18,
+   "minute_line": 16,
+   "minute_clock_plus_pose": 8,
+   "no_fit_session_offset": 6
+  }
+ },
+ "11": {
+  "n": 69,
+  "b_ppm_median": -4.431687528281675,
+  "fs_close_eff_median": 48008.387241829005,
+  "res_absmed_ms_median": 0.05337804032023996,
+  "res_p90_ms_median": 0.2438658120809123,
+  "how": {
+   "session_slope": 25,
+   "minute_line": 23,
+   "minute_clock_plus_pose": 16,
+   "no_fit_session_offset": 5
+  }
+ },
+ "12": {
+  "n": 60,
+  "b_ppm_median": -7.734211173159914,
+  "fs_close_eff_median": 48008.22869422123,
+  "res_absmed_ms_median": 0.11806080146925524,
+  "res_p90_ms_median": 0.6420434627216309,
+  "how": {
+   "minute_line": 37,
+   "session_slope": 17,
+   "minute_clock_plus_pose": 4,
+   "no_fit_session_offset": 2
+  }
+ },
+ "all": {
+  "n": 293,
+  "res_absmed_ms_median": 0.08710391557542607,
+  "res_absmed_ms_p90": 0.3913381166057664,
+  "res_p90_ms_median": 0.4235037951730191,
+  "frac_outlier_median": 0.0
+ },
+ "loo_pose_clock_check": {
+  "n": 156,
+  "median_abs_ms": 0.43128327094797214,
+  "p90_abs_ms": 1.5258167881859706
+ },
+ "note": "res_* = lags re-measured on the aligned close mic in the same windows used for the fit (in-sample). loo_pose_clock_check = out-of-sample: offset predicted from the other close mics of the minute + pose distance. how=no_fit_* / minute_clock_plus_pose rows had < 4 usable windows (talker nearly silent)."
+}

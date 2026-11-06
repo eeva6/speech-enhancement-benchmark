@@ -1,0 +1,29 @@
+{
+ "id": "S4_09-00-400_P3_10800",
+ "split": "val",
+ "session": 4,
+ "seg": "09-00-400",
+ "seg_start_s": 540.4,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Also, who creates an attic with three independently controlled lights?",
+ "start_s": 10.8,
+ "end_s": 14.75,
+ "dur": 3.95,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 95200,
+ "overlap": true,
+ "ovl_frac": 0.392,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.22432244441006333,
+ "align_how": "minute_line",
+ "az_ref_mean": 45.7,
+ "el_ref_mean": -7.18,
+ "az_ref_range": 27.02,
+ "doa_valid_frac": 1.0
+}

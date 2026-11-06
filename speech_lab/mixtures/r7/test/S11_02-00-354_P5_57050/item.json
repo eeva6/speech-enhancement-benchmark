@@ -1,0 +1,29 @@
+{
+ "id": "S11_02-00-354_P5_57050",
+ "split": "test",
+ "session": 11,
+ "seg": "02-00-354",
+ "seg_start_s": 120.354,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "So, people like Charlie can have a job.",
+ "start_s": 57.05,
+ "end_s": 59.25,
+ "dur": 2.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 67200,
+ "overlap": true,
+ "ovl_frac": 0.614,
+ "t_since_turn_onset": 1.9,
+ "align_res_absmed_ms": 0.2734154732024763,
+ "align_how": "session_slope",
+ "az_ref_mean": -1.56,
+ "el_ref_mean": 0.36,
+ "az_ref_range": 35.34,
+ "doa_valid_frac": 1.0
+}

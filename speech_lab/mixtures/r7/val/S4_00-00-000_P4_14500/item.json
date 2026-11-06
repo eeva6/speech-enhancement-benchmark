@@ -1,0 +1,29 @@
+{
+ "id": "S4_00-00-000_P4_14500",
+ "split": "val",
+ "session": 4,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Ah. Nice.",
+ "start_s": 14.5,
+ "end_s": 15.65,
+ "dur": 1.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 50400,
+ "overlap": true,
+ "ovl_frac": 0.391,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.022181910026120022,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -3.8,
+ "el_ref_mean": 11.95,
+ "az_ref_range": 31.38,
+ "doa_valid_frac": 1.0
+}

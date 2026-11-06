@@ -1,0 +1,29 @@
+{
+ "id": "S4_30-00-679_P7_36600",
+ "split": "val",
+ "session": 4,
+ "seg": "30-00-679",
+ "seg_start_s": 1800.679,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Did the traffic is heavy?",
+ "start_s": 36.6,
+ "end_s": 38.1,
+ "dur": 1.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 56000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 36.55,
+ "align_res_absmed_ms": 0.03514154195727315,
+ "align_how": "minute_line",
+ "az_ref_mean": -20.26,
+ "el_ref_mean": 5.67,
+ "az_ref_range": 1.22,
+ "doa_valid_frac": 1.0
+}

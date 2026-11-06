@@ -1,0 +1,29 @@
+{
+ "id": "S4_22-00-570_P4_28450",
+ "split": "val",
+ "session": 4,
+ "seg": "22-00-570",
+ "seg_start_s": 1320.57,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "The goo on the tape?",
+ "start_s": 28.45,
+ "end_s": 29.8,
+ "dur": 1.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 53600,
+ "overlap": true,
+ "ovl_frac": 0.593,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.5245372303761542,
+ "align_how": "session_slope",
+ "az_ref_mean": 33.62,
+ "el_ref_mean": 7.65,
+ "az_ref_range": 39.75,
+ "doa_valid_frac": 1.0
+}

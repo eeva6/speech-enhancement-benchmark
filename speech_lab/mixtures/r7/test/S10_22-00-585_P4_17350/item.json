@@ -1,0 +1,29 @@
+{
+ "id": "S10_22-00-585_P4_17350",
+ "split": "test",
+ "session": 10,
+ "seg": "22-00-585",
+ "seg_start_s": 1320.585,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "White and what?",
+ "start_s": 17.35,
+ "end_s": 18.4,
+ "dur": 1.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 48800,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "no_fit_session_offset",
+ "az_ref_mean": 36.13,
+ "el_ref_mean": -1.45,
+ "az_ref_range": 6.83,
+ "doa_valid_frac": 1.0
+}

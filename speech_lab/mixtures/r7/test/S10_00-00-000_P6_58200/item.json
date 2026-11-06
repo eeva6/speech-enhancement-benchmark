@@ -1,0 +1,29 @@
+{
+ "id": "S10_00-00-000_P6_58200",
+ "split": "test",
+ "session": 10,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Ah, not anymore!",
+ "start_s": 58.2,
+ "end_s": 59.25,
+ "dur": 1.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 48800,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.06730867244186811,
+ "align_how": "minute_line",
+ "az_ref_mean": -0.17,
+ "el_ref_mean": 8.28,
+ "az_ref_range": 7.6,
+ "doa_valid_frac": 1.0
+}

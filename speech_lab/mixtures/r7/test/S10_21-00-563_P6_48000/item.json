@@ -1,0 +1,29 @@
+{
+ "id": "S10_21-00-563_P6_48000",
+ "split": "test",
+ "session": 10,
+ "seg": "21-00-563",
+ "seg_start_s": 1260.563,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Cue- clues. ",
+ "start_s": 48.0,
+ "end_s": 49.15,
+ "dur": 1.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 50400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.01270336451852927,
+ "align_how": "session_slope",
+ "az_ref_mean": -5.77,
+ "el_ref_mean": 1.74,
+ "az_ref_range": 0.61,
+ "doa_valid_frac": 1.0
+}

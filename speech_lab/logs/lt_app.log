@@ -1,0 +1,2 @@
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/listening_test.py:142: UserWarning: The parameters have been moved from the Blocks constructor to the launch() method in Gradio 6.0: css. Please pass these parameters to launch() instead.
+  with gr.Blocks(title="Listening test", css=css) as demo:

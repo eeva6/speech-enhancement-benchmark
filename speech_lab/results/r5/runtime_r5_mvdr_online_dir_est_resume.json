@@ -1,0 +1,17 @@
+{
+ "method": "mvdr_online_dir_est",
+ "tag": "r5",
+ "n": 88,
+ "n_fail": 0,
+ "fails": [],
+ "rtf": 0.28987175912202223,
+ "peak_rss_mb": 440.875,
+ "infos": {},
+ "streaming": {
+  "per_hop_ms": 0.9758289177181194,
+  "hop_ms": 16.0,
+  "latency_ms": 32.0
+ },
+ "latency": "32 ms, fully causal incl. DOA",
+ "cpu": "2 vCPU aarch64, no GPU"
+}

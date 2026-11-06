@@ -1,0 +1,29 @@
+{
+ "id": "S11_05-00-388_P7_21750",
+ "split": "test",
+ "session": 11,
+ "seg": "05-00-388",
+ "seg_start_s": 300.388,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Okay. Great. [L]",
+ "start_s": 21.75,
+ "end_s": 23.15,
+ "dur": 1.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 54400,
+ "overlap": true,
+ "ovl_frac": 0.179,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.017050625956471777,
+ "align_how": "session_slope",
+ "az_ref_mean": -38.12,
+ "el_ref_mean": -10.02,
+ "az_ref_range": 58.39,
+ "doa_valid_frac": 1.0
+}

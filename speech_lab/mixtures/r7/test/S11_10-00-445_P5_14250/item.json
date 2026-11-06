@@ -1,0 +1,29 @@
+{
+ "id": "S11_10-00-445_P5_14250",
+ "split": "test",
+ "session": 11,
+ "seg": "10-00-445",
+ "seg_start_s": 600.445,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Well that's, that's so confusing.",
+ "start_s": 14.25,
+ "end_s": 15.55,
+ "dur": 1.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 52800,
+ "overlap": true,
+ "ovl_frac": 0.885,
+ "t_since_turn_onset": 8.1,
+ "align_res_absmed_ms": 0.0168338228831999,
+ "align_how": "session_slope",
+ "az_ref_mean": -7.74,
+ "el_ref_mean": 16.57,
+ "az_ref_range": 9.05,
+ "doa_valid_frac": 1.0
+}

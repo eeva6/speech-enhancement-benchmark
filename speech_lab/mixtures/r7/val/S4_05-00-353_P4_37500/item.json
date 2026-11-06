@@ -1,0 +1,29 @@
+{
+ "id": "S4_05-00-353_P4_37500",
+ "split": "val",
+ "session": 4,
+ "seg": "05-00-353",
+ "seg_start_s": 300.353,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Okay. So I'd like to start with a green salad and mac and cheese, [H] followed by the huge burger. Second course. And then if [H] shortly after that I could get the delicious steak. Yeah. Yeah.",
+ "start_s": 37.5,
+ "end_s": 51.75,
+ "dur": 14.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 260000,
+ "overlap": true,
+ "ovl_frac": 0.698,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.04982213067705743,
+ "align_how": "session_slope",
+ "az_ref_mean": 10.27,
+ "el_ref_mean": 9.2,
+ "az_ref_range": 14.95,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_27-00-632_P3_00050",
+ "split": "val",
+ "session": 4,
+ "seg": "27-00-632",
+ "seg_start_s": 1620.632,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Camera zoom out.",
+ "start_s": 0.05,
+ "end_s": 1.25,
+ "dur": 1.2,
+ "ctx_s": 0.05,
+ "utt_offset_samples": 800,
+ "n_samples": 20000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.015129471194086364,
+ "align_how": "session_slope",
+ "az_ref_mean": 11.44,
+ "el_ref_mean": 0.64,
+ "az_ref_range": 0.71,
+ "doa_valid_frac": 1.0
+}

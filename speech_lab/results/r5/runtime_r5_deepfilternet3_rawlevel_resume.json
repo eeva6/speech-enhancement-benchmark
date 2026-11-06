@@ -1,0 +1,13 @@
+{
+ "method": "deepfilternet3_rawlevel",
+ "tag": "r5",
+ "n": 144,
+ "n_fail": 0,
+ "fails": [],
+ "rtf": 0.6159080926312694,
+ "peak_rss_mb": 519.30859375,
+ "infos": {},
+ "streaming": null,
+ "latency": "40 ms (config)",
+ "cpu": "2 vCPU aarch64, no GPU"
+}

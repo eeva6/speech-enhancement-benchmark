@@ -1,0 +1,29 @@
+{
+ "id": "S10_10-00-423_P4_42050",
+ "split": "test",
+ "session": 10,
+ "seg": "10-00-423",
+ "seg_start_s": 600.423,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "No, I- that might not be true, right? I mean, you won't know him.",
+ "start_s": 42.05,
+ "end_s": 45.65,
+ "dur": 3.6,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 89600,
+ "overlap": true,
+ "ovl_frac": 0.014,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03380286034371238,
+ "align_how": "minute_line",
+ "az_ref_mean": 20.56,
+ "el_ref_mean": 4.36,
+ "az_ref_range": 9.59,
+ "doa_valid_frac": 1.0
+}

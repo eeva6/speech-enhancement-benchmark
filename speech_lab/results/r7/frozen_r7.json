@@ -1,0 +1,42 @@
+{
+ "tuning_set": "val sub300 (stratified session x target, seed 7, items with words)",
+ "n_tuning": 300,
+ "front_choice": {
+  "front1": 0.3798,
+  "front2": 0.4124,
+  "front3": 0.39,
+  "front4": 0.3713
+ },
+ "ref_choice": {
+  "hs_sd8__r0w0": 0.4196,
+  "hs_sd8__r1w0": 0.4209,
+  "hs_sd8__r2w0": 0.4026,
+  "hs_sd8__r3w0": 0.4065
+ },
+ "wng_choice": {
+  "hs_sd8__r1w-3": 0.4206,
+  "hs_sd8__r1w-6": 0.4362,
+  "hs_sd8__r1w0": 0.4209,
+  "hs_sd8__r1w3": 0.4148,
+  "hs_sd8__r1w6": 0.4127
+ },
+ "hyb_choice": {
+  "hyb_sd8__X20t1": 0.4221,
+  "hyb_sd8__X20t3": 0.4263,
+  "hyb_sd8__X20t8": 0.4394,
+  "hyb_sd8__X30t1": 0.4105,
+  "hyb_sd8__X30t3": 0.4174,
+  "hyb_sd8__X30t8": 0.4364,
+  "hyb_sd8__X45t1": 0.4135,
+  "hyb_sd8__X45t3": 0.4211,
+  "hyb_sd8__X45t8": 0.4366
+ },
+ "front": 2,
+ "ref": 1,
+ "wng_db": -6.0,
+ "X": 20.0,
+ "thr": 8.0,
+ "frozen": true,
+ "frozen_at_utc": "2026-10-24 05:02:03",
+ "rule": "argmax mean word-correct on the val tuning set; sequential: front mic and ref mic (WNG 0 dB), then WNG floor, then hybrid X/thr"
+}

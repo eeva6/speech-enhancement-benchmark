@@ -1,0 +1,29 @@
+{
+ "id": "S11_24-00-623_P5_25600",
+ "split": "test",
+ "session": 11,
+ "seg": "24-00-623",
+ "seg_start_s": 1440.623,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "[H] What about that thing where the cables come from? Oh nice.",
+ "start_s": 25.6,
+ "end_s": 29.6,
+ "dur": 4.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 96000,
+ "overlap": true,
+ "ovl_frac": 0.425,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.37677241198252887,
+ "align_how": "minute_line",
+ "az_ref_mean": -10.22,
+ "el_ref_mean": 6.84,
+ "az_ref_range": 182.52,
+ "doa_valid_frac": 1.0
+}

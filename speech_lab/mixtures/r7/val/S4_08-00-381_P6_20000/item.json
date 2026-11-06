@@ -1,0 +1,29 @@
+{
+ "id": "S4_08-00-381_P6_20000",
+ "split": "val",
+ "session": 4,
+ "seg": "08-00-381",
+ "seg_start_s": 480.381,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Well if you're only allowed one trip up, you can",
+ "start_s": 20.0,
+ "end_s": 22.95,
+ "dur": 2.95,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 79200,
+ "overlap": true,
+ "ovl_frac": 0.559,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.027580477762967348,
+ "align_how": "minute_line",
+ "az_ref_mean": -14.8,
+ "el_ref_mean": 4.18,
+ "az_ref_range": 2.45,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S11_02-00-354_P7_02300",
+ "split": "test",
+ "session": 11,
+ "seg": "02-00-354",
+ "seg_start_s": 120.354,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "3"
+ ],
+ "target": "other",
+ "text": "Not monkeys. I use chinchillas!",
+ "start_s": 2.3,
+ "end_s": 4.2,
+ "dur": 1.9,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 62400,
+ "overlap": true,
+ "ovl_frac": 0.053,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.25025277864187956,
+ "align_how": "minute_line",
+ "az_ref_mean": -10.38,
+ "el_ref_mean": -2.19,
+ "az_ref_range": 10.34,
+ "doa_valid_frac": 1.0
+}

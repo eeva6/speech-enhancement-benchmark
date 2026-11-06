@@ -1,0 +1,29 @@
+{
+ "id": "S4_02-00-322_P3_31700",
+ "split": "val",
+ "session": 4,
+ "seg": "02-00-322",
+ "seg_start_s": 120.322,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "[L] Cool.",
+ "start_s": 31.7,
+ "end_s": 34.75,
+ "dur": 3.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 80800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.04887327304459177,
+ "align_how": "session_slope",
+ "az_ref_mean": 87.12,
+ "el_ref_mean": 0.56,
+ "az_ref_range": 32.51,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S11_02-00-354_P5_47800",
+ "split": "test",
+ "session": 11,
+ "seg": "02-00-354",
+ "seg_start_s": 120.354,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So we make special pencils and special notebooks [H] that monkeys use.",
+ "start_s": 47.8,
+ "end_s": 53.1,
+ "dur": 5.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 116800,
+ "overlap": true,
+ "ovl_frac": 0.717,
+ "t_since_turn_onset": 7.15,
+ "align_res_absmed_ms": 0.2734154732024763,
+ "align_how": "session_slope",
+ "az_ref_mean": -3.8,
+ "el_ref_mean": -2.74,
+ "az_ref_range": 18.59,
+ "doa_valid_frac": 1.0
+}

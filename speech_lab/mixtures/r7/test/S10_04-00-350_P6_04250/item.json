@@ -1,0 +1,29 @@
+{
+ "id": "S10_04-00-350_P6_04250",
+ "split": "test",
+ "session": 10,
+ "seg": "04-00-350",
+ "seg_start_s": 240.35,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Oh no. I don't like deep fried stuff. Give me a huge burger.",
+ "start_s": 4.25,
+ "end_s": 7.35,
+ "dur": 3.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 81600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.7694365340285003,
+ "align_how": "session_slope",
+ "az_ref_mean": -24.71,
+ "el_ref_mean": 31.56,
+ "az_ref_range": 9.44,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,17 @@
+{
+ "method": "mvdr_online_dir_ref",
+ "tag": "r5",
+ "n": 144,
+ "n_fail": 0,
+ "fails": [],
+ "rtf": 0.10382638156507996,
+ "peak_rss_mb": 281.3671875,
+ "infos": {},
+ "streaming": {
+  "per_hop_ms": 1.6384438420288654,
+  "hop_ms": 16.0,
+  "latency_ms": 32.0
+ },
+ "latency": "32 ms; ORACLE geometry",
+ "cpu": "2 vCPU aarch64, no GPU"
+}

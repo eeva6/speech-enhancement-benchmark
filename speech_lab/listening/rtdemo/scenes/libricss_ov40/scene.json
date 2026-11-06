@@ -1,0 +1,95 @@
+{
+ "id": "libricss_ov40",
+ "title": "Real LibriCSS meeting room (OV40), 7-mic table array",
+ "kind": "libricss",
+ "array": "libricss7",
+ "xy": [
+  [
+   0.0,
+   0.0
+  ],
+  [
+   0.0425,
+   0.0
+  ],
+  [
+   0.021250000000000005,
+   0.036806079660838646
+  ],
+  [
+   -0.02124999999999999,
+   0.036806079660838646
+  ],
+  [
+   -0.0425,
+   5.204748896376251e-18
+  ],
+  [
+   -0.02125000000000002,
+   -0.03680607966083863
+  ],
+  [
+   0.021250000000000005,
+   -0.036806079660838646
+  ]
+ ],
+ "front": 0,
+ "head_az_array": 186.5,
+ "look_az_array": 186.5,
+ "scene_type": "meeting",
+ "r5_item": "OV40_s0_1320-122617-0024",
+ "session": 0,
+ "t0_playback": 40.404688,
+ "talkers": [
+  {
+   "name": "spk 1284 (loudspeaker 7)",
+   "az": -90.0,
+   "target": false,
+   "acts": [
+    [
+     0,
+     3.293123999999999
+    ]
+   ]
+  },
+  {
+   "name": "spk 1320 (loudspeaker 1)",
+   "az": 0.0,
+   "target": true,
+   "acts": [
+    [
+     3.0,
+     9.990000000000002
+    ]
+   ]
+  },
+  {
+   "name": "spk 1284 (loudspeaker 7)",
+   "az": -90.0,
+   "target": false,
+   "acts": [
+    [
+     7.567811999999996,
+     15.357812000000003
+    ]
+   ]
+  },
+  {
+   "name": "spk 7127 (loudspeaker 2)",
+   "az": null,
+   "target": false,
+   "acts": [
+    [
+     15.381374000000001,
+     16.0
+    ]
+   ]
+  }
+ ],
+ "licence": "LibriCSS (CC BY 4.0, Chen et al. 2020) re-recording of LibriSpeech (CC BY 4.0)",
+ "external_ok": true,
+ "notes": "table array, not glasses: 'head direction' = ORACLE look direction (system-ID azimuth of the target loudspeaker), as if the wearer faced the target; talkers without an r5 system-ID azimuth are shown without a direction",
+ "n": 256000,
+ "channels": 7,
+ "fs": 16000
+}

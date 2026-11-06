@@ -1,0 +1,29 @@
+{
+ "id": "S11_29-00-684_P7_16600",
+ "split": "test",
+ "session": 11,
+ "seg": "29-00-684",
+ "seg_start_s": 1740.684,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Add twenty three minutes to the timer.",
+ "start_s": 16.6,
+ "end_s": 18.6,
+ "dur": 2.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 64000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 15.95,
+ "align_res_absmed_ms": 0.009481264896749053,
+ "align_how": "minute_line",
+ "az_ref_mean": -9.73,
+ "el_ref_mean": -1.63,
+ "az_ref_range": 1.15,
+ "doa_valid_frac": 1.0
+}

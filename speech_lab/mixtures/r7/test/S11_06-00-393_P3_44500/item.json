@@ -1,0 +1,29 @@
+{
+ "id": "S11_06-00-393_P3_44500",
+ "split": "test",
+ "session": 11,
+ "seg": "06-00-393",
+ "seg_start_s": 360.393,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Thank- thank you.",
+ "start_s": 44.5,
+ "end_s": 45.6,
+ "dur": 1.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 49600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.13171891623642296,
+ "align_how": "minute_line",
+ "az_ref_mean": 25.68,
+ "el_ref_mean": 1.78,
+ "az_ref_range": 5.89,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,37 @@
+{
+ "specsub": {
+  "algorithmic_latency_ms": 32.0,
+  "hop_ms": 8.0,
+  "compute_per_hop_ms": 0.015176571722381326,
+  "realtime_ok": true
+ },
+ "wiener_dd": {
+  "algorithmic_latency_ms": 32.0,
+  "hop_ms": 8.0,
+  "compute_per_hop_ms": 0.025711115681249112,
+  "realtime_ok": true
+ },
+ "mmse_lsa": {
+  "algorithmic_latency_ms": 32.0,
+  "hop_ms": 8.0,
+  "compute_per_hop_ms": 0.07447037943448825,
+  "realtime_ok": true
+ },
+ "demucs_dns64_stream_nf1": {
+  "algorithmic_latency_ms": 41.3125,
+  "stride_ms": 16.0,
+  "compute_per_stride_ms": 40.3870230580976,
+  "rtf": 2.5241889411311,
+  "realtime_ok": false,
+  "note": "latency = buffered input needed before first output; add compute time per stride for end-to-end"
+ },
+ "demucs_dns64_stream_nf4": {
+  "algorithmic_latency_ms": 89.3125,
+  "stride_ms": 64.0,
+  "compute_per_stride_ms": 66.94467485449843,
+  "rtf": 1.046010544601538,
+  "realtime_ok": false,
+  "note": "latency = buffered input needed before first output; add compute time per stride for end-to-end"
+ },
+ "machine": "2 vCPU aarch64 sandbox, torch threads=2, no GPU"
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_17-00-478_P4_48100",
+ "split": "val",
+ "session": 4,
+ "seg": "17-00-478",
+ "seg_start_s": 1020.478,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "We- We don't know- we don't know if the hell guard is a liar or know which one's the liar, right?",
+ "start_s": 48.1,
+ "end_s": 56.7,
+ "dur": 8.6,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 169600,
+ "overlap": true,
+ "ovl_frac": 0.448,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.014670590189780341,
+ "align_how": "session_slope",
+ "az_ref_mean": 25.79,
+ "el_ref_mean": 13.44,
+ "az_ref_range": 25.22,
+ "doa_valid_frac": 1.0
+}

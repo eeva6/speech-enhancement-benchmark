@@ -1,0 +1,29 @@
+{
+ "id": "S4_20-00-540_P6_51650",
+ "split": "val",
+ "session": 4,
+ "seg": "20-00-540",
+ "seg_start_s": 1200.54,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Alright. So who's gonna I Spy next?",
+ "start_s": 51.65,
+ "end_s": 53.65,
+ "dur": 2.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 64000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 6.05,
+ "align_res_absmed_ms": 0.21889196068514138,
+ "align_how": "minute_line",
+ "az_ref_mean": -14.71,
+ "el_ref_mean": 9.71,
+ "az_ref_range": 15.13,
+ "doa_valid_frac": 1.0
+}

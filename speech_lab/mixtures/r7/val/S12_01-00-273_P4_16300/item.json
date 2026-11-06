@@ -1,0 +1,29 @@
+{
+ "id": "S12_01-00-273_P4_16300",
+ "split": "val",
+ "session": 12,
+ "seg": "01-00-273",
+ "seg_start_s": 60.273,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "[H] Mostly commercial. That's where the money's at to be honest. So, yeah.",
+ "start_s": 16.3,
+ "end_s": 20.8,
+ "dur": 4.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 104000,
+ "overlap": true,
+ "ovl_frac": 0.756,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.26183301815763116,
+ "align_how": "minute_line",
+ "az_ref_mean": 10.32,
+ "el_ref_mean": 5.37,
+ "az_ref_range": 6.59,
+ "doa_valid_frac": 1.0
+}

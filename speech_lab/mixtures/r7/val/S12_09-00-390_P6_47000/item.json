@@ -1,0 +1,29 @@
+{
+ "id": "S12_09-00-390_P6_47000",
+ "split": "val",
+ "session": 12,
+ "seg": "09-00-390",
+ "seg_start_s": 540.39,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "If you ask \"is your door heaven\" he could say yes and be honest or he could be lying and it could be hell. Be either, right? ",
+ "start_s": 47.0,
+ "end_s": 55.75,
+ "dur": 8.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 172000,
+ "overlap": true,
+ "ovl_frac": 0.2,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.014641628695244435,
+ "align_how": "minute_line",
+ "az_ref_mean": -18.08,
+ "el_ref_mean": 15.67,
+ "az_ref_range": 12.51,
+ "doa_valid_frac": 1.0
+}

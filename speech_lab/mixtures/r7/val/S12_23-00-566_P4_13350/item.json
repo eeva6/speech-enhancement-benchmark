@@ -1,0 +1,29 @@
+{
+ "id": "S12_23-00-566_P4_13350",
+ "split": "val",
+ "session": 12,
+ "seg": "23-00-566",
+ "seg_start_s": 1380.566,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Okay. Piece of tape.",
+ "start_s": 13.35,
+ "end_s": 14.45,
+ "dur": 1.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 49600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 3.2,
+ "align_res_absmed_ms": 0.2416893985355273,
+ "align_how": "minute_line",
+ "az_ref_mean": 28.7,
+ "el_ref_mean": 10.99,
+ "az_ref_range": 12.77,
+ "doa_valid_frac": 1.0
+}

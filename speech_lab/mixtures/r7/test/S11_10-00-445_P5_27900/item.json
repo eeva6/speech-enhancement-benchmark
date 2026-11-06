@@ -1,0 +1,29 @@
+{
+ "id": "S11_10-00-445_P5_27900",
+ "split": "test",
+ "session": 11,
+ "seg": "10-00-445",
+ "seg_start_s": 600.445,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "3"
+ ],
+ "target": "other",
+ "text": "I mean the father's, the father's son, his father's son is himself in theory, like, if there's no like [H] trick.",
+ "start_s": 27.9,
+ "end_s": 34.95,
+ "dur": 7.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 144800,
+ "overlap": true,
+ "ovl_frac": 0.262,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0168338228831999,
+ "align_how": "session_slope",
+ "az_ref_mean": -6.33,
+ "el_ref_mean": 3.54,
+ "az_ref_range": 6.55,
+ "doa_valid_frac": 1.0
+}

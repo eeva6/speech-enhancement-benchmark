@@ -1,0 +1,37 @@
+  Downloaded trim-in-place v0.1.7
+  Downloaded utf8parse v0.2.1
+  Downloaded tract-onnx-opl v0.21.4
+  Downloaded tract-hir v0.21.4
+  Downloaded tract-core v0.21.4
+  Downloaded unicode-normalization v0.1.23
+  Downloaded tract-linalg v0.21.4
+  Downloaded unicode-segmentation v1.11.0
+  Downloaded tract-onnx v0.21.4
+  Downloaded tract-nnef v0.21.4
+  Downloaded walkdir v2.5.0
+  Downloaded xattr v1.3.1
+  Downloaded zerocopy v0.7.33
+   Compiling autocfg v1.3.0
+   Compiling proc-macro2 v1.0.107
+   Compiling unicode-ident v1.0.12
+   Compiling libm v0.2.8
+error: linking with `/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/ccbin/rustlink` failed: signal: 7 (SIGBUS)
+  |
+  = note:  "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/ccbin/rustlink" "-Wl,--fix-cortex-a53-843419" "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/third_party/df_target/release/build/libm-62a1f92bc4202563/rustcEGThqA/symbols.o" "<2 object files omitted>" "-Wl,--as-needed" "-Wl,-Bstatic" "<sysroot>/lib/rustlib/aarch64-unknown-linux-gnu/lib/{libstd-*,libpanic_unwind-*,libobject-*,libmemchr-*,libaddr2line-*,libgimli-*,libcfg_if-*,librustc_demangle-*,libstd_detect-*,libhashbrown-*,librustc_std_workspace_alloc-*,libminiz_oxide-*,libadler2-*,libunwind-*,liblibc-*,librustc_std_workspace_core-*,liballoc-*,libcore-*,libcompiler_builtins-*}.rlib" "-Wl,-Bdynamic" "-lgcc_s" "-lutil" "-lrt" "-lpthread" "-lm" "-ldl" "-lc" "-L" "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/third_party/df_target/release/build/libm-62a1f92bc4202563/rustcEGThqA/raw-dylibs" "-Wl,--eh-frame-hdr" "-Wl,-z,noexecstack" "-L" "<sysroot>/lib/rustlib/aarch64-unknown-linux-gnu/lib" "-o" "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/third_party/df_target/release/build/libm-62a1f92bc4202563/build_script_build-62a1f92bc4202563" "-Wl,--gc-sections" "-pie" "-Wl,-z,relro,-z,now" "-Wl,--strip-debug" "-nodefaultlibs"
+  = note: some arguments are omitted. use `--verbose` to show all linker arguments
+  = note: 
+
+error: could not compile `libm` (build script) due to 1 previous error
+warning: build failed, waiting for other jobs to finish...
+   Compiling libm v0.2.8
+   Compiling proc-macro2 v1.0.107
+   Compiling quote v1.0.36
+   Compiling libc v0.2.191
+   Compiling cfg-if v1.0.0
+   Compiling syn v2.0.60
+   Compiling num-traits v0.2.19
+   Compiling version_check v0.9.4
+   Compiling once_cell v1.19.0
+   Compiling thiserror v1.0.59
+ls: cannot access '/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/third_party/df_target/release/deep-filter': No such file or directory
+ls: cannot access '/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/third_party/df_target/release/libdf.so': No such file or directory

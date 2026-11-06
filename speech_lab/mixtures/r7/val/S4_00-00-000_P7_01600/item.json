@@ -1,0 +1,29 @@
+{
+ "id": "S4_00-00-000_P7_01600",
+ "split": "val",
+ "session": 4,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Yeah. Let's do that.",
+ "start_s": 1.6,
+ "end_s": 2.7,
+ "dur": 1.1,
+ "ctx_s": 1.6,
+ "utt_offset_samples": 25600,
+ "n_samples": 43200,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -75.84,
+ "el_ref_mean": -2.59,
+ "az_ref_range": 11.55,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S12_23-00-566_P4_51900",
+ "split": "val",
+ "session": 12,
+ "seg": "23-00-566",
+ "seg_start_s": 1380.566,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Is anybody colorblind here? Oh. Okay. Oh I'm no- I- I- At least I- I don't think I am.",
+ "start_s": 51.9,
+ "end_s": 59.8,
+ "dur": 7.9,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 158400,
+ "overlap": true,
+ "ovl_frac": 0.937,
+ "t_since_turn_onset": 11.45,
+ "align_res_absmed_ms": 0.2416893985355273,
+ "align_how": "minute_line",
+ "az_ref_mean": 3.35,
+ "el_ref_mean": 14.08,
+ "az_ref_range": 87.62,
+ "doa_valid_frac": 1.0
+}

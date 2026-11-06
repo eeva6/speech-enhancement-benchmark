@@ -1,0 +1,29 @@
+{
+ "id": "S10_13-00-474_P6_03250",
+ "split": "test",
+ "session": 10,
+ "seg": "13-00-474",
+ "seg_start_s": 780.474,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Double negation kind of things? Well no. Would lead to the same problem.",
+ "start_s": 3.25,
+ "end_s": 7.7,
+ "dur": 4.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 103200,
+ "overlap": true,
+ "ovl_frac": 0.056,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0414321111747995,
+ "align_how": "minute_line",
+ "az_ref_mean": -11.23,
+ "el_ref_mean": 1.5,
+ "az_ref_range": 17.62,
+ "doa_valid_frac": 1.0
+}

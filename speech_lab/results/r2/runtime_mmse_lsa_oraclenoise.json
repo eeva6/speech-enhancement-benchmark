@@ -1,0 +1,17 @@
+{
+ "method": "mmse_lsa_oraclenoise",
+ "tag": "r2",
+ "n": 180,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 0.04559318000002577,
+ "mean_proc_s": 0.0445670170949706,
+ "rtf": 0.007714395166400552,
+ "peak_rss_mb": 269.48828125,
+ "rss_before_mb": 246.1171875,
+ "n_params": null,
+ "noise_psd": "oracle",
+ "infos": {},
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

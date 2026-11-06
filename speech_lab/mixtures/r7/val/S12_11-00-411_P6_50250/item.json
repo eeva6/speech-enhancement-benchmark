@@ -1,0 +1,29 @@
+{
+ "id": "S12_11-00-411_P6_50250",
+ "split": "val",
+ "session": 12,
+ "seg": "11-00-411",
+ "seg_start_s": 660.411,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Wonder if it's like a double negative somewhere?",
+ "start_s": 50.25,
+ "end_s": 52.25,
+ "dur": 2.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 64000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.33619692840147763,
+ "align_how": "minute_line",
+ "az_ref_mean": -24.63,
+ "el_ref_mean": 7.41,
+ "az_ref_range": 2.56,
+ "doa_valid_frac": 1.0
+}

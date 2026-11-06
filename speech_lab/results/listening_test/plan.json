@@ -1,0 +1,636 @@
+{
+ "cells": [
+  {
+   "cond": "rec_babble",
+   "snr": 0,
+   "sentences": [
+    {
+     "id": "rec_babble_snr+0_00",
+     "text": "I sailed third mate in the little Vampire before you were born. His outstretched arm dropped to his side, and he paused.",
+     "stim": {
+      "noisy": "e3e70682c2",
+      "wiener_dd": "f728b4fa42",
+      "rnnoise": "eb1167b367",
+      "deepfilternet3": "f7c1bd874d",
+      "demucs_dns64": "e443df7895",
+      "tse_convtasnet_ecapa": "23a7711a81"
+     }
+    },
+    {
+     "id": "rec_babble_snr+0_01",
+     "text": "There was no chance to fire without hitting him. There was no answer from the other side.",
+     "stim": {
+      "noisy": "1846d424c1",
+      "wiener_dd": "fcbd04c340",
+      "rnnoise": "b4862b21fb",
+      "deepfilternet3": "259f4329e6",
+      "demucs_dns64": "12e0c8b2ba",
+      "tse_convtasnet_ecapa": "5487ce1eaf"
+     }
+    },
+    {
+     "id": "rec_babble_snr+0_02",
+     "text": "Saxon's onto her job. Only once did I confide the strangeness of it all to another.",
+     "stim": {
+      "noisy": "5a92118719",
+      "wiener_dd": "a3f2c9bf9c",
+      "rnnoise": "8d723104f7",
+      "deepfilternet3": "85776e9add",
+      "demucs_dns64": "eb2083e6ce",
+      "tse_convtasnet_ecapa": "17e0aa3c03"
+     }
+    },
+    {
+     "id": "rec_babble_snr+0_03",
+     "text": "The log on which Lop-Ear was lying got adrift. This is a common experience with all of us.",
+     "stim": {
+      "noisy": "b5d32b1666",
+      "wiener_dd": "a0116be5ab",
+      "rnnoise": "d3fbf47a7e",
+      "deepfilternet3": "baf3897a3e",
+      "demucs_dns64": "101fbcccde",
+      "tse_convtasnet_ecapa": "38c1962e91"
+     }
+    },
+    {
+     "id": "rec_babble_snr+0_04",
+     "text": "Something vastly more thrilling had come into it now. It took him half an hour to reach the edge of it.",
+     "stim": {
+      "noisy": "247a8333f7",
+      "wiener_dd": "1759edc372",
+      "rnnoise": "e005b86051",
+      "deepfilternet3": "7d41e602ee",
+      "demucs_dns64": "4a84eb038d",
+      "tse_convtasnet_ecapa": "552f233a8c"
+     }
+    },
+    {
+     "id": "rec_babble_snr+0_05",
+     "text": "Poor little Crooked-Leg was terribly scared. Unconsciously, our yells and exclamations yielded to this rhythm.",
+     "stim": {
+      "noisy": "3405095c8a",
+      "wiener_dd": "8c1745a79a",
+      "rnnoise": "1775336d71",
+      "deepfilternet3": "5129fb7c62",
+      "demucs_dns64": "2f1205544a",
+      "tse_convtasnet_ecapa": "0870e15c2f"
+     }
+    }
+   ]
+  },
+  {
+   "cond": "rec_babble",
+   "snr": -5,
+   "sentences": [
+    {
+     "id": "rec_babble_snr-5_00",
+     "text": "It was a gigantic inadequacy. Our Mr Howison will call upon you at your hotel.",
+     "stim": {
+      "noisy": "42930b33a8",
+      "wiener_dd": "adc0da7a16",
+      "rnnoise": "2648ee38e0",
+      "deepfilternet3": "148b2758d7",
+      "demucs_dns64": "d450fe4aec",
+      "tse_convtasnet_ecapa": "d67e55fd64"
+     }
+    },
+    {
+     "id": "rec_babble_snr-5_01",
+     "text": "Now go ahead and tell me in a straightforward way what has happened. That's where they cut off the Scottish Chiefs and killed all hands.",
+     "stim": {
+      "noisy": "8594092746",
+      "wiener_dd": "37176e84d9",
+      "rnnoise": "d344749096",
+      "deepfilternet3": "4674374194",
+      "demucs_dns64": "a425799aa9",
+      "tse_convtasnet_ecapa": "fb82860dea"
+     }
+    },
+    {
+     "id": "rec_babble_snr-5_02",
+     "text": "Among my minor afflictions, I may mention a new and mysterious one. The voyage was our idea of a good time.",
+     "stim": {
+      "noisy": "5306f3f515",
+      "wiener_dd": "964a870c7c",
+      "rnnoise": "30bcab0ed8",
+      "deepfilternet3": "4562be7fbb",
+      "demucs_dns64": "5f3f563838",
+      "tse_convtasnet_ecapa": "6d16ee1855"
+     }
+    },
+    {
+     "id": "rec_babble_snr-5_03",
+     "text": "If you only could know how I thank you. He waded into the edge of the water and began scrubbing himself.",
+     "stim": {
+      "noisy": "c87a746319",
+      "wiener_dd": "38018b47b2",
+      "rnnoise": "a25b59fd92",
+      "deepfilternet3": "9a27d85888",
+      "demucs_dns64": "1fdb8b3206",
+      "tse_convtasnet_ecapa": "d480865f9b"
+     }
+    },
+    {
+     "id": "rec_babble_snr-5_04",
+     "text": "Philip ate lightly of the food which Pierre had ready for him. Such men believe, when they come together.",
+     "stim": {
+      "noisy": "176ea1b164",
+      "wiener_dd": "1db53334fb",
+      "rnnoise": "31d0b66405",
+      "deepfilternet3": "b7d6467b2f",
+      "demucs_dns64": "ba26d85135",
+      "tse_convtasnet_ecapa": "ade9b2b4ef"
+     }
+    },
+    {
+     "id": "rec_babble_snr-5_05",
+     "text": "So cheer up, and give us your paw. This time he did not yap for mercy.",
+     "stim": {
+      "noisy": "9edfa3da6c",
+      "wiener_dd": "11ebcd4942",
+      "rnnoise": "4d125e7fa5",
+      "deepfilternet3": "0fa07a3f2e",
+      "demucs_dns64": "98b33c6e0a",
+      "tse_convtasnet_ecapa": "642aad48fc"
+     }
+    }
+   ]
+  },
+  {
+   "cond": "rec_hvac",
+   "snr": 0,
+   "sentences": [
+    {
+     "id": "rec_hvac_snr+0_00",
+     "text": "It is the nearest refuge. There was pride and strength, the ring of triumph in his voice.",
+     "stim": {
+      "noisy": "e786ab375b",
+      "wiener_dd": "e6fd68e8d6",
+      "rnnoise": "b29c467d2b",
+      "deepfilternet3": "c470f0e7f7",
+      "demucs_dns64": "28805c5dad",
+      "tse_convtasnet_ecapa": "878b9f6b57"
+     }
+    },
+    {
+     "id": "rec_hvac_snr+0_01",
+     "text": "The creative joy, I murmured. He deluged me, overwhelmed me with argument.",
+     "stim": {
+      "noisy": "ebe2136898",
+      "wiener_dd": "0361524c2c",
+      "rnnoise": "e66cd36e68",
+      "deepfilternet3": "eae2025e82",
+      "demucs_dns64": "637e0edc5b",
+      "tse_convtasnet_ecapa": "27460f2240"
+     }
+    },
+    {
+     "id": "rec_hvac_snr+0_02",
+     "text": "But Martin smiled a superior smile. By that answer my professional medical prestige stood or fell.",
+     "stim": {
+      "noisy": "753c7c9903",
+      "wiener_dd": "bd30291a55",
+      "rnnoise": "2284b7a447",
+      "deepfilternet3": "7b59051bf4",
+      "demucs_dns64": "ac642b4c49",
+      "tse_convtasnet_ecapa": "e456697cf2"
+     }
+    },
+    {
+     "id": "rec_hvac_snr+0_03",
+     "text": "How can you manage all alone, Mr Young. The planters are already considering the matter.",
+     "stim": {
+      "noisy": "21e150949e",
+      "wiener_dd": "bf9cc54563",
+      "rnnoise": "14aa451ca6",
+      "deepfilternet3": "b2d650af31",
+      "demucs_dns64": "391cf0463d",
+      "tse_convtasnet_ecapa": "b5d97ef760"
+     }
+    },
+    {
+     "id": "rec_hvac_snr+0_04",
+     "text": "That's Thorpe's, said the young engineer. We saw your light, and thought you wouldn't mind a call.",
+     "stim": {
+      "noisy": "dfe1b30791",
+      "wiener_dd": "df26f51766",
+      "rnnoise": "c5adf6816b",
+      "deepfilternet3": "2a69acc70b",
+      "demucs_dns64": "b396905742",
+      "tse_convtasnet_ecapa": "e28bc9ff87"
+     }
+    },
+    {
+     "id": "rec_hvac_snr+0_05",
+     "text": "Therefore, hurrah for the game. It lived in perpetual apprehension of that quarter of the compass.",
+     "stim": {
+      "noisy": "9a9e43108f",
+      "wiener_dd": "09f6048fe2",
+      "rnnoise": "d675ebf74f",
+      "deepfilternet3": "d29dc5dfcf",
+      "demucs_dns64": "6a46721acf",
+      "tse_convtasnet_ecapa": "f689a4a5ff"
+     }
+    }
+   ]
+  },
+  {
+   "cond": "rec_hvac",
+   "snr": -5,
+   "sentences": [
+    {
+     "id": "rec_hvac_snr-5_00",
+     "text": "I'll be out of my head in fifteen minutes. I do not blame you for anything; remember that.",
+     "stim": {
+      "noisy": "d663049d15",
+      "wiener_dd": "03c54c71fc",
+      "rnnoise": "6ae04d52ad",
+      "deepfilternet3": "03a8987936",
+      "demucs_dns64": "faf1501b00",
+      "tse_convtasnet_ecapa": "9cb017c187"
+     }
+    },
+    {
+     "id": "rec_hvac_snr-5_01",
+     "text": "Harrison is still my chauffeur. The boy grew and prospered.",
+     "stim": {
+      "noisy": "9bbd750d1e",
+      "wiener_dd": "4d6b234fdf",
+      "rnnoise": "2ea60b99fa",
+      "deepfilternet3": "ec3aa314da",
+      "demucs_dns64": "0597aab614",
+      "tse_convtasnet_ecapa": "ccc14d5173"
+     }
+    },
+    {
+     "id": "rec_hvac_snr-5_02",
+     "text": "After all, it was simply a mistake in judgment. Had it struck squarely it would have killed him.",
+     "stim": {
+      "noisy": "41a93f90dc",
+      "wiener_dd": "d138d15085",
+      "rnnoise": "1d77ce4058",
+      "deepfilternet3": "d9ead92647",
+      "demucs_dns64": "34ab18fd0a",
+      "tse_convtasnet_ecapa": "50910bdc8e"
+     }
+    },
+    {
+     "id": "rec_hvac_snr-5_03",
+     "text": "Lots of men take women buggy riding. Daylight made no answer, and the door closed behind him.",
+     "stim": {
+      "noisy": "914591aef0",
+      "wiener_dd": "d8ab0b300a",
+      "rnnoise": "9b8b71a1b3",
+      "deepfilternet3": "a4e695c9b6",
+      "demucs_dns64": "6f790959a3",
+      "tse_convtasnet_ecapa": "2da44da189"
+     }
+    },
+    {
+     "id": "rec_hvac_snr-5_04",
+     "text": "God bless 'em, I hope I'll go on seeing them forever. And you always want to see it in the superlative degree.",
+     "stim": {
+      "noisy": "4a814d5396",
+      "wiener_dd": "4578bab326",
+      "rnnoise": "5e00ea6dca",
+      "deepfilternet3": "c787ddfb56",
+      "demucs_dns64": "4505f4f60a",
+      "tse_convtasnet_ecapa": "955d0e77fb"
+     }
+    },
+    {
+     "id": "rec_hvac_snr-5_05",
+     "text": "It does, was her audacious answer. Oh, it's just a novel, a love story.",
+     "stim": {
+      "noisy": "fd42f69765",
+      "wiener_dd": "1d69d9fc4b",
+      "rnnoise": "ef0a81ed3d",
+      "deepfilternet3": "db66bfda2d",
+      "demucs_dns64": "4d7bd30712",
+      "tse_convtasnet_ecapa": "4c9a0ae154"
+     }
+    }
+   ]
+  },
+  {
+   "cond": "rec_transient",
+   "snr": 0,
+   "sentences": [
+    {
+     "id": "rec_transient_snr+0_00",
+     "text": "He looked like one who had passed through an uncomfortable hour or two. There was nothing more, except a large ink blot under the words.",
+     "stim": {
+      "noisy": "8f928dc519",
+      "wiener_dd": "564ae90979",
+      "rnnoise": "cff4c56bf9",
+      "deepfilternet3": "1db2b4527a",
+      "demucs_dns64": "09aedbd06d",
+      "tse_convtasnet_ecapa": "afe6790abc"
+     }
+    },
+    {
+     "id": "rec_transient_snr+0_01",
+     "text": "I'm as good as a man, she urged. You read the quotations in today's paper.",
+     "stim": {
+      "noisy": "2aa36cf7eb",
+      "wiener_dd": "ce5dc80760",
+      "rnnoise": "16408169a3",
+      "deepfilternet3": "32b2c49215",
+      "demucs_dns64": "628308690f",
+      "tse_convtasnet_ecapa": "8e751eb764"
+     }
+    },
+    {
+     "id": "rec_transient_snr+0_02",
+     "text": "The very opposite is true; they are discouraged vagabonds. At the same time spears and arrows began to fall among the invaders.",
+     "stim": {
+      "noisy": "eb8f205672",
+      "wiener_dd": "b6e355f695",
+      "rnnoise": "156af4586c",
+      "deepfilternet3": "ffc573d5fd",
+      "demucs_dns64": "2aa50f4ec6",
+      "tse_convtasnet_ecapa": "1d7173e55b"
+     }
+    },
+    {
+     "id": "rec_transient_snr+0_03",
+     "text": "You were destroying my life. Horses and rifles had been her toys, camp and trail her nursery.",
+     "stim": {
+      "noisy": "da54f267dd",
+      "wiener_dd": "869bdbd2e7",
+      "rnnoise": "33a1d1c2ad",
+      "deepfilternet3": "41a8a6e165",
+      "demucs_dns64": "ff3e0ba10a",
+      "tse_convtasnet_ecapa": "9f98218837"
+     }
+    },
+    {
+     "id": "rec_transient_snr+0_04",
+     "text": "He'll knock yeh off a few sticks in no time. Red-Eye swung back and forth on the branch farther down.",
+     "stim": {
+      "noisy": "755a3ac132",
+      "wiener_dd": "d3b564b08b",
+      "rnnoise": "98a33736fd",
+      "deepfilternet3": "905c053b25",
+      "demucs_dns64": "6c596216ae",
+      "tse_convtasnet_ecapa": "ade7cef37e"
+     }
+    },
+    {
+     "id": "rec_transient_snr+0_05",
+     "text": "The added weight had a velocity of fifteen miles per hour. It is also an insidious, deceitful sun.",
+     "stim": {
+      "noisy": "d562738652",
+      "wiener_dd": "a2939b3b7f",
+      "rnnoise": "8af5890333",
+      "deepfilternet3": "027c013f38",
+      "demucs_dns64": "bf3df0bbf6",
+      "tse_convtasnet_ecapa": "52631db9d1"
+     }
+    }
+   ]
+  },
+  {
+   "cond": "rec_transient",
+   "snr": -5,
+   "sentences": [
+    {
+     "id": "rec_transient_snr-5_00",
+     "text": "The Churchill narrowed and its current became swifter as they progressed. For a full half-minute Jeanne looked at him without speaking.",
+     "stim": {
+      "noisy": "dfde228125",
+      "wiener_dd": "27e969e2c8",
+      "rnnoise": "4b5ca43695",
+      "deepfilternet3": "786e30efce",
+      "demucs_dns64": "843b2a7d15",
+      "tse_convtasnet_ecapa": "10fc9eee0a"
+     }
+    },
+    {
+     "id": "rec_transient_snr-5_01",
+     "text": "Miss Brodie's smile was slightly sarcastic. Does the old boy often go off at half-cock that way.",
+     "stim": {
+      "noisy": "4cea2df00a",
+      "wiener_dd": "72d6bc20d8",
+      "rnnoise": "ccf719ab29",
+      "deepfilternet3": "75f2bc20a7",
+      "demucs_dns64": "61d9fe3981",
+      "tse_convtasnet_ecapa": "089b30a080"
+     }
+    },
+    {
+     "id": "rec_transient_snr-5_02",
+     "text": "Lakes and rivers, hundreds of them, thousands of them. Whitefish, Gregson, whitefish and trout.",
+     "stim": {
+      "noisy": "cb4d18d6ad",
+      "wiener_dd": "99a2ecb1c2",
+      "rnnoise": "6d265dd8bf",
+      "deepfilternet3": "4a276dda34",
+      "demucs_dns64": "6af79ad299",
+      "tse_convtasnet_ecapa": "d872298c7b"
+     }
+    },
+    {
+     "id": "rec_transient_snr-5_03",
+     "text": "Perhaps she had already met her fate a little deeper in the forest. Then you can arrange yourself comfortably among these robes in the bow.",
+     "stim": {
+      "noisy": "9b8086da63",
+      "wiener_dd": "dd620222d9",
+      "rnnoise": "e2a01335a8",
+      "deepfilternet3": "4d6cd7822e",
+      "demucs_dns64": "552ae5ca41",
+      "tse_convtasnet_ecapa": "4312ece2dc"
+     }
+    },
+    {
+     "id": "rec_transient_snr-5_04",
+     "text": "Such is my passage engaged on the steamer. The issue was not in doubt.",
+     "stim": {
+      "noisy": "c5c142624d",
+      "wiener_dd": "6238d0a0cf",
+      "rnnoise": "ef7e85eca4",
+      "deepfilternet3": "babd474549",
+      "demucs_dns64": "f11ddff70e",
+      "tse_convtasnet_ecapa": "2412579d6a"
+     }
+    },
+    {
+     "id": "rec_transient_snr-5_05",
+     "text": "A scarlet loincloth completed his costume. I like to speculate upon the glorious future of man.",
+     "stim": {
+      "noisy": "9a1a7d6fdd",
+      "wiener_dd": "b2ddc481ac",
+      "rnnoise": "5a4f4145fc",
+      "deepfilternet3": "775e0ec39c",
+      "demucs_dns64": "19faa06e0c",
+      "tse_convtasnet_ecapa": "052daad326"
+     }
+    }
+   ]
+  },
+  {
+   "cond": "ood_competing",
+   "snr": 0,
+   "sentences": [
+    {
+     "id": "ood_competing_snr+0_00",
+     "text": "The promoter's eyes were heavy, with little puffy bags under them. Now he held the whip-hand; Brokaw had acknowledged his own surrender.",
+     "stim": {
+      "noisy": "21f8c1569e",
+      "wiener_dd": "b3386c3e1a",
+      "rnnoise": "31e9ca8058",
+      "deepfilternet3": "c707aef9c6",
+      "demucs_dns64": "0f66b32de1",
+      "tse_convtasnet_ecapa": "9d44c93e77"
+     }
+    },
+    {
+     "id": "ood_competing_snr+0_01",
+     "text": "Now go ahead and tell me in a straightforward way what has happened. That's where they cut off the Scottish Chiefs and killed all hands.",
+     "stim": {
+      "noisy": "a685585756",
+      "wiener_dd": "b6af98b2ae",
+      "rnnoise": "d960af85c9",
+      "deepfilternet3": "633cbf79e9",
+      "demucs_dns64": "beebb4eaea",
+      "tse_convtasnet_ecapa": "fbbff9e0ae"
+     }
+    },
+    {
+     "id": "ood_competing_snr+0_02",
+     "text": "Nor would it thaw out his hands and feet. The Russian music player, the Count, was her obedient slave.",
+     "stim": {
+      "noisy": "dc45488d84",
+      "wiener_dd": "09c6741730",
+      "rnnoise": "5f1ff97c71",
+      "deepfilternet3": "5b471c4374",
+      "demucs_dns64": "f4dd05d513",
+      "tse_convtasnet_ecapa": "0a3c2c6fef"
+     }
+    },
+    {
+     "id": "ood_competing_snr+0_03",
+     "text": "In short, my joyous individualism was dominated by the orthodox bourgeois ethics. Soon shall it be thrust back from off prostrate humanity.",
+     "stim": {
+      "noisy": "06d2ed7ce6",
+      "wiener_dd": "91bacf80aa",
+      "rnnoise": "3acaaf8237",
+      "deepfilternet3": "e27ac8e9d1",
+      "demucs_dns64": "809e2109c7",
+      "tse_convtasnet_ecapa": "81d1bf066b"
+     }
+    },
+    {
+     "id": "ood_competing_snr+0_04",
+     "text": "With my strength I slammed it full into Red-Eye's face. The log on which Lop-Ear was lying got adrift.",
+     "stim": {
+      "noisy": "254bf7ae1d",
+      "wiener_dd": "6c0be55c90",
+      "rnnoise": "1ad1daaaef",
+      "deepfilternet3": "6a48054219",
+      "demucs_dns64": "f45da406bb",
+      "tse_convtasnet_ecapa": "6e5bac2072"
+     }
+    },
+    {
+     "id": "ood_competing_snr+0_05",
+     "text": "I was still weak from my prolonged immersion. The boy hesitated, then mastered his temper.",
+     "stim": {
+      "noisy": "7f22cd1207",
+      "wiener_dd": "53125ffdf6",
+      "rnnoise": "5a3da36714",
+      "deepfilternet3": "b1182d235b",
+      "demucs_dns64": "2d8b5b4159",
+      "tse_convtasnet_ecapa": "3b019fcbf9"
+     }
+    }
+   ]
+  },
+  {
+   "cond": "ood_competing",
+   "snr": -5,
+   "sentences": [
+    {
+     "id": "ood_competing_snr-5_00",
+     "text": "My age, in years, is twenty-two. I forgot how easily I had taught myself from the printed page.",
+     "stim": {
+      "noisy": "98ba0f0e12",
+      "wiener_dd": "00d3d1af35",
+      "rnnoise": "bb6b0095ac",
+      "deepfilternet3": "bf7b68ae1f",
+      "demucs_dns64": "b080e0035e",
+      "tse_convtasnet_ecapa": "3b9cea959a"
+     }
+    },
+    {
+     "id": "ood_competing_snr-5_01",
+     "text": "He had worshiped her, as Dante might have worshiped Beatrice. Does that look good.",
+     "stim": {
+      "noisy": "743c7e9d2f",
+      "wiener_dd": "b51d70d858",
+      "rnnoise": "0726d44a21",
+      "deepfilternet3": "55c36c3d5c",
+      "demucs_dns64": "4bdd5f994a",
+      "tse_convtasnet_ecapa": "8d9ecfb9f5"
+     }
+    },
+    {
+     "id": "ood_competing_snr-5_02",
+     "text": "Lakes and rivers, hundreds of them, thousands of them. Whitefish, Gregson, whitefish and trout.",
+     "stim": {
+      "noisy": "97d01e702f",
+      "wiener_dd": "88819f421a",
+      "rnnoise": "606821d628",
+      "deepfilternet3": "200f7753f2",
+      "demucs_dns64": "8222134550",
+      "tse_convtasnet_ecapa": "2f16fb50c1"
+     }
+    },
+    {
+     "id": "ood_competing_snr-5_03",
+     "text": "The eastern heavens were equally spectacular. He spat it out like so much venom.",
+     "stim": {
+      "noisy": "a9c72e7b6b",
+      "wiener_dd": "99e8c82821",
+      "rnnoise": "b3c161c313",
+      "deepfilternet3": "4ca49aaf6b",
+      "demucs_dns64": "ed28508dbd",
+      "tse_convtasnet_ecapa": "4c4b91fe6c"
+     }
+    },
+    {
+     "id": "ood_competing_snr-5_04",
+     "text": "Typhoid - did I tell you. But she had become an automaton.",
+     "stim": {
+      "noisy": "3f80c31f15",
+      "wiener_dd": "a31559405e",
+      "rnnoise": "605dd4d60e",
+      "deepfilternet3": "f642c8f36a",
+      "demucs_dns64": "70f8dd9952",
+      "tse_convtasnet_ecapa": "f3cc9d8a4b"
+     }
+    },
+    {
+     "id": "ood_competing_snr-5_05",
+     "text": "An altruistic act is an act performed for the welfare of others. Knowing him, I review the old Scandinavian myths with clearer understanding.",
+     "stim": {
+      "noisy": "2f7a304ff3",
+      "wiener_dd": "1cb66f6746",
+      "rnnoise": "27649a62b0",
+      "deepfilternet3": "eda2fc4c72",
+      "demucs_dns64": "6bf4d047c4",
+      "tse_convtasnet_ecapa": "f5a3e8933f"
+     }
+    }
+   ]
+  }
+ ],
+ "methods": [
+  "noisy",
+  "wiener_dd",
+  "rnnoise",
+  "deepfilternet3",
+  "demucs_dns64",
+  "tse_convtasnet_ecapa"
+ ]
+}

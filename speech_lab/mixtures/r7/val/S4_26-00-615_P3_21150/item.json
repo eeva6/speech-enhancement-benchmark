@@ -1,0 +1,29 @@
+{
+ "id": "S4_26-00-615_P3_21150",
+ "split": "val",
+ "session": 4,
+ "seg": "26-00-615",
+ "seg_start_s": 1560.615,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "What was the hottest day this summer?",
+ "start_s": 21.15,
+ "end_s": 23.8,
+ "dur": 2.65,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 74400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03364003714523278,
+ "align_how": "minute_line",
+ "az_ref_mean": 53.87,
+ "el_ref_mean": -11.88,
+ "az_ref_range": 57.26,
+ "doa_valid_frac": 1.0
+}

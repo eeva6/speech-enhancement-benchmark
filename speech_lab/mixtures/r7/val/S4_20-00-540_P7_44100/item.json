@@ -1,0 +1,29 @@
+{
+ "id": "S4_20-00-540_P7_44100",
+ "split": "val",
+ "session": 4,
+ "seg": "20-00-540",
+ "seg_start_s": 1200.54,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "Oh, the cable houses? Okay. Construction. I'm not in this game.",
+ "start_s": 44.1,
+ "end_s": 49.55,
+ "dur": 5.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 119200,
+ "overlap": true,
+ "ovl_frac": 0.872,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0021278103758959332,
+ "align_how": "session_slope",
+ "az_ref_mean": -58.51,
+ "el_ref_mean": 0.15,
+ "az_ref_range": 105.15,
+ "doa_valid_frac": 1.0
+}

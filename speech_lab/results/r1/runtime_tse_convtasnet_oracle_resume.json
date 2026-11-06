@@ -1,0 +1,399 @@
+{
+ "method": "tse_convtasnet_oracle",
+ "tag": "r1",
+ "n": 127,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 5.184434671999952,
+ "mean_proc_s": 1.7196754920396848,
+ "rtf": 0.29949357899196294,
+ "peak_rss_mb": 1054.1328125,
+ "rss_before_mb": 248.37109375,
+ "n_params": 27217841,
+ "noise_psd": "ms",
+ "infos": {
+  "broadband_env_snr+5_01": {
+   "picked": 0
+  },
+  "broadband_env_snr+5_02": {
+   "picked": 0
+  },
+  "broadband_env_snr+5_03": {
+   "picked": 0
+  },
+  "broadband_env_snr+5_04": {
+   "picked": 0
+  },
+  "broadband_env_snr+5_05": {
+   "picked": 0
+  },
+  "broadband_env_snr+5_06": {
+   "picked": 0
+  },
+  "broadband_env_snr+5_07": {
+   "picked": 0
+  },
+  "pink_snr-5_00": {
+   "picked": 0
+  },
+  "pink_snr-5_01": {
+   "picked": 0
+  },
+  "pink_snr-5_02": {
+   "picked": 0
+  },
+  "pink_snr-5_03": {
+   "picked": 0
+  },
+  "pink_snr-5_04": {
+   "picked": 0
+  },
+  "pink_snr-5_05": {
+   "picked": 0
+  },
+  "pink_snr-5_06": {
+   "picked": 0
+  },
+  "pink_snr-5_07": {
+   "picked": 1
+  },
+  "pink_snr+0_00": {
+   "picked": 0
+  },
+  "pink_snr+0_01": {
+   "picked": 0
+  },
+  "pink_snr+0_02": {
+   "picked": 0
+  },
+  "pink_snr+0_03": {
+   "picked": 0
+  },
+  "pink_snr+0_04": {
+   "picked": 0
+  },
+  "pink_snr+0_05": {
+   "picked": 0
+  },
+  "pink_snr+0_06": {
+   "picked": 1
+  },
+  "pink_snr+0_07": {
+   "picked": 0
+  },
+  "pink_snr+5_00": {
+   "picked": 0
+  },
+  "pink_snr+5_01": {
+   "picked": 0
+  },
+  "pink_snr+5_02": {
+   "picked": 0
+  },
+  "pink_snr+5_03": {
+   "picked": 0
+  },
+  "pink_snr+5_04": {
+   "picked": 0
+  },
+  "pink_snr+5_05": {
+   "picked": 0
+  },
+  "pink_snr+5_06": {
+   "picked": 0
+  },
+  "pink_snr+5_07": {
+   "picked": 0
+  },
+  "competing_snr-5_00": {
+   "picked": 0
+  },
+  "competing_snr-5_01": {
+   "picked": 1
+  },
+  "competing_snr-5_02": {
+   "picked": 1
+  },
+  "competing_snr-5_03": {
+   "picked": 1
+  },
+  "competing_snr-5_04": {
+   "picked": 1
+  },
+  "competing_snr-5_05": {
+   "picked": 0
+  },
+  "competing_snr-5_06": {
+   "picked": 0
+  },
+  "competing_snr-5_07": {
+   "picked": 0
+  },
+  "competing_snr+0_00": {
+   "picked": 1
+  },
+  "competing_snr+0_01": {
+   "picked": 0
+  },
+  "competing_snr+0_02": {
+   "picked": 1
+  },
+  "competing_snr+0_03": {
+   "picked": 0
+  },
+  "competing_snr+0_04": {
+   "picked": 1
+  },
+  "competing_snr+0_05": {
+   "picked": 0
+  },
+  "competing_snr+0_06": {
+   "picked": 1
+  },
+  "competing_snr+0_07": {
+   "picked": 1
+  },
+  "competing_snr+5_00": {
+   "picked": 0
+  },
+  "competing_snr+5_01": {
+   "picked": 0
+  },
+  "competing_snr+5_02": {
+   "picked": 1
+  },
+  "competing_snr+5_03": {
+   "picked": 0
+  },
+  "competing_snr+5_04": {
+   "picked": 0
+  },
+  "competing_snr+5_05": {
+   "picked": 0
+  },
+  "competing_snr+5_06": {
+   "picked": 0
+  },
+  "competing_snr+5_07": {
+   "picked": 1
+  },
+  "reverb_babble_snr-5_00": {
+   "picked": 0
+  },
+  "reverb_babble_snr-5_01": {
+   "picked": 0
+  },
+  "reverb_babble_snr-5_02": {
+   "picked": 0
+  },
+  "reverb_babble_snr-5_03": {
+   "picked": 0
+  },
+  "reverb_babble_snr-5_04": {
+   "picked": 0
+  },
+  "reverb_babble_snr-5_05": {
+   "picked": 0
+  },
+  "reverb_babble_snr-5_06": {
+   "picked": 1
+  },
+  "reverb_babble_snr-5_07": {
+   "picked": 1
+  },
+  "reverb_babble_snr+0_00": {
+   "picked": 0
+  },
+  "reverb_babble_snr+0_01": {
+   "picked": 0
+  },
+  "reverb_babble_snr+0_02": {
+   "picked": 0
+  },
+  "reverb_babble_snr+0_03": {
+   "picked": 0
+  },
+  "reverb_babble_snr+0_04": {
+   "picked": 0
+  },
+  "reverb_babble_snr+0_05": {
+   "picked": 0
+  },
+  "reverb_babble_snr+0_06": {
+   "picked": 0
+  },
+  "reverb_babble_snr+0_07": {
+   "picked": 0
+  },
+  "reverb_babble_snr+5_00": {
+   "picked": 0
+  },
+  "reverb_babble_snr+5_01": {
+   "picked": 0
+  },
+  "reverb_babble_snr+5_02": {
+   "picked": 0
+  },
+  "reverb_babble_snr+5_03": {
+   "picked": 0
+  },
+  "reverb_babble_snr+5_04": {
+   "picked": 1
+  },
+  "reverb_babble_snr+5_05": {
+   "picked": 0
+  },
+  "reverb_babble_snr+5_06": {
+   "picked": 1
+  },
+  "reverb_babble_snr+5_07": {
+   "picked": 0
+  },
+  "array_babble_snr-5_00": {
+   "picked": 1
+  },
+  "array_babble_snr-5_01": {
+   "picked": 0
+  },
+  "array_babble_snr-5_02": {
+   "picked": 1
+  },
+  "array_babble_snr-5_03": {
+   "picked": 0
+  },
+  "array_babble_snr-5_04": {
+   "picked": 0
+  },
+  "array_babble_snr-5_05": {
+   "picked": 0
+  },
+  "array_babble_snr-5_06": {
+   "picked": 0
+  },
+  "array_babble_snr-5_07": {
+   "picked": 0
+  },
+  "array_babble_snr+0_00": {
+   "picked": 1
+  },
+  "array_babble_snr+0_01": {
+   "picked": 0
+  },
+  "array_babble_snr+0_02": {
+   "picked": 0
+  },
+  "array_babble_snr+0_03": {
+   "picked": 0
+  },
+  "array_babble_snr+0_04": {
+   "picked": 0
+  },
+  "array_babble_snr+0_05": {
+   "picked": 0
+  },
+  "array_babble_snr+0_06": {
+   "picked": 0
+  },
+  "array_babble_snr+0_07": {
+   "picked": 0
+  },
+  "array_babble_snr+5_00": {
+   "picked": 0
+  },
+  "array_babble_snr+5_01": {
+   "picked": 0
+  },
+  "array_babble_snr+5_02": {
+   "picked": 0
+  },
+  "array_babble_snr+5_03": {
+   "picked": 0
+  },
+  "array_babble_snr+5_04": {
+   "picked": 0
+  },
+  "array_babble_snr+5_05": {
+   "picked": 0
+  },
+  "array_babble_snr+5_06": {
+   "picked": 0
+  },
+  "array_babble_snr+5_07": {
+   "picked": 0
+  },
+  "array_competing_snr-5_00": {
+   "picked": 1
+  },
+  "array_competing_snr-5_01": {
+   "picked": 0
+  },
+  "array_competing_snr-5_02": {
+   "picked": 0
+  },
+  "array_competing_snr-5_03": {
+   "picked": 0
+  },
+  "array_competing_snr-5_04": {
+   "picked": 1
+  },
+  "array_competing_snr-5_05": {
+   "picked": 0
+  },
+  "array_competing_snr-5_06": {
+   "picked": 1
+  },
+  "array_competing_snr-5_07": {
+   "picked": 1
+  },
+  "array_competing_snr+0_00": {
+   "picked": 1
+  },
+  "array_competing_snr+0_01": {
+   "picked": 0
+  },
+  "array_competing_snr+0_02": {
+   "picked": 0
+  },
+  "array_competing_snr+0_03": {
+   "picked": 0
+  },
+  "array_competing_snr+0_04": {
+   "picked": 1
+  },
+  "array_competing_snr+0_05": {
+   "picked": 1
+  },
+  "array_competing_snr+0_06": {
+   "picked": 1
+  },
+  "array_competing_snr+0_07": {
+   "picked": 0
+  },
+  "array_competing_snr+5_00": {
+   "picked": 0
+  },
+  "array_competing_snr+5_01": {
+   "picked": 0
+  },
+  "array_competing_snr+5_02": {
+   "picked": 0
+  },
+  "array_competing_snr+5_03": {
+   "picked": 0
+  },
+  "array_competing_snr+5_04": {
+   "picked": 0
+  },
+  "array_competing_snr+5_05": {
+   "picked": 0
+  },
+  "array_competing_snr+5_06": {
+   "picked": 0
+  },
+  "array_competing_snr+5_07": {
+   "picked": 0
+  }
+ },
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

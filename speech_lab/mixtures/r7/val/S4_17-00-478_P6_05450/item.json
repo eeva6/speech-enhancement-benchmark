@@ -1,0 +1,29 @@
+{
+ "id": "S4_17-00-478_P6_05450",
+ "split": "val",
+ "session": 4,
+ "seg": "17-00-478",
+ "seg_start_s": 1020.478,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Okay! You are shown two doors, one leading to hell, I've been there, and the second one to heaven, and the only door guards kn- and only the door guards know what is behind the doors. One guard is always lying. The other is always telling the truth. Of course, you don\u00fft know who is lying. You can ask only one guard one question. What question can y- What question can get you to heaven?",
+ "start_s": 5.45,
+ "end_s": 31.8,
+ "dur": 26.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 453600,
+ "overlap": true,
+ "ovl_frac": 0.082,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.013716909052163828,
+ "align_how": "minute_line",
+ "az_ref_mean": -10.0,
+ "el_ref_mean": 10.45,
+ "az_ref_range": 38.56,
+ "doa_valid_frac": 1.0
+}

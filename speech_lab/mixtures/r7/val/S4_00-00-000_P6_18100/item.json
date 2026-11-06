@@ -1,0 +1,29 @@
+{
+ "id": "S4_00-00-000_P6_18100",
+ "split": "val",
+ "session": 4,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "[L]",
+ "start_s": 18.1,
+ "end_s": 19.55,
+ "dur": 1.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 55200,
+ "overlap": true,
+ "ovl_frac": 0.586,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -59.08,
+ "el_ref_mean": 5.62,
+ "az_ref_range": 29.27,
+ "doa_valid_frac": 1.0
+}

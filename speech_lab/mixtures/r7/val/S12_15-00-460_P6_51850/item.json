@@ -1,0 +1,29 @@
+{
+ "id": "S12_15-00-460_P6_51850",
+ "split": "val",
+ "session": 12,
+ "seg": "15-00-460",
+ "seg_start_s": 900.46,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Do you just spend your time doing riddles? [L]",
+ "start_s": 51.85,
+ "end_s": 55.4,
+ "dur": 3.55,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 88800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.3354039217811078,
+ "align_how": "session_slope",
+ "az_ref_mean": -40.92,
+ "el_ref_mean": 18.56,
+ "az_ref_range": 13.02,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S10_25-00-601_P4_20400",
+ "split": "test",
+ "session": 10,
+ "seg": "25-00-601",
+ "seg_start_s": 1500.601,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Okay. Whose turn is it? Whose turn? Mine? Yeah.",
+ "start_s": 20.4,
+ "end_s": 26.2,
+ "dur": 5.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 124800,
+ "overlap": true,
+ "ovl_frac": 0.422,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0387285508622881,
+ "align_how": "session_slope",
+ "az_ref_mean": 14.07,
+ "el_ref_mean": -3.63,
+ "az_ref_range": 18.23,
+ "doa_valid_frac": 1.0
+}

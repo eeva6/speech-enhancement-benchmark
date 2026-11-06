@@ -1,0 +1,29 @@
+{
+ "id": "S4_15-00-480_P3_02450",
+ "split": "val",
+ "session": 4,
+ "seg": "15-00-480",
+ "seg_start_s": 900.48,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Brothers and sisters I have none, but this man\u00ffs father",
+ "start_s": 2.45,
+ "end_s": 7.6,
+ "dur": 5.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 114400,
+ "overlap": true,
+ "ovl_frac": 0.194,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.007055110700093792,
+ "align_how": "minute_line",
+ "az_ref_mean": 20.61,
+ "el_ref_mean": 1.52,
+ "az_ref_range": 2.14,
+ "doa_valid_frac": 1.0
+}

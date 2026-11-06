@@ -1,0 +1,350 @@
+02:22:20 align 4 00-00-000 3 minute_line res_absmed_ms 0.032628749977448024
+02:22:20 align 4 00-00-000 4 no_fit_session_offset res_absmed_ms 1.1843923712149262
+02:22:20 align 4 00-00-000 6 no_fit_session_offset res_absmed_ms None
+02:22:21 align 4 00-00-000 7 no_fit_session_offset res_absmed_ms None
+02:22:21 align 4 01-00-293 3 session_slope res_absmed_ms 0.12708880240097642
+02:22:22 align 4 01-00-293 4 minute_line res_absmed_ms 0.1414861690136604
+02:22:22 align 4 01-00-293 6 session_slope res_absmed_ms 0.0685483100824058
+02:22:23 align 4 01-00-293 7 no_fit_session_offset res_absmed_ms None
+02:22:23 align 4 02-00-322 3 session_slope res_absmed_ms 0.04887327304459177
+02:22:24 align 4 02-00-322 4 session_slope res_absmed_ms 0.055560256441822276
+02:22:24 align 4 02-00-322 6 minute_line res_absmed_ms 0.022760102183383424
+02:22:24 align 4 02-00-322 7 session_slope res_absmed_ms 0.5573020898737013
+02:22:25 align 4 03-00-332 3 minute_line res_absmed_ms 0.07671591811231337
+02:22:25 align 4 03-00-332 4 session_slope res_absmed_ms 0.11121889110654593
+02:22:26 align 4 03-00-332 6 minute_line res_absmed_ms 0.17566066526342183
+02:22:26 align 4 03-00-332 7 session_slope res_absmed_ms 0.04474889465200249
+02:22:27 align 4 04-00-349 3 no_fit_session_offset res_absmed_ms None
+02:22:27 align 4 04-00-349 4 no_fit_session_offset res_absmed_ms None
+02:22:28 align 4 04-00-349 6 no_fit_session_offset res_absmed_ms None
+02:22:28 align 4 04-00-349 7 session_slope res_absmed_ms 0.0018228689384613972
+02:22:29 align 4 05-00-353 3 no_fit_session_offset res_absmed_ms 0.6589344993699342
+02:22:29 align 4 05-00-353 4 session_slope res_absmed_ms 0.04982213067705743
+02:22:30 align 4 05-00-353 6 session_slope res_absmed_ms 0.023814409360056743
+02:22:30 align 4 05-00-353 7 no_fit_session_offset res_absmed_ms 0.274216930847615
+02:22:31 align 4 06-00-363 3 no_fit_session_offset res_absmed_ms None
+02:22:31 align 4 06-00-363 4 session_slope res_absmed_ms 0.7515556644648314
+02:22:32 align 4 06-00-363 6 no_fit_session_offset res_absmed_ms None
+02:22:32 align 4 06-00-363 7 no_fit_session_offset res_absmed_ms None
+02:22:33 align 4 07-00-382 3 no_fit_session_offset res_absmed_ms None
+02:22:33 align 4 07-00-382 4 session_slope res_absmed_ms 0.09252523159375414
+02:22:34 align 4 07-00-382 6 minute_line res_absmed_ms 0.23359923216048628
+02:22:34 align 4 07-00-382 7 no_fit_session_offset res_absmed_ms None
+02:22:35 align 4 08-00-381 3 minute_line res_absmed_ms 0.02922484782175161
+02:22:35 align 4 08-00-381 4 minute_line res_absmed_ms 0.3170176350977272
+02:22:36 align 4 08-00-381 6 minute_line res_absmed_ms 0.027580477762967348
+02:22:36 align 4 08-00-381 7 no_fit_session_offset res_absmed_ms None
+02:22:37 align 4 09-00-400 3 minute_line res_absmed_ms 0.22432244441006333
+02:22:37 align 4 09-00-400 4 no_fit_session_offset res_absmed_ms None
+02:22:38 align 4 09-00-400 6 minute_line res_absmed_ms 0.1888180704554543
+02:22:38 align 4 09-00-400 7 minute_line res_absmed_ms 0.10677761019906029
+02:22:39 align 4 10-00-415 3 session_slope res_absmed_ms 0.1977152714971453
+02:22:39 align 4 10-00-415 4 minute_line res_absmed_ms 0.1445249654352665
+02:22:40 align 4 10-00-415 6 minute_line res_absmed_ms 0.13262782886158675
+02:22:40 align 4 10-00-415 7 session_slope res_absmed_ms 0.6919841980561614
+02:22:41 align 4 11-00-428 3 session_slope res_absmed_ms 0.03195756653440185
+02:22:41 align 4 11-00-428 4 no_fit_session_offset res_absmed_ms None
+02:22:42 align 4 11-00-428 6 minute_line res_absmed_ms 0.21429729531519115
+02:22:42 align 4 11-00-428 7 no_fit_session_offset res_absmed_ms None
+02:22:43 align 4 15-00-480 3 minute_line res_absmed_ms 0.007055110700093792
+02:22:44 align 4 15-00-480 4 minute_line res_absmed_ms 0.2707218227442354
+02:22:44 align 4 15-00-480 6 session_slope res_absmed_ms 0.022389627702068537
+02:22:45 align 4 15-00-480 7 no_fit_session_offset res_absmed_ms None
+02:22:45 align 4 16-00-501 3 minute_line res_absmed_ms 0.08185869228327647
+02:22:46 align 4 16-00-501 4 minute_line res_absmed_ms 0.008043814887059852
+02:22:47 align 4 16-00-501 6 minute_line res_absmed_ms 0.29924686532467604
+02:22:47 align 4 16-00-501 7 session_slope res_absmed_ms 0.24303105601575226
+02:22:48 align 4 17-00-478 3 no_fit_session_offset res_absmed_ms None
+02:22:48 align 4 17-00-478 4 session_slope res_absmed_ms 0.014670590189780341
+02:22:49 align 4 17-00-478 6 minute_line res_absmed_ms 0.013716909052163828
+02:22:50 align 4 17-00-478 7 no_fit_session_offset res_absmed_ms None
+02:22:51 align 4 18-00-512 3 no_fit_session_offset res_absmed_ms None
+02:22:51 align 4 18-00-512 4 minute_line res_absmed_ms 0.04939643986290321
+02:22:52 align 4 18-00-512 6 minute_line res_absmed_ms 0.08472164336126298
+02:22:52 align 4 18-00-512 7 session_slope res_absmed_ms 0.33364357659593225
+02:22:53 align 4 19-00-532 3 no_fit_session_offset res_absmed_ms None
+02:22:53 align 4 19-00-532 4 minute_line res_absmed_ms 0.2884877030737698
+02:22:54 align 4 19-00-532 6 minute_line res_absmed_ms 0.03946890683437232
+02:22:55 align 4 19-00-532 7 no_fit_session_offset res_absmed_ms None
+02:22:56 align 4 20-00-540 3 no_fit_session_offset res_absmed_ms None
+02:22:56 align 4 20-00-540 4 no_fit_session_offset res_absmed_ms None
+02:22:56 align 4 20-00-540 6 minute_line res_absmed_ms 0.21889196068514138
+02:22:57 align 4 20-00-540 7 session_slope res_absmed_ms 0.0021278103758959332
+02:22:58 align 4 21-00-559 3 session_slope res_absmed_ms 0.03605852180044167
+02:22:58 align 4 21-00-559 4 minute_line res_absmed_ms 0.18377068045083433
+02:22:58 align 4 21-00-559 6 minute_line res_absmed_ms 0.2105596795445308
+02:22:59 align 4 21-00-559 7 minute_line res_absmed_ms 0.26319043536204845
+02:23:00 align 4 22-00-570 3 minute_line res_absmed_ms 0.10116600242326967
+02:23:00 align 4 22-00-570 4 session_slope res_absmed_ms 0.5245372303761542
+02:23:01 align 4 22-00-570 6 session_slope res_absmed_ms 0.3447734779911116
+02:23:01 align 4 22-00-570 7 minute_line res_absmed_ms 0.12458450873964466
+02:23:02 align 4 23-00-578 3 minute_line res_absmed_ms 0.016553500245208852
+02:23:02 align 4 23-00-578 4 session_slope res_absmed_ms 0.4038360348204151
+02:23:03 align 4 23-00-578 6 session_slope res_absmed_ms 0.14149290655041113
+02:23:03 align 4 23-00-578 7 session_slope res_absmed_ms 0.014951259800000116
+02:23:04 align 4 24-00-594 3 no_fit_session_offset res_absmed_ms None
+02:23:04 align 4 24-00-594 4 session_slope res_absmed_ms 0.04238267138134688
+02:23:05 align 4 24-00-594 6 minute_line res_absmed_ms 0.2424475969746709
+02:23:05 align 4 24-00-594 7 no_fit_session_offset res_absmed_ms 0.8569959318265319
+02:23:06 align 4 25-00-599 3 session_slope res_absmed_ms 0.027005376978195272
+02:23:06 align 4 25-00-599 4 minute_line res_absmed_ms 0.06700212543364614
+02:23:07 align 4 25-00-599 6 session_slope res_absmed_ms 0.48253337445203215
+02:23:07 align 4 25-00-599 7 no_fit_session_offset res_absmed_ms None
+02:23:08 align 4 26-00-615 3 minute_line res_absmed_ms 0.03364003714523278
+02:23:09 align 4 26-00-615 4 no_fit_session_offset res_absmed_ms None
+02:23:09 align 4 26-00-615 6 no_fit_session_offset res_absmed_ms None
+02:23:10 align 4 26-00-615 7 no_fit_session_offset res_absmed_ms None
+02:23:11 align 4 27-00-632 3 session_slope res_absmed_ms 0.015129471194086364
+02:23:11 align 4 27-00-632 4 minute_line res_absmed_ms 0.007767029273963999
+02:23:11 align 4 27-00-632 6 no_fit_session_offset res_absmed_ms None
+02:23:12 align 4 27-00-632 7 no_fit_session_offset res_absmed_ms None
+02:23:12 align 4 28-00-637 3 no_fit_session_offset res_absmed_ms None
+02:23:13 align 4 28-00-637 4 minute_line res_absmed_ms 0.007224587534437887
+02:23:13 align 4 28-00-637 6 session_slope res_absmed_ms 0.008573771083320025
+02:23:14 align 4 28-00-637 7 no_fit_session_offset res_absmed_ms None
+02:23:15 align 4 29-00-654 3 no_fit_session_offset res_absmed_ms None
+02:23:15 align 4 29-00-654 4 no_fit_session_offset res_absmed_ms None
+02:23:16 align 4 29-00-654 6 minute_line res_absmed_ms 0.014265026948123705
+02:23:16 align 4 29-00-654 7 session_slope res_absmed_ms 0.19905405497411266
+02:23:17 align 4 30-00-679 3 no_fit_session_offset res_absmed_ms None
+02:23:17 align 4 30-00-679 4 no_fit_session_offset res_absmed_ms None
+02:23:17 align 4 30-00-679 6 no_fit_session_offset res_absmed_ms None
+02:23:18 align 4 30-00-679 7 minute_line res_absmed_ms 0.03514154195727315
+02:23:19 align 4 31-00-672 3 no_fit_session_offset res_absmed_ms None
+02:23:19 align 4 31-00-672 4 no_fit_session_offset res_absmed_ms None
+02:23:19 align 4 31-00-672 6 no_fit_session_offset res_absmed_ms None
+02:23:20 align 4 31-00-672 7 no_fit_session_offset res_absmed_ms None
+02:23:22 align 12 00-00-000 4 session_slope res_absmed_ms 0.007539880243712105
+02:23:22 align 12 00-00-000 6 minute_line res_absmed_ms 0.244089838815853
+02:23:23 align 12 01-00-273 4 minute_line res_absmed_ms 0.26183301815763116
+02:23:24 align 12 01-00-273 6 minute_line res_absmed_ms 0.01079080402632826
+02:23:24 align 12 02-00-307 4 minute_line res_absmed_ms 0.4588067240547389
+02:23:25 align 12 02-00-307 6 minute_line res_absmed_ms 0.06360486440826207
+02:23:26 align 12 03-00-314 4 session_slope res_absmed_ms 0.25861964968498796
+02:23:26 align 12 03-00-314 6 session_slope res_absmed_ms 0.3861373115796596
+02:23:27 align 12 04-00-332 4 session_slope res_absmed_ms 0.041449005948379636
+02:23:27 align 12 04-00-332 6 minute_line res_absmed_ms 0.029398696824500803
+02:23:28 align 12 05-00-338 4 session_slope res_absmed_ms 0.08491584230796434
+02:23:28 align 12 05-00-338 6 minute_line res_absmed_ms 0.11621892190305516
+02:23:29 align 12 06-00-365 4 minute_line res_absmed_ms 0.32951077446341515
+02:23:30 align 12 06-00-365 6 session_slope res_absmed_ms 0.1937039924087003
+02:23:30 align 12 07-00-370 4 minute_line res_absmed_ms 0.22835302661405876
+02:23:31 align 12 07-00-370 6 minute_line res_absmed_ms 0.2587583294371143
+02:23:32 align 12 08-00-374 4 minute_line res_absmed_ms 0.1754971599439159
+02:23:32 align 12 08-00-374 6 session_slope res_absmed_ms 0.004293001893529436
+02:23:33 align 12 09-00-390 4 minute_line res_absmed_ms 0.0840919601614587
+02:23:34 align 12 09-00-390 6 minute_line res_absmed_ms 0.014641628695244435
+02:23:34 align 12 10-00-415 4 minute_line res_absmed_ms 0.3302307450212538
+02:23:35 align 12 10-00-415 6 minute_line res_absmed_ms 0.10335161641705781
+02:23:36 align 12 11-00-411 4 session_slope res_absmed_ms 0.1518580102128908
+02:23:36 align 12 11-00-411 6 minute_line res_absmed_ms 0.33619692840147763
+02:23:37 align 12 12-00-428 4 minute_line res_absmed_ms 0.1036290850606747
+02:23:37 align 12 12-00-428 6 minute_line res_absmed_ms 0.08972678915597498
+02:23:38 align 12 13-00-458 4 minute_line res_absmed_ms 0.0935624266276136
+02:23:39 align 12 13-00-458 6 session_slope res_absmed_ms 0.292085183900781
+02:23:39 align 12 14-00-450 4 minute_line res_absmed_ms 0.09052265522768721
+02:23:40 align 12 14-00-450 6 no_fit_session_offset res_absmed_ms None
+02:23:41 align 12 15-00-460 4 minute_line res_absmed_ms 0.45787041017320007
+02:23:41 align 12 15-00-460 6 session_slope res_absmed_ms 0.3354039217811078
+02:23:42 align 12 16-00-490 4 minute_line res_absmed_ms 0.23227569909067824
+02:23:42 align 12 16-00-490 6 session_slope res_absmed_ms 0.030215094739105552
+02:23:43 align 12 17-00-468 4 minute_line res_absmed_ms 0.3050326486118138
+02:23:44 align 12 17-00-468 6 minute_line res_absmed_ms 0.10186341387452558
+02:23:44 align 12 18-00-494 4 minute_line res_absmed_ms 0.2651275572134182
+02:23:45 align 12 18-00-494 6 minute_line res_absmed_ms 0.11990268103545532
+02:23:46 align 12 19-00-511 4 minute_line res_absmed_ms 0.24076204863376915
+02:23:46 align 12 19-00-511 6 session_slope res_absmed_ms 0.05225964559940621
+02:23:47 align 12 20-00-535 4 session_slope res_absmed_ms 0.08779114432400092
+02:23:47 align 12 20-00-535 6 minute_line res_absmed_ms 0.27662656793836504
+02:23:48 align 12 21-00-544 4 session_slope res_absmed_ms 0.36699271004181355
+02:23:48 align 12 21-00-544 6 minute_line res_absmed_ms 0.03495043711154722
+02:23:49 align 12 22-00-569 4 minute_line res_absmed_ms 0.08710391557542607
+02:23:50 align 12 22-00-569 6 session_slope res_absmed_ms 0.21304928304743953
+02:23:50 align 12 23-00-566 4 minute_line res_absmed_ms 0.2416893985355273
+02:23:51 align 12 23-00-566 6 minute_line res_absmed_ms 0.06656870391452685
+02:23:52 align 12 24-00-587 4 minute_line res_absmed_ms 0.07487975381081924
+02:23:52 align 12 24-00-587 6 minute_line res_absmed_ms 0.4106015549041331
+02:23:53 align 12 25-00-593 4 minute_line res_absmed_ms 0.20906330610159785
+02:23:54 align 12 25-00-593 6 no_fit_session_offset res_absmed_ms None
+02:23:54 align 12 26-00-604 4 minute_line res_absmed_ms 0.006993656825216021
+02:23:55 align 12 26-00-604 6 no_fit_session_offset res_absmed_ms None
+02:23:56 align 12 27-00-621 4 session_slope res_absmed_ms 0.11003316103597172
+02:23:56 align 12 27-00-621 6 minute_line res_absmed_ms 0.006295470257100533
+02:23:57 align 12 28-00-636 4 no_fit_session_offset res_absmed_ms None
+02:23:57 align 12 28-00-636 6 session_slope res_absmed_ms 0.005310205779096577
+02:23:58 align 12 29-00-647 4 no_fit_session_offset res_absmed_ms None
+02:23:58 align 12 29-00-647 6 no_fit_session_offset res_absmed_ms None
+02:24:00 align 10 00-00-000 4 session_slope res_absmed_ms 0.009130355920206057
+02:24:00 align 10 00-00-000 6 minute_line res_absmed_ms 0.06730867244186811
+02:24:01 align 10 01-00-304 4 session_slope res_absmed_ms 0.0030957796752772992
+02:24:02 align 10 01-00-304 6 minute_line res_absmed_ms 0.038386890082620084
+02:24:02 align 10 03-00-332 4 no_fit_session_offset res_absmed_ms None
+02:24:03 align 10 03-00-332 6 minute_line res_absmed_ms 0.036937854019925
+02:24:04 align 10 04-00-350 4 no_fit_session_offset res_absmed_ms None
+02:24:04 align 10 04-00-350 6 session_slope res_absmed_ms 0.7694365340285003
+02:24:05 align 10 05-00-357 4 no_fit_session_offset res_absmed_ms 1.6386660281568766
+02:24:05 align 10 05-00-357 6 session_slope res_absmed_ms 0.6277807988226414
+02:24:06 align 10 06-00-364 4 minute_line res_absmed_ms 0.13820183812640607
+02:24:06 align 10 06-00-364 6 minute_line res_absmed_ms 0.04565790368360467
+02:24:07 align 10 07-00-389 4 session_slope res_absmed_ms 0.011807006103481399
+02:24:08 align 10 07-00-389 6 session_slope res_absmed_ms 0.42126972402911633
+02:24:08 align 10 08-00-390 4 minute_line res_absmed_ms 0.054052952691563405
+02:24:09 align 10 08-00-390 6 minute_line res_absmed_ms 0.005860710189153906
+02:24:09 align 10 09-00-403 4 session_slope res_absmed_ms 0.03777778783842223
+02:24:10 align 10 09-00-403 6 session_slope res_absmed_ms 0.012839156624977477
+02:24:11 align 10 10-00-423 4 minute_line res_absmed_ms 0.03380286034371238
+02:24:11 align 10 10-00-423 6 no_fit_session_offset res_absmed_ms None
+02:24:12 align 10 11-00-446 4 minute_line res_absmed_ms 0.2648815279826522
+02:24:12 align 10 11-00-446 6 session_slope res_absmed_ms 0.00738234348318656
+02:24:13 align 10 12-00-438 4 minute_line res_absmed_ms 0.11572352377697825
+02:24:13 align 10 12-00-438 6 minute_line res_absmed_ms 0.13897516328142956
+02:24:14 align 10 13-00-474 4 session_slope res_absmed_ms 0.0024543372774132877
+02:24:15 align 10 13-00-474 6 minute_line res_absmed_ms 0.0414321111747995
+02:24:15 align 10 19-00-538 4 session_slope res_absmed_ms 0.007427090395140112
+02:24:15 align 10 19-00-538 6 no_fit_session_offset res_absmed_ms None
+02:24:16 align 10 20-00-540 4 no_fit_session_offset res_absmed_ms 0.8084310975391418
+02:24:16 align 10 20-00-540 6 minute_line res_absmed_ms 0.07764043402858078
+02:24:17 align 10 21-00-563 4 session_slope res_absmed_ms 0.0540456658200128
+02:24:17 align 10 21-00-563 6 session_slope res_absmed_ms 0.01270336451852927
+02:24:18 align 10 22-00-585 4 no_fit_session_offset res_absmed_ms None
+02:24:18 align 10 22-00-585 6 no_fit_session_offset res_absmed_ms None
+02:24:18 align 10 23-00-577 4 no_fit_session_offset res_absmed_ms 1.6897849272936583
+02:24:18 align 10 23-00-577 6 session_slope res_absmed_ms 0.0035434622986940667
+02:24:18 align 10 24-00-607 4 session_slope res_absmed_ms 0.20417981431819499
+02:24:19 align 10 24-00-607 6 minute_line res_absmed_ms 0.13355196279007941
+02:24:19 align 10 25-00-601 4 session_slope res_absmed_ms 0.0387285508622881
+02:24:19 align 10 25-00-601 6 no_fit_session_offset res_absmed_ms 1.8829720793291926
+02:24:19 align 10 26-00-618 4 minute_line res_absmed_ms 0.01056724249792751
+02:24:20 align 10 26-00-618 6 no_fit_session_offset res_absmed_ms None
+02:24:20 align 10 27-00-646 4 session_slope res_absmed_ms 0.007208464467112208
+02:24:20 align 10 27-00-646 6 session_slope res_absmed_ms 0.020128982214373536
+02:24:20 align 10 28-00-653 4 no_fit_session_offset res_absmed_ms None
+02:24:21 align 10 28-00-653 6 minute_line res_absmed_ms 0.008558099580113776
+02:24:21 align 10 29-00-656 4 no_fit_session_offset res_absmed_ms None
+02:24:21 align 10 29-00-656 6 no_fit_session_offset res_absmed_ms None
+02:24:23 align 11 00-00-000 3 minute_line res_absmed_ms 0.015388130123028532
+02:24:23 align 11 00-00-000 5 session_slope res_absmed_ms 0.3629149796324782
+02:24:24 align 11 00-00-000 7 session_slope res_absmed_ms 0.021506210032384843
+02:24:24 align 11 02-00-354 3 session_slope res_absmed_ms 0.0764082360547036
+02:24:24 align 11 02-00-354 5 session_slope res_absmed_ms 0.2734154732024763
+02:24:24 align 11 02-00-354 7 minute_line res_absmed_ms 0.25025277864187956
+02:24:24 align 11 03-00-356 3 session_slope res_absmed_ms 0.0250531556957867
+02:24:25 align 11 03-00-356 5 minute_line res_absmed_ms 0.28755771927535534
+02:24:25 align 11 03-00-356 7 session_slope res_absmed_ms 0.004082136001670733
+02:24:25 align 11 04-00-368 3 session_slope res_absmed_ms 0.05337804032023996
+02:24:25 align 11 04-00-368 5 no_fit_session_offset res_absmed_ms None
+02:24:26 align 11 04-00-368 7 session_slope res_absmed_ms 0.04688720218837261
+02:24:26 align 11 05-00-388 3 session_slope res_absmed_ms 0.06236883655219572
+02:24:26 align 11 05-00-388 5 session_slope res_absmed_ms 0.12259285722393543
+02:24:26 align 11 05-00-388 7 session_slope res_absmed_ms 0.017050625956471777
+02:24:27 align 11 06-00-393 3 minute_line res_absmed_ms 0.13171891623642296
+02:24:27 align 11 06-00-393 5 no_fit_session_offset res_absmed_ms None
+02:24:27 align 11 06-00-393 7 no_fit_session_offset res_absmed_ms None
+02:24:27 align 11 07-00-415 3 session_slope res_absmed_ms 0.03653894236776978
+02:24:27 align 11 07-00-415 5 no_fit_session_offset res_absmed_ms None
+02:24:28 align 11 07-00-415 7 no_fit_session_offset res_absmed_ms None
+02:24:28 align 11 08-00-423 3 minute_line res_absmed_ms 0.07202931010397151
+02:24:28 align 11 08-00-423 5 no_fit_session_offset res_absmed_ms None
+02:24:28 align 11 08-00-423 7 minute_line res_absmed_ms 0.3721370012499392
+02:24:29 align 11 09-00-429 3 minute_line res_absmed_ms 0.009146074262389448
+02:24:29 align 11 09-00-429 5 session_slope res_absmed_ms 0.025946617824956775
+02:24:29 align 11 09-00-429 7 minute_line res_absmed_ms 0.10786390339490026
+02:24:29 align 11 10-00-445 3 minute_line res_absmed_ms 0.02191405110352207
+02:24:29 align 11 10-00-445 5 session_slope res_absmed_ms 0.0168338228831999
+02:24:30 align 11 10-00-445 7 minute_line res_absmed_ms 0.03024864236067515
+02:24:30 align 11 11-00-454 3 session_slope res_absmed_ms 0.006344797611745889
+02:24:30 align 11 11-00-454 5 session_slope res_absmed_ms 0.006864296210551402
+02:24:31 align 11 11-00-454 7 minute_line res_absmed_ms 0.10391551040811464
+02:24:31 align 11 16-00-520 3 minute_line res_absmed_ms 0.02951199348899536
+02:24:31 align 11 16-00-520 5 minute_line res_absmed_ms 0.18088840442942455
+02:24:31 align 11 16-00-520 7 minute_line res_absmed_ms 0.03634043605416082
+02:24:31 align 11 20-00-568 3 minute_line res_absmed_ms 0.0379854827770032
+02:24:32 align 11 20-00-568 5 session_slope res_absmed_ms 0.09521293304715073
+02:24:32 align 11 20-00-568 7 session_slope res_absmed_ms 0.06740333265042864
+02:24:33 align 11 21-00-585 3 session_slope res_absmed_ms 0.033369857192155905
+02:24:33 align 11 21-00-585 5 no_fit_session_offset res_absmed_ms None
+02:24:33 align 11 21-00-585 7 minute_line res_absmed_ms 0.06111317270551808
+02:24:34 align 11 22-00-598 3 no_fit_session_offset res_absmed_ms 1.9685307051986456
+02:24:34 align 11 22-00-598 5 no_fit_session_offset res_absmed_ms None
+02:24:34 align 11 22-00-598 7 session_slope res_absmed_ms 0.010604852377582574
+02:24:35 align 11 23-00-605 3 minute_line res_absmed_ms 0.0894279801286757
+02:24:35 align 11 23-00-605 5 session_slope res_absmed_ms 0.15354674542322755
+02:24:36 align 11 23-00-605 7 minute_line res_absmed_ms 0.10229478357359767
+02:24:37 align 11 24-00-623 3 no_fit_session_offset res_absmed_ms None
+02:24:37 align 11 24-00-623 5 minute_line res_absmed_ms 0.37677241198252887
+02:24:38 align 11 24-00-623 7 minute_line res_absmed_ms 0.14373181329574436
+02:24:38 align 11 25-00-631 3 session_slope res_absmed_ms 0.01973686448764056
+02:24:39 align 11 25-00-631 5 no_fit_session_offset res_absmed_ms 1.355971151497215
+02:24:39 align 11 25-00-631 7 session_slope res_absmed_ms 0.0019263205217612267
+02:24:40 align 11 26-00-642 3 minute_line res_absmed_ms 0.01738344508339651
+02:24:40 align 11 26-00-642 5 no_fit_session_offset res_absmed_ms None
+02:24:41 align 11 26-00-642 7 no_fit_session_offset res_absmed_ms None
+02:24:41 align 11 27-00-667 3 session_slope res_absmed_ms 0.009286892236559652
+02:24:42 align 11 27-00-667 5 session_slope res_absmed_ms 0.053643951105186716
+02:24:42 align 11 27-00-667 7 no_fit_session_offset res_absmed_ms None
+02:24:42 align 11 28-00-666 3 no_fit_session_offset res_absmed_ms None
+02:24:43 align 11 28-00-666 5 minute_line res_absmed_ms 0.0057126953834085725
+02:24:43 align 11 28-00-666 7 no_fit_session_offset res_absmed_ms 1.7232733080163598
+02:24:43 align 11 29-00-684 3 no_fit_session_offset res_absmed_ms None
+02:24:43 align 11 29-00-684 5 no_fit_session_offset res_absmed_ms None
+02:24:43 align 11 29-00-684 7 minute_line res_absmed_ms 0.009481264896749053
+02:24:44 align 11 30-00-709 3 no_fit_session_offset res_absmed_ms None
+02:24:44 align 11 30-00-709 5 no_fit_session_offset res_absmed_ms None
+02:24:44 align 11 30-00-709 7 no_fit_session_offset res_absmed_ms None
+{
+ "4": {
+  "n": 116,
+  "b_ppm_median": -4.036045506325744,
+  "fs_close_eff_median": 48008.40623588775,
+  "res_absmed_ms_median": 0.10116600242326967,
+  "res_p90_ms_median": 0.4163648176472634,
+  "how": {
+   "no_fit_session_offset": 45,
+   "minute_line": 39,
+   "session_slope": 32
+  }
+ },
+ "10": {
+  "n": 48,
+  "b_ppm_median": -3.881791921560865,
+  "fs_close_eff_median": 48008.41364132777,
+  "res_absmed_ms_median": 0.0400803310185438,
+  "res_p90_ms_median": 0.2887499060307164,
+  "how": {
+   "session_slope": 18,
+   "minute_line": 16,
+   "no_fit_session_offset": 14
+  }
+ },
+ "11": {
+  "n": 69,
+  "b_ppm_median": -4.431687528281675,
+  "fs_close_eff_median": 48008.387241829005,
+  "res_absmed_ms_median": 0.05337804032023996,
+  "res_p90_ms_median": 0.2438658120809123,
+  "how": {
+   "session_slope": 25,
+   "minute_line": 23,
+   "no_fit_session_offset": 21
+  }
+ },
+ "12": {
+  "n": 60,
+  "b_ppm_median": -7.734211173159914,
+  "fs_close_eff_median": 48008.22869422123,
+  "res_absmed_ms_median": 0.11806080146925524,
+  "res_p90_ms_median": 0.6420434627216309,
+  "how": {
+   "minute_line": 37,
+   "session_slope": 17,
+   "no_fit_session_offset": 6
+  }
+ },
+ "all": {
+  "n": 293,
+  "res_absmed_ms_median": 0.08481874283461366,
+  "res_absmed_ms_p90": 0.39144692855188645,
+  "res_p90_ms_median": 0.42796877678483725,
+  "frac_outlier_median": 0.0
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_25-00-599_P3_07200",
+ "split": "val",
+ "session": 4,
+ "seg": "25-00-599",
+ "seg_start_s": 1500.599,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Ah! The little white light!",
+ "start_s": 7.2,
+ "end_s": 9.65,
+ "dur": 2.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 71200,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.027005376978195272,
+ "align_how": "session_slope",
+ "az_ref_mean": 48.79,
+ "el_ref_mean": -2.85,
+ "az_ref_range": 13.15,
+ "doa_valid_frac": 1.0
+}

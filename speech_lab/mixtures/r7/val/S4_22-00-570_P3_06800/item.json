@@ -1,0 +1,29 @@
+{
+ "id": "S4_22-00-570_P3_06800",
+ "split": "val",
+ "session": 4,
+ "seg": "22-00-570",
+ "seg_start_s": 1320.57,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "I- is it attached to the roof?",
+ "start_s": 6.8,
+ "end_s": 8.95,
+ "dur": 2.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 66400,
+ "overlap": true,
+ "ovl_frac": 0.326,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.10116600242326967,
+ "align_how": "minute_line",
+ "az_ref_mean": 75.86,
+ "el_ref_mean": -4.13,
+ "az_ref_range": 97.42,
+ "doa_valid_frac": 1.0
+}

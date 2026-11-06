@@ -1,0 +1,29 @@
+{
+ "id": "S4_15-00-480_P7_00600",
+ "split": "val",
+ "session": 4,
+ "seg": "15-00-480",
+ "seg_start_s": 900.48,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "3"
+ ],
+ "target": "other",
+ "text": "What? Say again? [L]",
+ "start_s": 0.6,
+ "end_s": 2.55,
+ "dur": 1.95,
+ "ctx_s": 0.6,
+ "utt_offset_samples": 9600,
+ "n_samples": 40800,
+ "overlap": true,
+ "ovl_frac": 0.513,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -101.94,
+ "el_ref_mean": 1.61,
+ "az_ref_range": 2.37,
+ "doa_valid_frac": 1.0
+}

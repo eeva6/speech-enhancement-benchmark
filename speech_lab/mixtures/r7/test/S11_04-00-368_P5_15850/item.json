@@ -1,0 +1,29 @@
+{
+ "id": "S11_04-00-368_P5_15850",
+ "split": "test",
+ "session": 11,
+ "seg": "04-00-368",
+ "seg_start_s": 240.368,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "[L]",
+ "start_s": 15.85,
+ "end_s": 17.35,
+ "dur": 1.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 56000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.9161609341390431,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -21.87,
+ "el_ref_mean": 3.29,
+ "az_ref_range": 19.71,
+ "doa_valid_frac": 1.0
+}

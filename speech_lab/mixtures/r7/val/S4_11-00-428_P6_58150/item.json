@@ -1,0 +1,29 @@
+{
+ "id": "S4_11-00-428_P6_58150",
+ "split": "val",
+ "session": 4,
+ "seg": "11-00-428",
+ "seg_start_s": 660.428,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "[L]",
+ "start_s": 58.15,
+ "end_s": 59.95,
+ "dur": 1.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 60800,
+ "overlap": true,
+ "ovl_frac": 0.528,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.21429729531519115,
+ "align_how": "minute_line",
+ "az_ref_mean": 9.68,
+ "el_ref_mean": 19.8,
+ "az_ref_range": 5.75,
+ "doa_valid_frac": 1.0
+}

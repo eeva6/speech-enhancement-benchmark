@@ -1,0 +1,9 @@
+{"method": "noisy", "n": 180, "n_fail": 0, "rtf": 0.02581865173942941, "peak_rss_mb": 249.5625, "first_call_s": 0.18966628100002936}
+{"method": "wiener_dd", "n": 180, "n_fail": 0, "rtf": 0.0036097116735531853, "peak_rss_mb": 270.92578125, "first_call_s": 0.029480061000015212}
+{"method": "mmse_lsa", "n": 180, "n_fail": 0, "rtf": 0.00920027920660635, "peak_rss_mb": 271.0078125, "first_call_s": 0.06445905499998617}
+{"method": "specsub", "n": 180, "n_fail": 0, "rtf": 0.0022270837346513137, "peak_rss_mb": 268.796875, "first_call_s": 0.018810376000033102}
+{"method": "specsub_oraclenoise", "n": 180, "n_fail": 0, "rtf": 0.0020513876959927855, "peak_rss_mb": 269.71484375, "first_call_s": 0.0159620210000071}
+{"method": "wiener_dd_oraclenoise", "n": 180, "n_fail": 0, "rtf": 0.00342358080956792, "peak_rss_mb": 270.70703125, "first_call_s": 0.025728955999966274}
+{"method": "mmse_lsa_oraclenoise", "n": 180, "n_fail": 0, "rtf": 0.007714395166400552, "peak_rss_mb": 269.48828125, "first_call_s": 0.04559318000002577}
+{"method": "metricgan_plus", "n": 180, "n_fail": 0, "rtf": 0.03142534497342971, "peak_rss_mb": 311.05078125, "first_call_s": 14.389894157999947}
+{"method": "demucs_dns64", "n": 180, "n_fail": 0, "rtf": 0.3897712544169974, "peak_rss_mb": 867.46875, "first_call_s": 4.391558325000005}

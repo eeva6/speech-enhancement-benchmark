@@ -1,0 +1,29 @@
+{
+ "id": "S4_29-00-654_P6_21200",
+ "split": "val",
+ "session": 4,
+ "seg": "29-00-654",
+ "seg_start_s": 1740.654,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "How many acres is Walt Disney World?",
+ "start_s": 21.2,
+ "end_s": 23.7,
+ "dur": 2.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 72000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 9.7,
+ "align_res_absmed_ms": 0.014265026948123705,
+ "align_how": "minute_line",
+ "az_ref_mean": -13.79,
+ "el_ref_mean": 0.93,
+ "az_ref_range": 1.43,
+ "doa_valid_frac": 1.0
+}

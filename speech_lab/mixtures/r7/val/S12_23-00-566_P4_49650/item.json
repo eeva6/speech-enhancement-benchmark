@@ -1,0 +1,29 @@
+{
+ "id": "S12_23-00-566_P4_49650",
+ "split": "val",
+ "session": 12,
+ "seg": "23-00-566",
+ "seg_start_s": 1380.566,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Green!",
+ "start_s": 49.65,
+ "end_s": 50.9,
+ "dur": 1.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 52000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 9.2,
+ "align_res_absmed_ms": 0.2416893985355273,
+ "align_how": "minute_line",
+ "az_ref_mean": -12.65,
+ "el_ref_mean": 14.05,
+ "az_ref_range": 8.2,
+ "doa_valid_frac": 0.96
+}

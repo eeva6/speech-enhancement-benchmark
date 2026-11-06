@@ -1,0 +1,29 @@
+{
+ "id": "S10_09-00-403_P6_15550",
+ "split": "test",
+ "session": 10,
+ "seg": "09-00-403",
+ "seg_start_s": 540.403,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Well, it d- doesn't matter. E- Every point is a pole in a sphere.",
+ "start_s": 15.55,
+ "end_s": 20.35,
+ "dur": 4.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 108800,
+ "overlap": true,
+ "ovl_frac": 0.177,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.012839156624977477,
+ "align_how": "session_slope",
+ "az_ref_mean": -3.9,
+ "el_ref_mean": 1.01,
+ "az_ref_range": 6.74,
+ "doa_valid_frac": 1.0
+}

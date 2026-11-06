@@ -1,0 +1,29 @@
+{
+ "id": "S12_07-00-370_P6_22150",
+ "split": "val",
+ "session": 12,
+ "seg": "07-00-370",
+ "seg_start_s": 420.37,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "You're looking at your dad's dad or your dad?",
+ "start_s": 22.15,
+ "end_s": 24.45,
+ "dur": 2.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 68800,
+ "overlap": true,
+ "ovl_frac": 0.391,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.2587583294371143,
+ "align_how": "minute_line",
+ "az_ref_mean": -57.76,
+ "el_ref_mean": 9.67,
+ "az_ref_range": 1.05,
+ "doa_valid_frac": 1.0
+}

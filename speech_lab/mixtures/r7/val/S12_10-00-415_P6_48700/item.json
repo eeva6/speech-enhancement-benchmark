@@ -1,0 +1,29 @@
+{
+ "id": "S12_10-00-415_P6_48700",
+ "split": "val",
+ "session": 12,
+ "seg": "10-00-415",
+ "seg_start_s": 600.415,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "What question can get you to heaven?",
+ "start_s": 48.7,
+ "end_s": 50.95,
+ "dur": 2.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 68000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 7.85,
+ "align_res_absmed_ms": 0.10335161641705781,
+ "align_how": "minute_line",
+ "az_ref_mean": -18.65,
+ "el_ref_mean": 22.03,
+ "az_ref_range": 4.04,
+ "doa_valid_frac": 1.0
+}

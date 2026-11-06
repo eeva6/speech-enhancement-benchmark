@@ -1,0 +1,29 @@
+{
+ "id": "S4_11-00-428_P6_28100",
+ "split": "val",
+ "session": 4,
+ "seg": "11-00-428",
+ "seg_start_s": 660.428,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Little bit more than half. [L] Anyways. You lea-",
+ "start_s": 28.1,
+ "end_s": 32.3,
+ "dur": 4.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 99200,
+ "overlap": true,
+ "ovl_frac": 0.571,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.21429729531519115,
+ "align_how": "minute_line",
+ "az_ref_mean": 14.45,
+ "el_ref_mean": 22.35,
+ "az_ref_range": 5.35,
+ "doa_valid_frac": 1.0
+}

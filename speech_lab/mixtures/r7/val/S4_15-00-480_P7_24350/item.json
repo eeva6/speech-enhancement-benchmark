@@ -1,0 +1,29 @@
+{
+ "id": "S4_15-00-480_P7_24350",
+ "split": "val",
+ "session": 4,
+ "seg": "15-00-480",
+ "seg_start_s": 900.48,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "[L]",
+ "start_s": 24.35,
+ "end_s": 25.5,
+ "dur": 1.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 50400,
+ "overlap": true,
+ "ovl_frac": 0.217,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -79.92,
+ "el_ref_mean": 9.72,
+ "az_ref_range": 4.18,
+ "doa_valid_frac": 1.0
+}

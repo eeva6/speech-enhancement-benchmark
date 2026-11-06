@@ -1,0 +1,29 @@
+{
+ "id": "S12_07-00-370_P4_41400",
+ "split": "val",
+ "session": 12,
+ "seg": "07-00-370",
+ "seg_start_s": 420.37,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Oh my god! We suck at this! [H] We [L] Oh! Wait.",
+ "start_s": 41.4,
+ "end_s": 46.8,
+ "dur": 5.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 118400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.22835302661405876,
+ "align_how": "minute_line",
+ "az_ref_mean": -11.67,
+ "el_ref_mean": 17.43,
+ "az_ref_range": 14.33,
+ "doa_valid_frac": 0.907
+}

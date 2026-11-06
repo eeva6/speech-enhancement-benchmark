@@ -1,0 +1,172 @@
+{
+ "sim_street": {
+  "anc_sim": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hs_ds": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hs_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hyb_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "raw": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "trk_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  }
+ },
+ "sim_restaurant": {
+  "anc_sim": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hs_ds": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hs_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hyb_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "raw": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "trk_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  }
+ },
+ "libricss_ov40": {
+  "anc_sim": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hs_ds": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hs_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hyb_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "raw": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "trk_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  }
+ },
+ "easycom_s10": {
+  "anc_sim": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "ear": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hs_ds": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hs_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hyb_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "raw": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "trk_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  }
+ },
+ "easycom_s11": {
+  "anc_sim": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "ear": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hs_ds": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hs_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "hyb_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "raw": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  },
+  "trk_sd4": {
+   "bit_identical": true,
+   "max_abs_diff": 0.0,
+   "check": "mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table"
+  }
+ }
+}

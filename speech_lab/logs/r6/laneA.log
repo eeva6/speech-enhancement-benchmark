@@ -1,0 +1,38 @@
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s012 --methods ds_td_rt --suffix '' --fkw '{}'
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/speechbrain/utils/checkpoints.py:202: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(path, map_location=device)
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/speechbrain/processing/features.py:1550: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  stats = torch.load(path, map_location=self.device)
+{"method": "ds_td_rt", "tag": "r5", "n_done": 48, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s012 --methods sd4_rtn --suffix '' --fkw '{}'
+{"method": "sd4_rtn", "tag": "r5", "n_done": 72, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s012 --methods sd4_rt --suffix '' --fkw '{}'
+{"method": "sd4_rt", "tag": "r5", "n_done": 48, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s012 --methods sd4_rt --suffix 'w-6' --fkw '{"wng_db": -6.0}'
+{"method": "sd4_rt__w-6", "tag": "r5", "n_done": 72, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s012 --methods sd4_rt --suffix 'w6' --fkw '{"wng_db": 6.0}'
+{"method": "sd4_rt__w6", "tag": "r5", "n_done": 72, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s012 --methods gm4_rt --suffix '' --fkw '{}'
+{"method": "gm4_rt", "tag": "r5", "n_done": 48, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s012 --methods gm4_rt --suffix 'w6' --fkw '{"wng_db": 6.0}'
+{"method": "gm4_rt__w6", "tag": "r5", "n_done": 72, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s012 --methods gm4_rt --suffix 'c03' --fkw '{"coh_thr": 0.3}'
+{"method": "gm4_rt__c03", "tag": "r5", "n_done": 72, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s012 --methods rtf4_rt --suffix '' --fkw '{}'
+{"method": "rtf4_rt", "tag": "r5", "n_done": 48, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s012 --methods rtf4_rt --suffix 'w6' --fkw '{"wng_db": 6.0}'
+{"method": "rtf4_rt__w6", "tag": "r5", "n_done": 72, "n_fail": 0}
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/speechbrain/utils/checkpoints.py:202: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(path, map_location=device)
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/speechbrain/processing/features.py:1550: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  stats = torch.load(path, map_location=self.device)
+{"method": "ds_td_rt", "tag": "r5sim", "n_done": 48, "n_fail": 0}
+{"method": "ds_td_ref", "tag": "r5sim", "n_done": 48, "n_fail": 0}
+{"method": "sd4_rt", "tag": "r5sim", "n_done": 48, "n_fail": 0}
+{"method": "sd4_ref", "tag": "r5sim", "n_done": 48, "n_fail": 0}
+{"method": "sd8_rt", "tag": "r5sim", "n_done": 48, "n_fail": 0}
+{"method": "sd8_ref", "tag": "r5sim", "n_done": 48, "n_fail": 0}
+{"method": "gm4_rt", "tag": "r5sim", "n_done": 48, "n_fail": 0}
+{"method": "gm4_ref", "tag": "r5sim", "n_done": 48, "n_fail": 0}
+{"method": "rtf4_rt", "tag": "r5sim", "n_done": 48, "n_fail": 0}
+{"method": "rtf4_ref", "tag": "r5sim", "n_done": 48, "n_fail": 0}

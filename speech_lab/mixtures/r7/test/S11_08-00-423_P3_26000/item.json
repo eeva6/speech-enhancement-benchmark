@@ -1,0 +1,29 @@
+{
+ "id": "S11_08-00-423_P3_26000",
+ "split": "test",
+ "session": 11,
+ "seg": "08-00-423",
+ "seg_start_s": 480.423,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Woah! Did you drop something?",
+ "start_s": 26.0,
+ "end_s": 27.4,
+ "dur": 1.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 54400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.07202931010397151,
+ "align_how": "minute_line",
+ "az_ref_mean": 27.72,
+ "el_ref_mean": 7.03,
+ "az_ref_range": 44.56,
+ "doa_valid_frac": 1.0
+}

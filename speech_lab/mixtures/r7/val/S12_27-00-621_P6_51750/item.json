@@ -1,0 +1,29 @@
+{
+ "id": "S12_27-00-621_P6_51750",
+ "split": "val",
+ "session": 12,
+ "seg": "27-00-621",
+ "seg_start_s": 1620.621,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Should I bring an umbrella?",
+ "start_s": 51.75,
+ "end_s": 53.35,
+ "dur": 1.6,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 57600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 1.95,
+ "align_res_absmed_ms": 0.006295470257100533,
+ "align_how": "minute_line",
+ "az_ref_mean": -26.8,
+ "el_ref_mean": 3.07,
+ "az_ref_range": 1.35,
+ "doa_valid_frac": 1.0
+}

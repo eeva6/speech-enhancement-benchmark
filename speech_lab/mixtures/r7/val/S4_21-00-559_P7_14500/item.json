@@ -1,0 +1,29 @@
+{
+ "id": "S4_21-00-559_P7_14500",
+ "split": "val",
+ "session": 4,
+ "seg": "21-00-559",
+ "seg_start_s": 1260.559,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Oh. I spy something transparent?",
+ "start_s": 14.5,
+ "end_s": 19.1,
+ "dur": 4.6,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 105600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.26319043536204845,
+ "align_how": "minute_line",
+ "az_ref_mean": -23.81,
+ "el_ref_mean": 2.54,
+ "az_ref_range": 7.29,
+ "doa_valid_frac": 1.0
+}

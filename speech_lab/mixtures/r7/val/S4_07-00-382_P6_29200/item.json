@@ -1,0 +1,29 @@
+{
+ "id": "S4_07-00-382_P6_29200",
+ "split": "val",
+ "session": 4,
+ "seg": "07-00-382",
+ "seg_start_s": 420.382,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Three- three switches downstairs",
+ "start_s": 29.2,
+ "end_s": 32.5,
+ "dur": 3.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 84800,
+ "overlap": true,
+ "ovl_frac": 0.106,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.23359923216048628,
+ "align_how": "minute_line",
+ "az_ref_mean": -2.28,
+ "el_ref_mean": 14.86,
+ "az_ref_range": 1.88,
+ "doa_valid_frac": 1.0
+}

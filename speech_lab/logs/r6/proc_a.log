@@ -1,0 +1,5 @@
+{"method": "ds_td_ref", "tag": "r5", "n_done": 0, "n_fail": 0}
+{"method": "ds_td_blind", "tag": "r5", "n_done": 0, "n_fail": 0}
+{"method": "ds_td_r5t", "tag": "r5", "n_done": 0, "n_fail": 0}
+{"method": "sd4_ref", "tag": "r5", "n_done": 0, "n_fail": 0}
+{"method": "sd8_ref", "tag": "r5", "n_done": 0, "n_fail": 0}

@@ -1,0 +1,29 @@
+{
+ "id": "S11_21-00-585_P5_00750",
+ "split": "test",
+ "session": 11,
+ "seg": "21-00-585",
+ "seg_start_s": 1260.585,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Okay. Kay Sophie.",
+ "start_s": 0.75,
+ "end_s": 2.05,
+ "dur": 1.3,
+ "ctx_s": 0.75,
+ "utt_offset_samples": 12000,
+ "n_samples": 32800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.5936952074989676,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 4.12,
+ "el_ref_mean": 4.69,
+ "az_ref_range": 5.14,
+ "doa_valid_frac": 1.0
+}

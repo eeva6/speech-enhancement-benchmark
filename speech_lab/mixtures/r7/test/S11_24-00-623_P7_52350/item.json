@@ -1,0 +1,29 @@
+{
+ "id": "S11_24-00-623_P7_52350",
+ "split": "test",
+ "session": 11,
+ "seg": "24-00-623",
+ "seg_start_s": 1440.623,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "5"
+ ],
+ "target": "other",
+ "text": "The tape on that thing saying something. Okay. [L]",
+ "start_s": 52.35,
+ "end_s": 56.5,
+ "dur": 4.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 98400,
+ "overlap": true,
+ "ovl_frac": 0.627,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.14373181329574436,
+ "align_how": "minute_line",
+ "az_ref_mean": -81.84,
+ "el_ref_mean": 10.02,
+ "az_ref_range": 137.14,
+ "doa_valid_frac": 1.0
+}

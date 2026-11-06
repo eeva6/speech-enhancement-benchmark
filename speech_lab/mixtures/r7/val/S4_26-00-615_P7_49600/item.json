@@ -1,0 +1,29 @@
+{
+ "id": "S4_26-00-615_P7_49600",
+ "split": "val",
+ "session": 4,
+ "seg": "26-00-615",
+ "seg_start_s": 1560.615,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "[C]",
+ "start_s": 49.6,
+ "end_s": 50.6,
+ "dur": 1.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 48000,
+ "overlap": true,
+ "ovl_frac": 0.6,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -105.7,
+ "el_ref_mean": -3.36,
+ "az_ref_range": 0.45,
+ "doa_valid_frac": 1.0
+}

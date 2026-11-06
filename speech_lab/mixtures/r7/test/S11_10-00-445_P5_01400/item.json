@@ -1,0 +1,29 @@
+{
+ "id": "S11_10-00-445_P5_01400",
+ "split": "test",
+ "session": 11,
+ "seg": "10-00-445",
+ "seg_start_s": 600.445,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So you're looking at a man whose father",
+ "start_s": 1.4,
+ "end_s": 3.25,
+ "dur": 1.85,
+ "ctx_s": 1.4,
+ "utt_offset_samples": 22400,
+ "n_samples": 52000,
+ "overlap": true,
+ "ovl_frac": 0.162,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0168338228831999,
+ "align_how": "session_slope",
+ "az_ref_mean": -3.84,
+ "el_ref_mean": 19.79,
+ "az_ref_range": 0.31,
+ "doa_valid_frac": 1.0
+}

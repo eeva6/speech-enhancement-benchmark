@@ -1,0 +1,29 @@
+{
+ "id": "S4_26-00-615_P3_56600",
+ "split": "val",
+ "session": 4,
+ "seg": "26-00-615",
+ "seg_start_s": 1560.615,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "What day of the week was Halloween last year?",
+ "start_s": 56.6,
+ "end_s": 58.9,
+ "dur": 2.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 68800,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 6.6,
+ "align_res_absmed_ms": 0.03364003714523278,
+ "align_how": "minute_line",
+ "az_ref_mean": 14.35,
+ "el_ref_mean": 2.49,
+ "az_ref_range": 1.9,
+ "doa_valid_frac": 1.0
+}

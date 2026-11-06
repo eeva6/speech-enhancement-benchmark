@@ -1,0 +1,29 @@
+{
+ "id": "S12_00-00-000_P6_09300",
+ "split": "val",
+ "session": 12,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Nice to meet you.",
+ "start_s": 9.3,
+ "end_s": 10.35,
+ "dur": 1.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 48800,
+ "overlap": true,
+ "ovl_frac": 0.667,
+ "t_since_turn_onset": 2.45,
+ "align_res_absmed_ms": 0.244089838815853,
+ "align_how": "minute_line",
+ "az_ref_mean": -30.49,
+ "el_ref_mean": -0.23,
+ "az_ref_range": 10.17,
+ "doa_valid_frac": 1.0
+}

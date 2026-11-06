@@ -1,0 +1,29 @@
+{
+ "id": "S11_27-00-667_P3_22000",
+ "split": "test",
+ "session": 11,
+ "seg": "27-00-667",
+ "seg_start_s": 1620.667,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Create a to do list. ",
+ "start_s": 22.0,
+ "end_s": 23.3,
+ "dur": 1.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 52800,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.009286892236559652,
+ "align_how": "session_slope",
+ "az_ref_mean": 38.46,
+ "el_ref_mean": 14.49,
+ "az_ref_range": 0.46,
+ "doa_valid_frac": 1.0
+}

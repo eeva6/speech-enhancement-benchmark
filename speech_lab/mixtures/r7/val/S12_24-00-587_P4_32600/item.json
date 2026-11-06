@@ -1,0 +1,29 @@
+{
+ "id": "S12_24-00-587_P4_32600",
+ "split": "val",
+ "session": 12,
+ "seg": "24-00-587",
+ "seg_start_s": 1440.587,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I- I- I can see the LED blinking, yeah.",
+ "start_s": 32.6,
+ "end_s": 35.85,
+ "dur": 3.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 84000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.07487975381081924,
+ "align_how": "minute_line",
+ "az_ref_mean": 41.39,
+ "el_ref_mean": 4.4,
+ "az_ref_range": 41.28,
+ "doa_valid_frac": 0.969
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S12_03-00-314_P6_08800",
+ "split": "val",
+ "session": 12,
+ "seg": "03-00-314",
+ "seg_start_s": 180.314,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Sure. [L]",
+ "start_s": 8.8,
+ "end_s": 10.8,
+ "dur": 2.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 64000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.3861373115796596,
+ "align_how": "session_slope",
+ "az_ref_mean": -56.82,
+ "el_ref_mean": 12.99,
+ "az_ref_range": 32.61,
+ "doa_valid_frac": 1.0
+}

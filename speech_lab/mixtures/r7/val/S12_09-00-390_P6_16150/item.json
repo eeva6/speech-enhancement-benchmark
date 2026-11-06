@@ -1,0 +1,29 @@
+{
+ "id": "S12_09-00-390_P6_16150",
+ "split": "val",
+ "session": 12,
+ "seg": "09-00-390",
+ "seg_start_s": 540.39,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "You are shown two doors, one leading to hell, and the second one to heaven, and only the door guards know what is behind the doors. One guard is always lying. The other is always telling the truth. Of course, you don\u00fft know who is lying. You can ask only one guard one question. What question can get you to heaven?",
+ "start_s": 16.15,
+ "end_s": 37.95,
+ "dur": 21.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 380800,
+ "overlap": true,
+ "ovl_frac": 0.002,
+ "t_since_turn_onset": 2.05,
+ "align_res_absmed_ms": 0.014641628695244435,
+ "align_how": "minute_line",
+ "az_ref_mean": -8.77,
+ "el_ref_mean": 11.46,
+ "az_ref_range": 7.87,
+ "doa_valid_frac": 1.0
+}

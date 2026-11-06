@@ -1,0 +1,29 @@
+{
+ "id": "S4_08-00-381_P3_00850",
+ "split": "val",
+ "session": 4,
+ "seg": "08-00-381",
+ "seg_start_s": 480.381,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I haven't heard this before but I'm surmising that you can-",
+ "start_s": 0.85,
+ "end_s": 4.75,
+ "dur": 3.9,
+ "ctx_s": 0.85,
+ "utt_offset_samples": 13600,
+ "n_samples": 76000,
+ "overlap": true,
+ "ovl_frac": 0.218,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.02922484782175161,
+ "align_how": "minute_line",
+ "az_ref_mean": 32.09,
+ "el_ref_mean": 0.16,
+ "az_ref_range": 41.37,
+ "doa_valid_frac": 1.0
+}

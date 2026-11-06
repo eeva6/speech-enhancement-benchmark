@@ -1,0 +1,29 @@
+{
+ "id": "S11_09-00-429_P7_07650",
+ "split": "test",
+ "session": 11,
+ "seg": "09-00-429",
+ "seg_start_s": 540.429,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "3"
+ ],
+ "target": "other",
+ "text": "Oh. So you can touch them and see which one's warm?",
+ "start_s": 7.65,
+ "end_s": 10.0,
+ "dur": 2.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 69600,
+ "overlap": true,
+ "ovl_frac": 0.234,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.10786390339490026,
+ "align_how": "minute_line",
+ "az_ref_mean": -79.27,
+ "el_ref_mean": -1.58,
+ "az_ref_range": 14.46,
+ "doa_valid_frac": 1.0
+}

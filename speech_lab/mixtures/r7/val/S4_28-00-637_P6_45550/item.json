@@ -1,0 +1,29 @@
+{
+ "id": "S4_28-00-637_P6_45550",
+ "split": "val",
+ "session": 4,
+ "seg": "28-00-637",
+ "seg_start_s": 1680.637,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "How far is it from Maui to LA?",
+ "start_s": 45.55,
+ "end_s": 48.05,
+ "dur": 2.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 72000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 2.35,
+ "align_res_absmed_ms": 0.008573771083320025,
+ "align_how": "session_slope",
+ "az_ref_mean": -15.99,
+ "el_ref_mean": 4.6,
+ "az_ref_range": 3.15,
+ "doa_valid_frac": 1.0
+}

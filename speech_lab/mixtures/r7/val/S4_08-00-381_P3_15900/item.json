@@ -1,0 +1,29 @@
+{
+ "id": "S4_08-00-381_P3_15900",
+ "split": "val",
+ "session": 4,
+ "seg": "08-00-381",
+ "seg_start_s": 480.381,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "it'll be warm!",
+ "start_s": 15.9,
+ "end_s": 17.1,
+ "dur": 1.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 51200,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.02922484782175161,
+ "align_how": "minute_line",
+ "az_ref_mean": 23.85,
+ "el_ref_mean": -1.91,
+ "az_ref_range": 2.03,
+ "doa_valid_frac": 1.0
+}

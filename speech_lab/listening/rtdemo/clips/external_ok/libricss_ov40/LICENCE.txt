@@ -1,0 +1,5 @@
+Real LibriCSS meeting room (OV40), 7-mic table array
+OK for outside listeners (attribution: LibriCSS (CC BY 4.0, Chen et al. 2020) re-recording of LibriSpeech (CC BY 4.0))
+
+table array, not glasses: 'head direction' = ORACLE look direction (system-ID azimuth of the target loudspeaker), as if the wearer faced the target; talkers without an r5 system-ID azimuth are shown without a direction
+Processed recorded audio (causal 2 ms block engine). Not at-ear sound; no open-ear leakage, feedback or real ANC. SIMULATED_noise_cut.wav is a simulation.

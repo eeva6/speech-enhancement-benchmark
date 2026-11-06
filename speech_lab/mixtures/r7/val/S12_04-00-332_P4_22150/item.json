@@ -1,0 +1,29 @@
+{
+ "id": "S12_04-00-332_P4_22150",
+ "split": "val",
+ "session": 12,
+ "seg": "04-00-332",
+ "seg_start_s": 240.332,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "You're an exotic person, Sophie.",
+ "start_s": 22.15,
+ "end_s": 24.7,
+ "dur": 2.55,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 72800,
+ "overlap": true,
+ "ovl_frac": 0.608,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.041449005948379636,
+ "align_how": "session_slope",
+ "az_ref_mean": -6.84,
+ "el_ref_mean": 5.73,
+ "az_ref_range": 21.63,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S10_06-00-364_P4_45200",
+ "split": "test",
+ "session": 10,
+ "seg": "06-00-364",
+ "seg_start_s": 360.364,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Ah! You have beer! Okay. So I'll take two stout.",
+ "start_s": 45.2,
+ "end_s": 48.85,
+ "dur": 3.65,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 90400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.13820183812640607,
+ "align_how": "minute_line",
+ "az_ref_mean": 45.97,
+ "el_ref_mean": -4.23,
+ "az_ref_range": 2.24,
+ "doa_valid_frac": 1.0
+}

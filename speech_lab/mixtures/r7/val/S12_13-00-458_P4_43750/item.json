@@ -1,0 +1,30 @@
+{
+ "id": "S12_13-00-458_P4_43750",
+ "split": "val",
+ "session": 12,
+ "seg": "13-00-458",
+ "seg_start_s": 780.458,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6",
+  "2"
+ ],
+ "target": "wearer",
+ "text": "How about \"Is the other guard truthful?\" Okay. No offense You're an honest person, you're not. [H] So, is",
+ "start_s": 43.75,
+ "end_s": 57.75,
+ "dur": 14.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 256000,
+ "overlap": true,
+ "ovl_frac": 0.629,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0935624266276136,
+ "align_how": "minute_line",
+ "az_ref_mean": 3.22,
+ "el_ref_mean": 2.01,
+ "az_ref_range": 31.32,
+ "doa_valid_frac": 1.0
+}

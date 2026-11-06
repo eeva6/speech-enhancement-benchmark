@@ -1,0 +1,29 @@
+{
+ "id": "S4_03-00-332_P3_07650",
+ "split": "val",
+ "session": 4,
+ "seg": "03-00-332",
+ "seg_start_s": 180.332,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Oh! He's here!",
+ "start_s": 7.65,
+ "end_s": 9.75,
+ "dur": 2.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 65600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.07671591811231337,
+ "align_how": "minute_line",
+ "az_ref_mean": 55.03,
+ "el_ref_mean": 2.05,
+ "az_ref_range": 14.24,
+ "doa_valid_frac": 1.0
+}

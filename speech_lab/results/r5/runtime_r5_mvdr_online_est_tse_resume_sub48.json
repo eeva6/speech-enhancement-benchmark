@@ -1,0 +1,13 @@
+{
+ "method": "mvdr_online_est_tse",
+ "tag": "r5",
+ "n": 48,
+ "n_fail": 0,
+ "fails": [],
+ "rtf": 1.7670542893858765,
+ "peak_rss_mb": 1744.38671875,
+ "infos": {},
+ "streaming": null,
+ "latency": "non-causal TSE stage",
+ "cpu": "2 vCPU aarch64, no GPU"
+}

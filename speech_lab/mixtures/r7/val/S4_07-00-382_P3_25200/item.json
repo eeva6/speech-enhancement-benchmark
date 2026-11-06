@@ -1,0 +1,29 @@
+{
+ "id": "S4_07-00-382_P3_25200",
+ "split": "val",
+ "session": 4,
+ "seg": "07-00-382",
+ "seg_start_s": 420.382,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Woah.",
+ "start_s": 25.2,
+ "end_s": 26.25,
+ "dur": 1.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 48800,
+ "overlap": true,
+ "ovl_frac": 0.095,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 81.39,
+ "el_ref_mean": -0.78,
+ "az_ref_range": 7.34,
+ "doa_valid_frac": 1.0
+}

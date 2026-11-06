@@ -1,0 +1,29 @@
+{
+ "id": "S12_12-00-428_P4_17650",
+ "split": "val",
+ "session": 12,
+ "seg": "12-00-428",
+ "seg_start_s": 720.428,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Can we get like thirty more seconds? [U]",
+ "start_s": 17.65,
+ "end_s": 19.9,
+ "dur": 2.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 68000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.1036290850606747,
+ "align_how": "minute_line",
+ "az_ref_mean": 44.65,
+ "el_ref_mean": 9.53,
+ "az_ref_range": 46.8,
+ "doa_valid_frac": 1.0
+}

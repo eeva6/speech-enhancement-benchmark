@@ -1,0 +1,29 @@
+{
+ "id": "S12_09-00-390_P4_40350",
+ "split": "val",
+ "session": 12,
+ "seg": "09-00-390",
+ "seg_start_s": 540.39,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "I don't know this one. And you will see then I will not say anything. [L] ",
+ "start_s": 40.35,
+ "end_s": 46.25,
+ "dur": 5.9,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 126400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0840919601614587,
+ "align_how": "minute_line",
+ "az_ref_mean": 29.75,
+ "el_ref_mean": 13.57,
+ "az_ref_range": 34.68,
+ "doa_valid_frac": 0.992
+}

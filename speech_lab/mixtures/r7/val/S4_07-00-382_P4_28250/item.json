@@ -1,0 +1,29 @@
+{
+ "id": "S4_07-00-382_P4_28250",
+ "split": "val",
+ "session": 4,
+ "seg": "07-00-382",
+ "seg_start_s": 420.382,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I've heard this one before.",
+ "start_s": 28.25,
+ "end_s": 29.55,
+ "dur": 1.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 52800,
+ "overlap": true,
+ "ovl_frac": 0.269,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.09252523159375414,
+ "align_how": "session_slope",
+ "az_ref_mean": 44.41,
+ "el_ref_mean": 13.72,
+ "az_ref_range": 1.06,
+ "doa_valid_frac": 1.0
+}

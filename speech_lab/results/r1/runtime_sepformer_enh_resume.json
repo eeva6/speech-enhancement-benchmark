@@ -1,0 +1,17 @@
+{
+ "method": "sepformer_enh",
+ "tag": "r1",
+ "n": 18,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 34.617614038000056,
+ "mean_proc_s": 29.72328157523526,
+ "rtf": 5.25665317845513,
+ "peak_rss_mb": 1867.01953125,
+ "rss_before_mb": 245.9765625,
+ "n_params": 25613569,
+ "noise_psd": "ms",
+ "infos": {},
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

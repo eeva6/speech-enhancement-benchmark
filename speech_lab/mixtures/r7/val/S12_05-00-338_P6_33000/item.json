@@ -1,0 +1,29 @@
+{
+ "id": "S12_05-00-338_P6_33000",
+ "split": "val",
+ "session": 12,
+ "seg": "05-00-338",
+ "seg_start_s": 300.338,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Alright. So, a man runs a mile south, a mile west, and a mile north, and ends up back where he started. How did it happen?",
+ "start_s": 33.0,
+ "end_s": 44.35,
+ "dur": 11.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 213600,
+ "overlap": true,
+ "ovl_frac": 0.119,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.11621892190305516,
+ "align_how": "minute_line",
+ "az_ref_mean": -10.76,
+ "el_ref_mean": 10.5,
+ "az_ref_range": 11.29,
+ "doa_valid_frac": 1.0
+}

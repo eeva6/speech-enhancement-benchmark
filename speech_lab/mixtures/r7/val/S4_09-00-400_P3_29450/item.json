@@ -1,0 +1,29 @@
+{
+ "id": "S4_09-00-400_P3_29450",
+ "split": "val",
+ "session": 4,
+ "seg": "09-00-400",
+ "seg_start_s": 540.4,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "Yeah, it's pretty loud.",
+ "start_s": 29.45,
+ "end_s": 30.5,
+ "dur": 1.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 48800,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.22432244441006333,
+ "align_how": "minute_line",
+ "az_ref_mean": 96.39,
+ "el_ref_mean": -7.49,
+ "az_ref_range": 37.4,
+ "doa_valid_frac": 1.0
+}

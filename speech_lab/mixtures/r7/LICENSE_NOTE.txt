@@ -1,0 +1,9 @@
+EasyCom dataset (Donley et al., 2021), v1.0.0, https://github.com/facebookresearch/EasyComDataset
+License: Creative Commons Attribution-NonCommercial 4.0 International (CC-BY-NC-4.0).
+Use in this lab: non-commercial research only.
+NO REDISTRIBUTION: EasyCom audio (raw or derived: resampled minutes, mixtures/r7 items, close-mic
+references, processed outputs) must never be placed in any shareable zip, listening pack, report
+attachment or other deliverable. Aggregate numbers and figures may be reported with attribution.
+Downloaded from the public GitHub release assets (no account, agreement form or fee) on 2026-10-24 UTC.
+Cite: J. Donley et al., "EasyCom: An Augmented Reality Dataset to Support Algorithms for Easy
+Communication in Noisy Environments", arXiv:2107.04174, 2021.

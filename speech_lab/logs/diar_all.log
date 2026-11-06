@@ -1,0 +1,58 @@
+== Sat Oct 24 05:01:34 UTC 2026 features ec_test
+ec_s10 vad
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/speechbrain/utils/checkpoints.py:202: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(path, map_location=device)
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/speechbrain/processing/features.py:1550: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  stats = torch.load(path, map_location=self.device)
+ec_s10 emb
+ec_s10 srp
+ec_s10 plat
+ec_s10 asr 2716
+ec_s11 vad
+ec_s11 emb
+ec_s11 srp
+ec_s11 plat
+ec_s11 asr 2675
+DONE
+== Sat Oct 24 05:20:14 UTC 2026 test (easycom only if libricss not yet tuned)
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s10 A_spectral DER 0.371/0.502 cpWER 0.582
+ec_s10 A_ahc DER 0.345/0.450 cpWER 0.508
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s10 A_spectral_oracleVAD DER 0.265/0.362 cpWER 0.591
+ec_s10 A_ahc_oracleVAD DER 0.314/0.385 cpWER 0.628
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s10 A_spectral_oracleK DER 0.384/0.474 cpWER 0.528
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s10 B_spatial_spectral DER 0.383/0.486 cpWER 0.560
+ec_s10 B_spatial_ahc DER 0.364/0.470 cpWER 0.525
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s10 B_spatial_spectral_oracleVAD DER 0.286/0.355 cpWER 0.565
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/selab/diar/score.py", line 340, in <module>
+    test()
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/selab/diar/score.py", line 330, in test
+    r = run_variant(it, name, cfg, with_words=True, save=True)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/selab/diar/score.py", line 203, in run_variant
+    core.write_rttm(hyp, d / f"{item['uri']}.rttm", uri=item["uri"])
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/selab/diar/core.py", line 279, in write_rttm
+    nm = names.get(k, f"SPEAKER_{k + 1}") if names else f"SPEAKER_{k + 1}"
+                                                                   ~~^~~
+TypeError: can only concatenate str (not "int") to str
+== Sat Oct 24 05:22:07 UTC 2026 features lc_tune lc_test
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/speechbrain/utils/checkpoints.py:202: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(path, map_location=device)
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/speechbrain/processing/features.py:1550: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  stats = torch.load(path, map_location=self.device)
+lc_OV10_s0 emb
+lc_OV10_s0 srp
+lc_OV10_s0 plat
+lc_OV10_s1 vad

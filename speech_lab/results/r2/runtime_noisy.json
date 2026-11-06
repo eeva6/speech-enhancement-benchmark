@@ -1,0 +1,17 @@
+{
+ "method": "noisy",
+ "tag": "r2",
+ "n": 180,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 0.18966628100002936,
+ "mean_proc_s": 0.14915755138547404,
+ "rtf": 0.02581865173942941,
+ "peak_rss_mb": 249.5625,
+ "rss_before_mb": 245.5390625,
+ "n_params": null,
+ "noise_psd": "ms",
+ "infos": {},
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

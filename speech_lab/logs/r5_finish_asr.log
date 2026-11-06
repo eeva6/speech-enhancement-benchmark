@@ -1,0 +1,4 @@
+== 04:01:09 --tag r5 --methods noisy,mvdr_online_est,deepfilternet3,tse,ds_est,mvdr_online_est_dfn3 --items sub48
+ASR: 206
+== 04:22:17 --tag r5sim --methods noisy,ds_est,mvdr_online_est --items sub48
+ASR: 42

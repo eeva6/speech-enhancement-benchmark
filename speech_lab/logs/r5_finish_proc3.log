@@ -1,0 +1,22 @@
+== 04:40:45 --method mvdr_online_est --tag r5sim
+{"method": "mvdr_online_est", "tag": "r5sim", "n": 13, "n_fail": 0, "rtf": 0.3097830270287381}
+== 04:41:23 --method deepfilternet3 --tag r5 --items sub48
+{"method": "deepfilternet3", "tag": "r5", "n": 48, "n_fail": 0, "rtf": 0.8959641817546293}
+== 04:46:20 --method deepfilternet3 --tag r5sim --items sub48
+{"method": "deepfilternet3", "tag": "r5sim", "n": 48, "n_fail": 0, "rtf": 0.9603180117100805}
+== 04:51:35 --method mvdr_online_est_dfn3 --tag r5 --items sub48
+{"method": "mvdr_online_est_dfn3", "tag": "r5", "n": 48, "n_fail": 0, "rtf": 1.063171097202671}
+== 04:57:23 --method mvdr_online_est_tse --tag r5 --items sub48
+{"method": "mvdr_online_est_tse", "tag": "r5", "n": 48, "n_fail": 0, "rtf": 1.7670542893858765}
+== 05:06:44 --method tse --tag r5sim --items sub48
+{"method": "tse", "tag": "r5sim", "n": 48, "n_fail": 0, "rtf": 1.9003095335635163}
+== 05:16:40 objective
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pystoi/stoi.py:66: RuntimeWarning: Not enough STFT frames to compute intermediate intelligibility measure after removing silent frames. Returning 1e-5. Please check you wav files
+  warnings.warn('Not enough STFT frames to compute intermediate '
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pystoi/stoi.py:66: RuntimeWarning: Not enough STFT frames to compute intermediate intelligibility measure after removing silent frames. Returning 1e-5. Please check you wav files
+  warnings.warn('Not enough STFT frames to compute intermediate '
+== 05:21:44 --method noisy --tag r5ctx
+{"method": "noisy", "tag": "r5ctx", "n": 48, "n_fail": 0, "rtf": 1.990978815805918e-05}
+noisy cut 48
+== 05:22:10 --method mvdr_online_est --tag r5ctx
+{"method": "mvdr_online_est", "tag": "r5ctx", "n": 48, "n_fail": 0, "rtf": 0.1695541298686302}

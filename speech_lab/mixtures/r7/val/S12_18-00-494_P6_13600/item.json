@@ -1,0 +1,29 @@
+{
+ "id": "S12_18-00-494_P6_13600",
+ "split": "val",
+ "session": 12,
+ "seg": "18-00-494",
+ "seg_start_s": 1080.494,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So, we would both say no.",
+ "start_s": 13.6,
+ "end_s": 15.05,
+ "dur": 1.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 55200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 7.25,
+ "align_res_absmed_ms": 0.11990268103545532,
+ "align_how": "minute_line",
+ "az_ref_mean": -18.34,
+ "el_ref_mean": 1.25,
+ "az_ref_range": 1.27,
+ "doa_valid_frac": 1.0
+}

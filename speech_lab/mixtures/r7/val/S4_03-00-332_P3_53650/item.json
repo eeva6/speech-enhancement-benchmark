@@ -1,0 +1,29 @@
+{
+ "id": "S4_03-00-332_P3_53650",
+ "split": "val",
+ "session": 4,
+ "seg": "03-00-332",
+ "seg_start_s": 180.332,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Yes. A sa- a salad. Yeah, I- I- I got a big case tomorrow so, y'know, I don't wanna, like, get too bloated.",
+ "start_s": 53.65,
+ "end_s": 60.05,
+ "dur": 6.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 134400,
+ "overlap": true,
+ "ovl_frac": 0.164,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.07671591811231337,
+ "align_how": "minute_line",
+ "az_ref_mean": 23.77,
+ "el_ref_mean": 5.92,
+ "az_ref_range": 48.02,
+ "doa_valid_frac": 1.0
+}

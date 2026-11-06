@@ -1,0 +1,29 @@
+{
+ "id": "S12_04-00-332_P4_45800",
+ "split": "val",
+ "session": 12,
+ "seg": "04-00-332",
+ "seg_start_s": 240.332,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Ice water. Yep!",
+ "start_s": 45.8,
+ "end_s": 47.05,
+ "dur": 1.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 52000,
+ "overlap": true,
+ "ovl_frac": 0.76,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.041449005948379636,
+ "align_how": "session_slope",
+ "az_ref_mean": -3.69,
+ "el_ref_mean": 3.49,
+ "az_ref_range": 22.79,
+ "doa_valid_frac": 1.0
+}

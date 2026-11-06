@@ -1,0 +1,29 @@
+{
+ "id": "S11_06-00-393_P3_26450",
+ "split": "test",
+ "session": 11,
+ "seg": "06-00-393",
+ "seg_start_s": 360.393,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "You can ship it to me frozen, actually. I'll just- I'll- I'll cook it myself. Yeah. We're good.",
+ "start_s": 26.45,
+ "end_s": 30.7,
+ "dur": 4.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 100000,
+ "overlap": true,
+ "ovl_frac": 0.729,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.13171891623642296,
+ "align_how": "minute_line",
+ "az_ref_mean": 33.84,
+ "el_ref_mean": 9.9,
+ "az_ref_range": 61.96,
+ "doa_valid_frac": 0.988
+}

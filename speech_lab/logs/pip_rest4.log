@@ -1,0 +1,429 @@
+Defaulting to user installation because normal site-packages is not writeable
+Looking in indexes: https://pypi.org/simple, https://download.pytorch.org/whl/cpu
+Collecting numpy
+  Downloading numpy-2.5.4-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl.metadata (6.6 kB)
+Collecting scipy
+  Downloading scipy-1.18.1-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl.metadata (62 kB)
+Collecting soundfile
+  Downloading soundfile-0.14.0-py2.py3-none-manylinux_2_28_aarch64.whl.metadata (18 kB)
+Collecting librosa
+  Downloading librosa-1.0.0-py3-none-any.whl.metadata (6.7 kB)
+Collecting pystoi
+  Downloading pystoi-0.4.1-py2.py3-none-any.whl.metadata (4.0 kB)
+Collecting pyroomacoustics
+  Downloading pyroomacoustics-0.10.1-cp312-cp312-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl.metadata (15 kB)
+Collecting matplotlib
+  Downloading matplotlib-3.11.2-cp312-cp312-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl.metadata (80 kB)
+Collecting pandas
+  Downloading pandas-3.0.6-cp312-cp312-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl.metadata (79 kB)
+Collecting noisereduce
+  Downloading noisereduce-3.0.3-py3-none-any.whl.metadata (14 kB)
+Collecting speechbrain
+  Downloading speechbrain-1.1.2-py3-none-any.whl.metadata (24 kB)
+Collecting asteroid
+  Downloading asteroid-0.7.0-py3-none-any.whl.metadata (11 kB)
+Collecting denoiser
+  Downloading denoiser-0.1.5.tar.gz (49 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting faster-whisper
+  Downloading faster_whisper-1.2.1-py3-none-any.whl.metadata (16 kB)
+Collecting jiwer
+  Downloading jiwer-4.0.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting gradio
+  Downloading gradio-6.30.0-py3-none-any.whl.metadata (16 kB)
+Collecting ziglang
+  Downloading ziglang-0.17.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.musllinux_1_1_aarch64.whl.metadata (3.2 kB)
+Collecting cffi>=1.0 (from soundfile)
+  Downloading cffi-2.1.1-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.whl.metadata (2.5 kB)
+Requirement already satisfied: typing-extensions in /usr/local/lib/python3.12/site-packages (from soundfile) (4.16.0)
+Collecting numba>=0.61.0 (from librosa)
+  Downloading numba-0.68.0-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl.metadata (2.8 kB)
+Collecting scikit-learn>=1.6.0 (from librosa)
+  Downloading scikit_learn-1.9.1-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl.metadata (9.3 kB)
+Collecting joblib>=1.2 (from librosa)
+  Downloading joblib-1.6.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting decorator>=5.2.1 (from librosa)
+  Downloading decorator-5.3.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting pooch>=1.7 (from librosa)
+  Downloading pooch-1.9.0-py3-none-any.whl.metadata (10 kB)
+Collecting soxr>=1.0.0 (from librosa)
+  Downloading soxr-1.1.0-cp312-abi3-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl.metadata (5.8 kB)
+Collecting lazy_loader>=0.3 (from librosa)
+  Downloading lazy_loader-0.6-py3-none-any.whl.metadata (6.0 kB)
+Collecting msgpack>=1.0.5 (from librosa)
+  Downloading msgpack-1.2.3-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl.metadata (8.3 kB)
+Collecting Cython (from pyroomacoustics)
+  Downloading cython-3.3.0-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl.metadata (28 kB)
+Collecting contourpy>=1.0.1 (from matplotlib)
+  Downloading contourpy-1.4.0-cp312-cp312-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl.metadata (3.8 kB)
+Collecting cycler>=0.10 (from matplotlib)
+  Downloading cycler-0.12.1-py3-none-any.whl.metadata (3.8 kB)
+Requirement already satisfied: fonttools>=4.28.2 in /usr/local/lib/python3.12/site-packages (from matplotlib) (4.61.1)
+Collecting kiwisolver>=1.3.1 (from matplotlib)
+  Downloading kiwisolver-1.5.1-cp312-cp312-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl.metadata (5.2 kB)
+Collecting packaging>=20.0 (from matplotlib)
+  Downloading packaging-26.3-py3-none-any.whl.metadata (3.5 kB)
+Requirement already satisfied: pillow>=9 in /usr/local/lib/python3.12/site-packages (from matplotlib) (12.3.0)
+Collecting pyparsing>=3 (from matplotlib)
+  Downloading pyparsing-3.3.3-py3-none-any.whl.metadata (5.9 kB)
+Collecting python-dateutil>=2.7 (from matplotlib)
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Requirement already satisfied: tqdm in /usr/local/lib/python3.12/site-packages (from noisereduce) (4.70.1)
+Collecting hyperpyyaml>=0.0.1 (from speechbrain)
+  Downloading hyperpyyaml-1.2.3-py3-none-any.whl.metadata (8.1 kB)
+Collecting requests>=2.20.0 (from speechbrain)
+  Downloading requests-2.34.2-py3-none-any.whl.metadata (4.8 kB)
+Collecting sentencepiece>=0.1.91 (from speechbrain)
+  Downloading sentencepiece-0.2.2-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl.metadata (33 kB)
+INFO: pip is looking at multiple versions of speechbrain to determine which version is compatible with other requirements. This could take a while.
+Collecting speechbrain
+  Downloading speechbrain-1.1.1-py3-none-any.whl.metadata (24 kB)
+Requirement already satisfied: torch>=2.1.0 in /home/sandbox/.local/lib/python3.12/site-packages (from speechbrain) (2.4.1)
+Requirement already satisfied: torchaudio>=2.1.0 in /home/sandbox/.local/lib/python3.12/site-packages (from speechbrain) (2.4.1)
+Collecting huggingface_hub>=0.8.0 (from speechbrain)
+  Downloading huggingface_hub-2.2.0-py3-none-any.whl.metadata (16 kB)
+Collecting asteroid-filterbanks>=0.4.0 (from asteroid)
+  Downloading asteroid_filterbanks-0.4.0-py3-none-any.whl.metadata (3.3 kB)
+Requirement already satisfied: PyYAML>=5.0 in /usr/local/lib/python3.12/site-packages (from asteroid) (6.0.2)
+Collecting pytorch-lightning>=2.0.0 (from asteroid)
+  Downloading pytorch_lightning-2.6.6-py3-none-any.whl.metadata (21 kB)
+Collecting torchmetrics<=0.11.4 (from asteroid)
+  Downloading torchmetrics-0.11.4-py3-none-any.whl.metadata (15 kB)
+Collecting pb-bss-eval>=0.0.2 (from asteroid)
+  Downloading pb_bss_eval-0.0.2-py3-none-any.whl.metadata (3.1 kB)
+Collecting torch-stoi>=0.1.2 (from asteroid)
+  Downloading torch_stoi-0.2.3-py3-none-any.whl.metadata (3.6 kB)
+Collecting torch-optimizer<0.2.0,>=0.0.1a12 (from asteroid)
+  Downloading torch_optimizer-0.1.0-py3-none-any.whl.metadata (53 kB)
+Collecting julius (from asteroid)
+  Downloading julius-0.2.8-py3-none-any.whl.metadata (7.6 kB)
+Collecting hydra_core<1.0 (from denoiser)
+  Downloading hydra_core-0.11.3-py3-none-any.whl.metadata (2.2 kB)
+Collecting hydra_colorlog<1.0 (from denoiser)
+  Downloading hydra_colorlog-0.1.4-py3-none-any.whl.metadata (1.0 kB)
+Collecting six (from denoiser)
+  Downloading six-1.17.0-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting sounddevice>=0.4 (from denoiser)
+  Downloading sounddevice-0.5.6-py3-none-any.whl.metadata (1.4 kB)
+Collecting ctranslate2<5,>=4.0 (from faster-whisper)
+  Downloading ctranslate2-4.8.3-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl.metadata (11 kB)
+Collecting tokenizers<1,>=0.13 (from faster-whisper)
+  Downloading tokenizers-0.23.3-cp310-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl.metadata (9.8 kB)
+Collecting onnxruntime<2,>=1.14 (from faster-whisper)
+  Downloading onnxruntime-1.31.0-cp312-cp312-manylinux_2_28_aarch64.whl.metadata (5.7 kB)
+Collecting av>=11 (from faster-whisper)
+  Downloading av-19.0.1-cp312-abi3-manylinux_2_28_aarch64.whl.metadata (5.0 kB)
+Requirement already satisfied: click>=8.1.8 in /usr/local/lib/python3.12/site-packages (from jiwer) (8.5.0)
+Collecting rapidfuzz>=3.9.7 (from jiwer)
+  Downloading rapidfuzz-3.14.6-cp312-cp312-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl.metadata (12 kB)
+Requirement already satisfied: anyio<5.0,>=3.0 in /usr/local/lib/python3.12/site-packages (from gradio) (4.15.1)
+Collecting brotli>=1.1.0 (from gradio)
+  Downloading brotli-1.2.0-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl.metadata (6.1 kB)
+Collecting fastapi<1.0,>=0.115.2 (from gradio)
+  Downloading fastapi-0.143.2-py3-none-any.whl.metadata (26 kB)
+Collecting gradio-client==2.7.2 (from gradio)
+  Downloading gradio_client-2.7.2-py3-none-any.whl.metadata (7.1 kB)
+Collecting groovy~=0.1 (from gradio)
+  Downloading groovy-0.1.2-py3-none-any.whl.metadata (6.1 kB)
+Collecting hf-gradio<1.0,>=0.4.1 (from gradio)
+  Downloading hf_gradio-0.4.1-py3-none-any.whl.metadata (428 bytes)
+Requirement already satisfied: httpx<1.0,>=0.24.1 in /usr/local/lib/python3.12/site-packages (from gradio) (0.27.2)
+Requirement already satisfied: jinja2<4.0 in /home/sandbox/.local/lib/python3.12/site-packages (from gradio) (3.1.6)
+Requirement already satisfied: markupsafe<4.0,>=2.0 in /home/sandbox/.local/lib/python3.12/site-packages (from gradio) (3.0.3)
+Collecting orjson~=3.0 (from gradio)
+  Downloading orjson-3.13.0-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl.metadata (42 kB)
+Requirement already satisfied: pydantic<=3.0,>=2.0 in /usr/local/lib/python3.12/site-packages (from gradio) (2.14.1)
+Collecting pydub<1.0 (from gradio)
+  Downloading pydub-0.25.1-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting python-multipart<1.0,>=0.0.18 (from gradio)
+  Downloading python_multipart-0.0.32-py3-none-any.whl.metadata (2.1 kB)
+Collecting pytz>=2017.2 (from gradio)
+  Downloading pytz-2026.5-py2.py3-none-any.whl.metadata (22 kB)
+Collecting safehttpx<0.2.0,>=0.1.7 (from gradio)
+  Downloading safehttpx-0.1.7-py3-none-any.whl.metadata (4.2 kB)
+Collecting semantic-version~=2.0 (from gradio)
+  Downloading semantic_version-2.10.0-py2.py3-none-any.whl.metadata (9.7 kB)
+Collecting starlette<2.0,>=1.0.1 (from gradio)
+  Downloading starlette-1.8.0-py3-none-any.whl.metadata (6.6 kB)
+Collecting tomlkit<0.15.0,>=0.12.0 (from gradio)
+  Downloading tomlkit-0.14.0-py3-none-any.whl.metadata (2.8 kB)
+Collecting typer<1.0,>=0.12 (from gradio)
+  Downloading typer-0.27.3-py3-none-any.whl.metadata (16 kB)
+Requirement already satisfied: uvicorn>=0.14.0 in /usr/local/lib/python3.12/site-packages (from gradio) (0.41.0)
+Requirement already satisfied: fsspec in /home/sandbox/.local/lib/python3.12/site-packages (from gradio-client==2.7.2->gradio) (2026.7.0)
+Requirement already satisfied: idna>=2.8 in /usr/local/lib/python3.12/site-packages (from anyio<5.0,>=3.0->gradio) (3.20)
+Collecting pycparser (from cffi>=1.0->soundfile)
+  Downloading pycparser-3.11-py3-none-any.whl.metadata (8.2 kB)
+Requirement already satisfied: typing-inspection>=0.4.2 in /usr/local/lib/python3.12/site-packages (from fastapi<1.0,>=0.115.2->gradio) (0.4.4)
+Collecting annotated-doc>=0.0.2 (from fastapi<1.0,>=0.115.2->gradio)
+  Downloading annotated_doc-0.0.5-py3-none-any.whl.metadata (6.5 kB)
+Collecting opentelemetry-api>=1.44.0 (from fastapi<1.0,>=0.115.2->gradio)
+  Downloading opentelemetry_api-1.45.1-py3-none-any.whl.metadata (1.4 kB)
+Requirement already satisfied: certifi in /usr/local/lib/python3.12/site-packages (from httpx<1.0,>=0.24.1->gradio) (2026.7.22)
+Requirement already satisfied: httpcore==1.* in /usr/local/lib/python3.12/site-packages (from httpx<1.0,>=0.24.1->gradio) (1.0.9)
+Requirement already satisfied: sniffio in /usr/local/lib/python3.12/site-packages (from httpx<1.0,>=0.24.1->gradio) (1.3.1)
+Requirement already satisfied: h11>=0.16 in /usr/local/lib/python3.12/site-packages (from httpcore==1.*->httpx<1.0,>=0.24.1->gradio) (0.16.0)
+Requirement already satisfied: filelock>=3.10.0 in /home/sandbox/.local/lib/python3.12/site-packages (from huggingface_hub>=0.8.0->speechbrain) (3.32.3)
+Collecting hf-xet<2.0.0,>=1.6.0 (from huggingface_hub>=0.8.0->speechbrain)
+  Downloading hf_xet-1.7.0-cp38-abi3-manylinux_2_28_aarch64.whl.metadata (4.9 kB)
+Collecting httpx2<3,>=2.0.0 (from huggingface_hub>=0.8.0->speechbrain)
+  Downloading httpx2-2.13.1-py3-none-any.whl.metadata (9.8 kB)
+Collecting colorlog (from hydra_colorlog<1.0->denoiser)
+  Downloading colorlog-6.12.0-py3-none-any.whl.metadata (11 kB)
+Collecting omegaconf<1.5,>=1.4 (from hydra_core<1.0->denoiser)
+  Downloading omegaconf-1.4.1-py3-none-any.whl.metadata (2.9 kB)
+Collecting ruamel.yaml<0.19.0,>=0.17.28 (from hyperpyyaml>=0.0.1->speechbrain)
+  Downloading ruamel_yaml-0.18.17-py3-none-any.whl.metadata (27 kB)
+Collecting cloudpickle>=3.0 (from joblib>=1.2->librosa)
+  Downloading cloudpickle-3.1.2-py3-none-any.whl.metadata (7.1 kB)
+Collecting llvmlite<0.51,>=0.50.0dev0 (from numba>=0.61.0->librosa)
+  Downloading llvmlite-0.50.0-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl.metadata (5.1 kB)
+Collecting flatbuffers (from onnxruntime<2,>=1.14->faster-whisper)
+  Downloading flatbuffers-25.12.19-py2.py3-none-any.whl.metadata (1.0 kB)
+Collecting protobuf>=4.25.8 (from onnxruntime<2,>=1.14->faster-whisper)
+  Downloading protobuf-7.36.2-cp310-abi3-manylinux2014_aarch64.whl.metadata (595 bytes)
+Collecting cached-property (from pb-bss-eval>=0.0.2->asteroid)
+  Downloading cached_property-2.0.1-py3-none-any.whl.metadata (10 kB)
+Collecting einops (from pb-bss-eval>=0.0.2->asteroid)
+  Downloading einops-0.8.2-py3-none-any.whl.metadata (13 kB)
+Collecting mir-eval (from pb-bss-eval>=0.0.2->asteroid)
+  Downloading mir_eval-0.8.2-py3-none-any.whl.metadata (3.0 kB)
+Collecting pesq (from pb-bss-eval>=0.0.2->asteroid)
+  Downloading pesq-0.0.4.tar.gz (38 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting platformdirs>=2.5.0 (from pooch>=1.7->librosa)
+  Downloading platformdirs-4.13.1-py3-none-any.whl.metadata (5.5 kB)
+Requirement already satisfied: annotated-types>=0.6.0 in /usr/local/lib/python3.12/site-packages (from pydantic<=3.0,>=2.0->gradio) (0.8.0)
+Requirement already satisfied: pydantic-core==2.50.1 in /usr/local/lib/python3.12/site-packages (from pydantic<=3.0,>=2.0->gradio) (2.50.1)
+Collecting lightning-utilities>=0.10.0 (from pytorch-lightning>=2.0.0->asteroid)
+  Downloading lightning_utilities-0.15.3-py3-none-any.whl.metadata (5.5 kB)
+Collecting charset_normalizer<4,>=2 (from requests>=2.20.0->speechbrain)
+  Downloading charset_normalizer-3.5.2-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl.metadata (46 kB)
+Collecting urllib3<3,>=1.26 (from requests>=2.20.0->speechbrain)
+  Downloading urllib3-2.8.0-py3-none-any.whl.metadata (7.4 kB)
+Collecting narwhals>=2.0.1 (from scikit-learn>=1.6.0->librosa)
+  Downloading narwhals-2.27.1-py3-none-any.whl.metadata (15 kB)
+Collecting threadpoolctl>=3.5.0 (from scikit-learn>=1.6.0->librosa)
+  Downloading threadpoolctl-3.7.0-py3-none-any.whl.metadata (24 kB)
+Requirement already satisfied: sympy in /home/sandbox/.local/lib/python3.12/site-packages (from torch>=2.1.0->speechbrain) (1.14.0)
+Requirement already satisfied: networkx in /home/sandbox/.local/lib/python3.12/site-packages (from torch>=2.1.0->speechbrain) (3.6.1)
+Requirement already satisfied: setuptools in /home/sandbox/.local/lib/python3.12/site-packages (from torch>=2.1.0->speechbrain) (78.1.0)
+Collecting pytorch-ranger>=0.1.1 (from torch-optimizer<0.2.0,>=0.0.1a12->asteroid)
+  Downloading pytorch_ranger-0.1.1-py3-none-any.whl.metadata (509 bytes)
+Collecting shellingham>=1.3.0 (from typer<1.0,>=0.12->gradio)
+  Downloading shellingham-1.5.4-py2.py3-none-any.whl.metadata (3.5 kB)
+Collecting rich>=13.8.0 (from typer<1.0,>=0.12->gradio)
+  Downloading rich-15.0.0-py3-none-any.whl.metadata (18 kB)
+Requirement already satisfied: aiohttp!=4.0.0a0,!=4.0.0a1 in /usr/local/lib/python3.12/site-packages (from fsspec[http]>=2022.5.0->pytorch-lightning>=2.0.0->asteroid) (3.11.18)
+Collecting httpcore2==2.13.1 (from httpx2<3,>=2.0.0->huggingface_hub>=0.8.0->speechbrain)
+  Downloading httpcore2-2.13.1-py3-none-any.whl.metadata (26 kB)
+Collecting truststore>=0.10 (from httpx2<3,>=2.0.0->huggingface_hub>=0.8.0->speechbrain)
+  Downloading truststore-0.10.5-py3-none-any.whl.metadata (4.5 kB)
+Collecting markdown-it-py>=2.2.0 (from rich>=13.8.0->typer<1.0,>=0.12->gradio)
+  Downloading markdown_it_py-4.2.0-py3-none-any.whl.metadata (7.4 kB)
+Collecting pygments<3.0.0,>=2.13.0 (from rich>=13.8.0->typer<1.0,>=0.12->gradio)
+  Downloading pygments-2.21.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting ruamel.yaml.clib>=0.2.15 (from ruamel.yaml<0.19.0,>=0.17.28->hyperpyyaml>=0.0.1->speechbrain)
+  Downloading ruamel_yaml_clib-0.2.15-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl.metadata (3.5 kB)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in /home/sandbox/.local/lib/python3.12/site-packages (from sympy->torch>=2.1.0->speechbrain) (1.3.0)
+Requirement already satisfied: aiohappyeyeballs>=2.3.0 in /usr/local/lib/python3.12/site-packages (from aiohttp!=4.0.0a0,!=4.0.0a1->fsspec[http]>=2022.5.0->pytorch-lightning>=2.0.0->asteroid) (2.7.1)
+Requirement already satisfied: aiosignal>=1.1.2 in /usr/local/lib/python3.12/site-packages (from aiohttp!=4.0.0a0,!=4.0.0a1->fsspec[http]>=2022.5.0->pytorch-lightning>=2.0.0->asteroid) (1.4.0)
+Requirement already satisfied: attrs>=17.3.0 in /usr/local/lib/python3.12/site-packages (from aiohttp!=4.0.0a0,!=4.0.0a1->fsspec[http]>=2022.5.0->pytorch-lightning>=2.0.0->asteroid) (26.1.0)
+Requirement already satisfied: frozenlist>=1.1.1 in /usr/local/lib/python3.12/site-packages (from aiohttp!=4.0.0a0,!=4.0.0a1->fsspec[http]>=2022.5.0->pytorch-lightning>=2.0.0->asteroid) (1.8.0)
+Requirement already satisfied: multidict<7.0,>=4.5 in /usr/local/lib/python3.12/site-packages (from aiohttp!=4.0.0a0,!=4.0.0a1->fsspec[http]>=2022.5.0->pytorch-lightning>=2.0.0->asteroid) (6.9.1)
+Requirement already satisfied: propcache>=0.2.0 in /usr/local/lib/python3.12/site-packages (from aiohttp!=4.0.0a0,!=4.0.0a1->fsspec[http]>=2022.5.0->pytorch-lightning>=2.0.0->asteroid) (0.5.4)
+Requirement already satisfied: yarl<2.0,>=1.17.0 in /usr/local/lib/python3.12/site-packages (from aiohttp!=4.0.0a0,!=4.0.0a1->fsspec[http]>=2022.5.0->pytorch-lightning>=2.0.0->asteroid) (1.25.1)
+Collecting mdurl~=0.1 (from markdown-it-py>=2.2.0->rich>=13.8.0->typer<1.0,>=0.12->gradio)
+  Downloading mdurl-0.1.2-py3-none-any.whl.metadata (1.6 kB)
+Downloading numpy-2.5.4-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl (15.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 15.7/15.7 MB 115.9 MB/s eta 0:00:00
+Downloading scipy-1.18.1-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl (34.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 34.0/34.0 MB 142.5 MB/s eta 0:00:00
+Downloading soundfile-0.14.0-py2.py3-none-manylinux_2_28_aarch64.whl (1.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 161.0 MB/s eta 0:00:00
+Downloading librosa-1.0.0-py3-none-any.whl (294 kB)
+Downloading pystoi-0.4.1-py2.py3-none-any.whl (8.2 kB)
+Downloading pyroomacoustics-0.10.1-cp312-cp312-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl (1.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 441.7 MB/s eta 0:00:00
+Downloading matplotlib-3.11.2-cp312-cp312-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl (10.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.7/10.7 MB 234.3 MB/s eta 0:00:00
+Downloading pandas-3.0.6-cp312-cp312-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl (10.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.3/10.3 MB 313.7 MB/s eta 0:00:00
+Downloading noisereduce-3.0.3-py3-none-any.whl (22 kB)
+Downloading speechbrain-1.1.1-py3-none-any.whl (2.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.3/2.3 MB 183.1 MB/s eta 0:00:00
+Downloading asteroid-0.7.0-py3-none-any.whl (156 kB)
+Downloading faster_whisper-1.2.1-py3-none-any.whl (1.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 558.4 MB/s eta 0:00:00
+Downloading jiwer-4.0.0-py3-none-any.whl (23 kB)
+Downloading gradio-6.30.0-py3-none-any.whl (31.4 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 31.4/31.4 MB 145.9 MB/s eta 0:00:00
+Downloading gradio_client-2.7.2-py3-none-any.whl (64 kB)
+Downloading ziglang-0.17.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.musllinux_1_1_aarch64.whl (98.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 98.0/98.0 MB 131.3 MB/s eta 0:00:00
+Downloading asteroid_filterbanks-0.4.0-py3-none-any.whl (29 kB)
+Downloading av-19.0.1-cp312-abi3-manylinux_2_28_aarch64.whl (32.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 32.7/32.7 MB 105.1 MB/s eta 0:00:00
+Downloading brotli-1.2.0-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl (1.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.5/1.5 MB 229.1 MB/s eta 0:00:00
+Downloading cffi-2.1.1-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.whl (222 kB)
+Downloading contourpy-1.4.0-cp312-cp312-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl (356 kB)
+Downloading ctranslate2-4.8.3-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl (17.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 17.6/17.6 MB 72.3 MB/s eta 0:00:00
+Downloading cycler-0.12.1-py3-none-any.whl (8.3 kB)
+Downloading decorator-5.3.1-py3-none-any.whl (10 kB)
+Downloading fastapi-0.143.2-py3-none-any.whl (144 kB)
+Downloading groovy-0.1.2-py3-none-any.whl (14 kB)
+Downloading hf_gradio-0.4.1-py3-none-any.whl (4.5 kB)
+Downloading huggingface_hub-2.2.0-py3-none-any.whl (839 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 839.9/839.9 kB 295.2 MB/s eta 0:00:00
+Downloading hydra_colorlog-0.1.4-py3-none-any.whl (4.0 kB)
+Downloading hydra_core-0.11.3-py3-none-any.whl (72 kB)
+Downloading hyperpyyaml-1.2.3-py3-none-any.whl (16 kB)
+Downloading joblib-1.6.0-py3-none-any.whl (306 kB)
+Downloading kiwisolver-1.5.1-cp312-cp312-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl (1.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.3/1.3 MB 139.2 MB/s eta 0:00:00
+Downloading lazy_loader-0.6-py3-none-any.whl (8.8 kB)
+Downloading msgpack-1.2.3-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl (460 kB)
+Downloading numba-0.68.0-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl (3.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.6/3.6 MB 129.1 MB/s eta 0:00:00
+Downloading onnxruntime-1.31.0-cp312-cp312-manylinux_2_28_aarch64.whl (21.4 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 21.4/21.4 MB 131.0 MB/s eta 0:00:00
+Downloading orjson-3.13.0-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl (129 kB)
+Downloading packaging-26.3-py3-none-any.whl (129 kB)
+Downloading pb_bss_eval-0.0.2-py3-none-any.whl (14 kB)
+Downloading pooch-1.9.0-py3-none-any.whl (67 kB)
+Downloading pydub-0.25.1-py2.py3-none-any.whl (32 kB)
+Downloading pyparsing-3.3.3-py3-none-any.whl (126 kB)
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Downloading python_multipart-0.0.32-py3-none-any.whl (30 kB)
+Downloading pytorch_lightning-2.6.6-py3-none-any.whl (853 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 853.0/853.0 kB 225.3 MB/s eta 0:00:00
+Downloading pytz-2026.5-py2.py3-none-any.whl (506 kB)
+Downloading rapidfuzz-3.14.6-cp312-cp312-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl (1.4 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.4/1.4 MB 170.8 MB/s eta 0:00:00
+Downloading requests-2.34.2-py3-none-any.whl (73 kB)
+Downloading safehttpx-0.1.7-py3-none-any.whl (9.0 kB)
+Downloading scikit_learn-1.9.1-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl (8.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.9/8.9 MB 166.4 MB/s eta 0:00:00
+Downloading semantic_version-2.10.0-py2.py3-none-any.whl (15 kB)
+Downloading sentencepiece-0.2.2-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl (1.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.3/1.3 MB 286.1 MB/s eta 0:00:00
+Downloading six-1.17.0-py2.py3-none-any.whl (11 kB)
+Downloading sounddevice-0.5.6-py3-none-any.whl (32 kB)
+Downloading soxr-1.1.0-cp312-abi3-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl (206 kB)
+Downloading starlette-1.8.0-py3-none-any.whl (79 kB)
+Downloading tokenizers-0.23.3-cp310-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl (3.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.5/3.5 MB 131.4 MB/s eta 0:00:00
+Downloading tomlkit-0.14.0-py3-none-any.whl (39 kB)
+Downloading torch_optimizer-0.1.0-py3-none-any.whl (72 kB)
+Downloading torch_stoi-0.2.3-py3-none-any.whl (8.1 kB)
+Downloading torchmetrics-0.11.4-py3-none-any.whl (519 kB)
+Downloading typer-0.27.3-py3-none-any.whl (123 kB)
+Downloading cython-3.3.0-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl (3.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.3/3.3 MB 96.7 MB/s eta 0:00:00
+Downloading julius-0.2.8-py3-none-any.whl (21 kB)
+Downloading annotated_doc-0.0.5-py3-none-any.whl (5.3 kB)
+Downloading charset_normalizer-3.5.2-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl (246 kB)
+Downloading cloudpickle-3.1.2-py3-none-any.whl (22 kB)
+Downloading hf_xet-1.7.0-cp38-abi3-manylinux_2_28_aarch64.whl (4.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.0/4.0 MB 437.0 MB/s eta 0:00:00
+Downloading httpx2-2.13.1-py3-none-any.whl (95 kB)
+Downloading httpcore2-2.13.1-py3-none-any.whl (83 kB)
+Downloading lightning_utilities-0.15.3-py3-none-any.whl (31 kB)
+Downloading llvmlite-0.50.0-cp312-cp312-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl (58.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 58.3/58.3 MB 110.5 MB/s eta 0:00:00
+Downloading narwhals-2.27.1-py3-none-any.whl (483 kB)
+Downloading omegaconf-1.4.1-py3-none-any.whl (14 kB)
+Downloading opentelemetry_api-1.45.1-py3-none-any.whl (60 kB)
+Downloading platformdirs-4.13.1-py3-none-any.whl (32 kB)
+Downloading protobuf-7.36.2-cp310-abi3-manylinux2014_aarch64.whl (344 kB)
+Downloading pytorch_ranger-0.1.1-py3-none-any.whl (14 kB)
+Downloading rich-15.0.0-py3-none-any.whl (310 kB)
+Downloading ruamel_yaml-0.18.17-py3-none-any.whl (121 kB)
+Downloading shellingham-1.5.4-py2.py3-none-any.whl (9.8 kB)
+Downloading threadpoolctl-3.7.0-py3-none-any.whl (26 kB)
+Downloading urllib3-2.8.0-py3-none-any.whl (135 kB)
+Downloading cached_property-2.0.1-py3-none-any.whl (7.4 kB)
+Downloading colorlog-6.12.0-py3-none-any.whl (12 kB)
+Downloading einops-0.8.2-py3-none-any.whl (65 kB)
+Downloading flatbuffers-25.12.19-py2.py3-none-any.whl (26 kB)
+Downloading mir_eval-0.8.2-py3-none-any.whl (102 kB)
+Downloading pycparser-3.11-py3-none-any.whl (51 kB)
+Downloading markdown_it_py-4.2.0-py3-none-any.whl (91 kB)
+Downloading pygments-2.21.0-py3-none-any.whl (1.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.3/1.3 MB 262.2 MB/s eta 0:00:00
+Downloading ruamel_yaml_clib-0.2.15-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl (753 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 753.3/753.3 kB 176.3 MB/s eta 0:00:00
+Downloading truststore-0.10.5-py3-none-any.whl (19 kB)
+Downloading mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Building wheels for collected packages: denoiser, pesq
+  Building wheel for denoiser (pyproject.toml): started
+  Building wheel for denoiser (pyproject.toml): finished with status 'done'
+  Created wheel for denoiser: filename=denoiser-0.1.5-py3-none-any.whl size=43898 sha256=28e08a87b365b39b67747a3e9e03e185bacb3a18a03780e392e6e7e1b4891217
+  Stored in directory: /tmp/pip-ephem-wheel-cache-96t1m7oc/wheels/94/de/75/9f23404118ee9e373bc29792ff2017255f3ed611905abe6610
+  Building wheel for pesq (pyproject.toml): started
+  Building wheel for pesq (pyproject.toml): finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  × Building wheel for pesq (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [36 lines of output]
+      /tmp/pip-build-env-helhrzam/overlay/lib/python3.12/site-packages/setuptools/_distutils/dist.py:318: UserWarning: Unknown distribution option: 'tests_require'
+        warnings.warn(msg)
+      /tmp/pip-build-env-helhrzam/overlay/lib/python3.12/site-packages/setuptools/dist.py:765: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+      !!
+      
+              ********************************************************************************
+              Please consider removing the following classifiers in favor of a SPDX license expression:
+      
+              License :: OSI Approved :: MIT License
+      
+              See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+              ********************************************************************************
+      
+      !!
+        self._finalize_license_expression()
+      running bdist_wheel
+      running build
+      running build_py
+      creating build/lib.linux-aarch64-cpython-312/pesq
+      copying pesq/__init__.py -> build/lib.linux-aarch64-cpython-312/pesq
+      copying pesq/_pesq.py -> build/lib.linux-aarch64-cpython-312/pesq
+      copying pesq/cypesq.pyx -> build/lib.linux-aarch64-cpython-312/pesq
+      copying pesq/pesqpar.h -> build/lib.linux-aarch64-cpython-312/pesq
+      copying pesq/pesqmain.h -> build/lib.linux-aarch64-cpython-312/pesq
+      copying pesq/pesqio.h -> build/lib.linux-aarch64-cpython-312/pesq
+      copying pesq/pesq.h -> build/lib.linux-aarch64-cpython-312/pesq
+      copying pesq/dsp.h -> build/lib.linux-aarch64-cpython-312/pesq
+      copying pesq/dsp.c -> build/lib.linux-aarch64-cpython-312/pesq
+      copying pesq/pesqdsp.c -> build/lib.linux-aarch64-cpython-312/pesq
+      copying pesq/pesqmod.c -> build/lib.linux-aarch64-cpython-312/pesq
+      running build_ext
+      Compiling pesq/cypesq.pyx because it changed.
+      [1/1] Cythonizing pesq/cypesq.pyx
+      building 'cypesq' extension
+      gcc -fno-strict-overflow -Wsign-compare -DNDEBUG -g -O3 -Wall -fPIC -Ipesq -I/tmp/pip-build-env-helhrzam/normal/lib/python3.12/site-packages/numpy/_core/include -I/tmp/pip-build-env-helhrzam/normal/lib/python3.12/site-packages/numpy/_core/include -I/usr/local/include/python3.12 -c pesq/cypesq.c -o build/temp.linux-aarch64-cpython-312/pesq/cypesq.o
+      error: [Errno 2] No such file or directory: 'gcc'
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for pesq
+Successfully built denoiser
+Failed to build pesq
+
+[notice] A new release of pip is available: 25.0.1 -> 26.2.1
+[notice] To update, run: pip install --upgrade pip
+ERROR: Failed to build installable wheels for some pyproject.toml based projects (pesq)

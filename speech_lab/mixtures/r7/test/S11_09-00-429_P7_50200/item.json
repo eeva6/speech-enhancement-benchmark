@@ -1,0 +1,29 @@
+{
+ "id": "S11_09-00-429_P7_50200",
+ "split": "test",
+ "session": 11,
+ "seg": "09-00-429",
+ "seg_start_s": 540.429,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Like a priest or something? I don't know.",
+ "start_s": 50.2,
+ "end_s": 52.3,
+ "dur": 2.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 65600,
+ "overlap": true,
+ "ovl_frac": 0.024,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.10786390339490026,
+ "align_how": "minute_line",
+ "az_ref_mean": -64.36,
+ "el_ref_mean": 2.28,
+ "az_ref_range": 1.22,
+ "doa_valid_frac": 1.0
+}

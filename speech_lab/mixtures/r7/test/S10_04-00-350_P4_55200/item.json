@@ -1,0 +1,30 @@
+{
+ "id": "S10_04-00-350_P4_55200",
+ "split": "test",
+ "session": 10,
+ "seg": "04-00-350",
+ "seg_start_s": 240.35,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6",
+  "1"
+ ],
+ "target": "other",
+ "text": "No, but- But do you want it unassembled or is it assembled? Yeah.",
+ "start_s": 55.2,
+ "end_s": 60.05,
+ "dur": 4.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 109600,
+ "overlap": true,
+ "ovl_frac": 0.402,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 1.7189693171530962,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 23.47,
+ "el_ref_mean": -1.34,
+ "az_ref_range": 21.96,
+ "doa_valid_frac": 1.0
+}

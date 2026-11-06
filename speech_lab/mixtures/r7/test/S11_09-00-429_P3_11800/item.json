@@ -1,0 +1,29 @@
+{
+ "id": "S11_09-00-429_P3_11800",
+ "split": "test",
+ "session": 11,
+ "seg": "09-00-429",
+ "seg_start_s": 540.429,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "This wouldn't work with CFLs. This is an antiquated puzzle. [L]",
+ "start_s": 11.8,
+ "end_s": 17.0,
+ "dur": 5.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 115200,
+ "overlap": true,
+ "ovl_frac": 0.683,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.009146074262389448,
+ "align_how": "minute_line",
+ "az_ref_mean": 31.8,
+ "el_ref_mean": 5.23,
+ "az_ref_range": 22.92,
+ "doa_valid_frac": 1.0
+}

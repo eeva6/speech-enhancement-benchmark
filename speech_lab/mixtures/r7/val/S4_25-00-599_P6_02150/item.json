@@ -1,0 +1,29 @@
+{
+ "id": "S4_25-00-599_P6_02150",
+ "split": "val",
+ "session": 4,
+ "seg": "25-00-599",
+ "seg_start_s": 1500.599,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Or the little white light? I didn't see that white light.",
+ "start_s": 2.15,
+ "end_s": 4.5,
+ "dur": 2.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 69600,
+ "overlap": true,
+ "ovl_frac": 0.043,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.48253337445203215,
+ "align_how": "session_slope",
+ "az_ref_mean": -19.37,
+ "el_ref_mean": 4.51,
+ "az_ref_range": 33.15,
+ "doa_valid_frac": 1.0
+}

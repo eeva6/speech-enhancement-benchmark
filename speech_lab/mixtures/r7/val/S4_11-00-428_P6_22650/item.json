@@ -1,0 +1,29 @@
+{
+ "id": "S4_11-00-428_P6_22650",
+ "split": "val",
+ "session": 4,
+ "seg": "11-00-428",
+ "seg_start_s": 660.428,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Pour the five into the three. That'll leave you two. Now the three is filled.",
+ "start_s": 22.65,
+ "end_s": 27.0,
+ "dur": 4.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 101600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 4.2,
+ "align_res_absmed_ms": 0.21429729531519115,
+ "align_how": "minute_line",
+ "az_ref_mean": 16.17,
+ "el_ref_mean": 24.19,
+ "az_ref_range": 1.55,
+ "doa_valid_frac": 1.0
+}

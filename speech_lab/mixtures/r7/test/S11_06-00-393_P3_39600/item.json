@@ -1,0 +1,29 @@
+{
+ "id": "S11_06-00-393_P3_39600",
+ "split": "test",
+ "session": 11,
+ "seg": "06-00-393",
+ "seg_start_s": 360.393,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "[H] I think I'll need some beer to get me through this next two years.",
+ "start_s": 39.6,
+ "end_s": 42.25,
+ "dur": 2.65,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 74400,
+ "overlap": true,
+ "ovl_frac": 0.208,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.13171891623642296,
+ "align_how": "minute_line",
+ "az_ref_mean": 27.2,
+ "el_ref_mean": 5.97,
+ "az_ref_range": 23.23,
+ "doa_valid_frac": 1.0
+}

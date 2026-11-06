@@ -1,0 +1,29 @@
+{
+ "id": "S12_14-00-450_P4_55350",
+ "split": "val",
+ "session": 12,
+ "seg": "14-00-450",
+ "seg_start_s": 840.45,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "of heaven",
+ "start_s": 55.35,
+ "end_s": 56.7,
+ "dur": 1.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 53600,
+ "overlap": true,
+ "ovl_frac": 0.037,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.09052265522768721,
+ "align_how": "minute_line",
+ "az_ref_mean": 3.1,
+ "el_ref_mean": 17.51,
+ "az_ref_range": 1.12,
+ "doa_valid_frac": 1.0
+}

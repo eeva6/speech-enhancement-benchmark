@@ -1,0 +1,29 @@
+{
+ "id": "S12_11-00-411_P6_20900",
+ "split": "val",
+ "session": 12,
+ "seg": "11-00-411",
+ "seg_start_s": 660.411,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "What other questions could we ask? Is this hea- Is this heaven? Is this hell? Is this not heaven? Is it not hell? Are there more questions?",
+ "start_s": 20.9,
+ "end_s": 27.1,
+ "dur": 6.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 131200,
+ "overlap": true,
+ "ovl_frac": 0.226,
+ "t_since_turn_onset": 1.95,
+ "align_res_absmed_ms": 0.33619692840147763,
+ "align_how": "minute_line",
+ "az_ref_mean": -20.26,
+ "el_ref_mean": 6.87,
+ "az_ref_range": 27.72,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S11_08-00-423_P7_46850",
+ "split": "test",
+ "session": 11,
+ "seg": "08-00-423",
+ "seg_start_s": 480.423,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "3"
+ ],
+ "target": "other",
+ "text": "Are they all off initially?",
+ "start_s": 46.85,
+ "end_s": 48.4,
+ "dur": 1.55,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 56800,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 2.3,
+ "align_res_absmed_ms": 0.3721370012499392,
+ "align_how": "minute_line",
+ "az_ref_mean": -44.14,
+ "el_ref_mean": -4.21,
+ "az_ref_range": 49.05,
+ "doa_valid_frac": 1.0
+}

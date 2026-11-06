@@ -1,0 +1,29 @@
+{
+ "id": "S10_06-00-364_P6_23350",
+ "split": "test",
+ "session": 10,
+ "seg": "06-00-364",
+ "seg_start_s": 360.364,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "I mean, [H]",
+ "start_s": 23.35,
+ "end_s": 25.15,
+ "dur": 1.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 60800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.04565790368360467,
+ "align_how": "minute_line",
+ "az_ref_mean": -3.5,
+ "el_ref_mean": 2.14,
+ "az_ref_range": 1.03,
+ "doa_valid_frac": 1.0
+}

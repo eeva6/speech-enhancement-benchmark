@@ -1,0 +1,29 @@
+{
+ "id": "S4_18-00-512_P6_13150",
+ "split": "val",
+ "session": 4,
+ "seg": "18-00-512",
+ "seg_start_s": 1080.512,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Yeah! So if you ask [H] if you ask the liar a question, he's gonna",
+ "start_s": 13.15,
+ "end_s": 16.5,
+ "dur": 3.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 85600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.08472164336126298,
+ "align_how": "minute_line",
+ "az_ref_mean": 4.16,
+ "el_ref_mean": 9.4,
+ "az_ref_range": 10.98,
+ "doa_valid_frac": 1.0
+}

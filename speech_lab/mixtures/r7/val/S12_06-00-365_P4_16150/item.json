@@ -1,0 +1,29 @@
+{
+ "id": "S12_06-00-365_P4_16150",
+ "split": "val",
+ "session": 12,
+ "seg": "06-00-365",
+ "seg_start_s": 360.365,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "If you go on a curved line, then another curved line, and then a curved line that brings you back to the same spot. ",
+ "start_s": 16.15,
+ "end_s": 25.15,
+ "dur": 9.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 176000,
+ "overlap": true,
+ "ovl_frac": 0.356,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.32951077446341515,
+ "align_how": "minute_line",
+ "az_ref_mean": 22.11,
+ "el_ref_mean": 17.39,
+ "az_ref_range": 9.23,
+ "doa_valid_frac": 1.0
+}

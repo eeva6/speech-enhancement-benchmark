@@ -1,0 +1,29 @@
+{
+ "id": "S10_06-00-364_P6_14100",
+ "split": "test",
+ "session": 10,
+ "seg": "06-00-364",
+ "seg_start_s": 360.364,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "It's possible. But I do not know. I dunno.",
+ "start_s": 14.1,
+ "end_s": 17.95,
+ "dur": 3.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 93600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.04565790368360467,
+ "align_how": "minute_line",
+ "az_ref_mean": -4.54,
+ "el_ref_mean": 9.42,
+ "az_ref_range": 24.03,
+ "doa_valid_frac": 1.0
+}

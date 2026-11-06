@@ -1,0 +1,8 @@
+20:00:09 frozen already: {'tuning_set': 'val sub300 (stratified session x target, seed 7, items with words)', 'n_tuning': 300, 'front_choice': {'front1': 0.3798, 'front2': 0.4124, 'front3': 0.39, 'front4': 0.3713}, 'ref_choice': {'hs_sd8__r0w0': 0.4196, 'hs_sd8__r1w0': 0.4209, 'hs_sd8__r2w0': 0.4026, 'hs_sd8__r3w0': 0.4065}, 'wng_choice': {'hs_sd8__r1w-3': 0.4206, 'hs_sd8__r1w-6': 0.4362, 'hs_sd8__r1w0': 0.4209, 'hs_sd8__r1w3': 0.4148, 'hs_sd8__r1w6': 0.4127}, 'hyb_choice': {'hyb_sd8__X20t1': 0.4221, 'hyb_sd8__X20t3': 0.4263, 'hyb_sd8__X20t8': 0.4394, 'hyb_sd8__X30t1': 0.4105, 'hyb_sd8__X30t3': 0.4174, 'hyb_sd8__X30t8': 0.4364, 'hyb_sd8__X45t1': 0.4135, 'hyb_sd8__X45t3': 0.4211, 'hyb_sd8__X45t8': 0.4366}, 'front': 2, 'ref': 1, 'wng_db': -6.0, 'X': 20.0, 'thr': 8.0, 'frozen': True, 'frozen_at_utc': '2026-10-24 05:02:03', 'rule': 'argmax mean word-correct on the val tuning set; sequential: front mic and ref mic (WNG 0 dB), then WNG floor, then hybrid X/thr'}
+20:00:09 STAGE test all ['unproc_front', 'unproc_ear', 'r5ds', 'hs_ds_td', 'hs_sd8', 'hs_sd4', 'trk_ds_td', 'trk_sd8', 'trk_sd4', 'hyb_ds_td', 'hyb_sd8', 'hyb_sd4', 'ref_sd8', 'ref_ds_td']
+20:00:18 STAGE val sub300 ['unproc_front', 'unproc_ear', 'r5ds', 'hs_ds_td', 'hs_sd8', 'hs_sd4', 'trk_ds_td', 'trk_sd8', 'trk_sd4', 'hyb_ds_td', 'hyb_sd8', 'hyb_sd4', 'ref_sd8', 'ref_ds_td']
+20:00:25 asr val 860
+20:00:25 asr val 880
+20:24:56 obj val 2100
+20:25:35 obj val 2100
+20:27:54 PIPELINE DONE

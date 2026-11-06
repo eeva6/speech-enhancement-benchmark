@@ -1,0 +1,29 @@
+{
+ "id": "S4_02-00-322_P4_00700",
+ "split": "val",
+ "session": 4,
+ "seg": "02-00-322",
+ "seg_start_s": 120.322,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "Fantastic.",
+ "start_s": 0.7,
+ "end_s": 1.75,
+ "dur": 1.05,
+ "ctx_s": 0.7,
+ "utt_offset_samples": 11200,
+ "n_samples": 28000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.055560256441822276,
+ "align_how": "session_slope",
+ "az_ref_mean": 41.34,
+ "el_ref_mean": 5.09,
+ "az_ref_range": 2.81,
+ "doa_valid_frac": 1.0
+}

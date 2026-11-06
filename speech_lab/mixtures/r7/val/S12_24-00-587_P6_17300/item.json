@@ -1,0 +1,29 @@
+{
+ "id": "S12_24-00-587_P6_17300",
+ "split": "val",
+ "session": 12,
+ "seg": "24-00-587",
+ "seg_start_s": 1440.587,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "We played this a lot in my ninth grade class. [L]",
+ "start_s": 17.3,
+ "end_s": 20.55,
+ "dur": 3.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 84000,
+ "overlap": true,
+ "ovl_frac": 0.646,
+ "t_since_turn_onset": 2.7,
+ "align_res_absmed_ms": 0.4106015549041331,
+ "align_how": "minute_line",
+ "az_ref_mean": -15.34,
+ "el_ref_mean": 0.77,
+ "az_ref_range": 52.63,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S12_07-00-370_P4_13700",
+ "split": "val",
+ "session": 12,
+ "seg": "07-00-370",
+ "seg_start_s": 420.37,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Is my father's- Oh! So, my grandfather's- Oh my god! I'm looking at my dad.",
+ "start_s": 13.7,
+ "end_s": 20.1,
+ "dur": 6.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 134400,
+ "overlap": true,
+ "ovl_frac": 0.484,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.22835302661405876,
+ "align_how": "minute_line",
+ "az_ref_mean": 3.18,
+ "el_ref_mean": 21.72,
+ "az_ref_range": 17.18,
+ "doa_valid_frac": 1.0
+}

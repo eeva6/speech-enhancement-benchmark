@@ -1,0 +1,103 @@
+# Demo: ec_s10, system variant A_spectral, first 120 s
+# Speaker labels are anonymous cluster ids; they are matched to people only through the scoring.
+# EasyCom (CC-BY-NC 4.0): transcript text for research use only, no audio exported.
+
+## System output (faster-whisper base.en words + diarization)
+[00:00.6] SPEAKER_5: I
+[00:01.2] SPEAKER_1: don't know you guys told me you'd pay me three dollars an hour to sit here and talk to you about something What do you want me to talk about?
+[00:10.5] SPEAKER_6: I don't
+[00:11.1] SPEAKER_4: know. Why
+[00:11.5] SPEAKER_6: are you?
+[00:12.1] SPEAKER_5: Oh,
+[00:12.8] SPEAKER_1: my name is Sophie. I drive big trucks
+[00:16.7] SPEAKER_5: Like
+[00:17.1] SPEAKER_1: I try not to hit things, but you know every once in a while it happens,
+[00:20.0] SPEAKER_5: huh?
+[00:25.1] SPEAKER_4: Yeah Yeah,
+[00:26.0] SPEAKER_5: yeah drive
+[00:27.7] SPEAKER_1: all over the place. I was in Tennessee $50
+[00:30.2] SPEAKER_4: for $3 an hour?
+[00:32.8] SPEAKER_5: Yeah,
+[00:33.0] SPEAKER_1: yeah. I got to leave in 20 minutes to head to Alaska, so I figured I'd make a little bit of money for beer along the way.
+[00:38.4] SPEAKER_5: OK.
+[00:39.9] SPEAKER_4: It's more
+[00:40.5] SPEAKER_5: bitter. Yeah. This cheat
+[00:42.0] SPEAKER_2: all of you.
+[00:43.3] SPEAKER_5: Yeah, yeah, yeah.
+[00:44.7] SPEAKER_4: Well, I don't think you'd be able to say some of the talks
+[00:47.7] SPEAKER_5: of more or something. Yeah.
+[00:51.0] SPEAKER_6: I
+[00:51.0] SPEAKER_2: don't want to see all
+[00:52.8] SPEAKER_5: of it. Yeah.
+[00:54.4] SPEAKER_2: I think the one that's seen all of you, you got a big one.
+[00:58.0] SPEAKER_4: And a few more.
+[00:59.1] SPEAKER_5: yeah so
+[01:01.4] SPEAKER_1: what about you who are you guys
+[01:02.5] SPEAKER_5: why over here
+[01:05.4] SPEAKER_2: yeah interesting
+[01:12.8] SPEAKER_4: just sorry to say that
+[01:14.4] SPEAKER_2: actually you
+[01:15.8] SPEAKER_4: would like to know a little bit better your category
+[01:17.8] SPEAKER_5: okay we
+[01:19.6] SPEAKER_4: are trying to replace your in the neighborhood efficiency
+[01:24.0] SPEAKER_5: okay Okay.
+[01:27.3] SPEAKER_6: You
+[01:27.8] SPEAKER_4: know, there are also categories that are just not supposed to be there. One is the handle, the other is the truck driver. Okay. And then I understand you because you're a woman as I am. Yeah. And also in my career, and in dangerous pushes.
+[01:44.1] SPEAKER_5: Yeah. And
+[01:45.0] SPEAKER_6: you
+[01:48.1] SPEAKER_1: don't want me to live anywhere?
+[01:50.9] SPEAKER_4: I'm not even going to eat but you're talking to me.
+[01:55.8] SPEAKER_5: So
+[01:56.2] SPEAKER_1: how am I going to feed my 12 kids? I can't feed them on $3. This is
+
+## Human reference (speaker ids from the dataset)
+[00:00.1] P6: [X] gonna get here?
+[00:01.1] P2 (wearer): [H] I dunno! You guys told me you'd pay me three dollars an hour to sit here and talk to you about something.
+[00:06.8] P6: [H] Yeah! Can you talk about something?
+[00:09.2] P2 (wearer): What do you want me to talk about?
+[00:10.6] P6: I dunno! Who are you?
+[00:12.1] P2 (wearer): [H] Oh! My name is Sophie. I- I drive big trucks.
+[00:16.0] P4: Wow! Sounds cool, Sophie.
+[00:16.3] P6: Okay.
+[00:16.9] P2 (wearer): Like, I try not to hit things but, you know, every once in a while it happens.
+[00:19.9] P4: [L]
+[00:21.6] P6: You really have a job? You really have a job?
+[00:23.0] P2 (wearer): Huh?
+[00:25.2] P2 (wearer): Yeah!
+[00:26.1] P6: Okay.
+[00:27.0] P2 (wearer): Yeah. Drive all over the place. Yeah, I was in Tennessee-
+[00:29.5] P6: You accepted this thing for three dollars an hour?
+[00:32.9] P2 (wearer): Yeah, yeah! I gotta leave in twenty minutes to head to Alaska, so figured I'd make a little bit of money for beer along the way.
+[00:38.5] P4: Wow!
+[00:38.6] P6: Okay.
+[00:40.3] P6: A small beer.
+[00:40.4] P4: Yeah! There's three dollar beer in Alaska?
+[00:43.5] P2 (wearer): Yeah yeah, yeah.
+[00:44.6] P6: Well, I don't think they drink beer. It's like sort of [H] a popsicle that tastes like beer.
+[00:44.8] P4: Wow.
+[00:48.9] P2 (wearer): [L]
+[00:50.6] P6: Yeah.
+[00:51.1] P4: Ah. No wonder it's three dollars, then!
+[00:53.6] P2 (wearer): Yeah. Got it.
+[00:54.0] P6: Say again?
+[00:54.7] P4: I think no wonder it's three dollars! You get a big one for three dollars.
+[00:58.2] P6: Ah, not anymore!
+[00:59.3] P4: [L]
+[01:00.0] P2 (wearer): Yeah.
+[01:01.2] P2 (wearer): So, what about you? Who are you guys? Why am I here?
+[01:04.8] P6: Should we tell him? Her!
+[01:05.7] P4: Yeah. I- Her!
+[01:07.8] P2 (wearer): Okay.
+[01:09.6] P4: Think she's ready.
+[01:13.2] P6: We're sorry to say, that actually, we'd like to know a little bit more your category. [H] We're trying to replace you in the name of efficiency.
+[01:18.5] P2 (wearer): Okay.
+[01:24.7] P2 (wearer): Okay.
+[01:25.7] P6: [H]
+[01:27.8] P6: You know there are certain categories that are not supposed to be there. One is the panda. The other is the truck driver. And I understand you because you are a woman as I am. And [H] also, in [H] in my field we are an endangered species. [H]
+[01:34.7] P2 (wearer): Okay.
+[01:38.5] P2 (wearer): Yeah.
+[01:44.1] P2 (wearer): Yeah.
+[01:47.0] P6: But, you're condemned.
+[01:49.2] P2 (wearer): Y- you don't want me to live anymore?
+[01:51.2] P6: No, no no. You can live but [H] your job is gonna be replaced by the machines.
+[01:56.3] P2 (wearer): So how am I gonna feed my twelve kids? I can't feed em on three dol- [X]

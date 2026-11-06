@@ -1,0 +1,29 @@
+{
+ "id": "S4_21-00-559_P7_38100",
+ "split": "val",
+ "session": 4,
+ "seg": "21-00-559",
+ "seg_start_s": 1260.559,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "It's smaller. [U]",
+ "start_s": 38.1,
+ "end_s": 40.15,
+ "dur": 2.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 64800,
+ "overlap": true,
+ "ovl_frac": 0.878,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.26319043536204845,
+ "align_how": "minute_line",
+ "az_ref_mean": -22.59,
+ "el_ref_mean": 4.9,
+ "az_ref_range": 6.77,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_23-00-578_P3_05750",
+ "split": "val",
+ "session": 4,
+ "seg": "23-00-578",
+ "seg_start_s": 1380.578,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Because, you know, it's not like- I mean how do you win this. Can you lose?",
+ "start_s": 5.75,
+ "end_s": 11.45,
+ "dur": 5.7,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 123200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.016553500245208852,
+ "align_how": "minute_line",
+ "az_ref_mean": 17.17,
+ "el_ref_mean": 0.03,
+ "az_ref_range": 40.44,
+ "doa_valid_frac": 1.0
+}

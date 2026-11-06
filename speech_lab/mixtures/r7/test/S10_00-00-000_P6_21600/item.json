@@ -1,0 +1,29 @@
+{
+ "id": "S10_00-00-000_P6_21600",
+ "split": "test",
+ "session": 10,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "You really have a job? You really have a job?",
+ "start_s": 21.6,
+ "end_s": 25.0,
+ "dur": 3.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 86400,
+ "overlap": true,
+ "ovl_frac": 0.162,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.06730867244186811,
+ "align_how": "minute_line",
+ "az_ref_mean": -1.44,
+ "el_ref_mean": 2.88,
+ "az_ref_range": 6.8,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_01-00-293_P4_00500",
+ "split": "val",
+ "session": 4,
+ "seg": "01-00-293",
+ "seg_start_s": 60.293,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "That's you, Harry. Hey I'm [H] Charlie Wilson. I'm a school teacher. I just love those kids. Y'know, they're our future. I never really wanted to make too much money. I figured that would just, y'know like, taint me as a human, so like",
+ "start_s": 0.5,
+ "end_s": 13.35,
+ "dur": 12.85,
+ "ctx_s": 0.5,
+ "utt_offset_samples": 8000,
+ "n_samples": 213600,
+ "overlap": true,
+ "ovl_frac": 0.043,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.1414861690136604,
+ "align_how": "minute_line",
+ "az_ref_mean": -4.93,
+ "el_ref_mean": 7.21,
+ "az_ref_range": 38.29,
+ "doa_valid_frac": 0.992
+}

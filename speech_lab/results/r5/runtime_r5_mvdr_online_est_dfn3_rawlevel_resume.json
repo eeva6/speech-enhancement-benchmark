@@ -1,0 +1,13 @@
+{
+ "method": "mvdr_online_est_dfn3_rawlevel",
+ "tag": "r5",
+ "n": 144,
+ "n_fail": 0,
+ "fails": [],
+ "rtf": 1.3482022275162215,
+ "peak_rss_mb": 518.70703125,
+ "infos": {},
+ "streaming": null,
+ "latency": "72 ms, causal",
+ "cpu": "2 vCPU aarch64, no GPU"
+}

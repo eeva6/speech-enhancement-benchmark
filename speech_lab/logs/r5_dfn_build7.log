@@ -1,0 +1,25 @@
+705 |     pub fn get_mut_spec_enh(&mut self) -> ArrayViewMut2<'_, Complex32> {
+    |                                                         +++
+
+warning: hiding a lifetime that's elided elsewhere is confusing
+    --> libDF/src/tract.rs:1069:36
+     |
+1069 | pub fn tvalue_to_array_view_mut(x: &mut TValue) -> ArrayViewMutD<f32> {
+     |                                    ^^^^^^^^^^^     ^^^^^^^^^^^^^^^^^^ the same lifetime is hidden here
+     |                                    |
+     |                                    the lifetime is elided here
+     |
+     = help: the same lifetime is referred to in inconsistent ways, making the signature confusing
+help: use `'_` for type paths
+     |
+1069 | pub fn tvalue_to_array_view_mut(x: &mut TValue) -> ArrayViewMutD<'_, f32> {
+     |                                                                  +++
+
+warning: linker stderr: ignoring deprecated linker optimization setting "1"
+  |
+  = note: `#[warn(linker_messages)]` on by default
+
+warning: `deep_filter` (lib) generated 5 warnings (run `cargo fix --lib -p deep_filter` to apply 4 suggestions)
+   Compiling deep_filter v0.5.7-pre (/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/third_party/DeepFilterNet/libDF)
+warning: `deep_filter` (bin "deep-filter") generated 1 warning (1 duplicate)
+    Finished `release` profile [optimized] target(s) in 11m 29s

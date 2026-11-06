@@ -1,0 +1,29 @@
+{
+ "id": "S12_02-00-307_P4_53350",
+ "split": "val",
+ "session": 12,
+ "seg": "02-00-307",
+ "seg_start_s": 120.307,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "So easy truck parking, I can imagine. Yeah.",
+ "start_s": 53.35,
+ "end_s": 56.35,
+ "dur": 3.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 80000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.4588067240547389,
+ "align_how": "minute_line",
+ "az_ref_mean": 10.63,
+ "el_ref_mean": 8.67,
+ "az_ref_range": 40.51,
+ "doa_valid_frac": 1.0
+}

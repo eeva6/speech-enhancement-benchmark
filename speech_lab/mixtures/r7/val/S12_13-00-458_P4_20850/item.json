@@ -1,0 +1,30 @@
+{
+ "id": "S12_13-00-458_P4_20850",
+ "split": "val",
+ "session": 12,
+ "seg": "13-00-458",
+ "seg_start_s": 780.458,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6",
+  "2"
+ ],
+ "target": "wearer",
+ "text": "If I ask them a question, right? Let's say this- \"is this the door to heaven,\" right? They should both say yes. That's what we want them to do. The question is how do we phrase it such that they do that? ",
+ "start_s": 20.85,
+ "end_s": 31.8,
+ "dur": 10.95,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 207200,
+ "overlap": true,
+ "ovl_frac": 0.384,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0935624266276136,
+ "align_how": "minute_line",
+ "az_ref_mean": 15.73,
+ "el_ref_mean": 14.14,
+ "az_ref_range": 8.68,
+ "doa_valid_frac": 1.0
+}

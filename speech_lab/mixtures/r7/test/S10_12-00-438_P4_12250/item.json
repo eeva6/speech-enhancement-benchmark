@@ -1,0 +1,29 @@
+{
+ "id": "S10_12-00-438_P4_12250",
+ "split": "test",
+ "session": 10,
+ "seg": "12-00-438",
+ "seg_start_s": 720.438,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "he's telling the truth. ",
+ "start_s": 12.25,
+ "end_s": 13.65,
+ "dur": 1.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 54400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.11572352377697825,
+ "align_how": "minute_line",
+ "az_ref_mean": 21.63,
+ "el_ref_mean": -2.9,
+ "az_ref_range": 1.41,
+ "doa_valid_frac": 1.0
+}

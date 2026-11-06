@@ -1,0 +1,29 @@
+{
+ "id": "S11_22-00-598_P7_14400",
+ "split": "test",
+ "session": 11,
+ "seg": "22-00-598",
+ "seg_start_s": 1320.598,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "3"
+ ],
+ "target": "other",
+ "text": "The loudspeaker?",
+ "start_s": 14.4,
+ "end_s": 16.1,
+ "dur": 1.7,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 59200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.010604852377582574,
+ "align_how": "session_slope",
+ "az_ref_mean": -82.81,
+ "el_ref_mean": -3.68,
+ "az_ref_range": 16.07,
+ "doa_valid_frac": 1.0
+}

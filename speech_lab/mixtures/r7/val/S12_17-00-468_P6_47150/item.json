@@ -1,0 +1,30 @@
+{
+ "id": "S12_17-00-468_P6_47150",
+ "split": "val",
+ "session": 12,
+ "seg": "17-00-468",
+ "seg_start_s": 1020.468,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4",
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Right? So, they're saying if you are the truth teller in front of heaven, if they ask me, the liar, \"is he standing in front of heaven?\" I would say no. ",
+ "start_s": 47.15,
+ "end_s": 59.75,
+ "dur": 12.6,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 233600,
+ "overlap": true,
+ "ovl_frac": 0.258,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.10186341387452558,
+ "align_how": "minute_line",
+ "az_ref_mean": -27.2,
+ "el_ref_mean": 4.8,
+ "az_ref_range": 11.75,
+ "doa_valid_frac": 1.0
+}

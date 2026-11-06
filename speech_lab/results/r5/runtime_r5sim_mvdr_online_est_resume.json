@@ -1,0 +1,17 @@
+{
+ "method": "mvdr_online_est",
+ "tag": "r5sim",
+ "n": 13,
+ "n_fail": 0,
+ "fails": [],
+ "rtf": 0.3097830270287381,
+ "peak_rss_mb": 435.859375,
+ "infos": {},
+ "streaming": {
+  "per_hop_ms": 0.8933377214460205,
+  "hop_ms": 16.0,
+  "latency_ms": 32.0
+ },
+ "latency": "32 ms, fully causal incl. DOA",
+ "cpu": "2 vCPU aarch64, no GPU"
+}

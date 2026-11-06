@@ -1,0 +1,29 @@
+{
+ "id": "S12_20-00-535_P6_00050",
+ "split": "val",
+ "session": 12,
+ "seg": "20-00-535",
+ "seg_start_s": 1200.535,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "[X] kind of give a vague description to what you see and then other people have to look around and try to spy what you spy.",
+ "start_s": 0.05,
+ "end_s": 8.6,
+ "dur": 8.55,
+ "ctx_s": 0.05,
+ "utt_offset_samples": 800,
+ "n_samples": 137600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.27662656793836504,
+ "align_how": "minute_line",
+ "az_ref_mean": -21.6,
+ "el_ref_mean": -0.38,
+ "az_ref_range": 17.17,
+ "doa_valid_frac": 1.0
+}

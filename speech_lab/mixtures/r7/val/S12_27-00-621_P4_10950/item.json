@@ -1,0 +1,29 @@
+{
+ "id": "S12_27-00-621_P4_10950",
+ "split": "val",
+ "session": 12,
+ "seg": "27-00-621",
+ "seg_start_s": 1620.621,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Space. I accidentally pressed enter. [H]",
+ "start_s": 10.95,
+ "end_s": 13.05,
+ "dur": 2.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 65600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 1.95,
+ "align_res_absmed_ms": 0.11003316103597172,
+ "align_how": "session_slope",
+ "az_ref_mean": 7.56,
+ "el_ref_mean": 6.45,
+ "az_ref_range": 2.79,
+ "doa_valid_frac": 1.0
+}

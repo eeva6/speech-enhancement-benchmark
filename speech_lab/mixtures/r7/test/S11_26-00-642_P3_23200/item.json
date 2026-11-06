@@ -1,0 +1,29 @@
+{
+ "id": "S11_26-00-642_P3_23200",
+ "split": "test",
+ "session": 11,
+ "seg": "26-00-642",
+ "seg_start_s": 1560.642,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "And don't read the numbers?",
+ "start_s": 23.2,
+ "end_s": 24.3,
+ "dur": 1.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 49600,
+ "overlap": true,
+ "ovl_frac": 0.045,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.01738344508339651,
+ "align_how": "minute_line",
+ "az_ref_mean": 21.84,
+ "el_ref_mean": 6.31,
+ "az_ref_range": 2.67,
+ "doa_valid_frac": 1.0
+}

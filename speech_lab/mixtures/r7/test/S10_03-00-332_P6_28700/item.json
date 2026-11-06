@@ -1,0 +1,29 @@
+{
+ "id": "S10_03-00-332_P6_28700",
+ "split": "test",
+ "session": 10,
+ "seg": "03-00-332",
+ "seg_start_s": 180.332,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "[L]",
+ "start_s": 28.7,
+ "end_s": 30.75,
+ "dur": 2.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 64800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.036937854019925,
+ "align_how": "minute_line",
+ "az_ref_mean": -62.71,
+ "el_ref_mean": 7.85,
+ "az_ref_range": 36.62,
+ "doa_valid_frac": 1.0
+}

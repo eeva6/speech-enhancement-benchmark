@@ -1,0 +1,29 @@
+{
+ "id": "S4_19-00-532_P6_56300",
+ "split": "val",
+ "session": 4,
+ "seg": "19-00-532",
+ "seg_start_s": 1140.532,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Yeah, this one's a little tricky. I dunno.",
+ "start_s": 56.3,
+ "end_s": 58.5,
+ "dur": 2.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 67200,
+ "overlap": true,
+ "ovl_frac": 0.273,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03946890683437232,
+ "align_how": "minute_line",
+ "az_ref_mean": -53.73,
+ "el_ref_mean": 9.22,
+ "az_ref_range": 1.39,
+ "doa_valid_frac": 1.0
+}

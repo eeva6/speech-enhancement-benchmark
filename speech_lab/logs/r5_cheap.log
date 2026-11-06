@@ -1,0 +1,5 @@
+== r5 ds_est
+{"method": "ds_est", "tag": "r5", "n": 144, "n_fail": 0, "rtf": 0.3770024049257301}
+== r5 mvdr_online_est
+{"method": "mvdr_online_est", "tag": "r5", "n": 144, "n_fail": 0, "rtf": 0.36585474015517566}
+== r5 mvdr_online_dir_est

@@ -1,0 +1,29 @@
+{
+ "id": "S11_09-00-429_P5_36000",
+ "split": "test",
+ "session": 11,
+ "seg": "09-00-429",
+ "seg_start_s": 540.429,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Okay. Sho- should I go over it agai- Okay, so. Brothers and sisters I have none,",
+ "start_s": 36.0,
+ "end_s": 41.25,
+ "dur": 5.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 116000,
+ "overlap": true,
+ "ovl_frac": 0.467,
+ "t_since_turn_onset": 6.9,
+ "align_res_absmed_ms": 0.025946617824956775,
+ "align_how": "session_slope",
+ "az_ref_mean": -2.22,
+ "el_ref_mean": 3.87,
+ "az_ref_range": 9.09,
+ "doa_valid_frac": 1.0
+}

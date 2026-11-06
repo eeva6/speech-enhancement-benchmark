@@ -1,0 +1,29 @@
+{
+ "id": "S10_26-00-618_P4_23950",
+ "split": "test",
+ "session": 10,
+ "seg": "26-00-618",
+ "seg_start_s": 1560.618,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Remind me that the package will be delivered by the ups-by the UPS at noon. ",
+ "start_s": 23.95,
+ "end_s": 29.55,
+ "dur": 5.6,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 121600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.01056724249792751,
+ "align_how": "minute_line",
+ "az_ref_mean": 9.17,
+ "el_ref_mean": -2.03,
+ "az_ref_range": 1.0,
+ "doa_valid_frac": 1.0
+}

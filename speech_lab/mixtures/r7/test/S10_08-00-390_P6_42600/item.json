@@ -1,0 +1,29 @@
+{
+ "id": "S10_08-00-390_P6_42600",
+ "split": "test",
+ "session": 10,
+ "seg": "08-00-390",
+ "seg_start_s": 480.39,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "a mile west, and a mile north, and ends up back where he started. How did it happen?",
+ "start_s": 42.6,
+ "end_s": 48.8,
+ "dur": 6.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 131200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 3.3,
+ "align_res_absmed_ms": 0.005860710189153906,
+ "align_how": "minute_line",
+ "az_ref_mean": -3.34,
+ "el_ref_mean": 3.7,
+ "az_ref_range": 10.24,
+ "doa_valid_frac": 1.0
+}

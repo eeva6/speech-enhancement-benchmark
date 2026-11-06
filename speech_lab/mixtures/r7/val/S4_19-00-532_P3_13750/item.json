@@ -1,0 +1,29 @@
+{
+ "id": "S4_19-00-532_P3_13750",
+ "split": "val",
+ "session": 4,
+ "seg": "19-00-532",
+ "seg_start_s": 1140.532,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "[L]",
+ "start_s": 13.75,
+ "end_s": 15.25,
+ "dur": 1.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 56000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 64.77,
+ "el_ref_mean": -1.61,
+ "az_ref_range": 2.08,
+ "doa_valid_frac": 1.0
+}

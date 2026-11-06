@@ -1,0 +1,29 @@
+{
+ "id": "S4_02-00-322_P3_24050",
+ "split": "val",
+ "session": 4,
+ "seg": "02-00-322",
+ "seg_start_s": 120.322,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "Thomas! And where do you work?",
+ "start_s": 24.05,
+ "end_s": 25.8,
+ "dur": 1.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 60000,
+ "overlap": true,
+ "ovl_frac": 0.714,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.04887327304459177,
+ "align_how": "session_slope",
+ "az_ref_mean": 86.93,
+ "el_ref_mean": -2.94,
+ "az_ref_range": 89.07,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S11_00-00-000_P7_21750",
+ "split": "test",
+ "session": 11,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Oh okay. How long have you been driving?",
+ "start_s": 21.75,
+ "end_s": 24.5,
+ "dur": 2.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 76000,
+ "overlap": true,
+ "ovl_frac": 0.927,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.021506210032384843,
+ "align_how": "session_slope",
+ "az_ref_mean": -37.46,
+ "el_ref_mean": 1.85,
+ "az_ref_range": 68.55,
+ "doa_valid_frac": 1.0
+}

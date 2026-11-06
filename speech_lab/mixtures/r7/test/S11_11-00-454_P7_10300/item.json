@@ -1,0 +1,29 @@
+{
+ "id": "S11_11-00-454_P7_10300",
+ "split": "test",
+ "session": 11,
+ "seg": "11-00-454",
+ "seg_start_s": 660.454,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "3"
+ ],
+ "target": "other",
+ "text": "Is that what it is? [L]",
+ "start_s": 10.3,
+ "end_s": 12.25,
+ "dur": 1.95,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 63200,
+ "overlap": true,
+ "ovl_frac": 0.436,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.10391551040811464,
+ "align_how": "minute_line",
+ "az_ref_mean": -82.14,
+ "el_ref_mean": 2.44,
+ "az_ref_range": 9.19,
+ "doa_valid_frac": 1.0
+}

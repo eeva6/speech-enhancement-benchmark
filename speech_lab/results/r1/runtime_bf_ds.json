@@ -1,0 +1,17 @@
+{
+ "method": "bf_ds",
+ "tag": "r1",
+ "n": 48,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 0.020568865000313963,
+ "mean_proc_s": 0.1251453599361702,
+ "rtf": 0.020561532255470878,
+ "peak_rss_mb": 281.16796875,
+ "rss_before_mb": 248.44921875,
+ "n_params": null,
+ "noise_psd": "ms",
+ "infos": {},
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

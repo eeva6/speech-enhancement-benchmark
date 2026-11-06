@@ -1,0 +1,29 @@
+{
+ "id": "S12_24-00-587_P6_30600",
+ "split": "val",
+ "session": 12,
+ "seg": "24-00-587",
+ "seg_start_s": 1440.587,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Nope. You can see the back of the cameras?",
+ "start_s": 30.6,
+ "end_s": 32.75,
+ "dur": 2.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 66400,
+ "overlap": true,
+ "ovl_frac": 0.674,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.4106015549041331,
+ "align_how": "minute_line",
+ "az_ref_mean": -12.08,
+ "el_ref_mean": -3.66,
+ "az_ref_range": 33.82,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S11_26-00-642_P3_32450",
+ "split": "test",
+ "session": 11,
+ "seg": "26-00-642",
+ "seg_start_s": 1560.642,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "You're wrong to start over.",
+ "start_s": 32.45,
+ "end_s": 33.85,
+ "dur": 1.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 54400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 5.35,
+ "align_res_absmed_ms": 0.01738344508339651,
+ "align_how": "minute_line",
+ "az_ref_mean": 16.28,
+ "el_ref_mean": 4.67,
+ "az_ref_range": 0.6,
+ "doa_valid_frac": 1.0
+}

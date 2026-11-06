@@ -1,0 +1,29 @@
+{
+ "id": "S4_24-00-594_P7_18750",
+ "split": "val",
+ "session": 4,
+ "seg": "24-00-594",
+ "seg_start_s": 1440.594,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "His shirt?",
+ "start_s": 18.75,
+ "end_s": 20.5,
+ "dur": 1.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 60000,
+ "overlap": true,
+ "ovl_frac": 0.514,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 1.3897661119699478,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -83.19,
+ "el_ref_mean": 0.34,
+ "az_ref_range": 19.37,
+ "doa_valid_frac": 1.0
+}

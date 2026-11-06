@@ -1,0 +1,29 @@
+{
+ "id": "S10_28-00-653_P6_19750",
+ "split": "test",
+ "session": 10,
+ "seg": "28-00-653",
+ "seg_start_s": 1680.653,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Instead of milk, I'll take the almond milk.",
+ "start_s": 19.75,
+ "end_s": 22.15,
+ "dur": 2.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 70400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 6.3,
+ "align_res_absmed_ms": 0.008558099580113776,
+ "align_how": "minute_line",
+ "az_ref_mean": -4.05,
+ "el_ref_mean": -0.17,
+ "az_ref_range": 1.83,
+ "doa_valid_frac": 1.0
+}

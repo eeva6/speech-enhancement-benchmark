@@ -1,0 +1,29 @@
+{
+ "id": "S4_07-00-382_P4_45200",
+ "split": "val",
+ "session": 4,
+ "seg": "07-00-382",
+ "seg_start_s": 420.382,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So I- I know the answer. But I don't know if I wanna give it away because I've heard it before. So if you guys wanna work through it.",
+ "start_s": 45.2,
+ "end_s": 52.65,
+ "dur": 7.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 151200,
+ "overlap": true,
+ "ovl_frac": 0.537,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.09252523159375414,
+ "align_how": "session_slope",
+ "az_ref_mean": 22.93,
+ "el_ref_mean": 7.2,
+ "az_ref_range": 39.13,
+ "doa_valid_frac": 1.0
+}

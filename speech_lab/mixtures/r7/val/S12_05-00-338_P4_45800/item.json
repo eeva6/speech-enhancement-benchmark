@@ -1,0 +1,30 @@
+{
+ "id": "S12_05-00-338_P4_45800",
+ "split": "val",
+ "session": 12,
+ "seg": "05-00-338",
+ "seg_start_s": 300.338,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group",
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Should we just play along or just? Cause this is a super common puzzle, right? Or no?",
+ "start_s": 45.8,
+ "end_s": 51.6,
+ "dur": 5.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 124800,
+ "overlap": true,
+ "ovl_frac": 0.655,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.08491584230796434,
+ "align_how": "session_slope",
+ "az_ref_mean": 28.0,
+ "el_ref_mean": 10.15,
+ "az_ref_range": 12.45,
+ "doa_valid_frac": 1.0
+}

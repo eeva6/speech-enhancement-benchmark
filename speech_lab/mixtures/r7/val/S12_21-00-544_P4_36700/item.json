@@ -1,0 +1,29 @@
+{
+ "id": "S12_21-00-544_P4_36700",
+ "split": "val",
+ "session": 12,
+ "seg": "21-00-544",
+ "seg_start_s": 1260.544,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "[H] So, just on this side? Okay that's- [H]",
+ "start_s": 36.7,
+ "end_s": 40.25,
+ "dur": 3.55,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 88800,
+ "overlap": true,
+ "ovl_frac": 0.493,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.36699271004181355,
+ "align_how": "session_slope",
+ "az_ref_mean": 6.69,
+ "el_ref_mean": 4.3,
+ "az_ref_range": 30.24,
+ "doa_valid_frac": 1.0
+}

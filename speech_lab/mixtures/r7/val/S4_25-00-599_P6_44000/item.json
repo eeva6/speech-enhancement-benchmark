@@ -1,0 +1,29 @@
+{
+ "id": "S4_25-00-599_P6_44000",
+ "split": "val",
+ "session": 4,
+ "seg": "25-00-599",
+ "seg_start_s": 1500.599,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I know this other place to eat called Megabite. We'll go there next time.",
+ "start_s": 44.0,
+ "end_s": 48.3,
+ "dur": 4.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 100800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.48253337445203215,
+ "align_how": "session_slope",
+ "az_ref_mean": -38.04,
+ "el_ref_mean": 45.17,
+ "az_ref_range": 60.16,
+ "doa_valid_frac": 1.0
+}

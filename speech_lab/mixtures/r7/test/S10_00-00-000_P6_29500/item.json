@@ -1,0 +1,29 @@
+{
+ "id": "S10_00-00-000_P6_29500",
+ "split": "test",
+ "session": 10,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "You accepted this thing for three dollars an hour?",
+ "start_s": 29.5,
+ "end_s": 32.7,
+ "dur": 3.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 83200,
+ "overlap": true,
+ "ovl_frac": 0.219,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.06730867244186811,
+ "align_how": "minute_line",
+ "az_ref_mean": -3.9,
+ "el_ref_mean": 4.7,
+ "az_ref_range": 2.64,
+ "doa_valid_frac": 1.0
+}

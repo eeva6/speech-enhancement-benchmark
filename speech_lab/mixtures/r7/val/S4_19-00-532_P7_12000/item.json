@@ -1,0 +1,29 @@
+{
+ "id": "S4_19-00-532_P7_12000",
+ "split": "val",
+ "session": 4,
+ "seg": "19-00-532",
+ "seg_start_s": 1140.532,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Yes! Or no.",
+ "start_s": 12.0,
+ "end_s": 13.5,
+ "dur": 1.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 56000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -58.02,
+ "el_ref_mean": 3.56,
+ "az_ref_range": 6.53,
+ "doa_valid_frac": 1.0
+}

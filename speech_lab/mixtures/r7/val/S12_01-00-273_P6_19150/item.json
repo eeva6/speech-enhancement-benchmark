@@ -1,0 +1,29 @@
+{
+ "id": "S12_01-00-273_P6_19150",
+ "split": "val",
+ "session": 12,
+ "seg": "01-00-273",
+ "seg_start_s": 60.273,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Yeah. For sure. [L] Very cool.",
+ "start_s": 19.15,
+ "end_s": 22.1,
+ "dur": 2.95,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 79200,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.01079080402632826,
+ "align_how": "minute_line",
+ "az_ref_mean": -32.91,
+ "el_ref_mean": 9.44,
+ "az_ref_range": 6.63,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,19 @@
+objective: 528
+OBJ_DONE
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/speechbrain/utils/checkpoints.py:202: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(path, map_location=device)
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/speechbrain/processing/features.py:1550: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  stats = torch.load(path, map_location=self.device)
+             per_hop_ms  p99_ms  hop_ms     sec    dur  embed_sec   load1     rtf  embed_rtf  algorithmic_latency_ms
+component                                                                                                           
+ds_td            0.0350  0.4084     2.0  0.8964  54.55     0.0000  2.7161  0.0164     0.0000                  0.6239
+gm4              0.1136  0.9804     2.0  2.9718  54.55     0.0000  2.7161  0.0545     0.0000                  4.0000
+gm8              0.2256  2.8170     4.0  2.8806  54.55     0.0000  2.7161  0.0528     0.0000                  8.0000
+rtf4             0.1655  1.2801     2.0  4.2696  54.55     0.0000  2.7024  0.0783     0.0000                  4.0000
+rtf8             0.3625  2.9235     4.0  5.3096  54.55     0.0000  2.7024  0.0973     0.0000                  8.0000
+sd4              0.0462  0.8110     2.0  1.1335  54.55     0.0000  2.7161  0.0208     0.0000                  4.0000
+sd8              0.0992  2.5805     4.0  1.1559  54.55     0.0000  2.7161  0.0212     0.0000                  8.0000
+tracker_r5t      1.2260     NaN    16.0  4.1909  54.55     0.0000  2.7923  0.0768     0.0000                     NaN
+tracker_rt       2.3284     NaN    16.0  8.6034  54.55     4.0019  2.7597  0.1577     0.0734                     NaN
+tracker_rtn      1.3068     NaN    16.0  4.4578  54.55     0.0000  2.7597  0.0817     0.0000                     NaN
+TIMING_DONE

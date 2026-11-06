@@ -1,0 +1,29 @@
+{
+ "id": "S12_01-00-273_P6_12300",
+ "split": "val",
+ "session": 12,
+ "seg": "01-00-273",
+ "seg_start_s": 60.273,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Do you see yourself dealing with more residential or commercial clientele?",
+ "start_s": 12.3,
+ "end_s": 17.05,
+ "dur": 4.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 108000,
+ "overlap": true,
+ "ovl_frac": 0.158,
+ "t_since_turn_onset": 3.9,
+ "align_res_absmed_ms": 0.01079080402632826,
+ "align_how": "minute_line",
+ "az_ref_mean": -31.79,
+ "el_ref_mean": 8.75,
+ "az_ref_range": 20.41,
+ "doa_valid_frac": 1.0
+}

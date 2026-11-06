@@ -1,0 +1,43 @@
+{
+ "model": "DeepFilterNet3_onnx.tar.gz",
+ "cpu": "2 vCPU aarch64 (shared sandbox; load average recorded)",
+ "create_s": 0.38198915900011343,
+ "hop_samples_48k": 480,
+ "hop_ms": 10.0,
+ "n_frames": 7923,
+ "n_files": 12,
+ "audio_s": 79.23,
+ "frame_ms": {
+  "mean": 0.6196099909125332,
+  "median": 0.605558,
+  "p95": 0.6709611999999999,
+  "p99": 0.7460509799999999,
+  "max": 3.320725,
+  "first10_mean": 1.0364286
+ },
+ "rtf_frames": 0.06196099909125332,
+ "frac_frames_over_hop": 0.0,
+ "ctypes_overhead_us": 0.309,
+ "loadavg_1min_during": 4.587320963541667,
+ "capi_output_delay_samples_48k": 870,
+ "capi_output_delay_ms": 18.125,
+ "capi_vs_python_si_sdr_db": -8.703104019165039,
+ "config": {
+  "sr": 48000,
+  "fft_size": 960,
+  "hop_size": 480,
+  "lookahead_frames": 2,
+  "algorithmic_latency_ms": 40.0,
+  "note": "algorithmic = (fft-hop) analysis/synthesis overlap + lookahead*hop + one hop of buffering"
+ },
+ "end_to_end_latency_ms_estimate": {
+  "algorithmic": 40.0,
+  "plus_p99_compute": 40.74605098
+ },
+ "cli": {
+  "wall_s": 5.217936115000157,
+  "audio_s": 47.0600625,
+  "stderr_tail": "",
+  "returncode": 0
+ }
+}

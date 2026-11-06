@@ -1,0 +1,29 @@
+{
+ "id": "S11_26-00-642_P3_34200",
+ "split": "test",
+ "session": 11,
+ "seg": "26-00-642",
+ "seg_start_s": 1560.642,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Set the alarm for five minutes.",
+ "start_s": 34.2,
+ "end_s": 36.15,
+ "dur": 1.95,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 63200,
+ "overlap": true,
+ "ovl_frac": 0.051,
+ "t_since_turn_onset": 7.1,
+ "align_res_absmed_ms": 0.01738344508339651,
+ "align_how": "minute_line",
+ "az_ref_mean": 16.44,
+ "el_ref_mean": 4.92,
+ "az_ref_range": 0.4,
+ "doa_valid_frac": 1.0
+}

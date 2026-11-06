@@ -1,0 +1,29 @@
+{
+ "id": "S10_12-00-438_P6_32600",
+ "split": "test",
+ "session": 10,
+ "seg": "12-00-438",
+ "seg_start_s": 720.438,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Sorry. But at least I can",
+ "start_s": 32.6,
+ "end_s": 35.15,
+ "dur": 2.55,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 72800,
+ "overlap": true,
+ "ovl_frac": 0.02,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.13897516328142956,
+ "align_how": "minute_line",
+ "az_ref_mean": -7.92,
+ "el_ref_mean": 3.26,
+ "az_ref_range": 10.79,
+ "doa_valid_frac": 1.0
+}

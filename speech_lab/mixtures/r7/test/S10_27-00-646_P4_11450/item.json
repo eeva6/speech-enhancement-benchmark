@@ -1,0 +1,29 @@
+{
+ "id": "S10_27-00-646_P4_11450",
+ "split": "test",
+ "session": 10,
+ "seg": "27-00-646",
+ "seg_start_s": 1620.646,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Set my timer for thirty minutes.",
+ "start_s": 11.45,
+ "end_s": 13.3,
+ "dur": 1.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 61600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 1.9,
+ "align_res_absmed_ms": 0.007208464467112208,
+ "align_how": "session_slope",
+ "az_ref_mean": 9.15,
+ "el_ref_mean": -0.97,
+ "az_ref_range": 0.2,
+ "doa_valid_frac": 1.0
+}

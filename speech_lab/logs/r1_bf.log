@@ -1,0 +1,9 @@
+== bf_ds 00:02:37
+{"method": "bf_ds", "n": 48, "n_fail": 0, "rtf": 0.020561532255470878, "peak_rss_mb": 281.16796875, "first_call_s": 0.020568865000313963}
+== bf_mvdr_oracle 00:02:46
+{"method": "bf_mvdr_oracle", "n": 48, "n_fail": 0, "rtf": 0.04286251547926793, "peak_rss_mb": 292.6171875, "first_call_s": 0.07103984100012894}
+== bf_mvdr_ff 00:03:00
+{"method": "bf_mvdr_ff", "n": 48, "n_fail": 0, "rtf": 0.009333973103542632, "peak_rss_mb": 282.76171875, "first_call_s": 0.05033655200031717}
+== bf_mvdr_mask 00:03:05
+{"method": "bf_mvdr_mask", "n": 48, "n_fail": 0, "rtf": 0.39075310397817914, "peak_rss_mb": 887.65234375, "first_call_s": 2.2550406649997967}
+== bf_mvdr_mask_pf 00:05:02

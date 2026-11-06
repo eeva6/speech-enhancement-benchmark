@@ -1,0 +1,29 @@
+{
+ "id": "S10_08-00-390_P6_09550",
+ "split": "test",
+ "session": 10,
+ "seg": "08-00-390",
+ "seg_start_s": 480.39,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Yeah, and I throw it away! I have unlimited water! Yeah.",
+ "start_s": 9.55,
+ "end_s": 12.95,
+ "dur": 3.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 86400,
+ "overlap": true,
+ "ovl_frac": 0.544,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.005860710189153906,
+ "align_how": "minute_line",
+ "az_ref_mean": -24.74,
+ "el_ref_mean": 11.8,
+ "az_ref_range": 3.47,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_18-00-512_P4_17950",
+ "split": "val",
+ "session": 4,
+ "seg": "18-00-512",
+ "seg_start_s": 1080.512,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So it has to be- the question has to be related to the- to the door.",
+ "start_s": 17.95,
+ "end_s": 21.2,
+ "dur": 3.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 84000,
+ "overlap": true,
+ "ovl_frac": 0.446,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.04939643986290321,
+ "align_how": "minute_line",
+ "az_ref_mean": 25.16,
+ "el_ref_mean": 3.08,
+ "az_ref_range": 41.75,
+ "doa_valid_frac": 1.0
+}

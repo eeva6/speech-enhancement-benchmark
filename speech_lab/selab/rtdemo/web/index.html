@@ -1,0 +1,308 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<title>Conversation Bubble: voice-boost listening demo</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;background:#f6f6f4;color:#1d1d1f}
+ header{padding:14px 20px;background:#1d2b36;color:#fff}
+ header h1{font-size:18px;margin:0}
+ header p{margin:4px 0 0;font-size:13px;opacity:.85}
+ main{display:grid;grid-template-columns:minmax(380px,1fr) 400px;gap:16px;padding:16px 20px}
+ .card{background:#fff;border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.08)}
+ h2{font-size:15px;margin:0 0 10px}
+ button{font:inherit;padding:7px 12px;border-radius:7px;border:1px solid #c9c9c9;background:#fff;cursor:pointer}
+ button.on{background:#1d6fd6;color:#fff;border-color:#1d6fd6}
+ button.sim.on{background:#b5651d;border-color:#b5651d}
+ button:disabled{opacity:.45;cursor:default}
+ .modes button{display:block;width:100%;text-align:left;margin:4px 0}
+ .badge{display:inline-block;font-size:11px;font-weight:700;padding:2px 7px;border-radius:9px;margin-left:6px;vertical-align:middle}
+ .ext{background:#d8f2dd;color:#16642b}.int{background:#fde2e1;color:#9b1c1c}.simb{background:#fbe7d3;color:#8a4a10}
+ .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:6px 0}
+ select{font:inherit;padding:6px;border-radius:7px}
+ small,.muted{color:#666;font-size:12px}
+ #seek{width:100%}
+ canvas{background:#fbfbfa;border:1px solid #e3e3e3;border-radius:8px}
+ table{border-collapse:collapse;font-size:12px;width:100%}td,th{border-bottom:1px solid #eee;padding:3px 4px;text-align:left}
+ .warn{background:#fff4e5;border-left:4px solid #e08a00;padding:8px 10px;font-size:12.5px;margin:8px 0}
+ .blindbox{border:2px dashed #999;border-radius:10px;padding:10px;margin-top:8px}
+ kbd{background:#eee;border-radius:4px;padding:0 4px;font-size:12px}
+</style></head>
+<body>
+<header><h1>Conversation Bubble: voice-boost listening demo</h1>
+<p>Recorded multi-mic audio, processed by a causal 2 ms block streaming engine (pre-rendered with the same engine, bit-identical to live). This is <b>not</b> what reaches a listener's ear: no at-ear acoustics, open-ear leakage, feedback or real ANC.</p></header>
+<main>
+<section>
+ <div class="card">
+  <div class="row"><label for="scene"><b>Scene</b></label><select id="scene"></select><span id="lic"></span></div>
+  <div class="muted" id="sceneinfo"></div>
+  <div class="row" style="margin-top:10px">
+   <button id="play" disabled>Play</button>
+   <label><input type="checkbox" id="loop" checked> loop</label>
+   <span id="time" class="muted">0.0 / 0.0 s</span>
+   <span id="status" class="muted"></span>
+  </div>
+  <input type="range" id="seek" min="0" max="1000" value="0">
+  <div class="row">
+   <label>Volume <input type="range" id="vol" min="0" max="100" value="70"></label>
+   <label title="Each mode's gain is set so its gated RMS matches the unprocessed front mic. The SIMULATED noise-cut track keeps its level drop (that drop is the effect)."><input type="checkbox" id="lm" checked> level-match modes</label>
+   <span class="muted">Limiter: <span id="lim">0.0</span> dB</span>
+  </div>
+ </div>
+ <div class="card" style="margin-top:14px">
+  <h2>Who is being boosted</h2>
+  <div class="row" style="align-items:flex-start">
+   <canvas id="dial" width="230" height="230"></canvas>
+   <div class="muted" style="max-width:300px">Top of the dial = where the wearer's head points (array forward). <b>Arrow</b> = the direction the selected mode is steering. Dots = talkers (filled while they speak; the target talker is ringed when known). Raw and SIMULATED modes do not steer.<br><br><span id="steerlabel"></span></div>
+  </div>
+  <canvas id="tl" width="760" height="170" style="width:100%"></canvas>
+  <div class="muted">Timeline: azimuth (deg, + = left) vs time. Grey bars = talker speech (from transcripts), blue = steering of the selected mode, orange = second A/B mode.</div>
+ </div>
+</section>
+<section>
+ <div class="card">
+  <h2>Modes <small>(keys <kbd>1</kbd>-<kbd>7</kbd>, switch while playing)</small></h2>
+  <div class="modes" id="modes"></div>
+  <div id="simnote" class="warn" style="display:none"></div>
+ </div>
+ <div class="card" style="margin-top:14px">
+  <h2>A/B toggle <small>(<kbd>space</kbd>)</small></h2>
+  <div class="row">A <select id="selA"></select></div>
+  <div class="row">B <select id="selB"></select></div>
+  <div class="row"><button id="abtog">Toggle A/B</button><span id="abnow" class="muted"></span></div>
+ </div>
+ <div class="card" style="margin-top:14px">
+  <h2>Blind A/B</h2>
+  <div class="muted">Hides labels and the direction display. Picks two modes at random, plays them as X and Y; you toggle and vote. Votes go to <code>results/rtdemo/blind_prefs.csv</code> on the lab server.</div>
+  <div class="row"><label>Pair pool <select id="pool">
+    <option value="vs_raw">a processed mode vs unprocessed</option>
+    <option value="any">any two modes</option>
+    <option value="bf">beamformers only</option></select></label></div>
+  <div class="row"><button id="bstart">Start blind trial</button><button id="bend" disabled>Abort</button></div>
+  <div class="blindbox" id="bbox" style="display:none">
+   <div class="row"><button id="bx">Play X</button><button id="by">Play Y</button><span class="muted">(<kbd>x</kbd>/<kbd>y</kbd>)</span></div>
+   <div class="row">Which is easier to follow the target talker in?</div>
+   <div class="row"><button id="vx">X</button><button id="vy">Y</button><button id="vn">No preference</button></div>
+   <input id="bcomment" placeholder="optional comment" style="width:95%;padding:5px">
+   <div id="breveal" class="muted"></div>
+  </div>
+  <div class="muted" id="bcount"></div>
+ </div>
+ <div class="card" style="margin-top:14px">
+  <h2>This scene's modes</h2>
+  <table id="lat"><tr><th>Mode</th><th>Alg. latency</th><th>Level</th></tr></table>
+  <div class="muted">Algorithmic latency per the lab convention; the demo engine adds a 2 ms block buffer for the unprocessed, delay-and-sum and SIMULATED tracks (the 4 ms superdirective figure already includes its 2 ms hop). Compute time is measured separately (see README_DEMO.md).</div>
+ </div>
+</section>
+</main>
+<script>
+const BASE = (location.pathname.endsWith('/') ? location.pathname : location.pathname.replace(/[^/]*$/, ''));
+const DATA = BASE + 'data/';
+let ctx = null, master, limiter, scene = null, buffers = {}, gains = {}, sources = [], playing = false,
+    t0ctx = 0, offset = 0, cur = 'raw', abA = 'raw', abB = 'hs_sd4', abOn = 'A', blind = null;
+const $ = id => document.getElementById(id);
+
+function initAudio() {
+  if (ctx) return;
+  ctx = new (window.AudioContext || window.webkitAudioContext)();
+  limiter = ctx.createDynamicsCompressor();
+  limiter.threshold.value = -6; limiter.knee.value = 0; limiter.ratio.value = 20;
+  limiter.attack.value = 0.001; limiter.release.value = 0.1;
+  master = ctx.createGain(); master.gain.value = $('vol').value / 100;
+  master.connect(limiter); limiter.connect(ctx.destination);
+  setInterval(() => { $('lim').textContent = (limiter.reduction.value !== undefined ? limiter.reduction.value : limiter.reduction).toFixed(1); }, 200);
+}
+
+async function loadIndex() {
+  const idx = await (await fetch(DATA + 'index.json')).json();
+  const sel = $('scene'); sel.innerHTML = '';
+  for (const s of idx) { const o = document.createElement('option'); o.value = s.id;
+    o.textContent = s.title + (s.external_ok ? '' : '  [INTERNAL ONLY]'); sel.appendChild(o); }
+  sel.onchange = () => loadScene(sel.value);
+  if (idx.length) loadScene(idx[0].id);
+}
+
+async function loadScene(id) {
+  initAudio(); stop(); offset = 0; buffers = {}; $('play').disabled = true; $('status').textContent = 'loading...';
+  scene = await (await fetch(DATA + id + '/scene.json')).json();
+  $('lic').innerHTML = scene.external_ok ? '<span class="badge ext">licence-clean: OK for outside listeners</span>'
+                                         : '<span class="badge int">INTERNAL ONLY (EasyCom CC BY-NC research licence)</span>';
+  $('sceneinfo').textContent = scene.licence + (scene.notes ? ' | ' + scene.notes : '');
+  await Promise.all(scene.modes.map(async m => {
+    const ab = await (await fetch(DATA + id + '/' + m.id + '.wav')).arrayBuffer();
+    buffers[m.id] = await ctx.decodeAudioData(ab);
+  }));
+  buildModeUI(); $('play').disabled = false; $('status').textContent = '';
+  const ids = scene.modes.map(m => m.id);
+  cur = 'raw'; abA = 'raw'; abB = ids.includes('hyb_sd4') ? 'hyb_sd4' : ids[1]; abOn = 'A';
+  $('selA').value = abA; $('selB').value = abB; setMode(cur); draw();
+}
+
+function modeById(id) { return scene.modes.find(m => m.id === id); }
+function levelGain(id) {
+  if (!$('lm').checked) return 1;
+  const m = modeById(id), r = modeById('raw');
+  if (!m || !r || m.simulated) return 1;
+  return Math.pow(10, (r.level_db - m.level_db) / 20);
+}
+
+function buildModeUI() {
+  const box = $('modes'); box.innerHTML = '';
+  const t = $('lat'); t.innerHTML = '<tr><th>Mode</th><th>Alg. latency</th><th>Level (gated RMS)</th></tr>';
+  scene.modes.forEach((m, i) => {
+    const b = document.createElement('button'); b.id = 'mb_' + m.id; if (m.simulated) b.classList.add('sim');
+    b.innerHTML = `<b>${i + 1}</b>&nbsp; ${m.label}` + (m.simulated ? '<span class="badge simb">SIMULATED</span>' : '');
+    b.onclick = () => { if (!blind) setMode(m.id); };
+    box.appendChild(b);
+    t.insertAdjacentHTML('beforeend', `<tr><td>${m.label}</td><td>${m.simulated ? 'n/a (simulated)' : m.latency_ms.toFixed(2) + ' ms'}</td><td>${m.level_db.toFixed(1)} dBFS</td></tr>`);
+  });
+  for (const s of ['selA', 'selB']) { const el = $(s); el.innerHTML = '';
+    scene.modes.forEach(m => { const o = document.createElement('option'); o.value = m.id; o.textContent = m.label; el.appendChild(o); }); }
+  const sn = $('simnote');
+  if (modeById('anc_sim')) {
+    sn.style.display = 'block';
+    sn.innerHTML = '<b>SIMULATED noise-cut</b> applies the lab\'s <i>simulated</i> ANC attenuation spectra as a fixed filter. ' +
+      (scene.scene_type === 'traffic' ? 'Street: traffic noise gets the simulated glasses-ANC curve (7.8 dB(A) on the simulated pass-by); the talker gets the restaurant companion curve, because ANC also cuts voices.' :
+       scene.kind === 'sim' ? 'Restaurant: plain ANC also cut companions (-5.2 dB(A)) more than babble (-3.7 dB(A)) in the simulation, so this track cuts the talkers too and the SNR gets slightly worse.' :
+       'Real recording, sources not separable: the whole scene is cut with the companion curve (plain ANC cut companions -5.2 dB(A) vs babble -3.7 dB(A) in simulation, so talkers are cut too). The simulated SNR loss is not reproduced here.') +
+      ' Not real ANC, not measured on a head.';
+  } else sn.style.display = 'none';
+}
+
+function startSources(at) {
+  sources = []; gains = {};
+  const when = ctx.currentTime + 0.05;
+  for (const m of scene.modes) {
+    const src = ctx.createBufferSource(); src.buffer = buffers[m.id]; src.loop = $('loop').checked;
+    const g = ctx.createGain(); g.gain.value = (m.id === activeId()) ? levelGain(m.id) : 0;
+    src.connect(g); g.connect(master); src.start(when, at % src.buffer.duration);
+    sources.push(src); gains[m.id] = g;
+  }
+  t0ctx = when - at; playing = true; $('play').textContent = 'Pause';
+}
+function stop() { for (const s of sources) { try { s.stop(); } catch (e) {} } sources = []; playing = false; $('play').textContent = 'Play'; }
+function now() { if (!scene) return 0; const d = scene.duration; let t = playing ? ctx.currentTime - t0ctx : offset; return $('loop').checked ? ((t % d) + d) % d : Math.min(Math.max(t, 0), d); }
+function activeId() { if (blind) return blind.on === 'X' ? blind.x : blind.y; return cur; }
+function applyGains() {
+  if (!playing) return; const t = ctx.currentTime, a = activeId();
+  for (const [id, g] of Object.entries(gains)) { g.gain.cancelScheduledValues(t); g.gain.setTargetAtTime(id === a ? levelGain(id) : 0, t, 0.004); }
+}
+function setMode(id) {
+  cur = id; document.querySelectorAll('.modes button').forEach(b => b.classList.toggle('on', b.id === 'mb_' + id));
+  applyGains();
+  $('abnow').textContent = (cur === abA ? 'playing A' : cur === abB ? 'playing B' : '');
+}
+$('play').onclick = () => { initAudio(); if (ctx.state === 'suspended') ctx.resume(); if (playing) { offset = now(); stop(); } else startSources(offset); };
+$('seek').oninput = e => { const t = e.target.value / 1000 * scene.duration; offset = t; if (playing) { stop(); startSources(t); } };
+$('vol').oninput = e => { if (master) master.gain.value = e.target.value / 100; };
+$('lm').onchange = applyGains;
+$('loop').onchange = () => { if (playing) { const t = now(); stop(); startSources(t); } };
+$('selA').onchange = e => { abA = e.target.value; if (abOn === 'A') setMode(abA); };
+$('selB').onchange = e => { abB = e.target.value; if (abOn === 'B') setMode(abB); };
+function abToggle() { if (blind) return; abOn = (abOn === 'A' ? 'B' : 'A'); setMode(abOn === 'A' ? abA : abB); }
+$('abtog').onclick = abToggle;
+document.addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT' && e.target.type === 'text') return;
+  if (e.code === 'Space') { e.preventDefault(); abToggle(); }
+  if (blind && (e.key === 'x' || e.key === 'y')) { blindPlay(e.key.toUpperCase()); }
+  const k = parseInt(e.key); if (!blind && k >= 1 && scene && k <= scene.modes.length) setMode(scene.modes[k - 1].id);
+});
+
+// ------------------------------------------------------------------ blind A/B
+function pickPair() {
+  const ids = scene.modes.map(m => m.id), pool = $('pool').value;
+  const proc = ids.filter(i => i !== 'raw' && i !== 'ear');
+  const bf = ids.filter(i => /_ds|_sd/.test(i));
+  let a, b;
+  if (pool === 'vs_raw') { a = 'raw'; b = proc[Math.floor(Math.random() * proc.length)]; }
+  else { const P = pool === 'bf' ? bf : ids; a = P[Math.floor(Math.random() * P.length)];
+         do { b = P[Math.floor(Math.random() * P.length)]; } while (b === a); }
+  return Math.random() < 0.5 ? [a, b] : [b, a];
+}
+$('bstart').onclick = () => {
+  if (!scene) return; const [x, y] = pickPair();
+  blind = { x, y, on: 'X', toggles: 0, start: Date.now() };
+  $('bbox').style.display = 'block'; $('breveal').textContent = ''; $('bend').disabled = false; $('bstart').disabled = true;
+  document.querySelector('.modes').style.visibility = 'hidden'; $('dial').style.visibility = 'hidden'; $('tl').style.visibility = 'hidden';
+  $('simnote').style.visibility = 'hidden'; $('lat').style.visibility = 'hidden'; $('steerlabel').style.visibility = 'hidden';
+  if (!playing) { initAudio(); startSources(offset); } applyGains();
+};
+function blindPlay(w) { if (!blind) return; if (blind.on !== w) blind.toggles++; blind.on = w; applyGains();
+  $('bx').classList.toggle('on', w === 'X'); $('by').classList.toggle('on', w === 'Y'); }
+$('bx').onclick = () => blindPlay('X'); $('by').onclick = () => blindPlay('Y');
+function endBlind(reveal) {
+  document.querySelector('.modes').style.visibility = ''; $('dial').style.visibility = ''; $('tl').style.visibility = '';
+  $('simnote').style.visibility = ''; $('lat').style.visibility = ''; $('steerlabel').style.visibility = '';
+  $('bend').disabled = true; $('bstart').disabled = false;
+  if (reveal) $('breveal').innerHTML = reveal; else $('bbox').style.display = 'none';
+  blind = null; setMode(cur);
+}
+async function vote(choice) {
+  if (!blind) return;
+  const rec = { ts: new Date().toISOString(), scene: scene.id, x_mode: blind.x, y_mode: blind.y, choice,
+    preferred_mode: choice === 'X' ? blind.x : choice === 'Y' ? blind.y : 'none', level_match: $('lm').checked,
+    n_toggles: blind.toggles, listen_s: ((Date.now() - blind.start) / 1000).toFixed(1), pool: $('pool').value,
+    comment: $('bcomment').value };
+  let saved = 'saved to the lab server';
+  try { const r = await fetch(BASE + 'api/pref', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(rec) });
+        if (!r.ok) throw new Error(r.status); const j = await r.json(); saved += ` (${j.n} votes so far)`; }
+  catch (e) { const L = JSON.parse(localStorage.getItem('rtdemo_prefs') || '[]'); L.push(rec); localStorage.setItem('rtdemo_prefs', JSON.stringify(L));
+              saved = 'server not reachable: kept in this browser (localStorage key rtdemo_prefs)'; }
+  const lab = id => modeById(id).label;
+  endBlind(`You chose <b>${choice}</b>. X = ${lab(rec.x_mode)}, Y = ${lab(rec.y_mode)}. ${saved}.`);
+  $('bcomment').value = '';
+}
+$('vx').onclick = () => vote('X'); $('vy').onclick = () => vote('Y'); $('vn').onclick = () => vote('none');
+$('bend').onclick = () => endBlind(null);
+
+// ------------------------------------------------------------------ direction display
+function steerAt(id, t) {
+  const m = modeById(id); if (!m) return null;
+  if (m.steer === 'head') return 0;
+  if (m.steer !== 'tracker' && m.steer !== 'hybrid') return null;
+  const S = scene.steer; if (!S.t.length) return null;
+  let lo = 0, hi = S.t.length - 1; if (t < S.t[0]) return m.steer === 'hybrid' ? 0 : null;
+  while (lo < hi) { const mid = (lo + hi + 1) >> 1; if (S.t[mid] <= t) lo = mid; else hi = mid - 1; }
+  return m.steer === 'tracker' ? S.trk[lo] : S.hyb[lo];
+}
+function talkerAz(tk, t) {
+  if (tk.az_series) { const k = Math.min(Math.floor(t * tk.az_series_fps), tk.az_series.length - 1); return tk.az_series[Math.max(k, 0)]; }
+  return tk.az;
+}
+function active(acts, t) { return acts.some(a => t >= a[0] && t < a[1]); }
+const COLS = ['#2a9d8f', '#e76f51', '#8e44ad', '#264653', '#d4a017', '#6c757d', '#c0392b', '#16a085'];
+function draw() {
+  requestAnimationFrame(draw); if (!scene) return;
+  const t = now(); $('time').textContent = t.toFixed(1) + ' / ' + scene.duration.toFixed(1) + ' s';
+  if (document.activeElement !== $('seek')) $('seek').value = Math.round(t / scene.duration * 1000);
+  const c = $('dial').getContext('2d'), W = 230, cx = W / 2, cy = W / 2, R = 95; c.clearRect(0, 0, W, W);
+  c.strokeStyle = '#ccc'; c.beginPath(); c.arc(cx, cy, R, 0, 7); c.stroke();
+  c.fillStyle = '#888'; c.font = '11px sans-serif'; c.textAlign = 'center';
+  c.fillText('ahead', cx, cy - R - 6); c.fillText('left', cx - R - 2, cy - R + 8 > 0 ? cy + 4 : cy); c.fillText('right', cx + R + 2 - 8, cy + 4); c.fillText('behind', cx, cy + R + 14);
+  const P = (az, r) => [cx - r * Math.sin(az * Math.PI / 180), cy - r * Math.cos(az * Math.PI / 180)];
+  scene.talkers.forEach((tk, i) => { const az = talkerAz(tk, t); if (az === null || az === undefined) return;
+    const [x, y] = P(az, R * 0.82), on = active(tk.acts, t); c.beginPath(); c.arc(x, y, on ? 8 : 5, 0, 7);
+    c.fillStyle = on ? COLS[i % COLS.length] : '#fff'; c.strokeStyle = COLS[i % COLS.length]; c.lineWidth = 2; c.fill(); c.stroke();
+    if (tk.target) { c.beginPath(); c.arc(x, y, 12, 0, 7); c.strokeStyle = '#111'; c.lineWidth = 1; c.stroke(); } });
+  c.fillStyle = '#333'; c.beginPath(); c.arc(cx, cy, 5, 0, 7); c.fill();
+  const id = activeId(), s = steerAt(id, t);
+  if (s !== null && !blind) { const [x, y] = P(s, R * 0.95); c.strokeStyle = '#1d6fd6'; c.lineWidth = 4; c.beginPath(); c.moveTo(cx, cy); c.lineTo(x, y); c.stroke(); }
+  const m = modeById(id);
+  if (!blind) $('steerlabel').innerHTML = m ? (s === null ? `<b>${m.label}</b>: no steering (omni / simulated filter).` : `<b>${m.label}</b>: steering ${s.toFixed(0)} deg ${s > 0 ? 'left' : s < 0 ? 'right' : ''}.`) : '';
+  const L = '<br>' + scene.talkers.map((tk, i) => `<span style="color:${COLS[i % COLS.length]}">&#9679;</span> ${tk.name}${tk.target ? ' (target)' : ''}`).join('<br>');
+  if (!blind) $('steerlabel').innerHTML += L;
+  // timeline
+  const g = $('tl').getContext('2d'), TW = 760, TH = 170, x0 = 34, d = scene.duration; g.clearRect(0, 0, TW, TH);
+  const X = tt => x0 + (TW - x0 - 6) * tt / d, Y = az => 8 + (TH - 22) * (90 - Math.max(-90, Math.min(90, az))) / 180;
+  g.strokeStyle = '#eee'; g.fillStyle = '#999'; g.font = '10px sans-serif'; g.textAlign = 'right';
+  for (const a of [-90, -45, 0, 45, 90]) { g.beginPath(); g.moveTo(x0, Y(a)); g.lineTo(TW, Y(a)); g.stroke(); g.fillText(a, x0 - 3, Y(a) + 3); }
+  scene.talkers.forEach((tk, i) => { g.strokeStyle = COLS[i % COLS.length]; g.globalAlpha = .45; g.lineWidth = 5;
+    for (const a of tk.acts) { g.beginPath(); for (let tt = a[0]; tt <= a[1]; tt += 0.1) { const az = talkerAz(tk, tt); if (az === null || az === undefined) continue; const xx = X(tt), yy = Y(az); if (tt === a[0]) g.moveTo(xx, yy); else g.lineTo(xx, yy); } g.stroke(); } });
+  g.globalAlpha = 1; g.lineWidth = 1.5;
+  const trace = (mid, col) => { const mm = modeById(mid); if (!mm || blind) return; g.strokeStyle = col; g.beginPath(); let first = true;
+    for (let tt = 0; tt < d; tt += 0.05) { const s2 = steerAt(mid, tt); if (s2 === null) { first = true; continue; } const yy = Y(s2); if (first) { g.moveTo(X(tt), yy); first = false; } else g.lineTo(X(tt), yy); } g.stroke(); };
+  trace(abOn === 'A' ? abB : abA, '#f39c12'); trace(cur, '#1d6fd6');
+  g.strokeStyle = '#111'; g.beginPath(); g.moveTo(X(t), 0); g.lineTo(X(t), TH); g.stroke();
+}
+loadIndex();
+</script>
+</body></html>

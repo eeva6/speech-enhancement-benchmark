@@ -1,0 +1,29 @@
+{
+ "id": "S12_14-00-450_P6_20650",
+ "split": "val",
+ "session": 12,
+ "seg": "14-00-450",
+ "seg_start_s": 840.45,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Yeah, that is- that's not a question about the door.",
+ "start_s": 20.65,
+ "end_s": 22.6,
+ "dur": 1.95,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 63200,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -46.64,
+ "el_ref_mean": 4.65,
+ "az_ref_range": 3.96,
+ "doa_valid_frac": 1.0
+}

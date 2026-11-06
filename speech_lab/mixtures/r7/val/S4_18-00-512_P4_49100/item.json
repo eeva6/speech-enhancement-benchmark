@@ -1,0 +1,29 @@
+{
+ "id": "S4_18-00-512_P4_49100",
+ "split": "val",
+ "session": 4,
+ "seg": "18-00-512",
+ "seg_start_s": 1080.512,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Only the door guards know what's behind the door. Guard is always lying.",
+ "start_s": 49.1,
+ "end_s": 54.25,
+ "dur": 5.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 114400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.04939643986290321,
+ "align_how": "minute_line",
+ "az_ref_mean": 46.89,
+ "el_ref_mean": 0.21,
+ "az_ref_range": 19.91,
+ "doa_valid_frac": 1.0
+}

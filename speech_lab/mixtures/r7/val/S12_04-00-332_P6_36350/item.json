@@ -1,0 +1,29 @@
+{
+ "id": "S12_04-00-332_P6_36350",
+ "split": "val",
+ "session": 12,
+ "seg": "04-00-332",
+ "seg_start_s": 240.332,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "It's delicious.",
+ "start_s": 36.35,
+ "end_s": 37.45,
+ "dur": 1.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 49600,
+ "overlap": true,
+ "ovl_frac": 0.5,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.029398696824500803,
+ "align_how": "minute_line",
+ "az_ref_mean": -47.12,
+ "el_ref_mean": 9.4,
+ "az_ref_range": 40.12,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,15 @@
+02:34:08 qc val 0
+02:34:26 qc val 100
+02:34:44 qc val 200
+02:35:00 qc val 300
+02:35:17 qc val 400
+02:35:33 qc val 500
+02:35:51 qc val 600
+02:36:09 qc val 700
+val {"n_items": 762, "by_session": {"4": 437, "12": 325}, "by_target": {"group": 288, "none": 197, "other": 180, "wearer": 97}, "overlapped": 574, "total_utt_s": 2498.8, "median_dur": 2.3, "ctx_full": 708, "turn_initial": 675, "n_with_words": 707, "n_align_suspect": 36, "item_lag_reliable": 744, "item_lag_absmed_ms": 0.152, "item_lag_absp90_ms": 0.866, "by_target_with_words": {"group": 283, "other": 179, "none": 148, "wearer": 97}}
+02:36:19 qc test 0
+02:36:36 qc test 100
+02:36:53 qc test 200
+02:37:10 qc test 300
+02:37:26 qc test 400
+test {"n_items": 472, "by_session": {"10": 181, "11": 291}, "by_target": {"none": 136, "group": 127, "other": 124, "wearer": 85}, "overlapped": 285, "total_utt_s": 1384.7, "median_dur": 2.15, "ctx_full": 442, "turn_initial": 406, "n_with_words": 434, "n_align_suspect": 27, "item_lag_reliable": 463, "item_lag_absmed_ms": 0.054, "item_lag_absp90_ms": 0.79, "by_target_with_words": {"group": 125, "other": 123, "none": 101, "wearer": 85}}

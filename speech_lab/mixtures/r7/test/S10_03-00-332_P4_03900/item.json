@@ -1,0 +1,29 @@
+{
+ "id": "S10_03-00-332_P4_03900",
+ "split": "test",
+ "session": 10,
+ "seg": "03-00-332",
+ "seg_start_s": 180.332,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Yeah, well. If you're happy about it.",
+ "start_s": 3.9,
+ "end_s": 5.55,
+ "dur": 1.65,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 58400,
+ "overlap": true,
+ "ovl_frac": 0.061,
+ "t_since_turn_onset": 0.95,
+ "align_res_absmed_ms": 0.002906498593802098,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 10.66,
+ "el_ref_mean": 2.06,
+ "az_ref_range": 7.49,
+ "doa_valid_frac": 1.0
+}

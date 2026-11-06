@@ -1,0 +1,29 @@
+{
+ "id": "S11_28-00-666_P7_57850",
+ "split": "test",
+ "session": 11,
+ "seg": "28-00-666",
+ "seg_start_s": 1680.666,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Has anybody done nuclear weapons yet? ",
+ "start_s": 57.85,
+ "end_s": 60.05,
+ "dur": 2.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 67200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0490870515932329,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -11.75,
+ "el_ref_mean": -2.83,
+ "az_ref_range": 27.96,
+ "doa_valid_frac": 1.0
+}

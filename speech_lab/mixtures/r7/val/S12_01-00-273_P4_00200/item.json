@@ -1,0 +1,29 @@
+{
+ "id": "S12_01-00-273_P4_00200",
+ "split": "val",
+ "session": 12,
+ "seg": "01-00-273",
+ "seg_start_s": 60.273,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "[H] Mostly just settling lawsuits. People don't pay mortgages or have issues with commercial real estate. So, I just handle quite a few of those.",
+ "start_s": 0.2,
+ "end_s": 10.9,
+ "dur": 10.7,
+ "ctx_s": 0.2,
+ "utt_offset_samples": 3200,
+ "n_samples": 174400,
+ "overlap": true,
+ "ovl_frac": 0.178,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.26183301815763116,
+ "align_how": "minute_line",
+ "az_ref_mean": 9.03,
+ "el_ref_mean": 9.12,
+ "az_ref_range": 7.44,
+ "doa_valid_frac": 1.0
+}

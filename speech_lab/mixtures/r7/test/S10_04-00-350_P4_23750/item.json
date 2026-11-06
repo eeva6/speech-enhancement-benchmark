@@ -1,0 +1,29 @@
+{
+ "id": "S10_04-00-350_P4_23750",
+ "split": "test",
+ "session": 10,
+ "seg": "04-00-350",
+ "seg_start_s": 240.35,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "[L]",
+ "start_s": 23.75,
+ "end_s": 26.05,
+ "dur": 2.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 68800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 1.7189693171530962,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 0.7,
+ "el_ref_mean": 5.45,
+ "az_ref_range": 46.6,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,22 @@
+{
+ "method": "wiener_stream8",
+ "tag": "r3",
+ "n": 144,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 0.22106918700001188,
+ "mean_proc_s": 0.15855353354546403,
+ "rtf": 0.02408176229327094,
+ "peak_rss_mb": 253.9921875,
+ "rss_before_mb": 246.1875,
+ "n_params": null,
+ "noise_psd": "ms",
+ "infos": {},
+ "streaming": {
+  "per_hop_ms": 0.05501562262322909,
+  "hop_ms": 4.0,
+  "latency_ms": 8.0
+ },
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

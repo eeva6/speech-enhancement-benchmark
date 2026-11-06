@@ -1,0 +1,29 @@
+{
+ "id": "S4_20-00-540_P6_22050",
+ "split": "val",
+ "session": 4,
+ "seg": "20-00-540",
+ "seg_start_s": 1200.54,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I mean, yeah!",
+ "start_s": 22.05,
+ "end_s": 23.15,
+ "dur": 1.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 49600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.21889196068514138,
+ "align_how": "minute_line",
+ "az_ref_mean": -45.65,
+ "el_ref_mean": 13.08,
+ "az_ref_range": 40.05,
+ "doa_valid_frac": 1.0
+}

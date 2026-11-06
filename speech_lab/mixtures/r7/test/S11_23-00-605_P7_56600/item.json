@@ -1,0 +1,29 @@
+{
+ "id": "S11_23-00-605_P7_56600",
+ "split": "test",
+ "session": 11,
+ "seg": "23-00-605",
+ "seg_start_s": 1380.605,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "3"
+ ],
+ "target": "other",
+ "text": "Oh. Okay. [L] I know! [L]",
+ "start_s": 56.6,
+ "end_s": 60.05,
+ "dur": 3.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 87200,
+ "overlap": true,
+ "ovl_frac": 0.565,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.10229478357359767,
+ "align_how": "minute_line",
+ "az_ref_mean": -72.85,
+ "el_ref_mean": -13.62,
+ "az_ref_range": 51.55,
+ "doa_valid_frac": 1.0
+}

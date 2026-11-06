@@ -1,0 +1,29 @@
+{
+ "id": "S11_05-00-388_P5_23650",
+ "split": "test",
+ "session": 11,
+ "seg": "05-00-388",
+ "seg_start_s": 300.388,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "[H] May I have the mac and cheese with orange juice?",
+ "start_s": 23.65,
+ "end_s": 27.2,
+ "dur": 3.55,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 88800,
+ "overlap": true,
+ "ovl_frac": 0.211,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.12259285722393543,
+ "align_how": "session_slope",
+ "az_ref_mean": 0.27,
+ "el_ref_mean": 4.68,
+ "az_ref_range": 5.1,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S11_24-00-623_P3_16250",
+ "split": "test",
+ "session": 11,
+ "seg": "24-00-623",
+ "seg_start_s": 1440.623,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "Something red orange?",
+ "start_s": 16.25,
+ "end_s": 17.25,
+ "dur": 1.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 48000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 81.65,
+ "el_ref_mean": 9.73,
+ "az_ref_range": 25.08,
+ "doa_valid_frac": 1.0
+}

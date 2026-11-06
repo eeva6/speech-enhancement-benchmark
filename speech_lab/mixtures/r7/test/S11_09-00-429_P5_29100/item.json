@@ -1,0 +1,29 @@
+{
+ "id": "S11_09-00-429_P5_29100",
+ "split": "test",
+ "session": 11,
+ "seg": "09-00-429",
+ "seg_start_s": 540.429,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Brothers and sisters I have none, but this man\u00ffs father is my father\u00ffs son. Who am I looking at?",
+ "start_s": 29.1,
+ "end_s": 35.45,
+ "dur": 6.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 133600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.025946617824956775,
+ "align_how": "session_slope",
+ "az_ref_mean": -2.85,
+ "el_ref_mean": 0.77,
+ "az_ref_range": 4.12,
+ "doa_valid_frac": 1.0
+}

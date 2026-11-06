@@ -1,0 +1,29 @@
+{
+ "id": "S12_18-00-494_P6_41050",
+ "split": "val",
+ "session": 12,
+ "seg": "18-00-494",
+ "seg_start_s": 1080.494,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Yeah. I think we can. Yeah. One long question.",
+ "start_s": 41.05,
+ "end_s": 45.0,
+ "dur": 3.95,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 95200,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.11990268103545532,
+ "align_how": "minute_line",
+ "az_ref_mean": -46.71,
+ "el_ref_mean": 0.49,
+ "az_ref_range": 23.01,
+ "doa_valid_frac": 1.0
+}

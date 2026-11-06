@@ -1,0 +1,29 @@
+{
+ "id": "S11_22-00-598_P7_18150",
+ "split": "test",
+ "session": 11,
+ "seg": "22-00-598",
+ "seg_start_s": 1320.598,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "The recycling bin?",
+ "start_s": 18.15,
+ "end_s": 19.8,
+ "dur": 1.65,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 58400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.010604852377582574,
+ "align_how": "session_slope",
+ "az_ref_mean": -71.78,
+ "el_ref_mean": -2.79,
+ "az_ref_range": 33.53,
+ "doa_valid_frac": 1.0
+}

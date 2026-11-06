@@ -1,0 +1,13 @@
+{
+ "method": "rnnoise_rawlevel",
+ "tag": "r5",
+ "n": 144,
+ "n_fail": 0,
+ "fails": [],
+ "rtf": 0.23950979076989531,
+ "peak_rss_mb": 283.58984375,
+ "infos": {},
+ "streaming": null,
+ "latency": "10 ms frame (+20 ms measured delay)",
+ "cpu": "2 vCPU aarch64, no GPU"
+}

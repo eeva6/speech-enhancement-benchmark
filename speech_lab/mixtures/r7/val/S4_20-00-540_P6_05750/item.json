@@ -1,0 +1,29 @@
+{
+ "id": "S4_20-00-540_P6_05750",
+ "split": "val",
+ "session": 4,
+ "seg": "20-00-540",
+ "seg_start_s": 1200.54,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "You're gonna have to give us the ans- [L]",
+ "start_s": 5.75,
+ "end_s": 7.25,
+ "dur": 1.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 56000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.21889196068514138,
+ "align_how": "minute_line",
+ "az_ref_mean": -54.34,
+ "el_ref_mean": 9.57,
+ "az_ref_range": 0.62,
+ "doa_valid_frac": 1.0
+}

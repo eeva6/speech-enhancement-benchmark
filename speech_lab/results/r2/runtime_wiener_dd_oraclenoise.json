@@ -1,0 +1,17 @@
+{
+ "method": "wiener_dd_oraclenoise",
+ "tag": "r2",
+ "n": 180,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 0.025728955999966274,
+ "mean_proc_s": 0.019778450698321987,
+ "rtf": 0.00342358080956792,
+ "peak_rss_mb": 270.70703125,
+ "rss_before_mb": 246.21875,
+ "n_params": null,
+ "noise_psd": "oracle",
+ "infos": {},
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

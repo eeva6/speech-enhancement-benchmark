@@ -1,0 +1,29 @@
+{
+ "id": "S11_16-00-520_P5_37150",
+ "split": "test",
+ "session": 11,
+ "seg": "16-00-520",
+ "seg_start_s": 960.52,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Yeah, or- or you could be- Or you- you could be- you could be near the- the South Pole so if you go east or west you actually go around.",
+ "start_s": 37.15,
+ "end_s": 45.15,
+ "dur": 8.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 160000,
+ "overlap": true,
+ "ovl_frac": 0.369,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.18088840442942455,
+ "align_how": "minute_line",
+ "az_ref_mean": -17.28,
+ "el_ref_mean": 6.65,
+ "az_ref_range": 40.23,
+ "doa_valid_frac": 1.0
+}

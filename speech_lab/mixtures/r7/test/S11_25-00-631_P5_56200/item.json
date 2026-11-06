@@ -1,0 +1,29 @@
+{
+ "id": "S11_25-00-631_P5_56200",
+ "split": "test",
+ "session": 11,
+ "seg": "25-00-631",
+ "seg_start_s": 1500.631,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Yeah. It's the screen.",
+ "start_s": 56.2,
+ "end_s": 58.25,
+ "dur": 2.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 64800,
+ "overlap": true,
+ "ovl_frac": 0.049,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.3882136370521039,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -113.81,
+ "el_ref_mean": 1.64,
+ "az_ref_range": 115.27,
+ "doa_valid_frac": 1.0
+}

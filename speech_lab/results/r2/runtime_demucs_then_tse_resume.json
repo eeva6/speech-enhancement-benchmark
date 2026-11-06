@@ -1,0 +1,32 @@
+{
+ "method": "demucs_then_tse",
+ "tag": "r2",
+ "n": 2,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 23.294668432000037,
+ "mean_proc_s": 3.942588784999998,
+ "rtf": 0.8608272456331874,
+ "peak_rss_mb": 964.04296875,
+ "rss_before_mb": 245.51171875,
+ "n_params": 60751410,
+ "noise_psd": "ms",
+ "infos": {
+  "reverb_babble_snr+10_08": {
+   "sims": [
+    0.16315549612045288,
+    0.11507140845060349
+   ],
+   "picked": 0
+  },
+  "reverb_babble_snr+10_09": {
+   "sims": [
+    0.2929622232913971,
+    0.06565120816230774
+   ],
+   "picked": 0
+  }
+ },
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

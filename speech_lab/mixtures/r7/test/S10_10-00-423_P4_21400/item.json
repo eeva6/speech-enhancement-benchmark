@@ -1,0 +1,29 @@
+{
+ "id": "S10_10-00-423_P4_21400",
+ "split": "test",
+ "session": 10,
+ "seg": "10-00-423",
+ "seg_start_s": 600.423,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "To the one who's lying, you ask him",
+ "start_s": 21.4,
+ "end_s": 25.5,
+ "dur": 4.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 97600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03380286034371238,
+ "align_how": "minute_line",
+ "az_ref_mean": 19.55,
+ "el_ref_mean": -1.54,
+ "az_ref_range": 5.42,
+ "doa_valid_frac": 1.0
+}

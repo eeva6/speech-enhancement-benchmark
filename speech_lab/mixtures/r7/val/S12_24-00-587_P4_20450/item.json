@@ -1,0 +1,29 @@
+{
+ "id": "S12_24-00-587_P4_20450",
+ "split": "val",
+ "session": 12,
+ "seg": "24-00-587",
+ "seg_start_s": 1440.587,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "Yeah! Oh, aren't they a little too old in ninth grade for it?",
+ "start_s": 20.45,
+ "end_s": 24.6,
+ "dur": 4.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 98400,
+ "overlap": true,
+ "ovl_frac": 0.518,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.07487975381081924,
+ "align_how": "minute_line",
+ "az_ref_mean": 82.76,
+ "el_ref_mean": 1.8,
+ "az_ref_range": 65.22,
+ "doa_valid_frac": 1.0
+}

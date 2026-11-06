@@ -1,0 +1,29 @@
+{
+ "id": "S12_13-00-458_P6_30200",
+ "split": "val",
+ "session": 12,
+ "seg": "13-00-458",
+ "seg_start_s": 780.458,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Yeah. Yeah yeah. ",
+ "start_s": 30.2,
+ "end_s": 32.65,
+ "dur": 2.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 71200,
+ "overlap": true,
+ "ovl_frac": 0.735,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.292085183900781,
+ "align_how": "session_slope",
+ "az_ref_mean": -37.62,
+ "el_ref_mean": 20.6,
+ "az_ref_range": 8.11,
+ "doa_valid_frac": 1.0
+}

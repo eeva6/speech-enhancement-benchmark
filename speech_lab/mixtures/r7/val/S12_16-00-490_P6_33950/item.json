@@ -1,0 +1,29 @@
+{
+ "id": "S12_16-00-490_P6_33950",
+ "split": "val",
+ "session": 12,
+ "seg": "16-00-490",
+ "seg_start_s": 960.49,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "[L] [U] [L] [U] [L]",
+ "start_s": 33.95,
+ "end_s": 39.0,
+ "dur": 5.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 112800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.030215094739105552,
+ "align_how": "session_slope",
+ "az_ref_mean": -40.78,
+ "el_ref_mean": 7.42,
+ "az_ref_range": 13.25,
+ "doa_valid_frac": 1.0
+}

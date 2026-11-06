@@ -1,0 +1,29 @@
+{
+ "id": "S12_06-00-365_P4_04100",
+ "split": "val",
+ "session": 12,
+ "seg": "06-00-365",
+ "seg_start_s": 360.365,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Yeah. So, it's- So, think about the curvature of the earth. Right? It- It's not really a flat plane.",
+ "start_s": 4.1,
+ "end_s": 10.25,
+ "dur": 6.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 130400,
+ "overlap": true,
+ "ovl_frac": 0.667,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.32951077446341515,
+ "align_how": "minute_line",
+ "az_ref_mean": 35.97,
+ "el_ref_mean": 15.94,
+ "az_ref_range": 27.83,
+ "doa_valid_frac": 1.0
+}

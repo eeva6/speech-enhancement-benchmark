@@ -1,0 +1,29 @@
+{
+ "id": "S11_22-00-598_P7_33700",
+ "split": "test",
+ "session": 11,
+ "seg": "22-00-598",
+ "seg_start_s": 1320.598,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "3"
+ ],
+ "target": "other",
+ "text": "The tag on the [H] labels here?",
+ "start_s": 33.7,
+ "end_s": 37.1,
+ "dur": 3.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 86400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 1.6,
+ "align_res_absmed_ms": 0.010604852377582574,
+ "align_how": "session_slope",
+ "az_ref_mean": -15.66,
+ "el_ref_mean": 6.74,
+ "az_ref_range": 123.38,
+ "doa_valid_frac": 1.0
+}

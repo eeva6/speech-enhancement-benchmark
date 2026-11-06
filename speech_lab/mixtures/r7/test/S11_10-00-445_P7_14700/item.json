@@ -1,0 +1,29 @@
+{
+ "id": "S11_10-00-445_P7_14700",
+ "split": "test",
+ "session": 11,
+ "seg": "10-00-445",
+ "seg_start_s": 600.445,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "5"
+ ],
+ "target": "other",
+ "text": "His, the guy's father, subject's father's son or that guy's father's son?",
+ "start_s": 14.7,
+ "end_s": 18.9,
+ "dur": 4.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 99200,
+ "overlap": true,
+ "ovl_frac": 0.286,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03024864236067515,
+ "align_how": "minute_line",
+ "az_ref_mean": -58.61,
+ "el_ref_mean": 1.68,
+ "az_ref_range": 30.45,
+ "doa_valid_frac": 1.0
+}

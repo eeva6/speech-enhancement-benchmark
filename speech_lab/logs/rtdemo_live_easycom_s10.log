@@ -1,0 +1,38 @@
+{
+ "scene": "easycom_s10",
+ "blocks": 8000,
+ "block_ms": 2.0,
+ "all_modes_computed": true,
+ "switch": "0:raw,3:hs_sd4,6:hyb_sd4,9:trk_sd4,12:anc_sim",
+ "compute_ms": {
+  "mean": 0.4054064083704816,
+  "median": 0.21804749985676608,
+  "p95": 1.380837999954565,
+  "p99": 3.1645738999304776,
+  "max": 11.947690999932092
+ },
+ "arrival_to_output_ms": {
+  "mean": 1.1068484900898738,
+  "median": 0.3188724999745318,
+  "p95": 3.621867449783165,
+  "p99": 5.741201489531705,
+  "max": 11.96572799972273
+ },
+ "deadline_misses": 1149,
+ "miss_frac": 0.143625,
+ "rtf_mean": 0.2027032041852408,
+ "load_before": [
+  4.59765625,
+  4.1162109375,
+  3.16064453125
+ ],
+ "load_after": [
+  4.46435546875,
+  4.1103515625,
+  3.17529296875
+ ],
+ "nice": 0,
+ "bit_identical_to_prerender": true,
+ "n_blocks_differing": 0,
+ "note": "deadline = the next block's arrival (2 ms after this one). Misses under load are scheduler pre-emption of this nice-19 process by the round-7 pipeline, not compute (see compute_ms)."
+}

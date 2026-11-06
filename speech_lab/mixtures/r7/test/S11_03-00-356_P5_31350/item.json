@@ -1,0 +1,29 @@
+{
+ "id": "S11_03-00-356_P5_31350",
+ "split": "test",
+ "session": 11,
+ "seg": "03-00-356",
+ "seg_start_s": 180.356,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Yeah. Of course. Like any- like in anyone else. I mean, I think soon they will take over the people truck drivers, the human truck drivers. ",
+ "start_s": 31.35,
+ "end_s": 38.6,
+ "dur": 7.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 148000,
+ "overlap": true,
+ "ovl_frac": 0.103,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.28755771927535534,
+ "align_how": "minute_line",
+ "az_ref_mean": 4.77,
+ "el_ref_mean": 0.26,
+ "az_ref_range": 7.98,
+ "doa_valid_frac": 1.0
+}

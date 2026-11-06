@@ -1,0 +1,29 @@
+{
+ "id": "S4_09-00-400_P3_00950",
+ "split": "val",
+ "session": 4,
+ "seg": "09-00-400",
+ "seg_start_s": 540.4,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "And then I'll sue you for like a property that, like, doesn't have proper wiring installed. It's like a hazard.",
+ "start_s": 0.95,
+ "end_s": 8.7,
+ "dur": 7.75,
+ "ctx_s": 0.95,
+ "utt_offset_samples": 15200,
+ "n_samples": 139200,
+ "overlap": true,
+ "ovl_frac": 0.89,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.22432244441006333,
+ "align_how": "minute_line",
+ "az_ref_mean": 106.64,
+ "el_ref_mean": -2.16,
+ "az_ref_range": 66.34,
+ "doa_valid_frac": 1.0
+}

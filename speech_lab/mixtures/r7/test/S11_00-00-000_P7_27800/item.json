@@ -1,0 +1,29 @@
+{
+ "id": "S11_00-00-000_P7_27800",
+ "split": "test",
+ "session": 11,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Okay. That's not bad.",
+ "start_s": 27.8,
+ "end_s": 29.2,
+ "dur": 1.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 54400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.021506210032384843,
+ "align_how": "session_slope",
+ "az_ref_mean": -13.12,
+ "el_ref_mean": 0.34,
+ "az_ref_range": 13.68,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S11_28-00-666_P5_00050",
+ "split": "test",
+ "session": 11,
+ "seg": "28-00-666",
+ "seg_start_s": 1680.666,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "[X] to listen to Adele's latest album. ",
+ "start_s": 0.05,
+ "end_s": 1.95,
+ "dur": 1.9,
+ "ctx_s": 0.05,
+ "utt_offset_samples": 800,
+ "n_samples": 31200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0057126953834085725,
+ "align_how": "minute_line",
+ "az_ref_mean": -2.43,
+ "el_ref_mean": 3.28,
+ "az_ref_range": 1.91,
+ "doa_valid_frac": 1.0
+}

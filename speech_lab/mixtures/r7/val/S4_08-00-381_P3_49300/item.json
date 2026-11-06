@@ -1,0 +1,29 @@
+{
+ "id": "S4_08-00-381_P3_49300",
+ "split": "val",
+ "session": 4,
+ "seg": "08-00-381",
+ "seg_start_s": 480.381,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Yeah. They don't- Nowadays it wouldn't work.",
+ "start_s": 49.3,
+ "end_s": 51.8,
+ "dur": 2.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 72000,
+ "overlap": true,
+ "ovl_frac": 0.42,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.02922484782175161,
+ "align_how": "minute_line",
+ "az_ref_mean": 24.28,
+ "el_ref_mean": -5.4,
+ "az_ref_range": 17.0,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,302 @@
+{
+ "e3e70682c2": {
+  "id": "OV10_s1_8463-294828-0015",
+  "method": "noisy"
+ },
+ "f728b4fa42": {
+  "id": "OV10_s1_8463-294828-0015",
+  "method": "deepfilternet3"
+ },
+ "eb1167b367": {
+  "id": "OV10_s1_8463-294828-0015",
+  "method": "mvdr_online_est"
+ },
+ "f7c1bd874d": {
+  "id": "OV10_s1_8463-294828-0015",
+  "method": "tse"
+ },
+ "e443df7895": {
+  "id": "OV10_s1_8463-294828-0015",
+  "method": "mvdr_online_est_tse"
+ },
+ "1846d424c1": {
+  "id": "OV10_s2_1188-133604-0025",
+  "method": "noisy"
+ },
+ "fcbd04c340": {
+  "id": "OV10_s2_1188-133604-0025",
+  "method": "deepfilternet3"
+ },
+ "b4862b21fb": {
+  "id": "OV10_s2_1188-133604-0025",
+  "method": "mvdr_online_est"
+ },
+ "259f4329e6": {
+  "id": "OV10_s2_1188-133604-0025",
+  "method": "tse"
+ },
+ "12e0c8b2ba": {
+  "id": "OV10_s2_1188-133604-0025",
+  "method": "mvdr_online_est_tse"
+ },
+ "5a92118719": {
+  "id": "OV10_s0_260-123288-0022",
+  "method": "noisy"
+ },
+ "a3f2c9bf9c": {
+  "id": "OV10_s0_260-123288-0022",
+  "method": "deepfilternet3"
+ },
+ "8d723104f7": {
+  "id": "OV10_s0_260-123288-0022",
+  "method": "mvdr_online_est"
+ },
+ "85776e9add": {
+  "id": "OV10_s0_260-123288-0022",
+  "method": "tse"
+ },
+ "eb2083e6ce": {
+  "id": "OV10_s0_260-123288-0022",
+  "method": "mvdr_online_est_tse"
+ },
+ "b5d32b1666": {
+  "id": "OV10_s0_1995-1826-0015",
+  "method": "noisy"
+ },
+ "a0116be5ab": {
+  "id": "OV10_s0_1995-1826-0015",
+  "method": "deepfilternet3"
+ },
+ "d3fbf47a7e": {
+  "id": "OV10_s0_1995-1826-0015",
+  "method": "mvdr_online_est"
+ },
+ "baf3897a3e": {
+  "id": "OV10_s0_1995-1826-0015",
+  "method": "tse"
+ },
+ "101fbcccde": {
+  "id": "OV10_s0_1995-1826-0015",
+  "method": "mvdr_online_est_tse"
+ },
+ "247a8333f7": {
+  "id": "OV10_s5_4970-29093-0023",
+  "method": "noisy"
+ },
+ "1759edc372": {
+  "id": "OV10_s5_4970-29093-0023",
+  "method": "deepfilternet3"
+ },
+ "e005b86051": {
+  "id": "OV10_s5_4970-29093-0023",
+  "method": "mvdr_online_est"
+ },
+ "7d41e602ee": {
+  "id": "OV10_s5_4970-29093-0023",
+  "method": "tse"
+ },
+ "4a84eb038d": {
+  "id": "OV10_s5_4970-29093-0023",
+  "method": "mvdr_online_est_tse"
+ },
+ "3405095c8a": {
+  "id": "OV20_s1_5105-28241-0003",
+  "method": "noisy"
+ },
+ "8c1745a79a": {
+  "id": "OV20_s1_5105-28241-0003",
+  "method": "deepfilternet3"
+ },
+ "1775336d71": {
+  "id": "OV20_s1_5105-28241-0003",
+  "method": "mvdr_online_est"
+ },
+ "5129fb7c62": {
+  "id": "OV20_s1_5105-28241-0003",
+  "method": "tse"
+ },
+ "2f1205544a": {
+  "id": "OV20_s1_5105-28241-0003",
+  "method": "mvdr_online_est_tse"
+ },
+ "42930b33a8": {
+  "id": "OV20_s2_1580-141084-0010",
+  "method": "noisy"
+ },
+ "adc0da7a16": {
+  "id": "OV20_s2_1580-141084-0010",
+  "method": "deepfilternet3"
+ },
+ "2648ee38e0": {
+  "id": "OV20_s2_1580-141084-0010",
+  "method": "mvdr_online_est"
+ },
+ "148b2758d7": {
+  "id": "OV20_s2_1580-141084-0010",
+  "method": "tse"
+ },
+ "d450fe4aec": {
+  "id": "OV20_s2_1580-141084-0010",
+  "method": "mvdr_online_est_tse"
+ },
+ "8594092746": {
+  "id": "OV20_s1_260-123286-0013",
+  "method": "noisy"
+ },
+ "37176e84d9": {
+  "id": "OV20_s1_260-123286-0013",
+  "method": "deepfilternet3"
+ },
+ "d344749096": {
+  "id": "OV20_s1_260-123286-0013",
+  "method": "mvdr_online_est"
+ },
+ "4674374194": {
+  "id": "OV20_s1_260-123286-0013",
+  "method": "tse"
+ },
+ "a425799aa9": {
+  "id": "OV20_s1_260-123286-0013",
+  "method": "mvdr_online_est_tse"
+ },
+ "5306f3f515": {
+  "id": "OV20_s0_6930-76324-0005",
+  "method": "noisy"
+ },
+ "964a870c7c": {
+  "id": "OV20_s0_6930-76324-0005",
+  "method": "deepfilternet3"
+ },
+ "30bcab0ed8": {
+  "id": "OV20_s0_6930-76324-0005",
+  "method": "mvdr_online_est"
+ },
+ "4562be7fbb": {
+  "id": "OV20_s0_6930-76324-0005",
+  "method": "tse"
+ },
+ "5f3f563838": {
+  "id": "OV20_s0_6930-76324-0005",
+  "method": "mvdr_online_est_tse"
+ },
+ "c87a746319": {
+  "id": "OV20_s4_3570-5694-0013",
+  "method": "noisy"
+ },
+ "38018b47b2": {
+  "id": "OV20_s4_3570-5694-0013",
+  "method": "deepfilternet3"
+ },
+ "a25b59fd92": {
+  "id": "OV20_s4_3570-5694-0013",
+  "method": "mvdr_online_est"
+ },
+ "9a27d85888": {
+  "id": "OV20_s4_3570-5694-0013",
+  "method": "tse"
+ },
+ "1fdb8b3206": {
+  "id": "OV20_s4_3570-5694-0013",
+  "method": "mvdr_online_est_tse"
+ },
+ "176ea1b164": {
+  "id": "OV40_s5_4507-16021-0029",
+  "method": "noisy"
+ },
+ "1db53334fb": {
+  "id": "OV40_s5_4507-16021-0029",
+  "method": "deepfilternet3"
+ },
+ "31d0b66405": {
+  "id": "OV40_s5_4507-16021-0029",
+  "method": "mvdr_online_est"
+ },
+ "b7d6467b2f": {
+  "id": "OV40_s5_4507-16021-0029",
+  "method": "tse"
+ },
+ "ba26d85135": {
+  "id": "OV40_s5_4507-16021-0029",
+  "method": "mvdr_online_est_tse"
+ },
+ "9edfa3da6c": {
+  "id": "OV40_s1_237-134500-0011",
+  "method": "noisy"
+ },
+ "11ebcd4942": {
+  "id": "OV40_s1_237-134500-0011",
+  "method": "deepfilternet3"
+ },
+ "4d125e7fa5": {
+  "id": "OV40_s1_237-134500-0011",
+  "method": "mvdr_online_est"
+ },
+ "0fa07a3f2e": {
+  "id": "OV40_s1_237-134500-0011",
+  "method": "tse"
+ },
+ "98b33c6e0a": {
+  "id": "OV40_s1_237-134500-0011",
+  "method": "mvdr_online_est_tse"
+ },
+ "e786ab375b": {
+  "id": "OV40_s4_908-31957-0013",
+  "method": "noisy"
+ },
+ "e6fd68e8d6": {
+  "id": "OV40_s4_908-31957-0013",
+  "method": "deepfilternet3"
+ },
+ "b29c467d2b": {
+  "id": "OV40_s4_908-31957-0013",
+  "method": "mvdr_online_est"
+ },
+ "c470f0e7f7": {
+  "id": "OV40_s4_908-31957-0013",
+  "method": "tse"
+ },
+ "28805c5dad": {
+  "id": "OV40_s4_908-31957-0013",
+  "method": "mvdr_online_est_tse"
+ },
+ "ebe2136898": {
+  "id": "OV40_s4_4077-13751-0010",
+  "method": "noisy"
+ },
+ "0361524c2c": {
+  "id": "OV40_s4_4077-13751-0010",
+  "method": "deepfilternet3"
+ },
+ "e66cd36e68": {
+  "id": "OV40_s4_4077-13751-0010",
+  "method": "mvdr_online_est"
+ },
+ "eae2025e82": {
+  "id": "OV40_s4_4077-13751-0010",
+  "method": "tse"
+ },
+ "637e0edc5b": {
+  "id": "OV40_s4_4077-13751-0010",
+  "method": "mvdr_online_est_tse"
+ },
+ "753c7c9903": {
+  "id": "OV40_s0_1320-122617-0024",
+  "method": "noisy"
+ },
+ "bd30291a55": {
+  "id": "OV40_s0_1320-122617-0024",
+  "method": "deepfilternet3"
+ },
+ "2284b7a447": {
+  "id": "OV40_s0_1320-122617-0024",
+  "method": "mvdr_online_est"
+ },
+ "7b59051bf4": {
+  "id": "OV40_s0_1320-122617-0024",
+  "method": "tse"
+ },
+ "ac642b4c49": {
+  "id": "OV40_s0_1320-122617-0024",
+  "method": "mvdr_online_est_tse"
+ }
+}

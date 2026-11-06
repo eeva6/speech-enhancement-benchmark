@@ -1,0 +1,29 @@
+{
+ "id": "S12_08-00-374_P6_01800",
+ "split": "val",
+ "session": 12,
+ "seg": "08-00-374",
+ "seg_start_s": 480.374,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Are you looking at yourself? ",
+ "start_s": 1.8,
+ "end_s": 3.9,
+ "dur": 2.1,
+ "ctx_s": 1.8,
+ "utt_offset_samples": 28800,
+ "n_samples": 62400,
+ "overlap": true,
+ "ovl_frac": 0.238,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.004293001893529436,
+ "align_how": "session_slope",
+ "az_ref_mean": -71.08,
+ "el_ref_mean": 0.35,
+ "az_ref_range": 1.25,
+ "doa_valid_frac": 1.0
+}

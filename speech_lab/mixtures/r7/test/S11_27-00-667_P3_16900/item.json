@@ -1,0 +1,29 @@
+{
+ "id": "S11_27-00-667_P3_16900",
+ "split": "test",
+ "session": 11,
+ "seg": "27-00-667",
+ "seg_start_s": 1620.667,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Reload this page. It has stopped running. ",
+ "start_s": 16.9,
+ "end_s": 19.05,
+ "dur": 2.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 66400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 7.75,
+ "align_res_absmed_ms": 0.009286892236559652,
+ "align_how": "session_slope",
+ "az_ref_mean": 38.57,
+ "el_ref_mean": 14.81,
+ "az_ref_range": 0.73,
+ "doa_valid_frac": 1.0
+}

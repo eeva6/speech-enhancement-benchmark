@@ -1,0 +1,77 @@
+Collecting deepfilternet
+  Downloading deepfilternet-0.5.6-py3-none-any.whl.metadata (1.7 kB)
+Collecting appdirs<2.0,>=1.4 (from deepfilternet)
+  Downloading appdirs-1.4.4-py2.py3-none-any.whl.metadata (9.0 kB)
+Collecting deepfilterlib==0.5.6 (from deepfilternet)
+  Downloading DeepFilterLib-0.5.6.tar.gz (112 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting loguru>=0.5 (from deepfilternet)
+  Downloading loguru-0.7.3-py3-none-any.whl.metadata (22 kB)
+Collecting numpy<2.0,>=1.22 (from deepfilternet)
+  Downloading numpy-1.26.4-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl.metadata (62 kB)
+Collecting packaging<24.0,>=23.0 (from deepfilternet)
+  Downloading packaging-23.2-py3-none-any.whl.metadata (3.2 kB)
+Requirement already satisfied: requests<3.0,>=2.27 in ./.venv/lib/python3.12/site-packages (from deepfilternet) (2.34.2)
+Requirement already satisfied: sympy>=1.6 in ./.venv/lib/python3.12/site-packages (from deepfilternet) (1.14.0)
+Requirement already satisfied: charset_normalizer<4,>=2 in ./.venv/lib/python3.12/site-packages (from requests<3.0,>=2.27->deepfilternet) (3.5.2)
+Requirement already satisfied: idna<4,>=2.5 in ./.venv/lib/python3.12/site-packages (from requests<3.0,>=2.27->deepfilternet) (3.20)
+Requirement already satisfied: urllib3<3,>=1.26 in ./.venv/lib/python3.12/site-packages (from requests<3.0,>=2.27->deepfilternet) (2.8.0)
+Requirement already satisfied: certifi>=2023.5.7 in ./.venv/lib/python3.12/site-packages (from requests<3.0,>=2.27->deepfilternet) (2026.7.22)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in ./.venv/lib/python3.12/site-packages (from sympy>=1.6->deepfilternet) (1.3.0)
+Downloading deepfilternet-0.5.6-py3-none-any.whl (113 kB)
+Downloading appdirs-1.4.4-py2.py3-none-any.whl (9.6 kB)
+Downloading numpy-1.26.4-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl (13.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 13.9/13.9 MB 37.7 MB/s  0:00:00
+Downloading packaging-23.2-py3-none-any.whl (53 kB)
+Downloading loguru-0.7.3-py3-none-any.whl (61 kB)
+Building wheels for collected packages: deepfilterlib
+  Building wheel for deepfilterlib (pyproject.toml): started
+  Building wheel for deepfilterlib (pyproject.toml): finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  × Building wheel for deepfilterlib (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [29 lines of output]
+      Running `maturin pep517 build-wheel -i /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python3`
+         Compiling autocfg v1.1.0
+         Compiling target-lexicon v0.12.11
+         Compiling num-traits v0.2.16
+      error: could not compile `num-traits` (build script) due to 1 previous error
+      warning: build failed, waiting for other jobs to finish...
+      error: could not compile `target-lexicon` (build script) due to 1 previous error
+      💥 maturin failed
+        Caused by: Failed to build a native library through cargo
+        Caused by: Cargo build finished with "exit status: 101": `cargo rustc --message-format json --manifest-path Cargo.toml --release --lib -- -C link-arg=-s`
+      🔗 Found pyo3 bindings
+      🐍 Found CPython 3.12 at /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python3
+      error: linking with `/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/ccbin/cc` failed: exit status: 1
+        |
+        = note:  "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/ccbin/cc" "-Wl,--fix-cortex-a53-843419" "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.rust/target/release/build/target-lexicon-00478a53417fbb7e/rustcjdgRw1/symbols.o" "<2 object files omitted>" "-Wl,--as-needed" "-Wl,-Bstatic" "<sysroot>/lib/rustlib/aarch64-unknown-linux-gnu/lib/{libstd-*,libpanic_unwind-*,libobject-*,libmemchr-*,libaddr2line-*,libgimli-*,libcfg_if-*,librustc_demangle-*,libstd_detect-*,libhashbrown-*,librustc_std_workspace_alloc-*,libminiz_oxide-*,libadler2-*,libunwind-*,liblibc-*,librustc_std_workspace_core-*,liballoc-*,libcore-*,libcompiler_builtins-*}.rlib" "-Wl,-Bdynamic" "-lgcc_s" "-lutil" "-lrt" "-lpthread" "-lm" "-ldl" "-lc" "-L" "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.rust/target/release/build/target-lexicon-00478a53417fbb7e/rustcjdgRw1/raw-dylibs" "-Wl,--eh-frame-hdr" "-Wl,-z,noexecstack" "-L" "<sysroot>/lib/rustlib/aarch64-unknown-linux-gnu/lib" "-o" "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.rust/target/release/build/target-lexicon-00478a53417fbb7e/build_script_build-00478a53417fbb7e" "-Wl,--gc-sections" "-pie" "-Wl,-z,relro,-z,now" "-Wl,--strip-debug" "-nodefaultlibs"
+        = note: some arguments are omitted. use `--verbose` to show all linker arguments
+        = note: error: unsupported linker arg: --fix-cortex-a53-843419
+      
+      
+      
+      error: linking with `/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/ccbin/cc` failed: exit status: 1
+        |
+        = note:  "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/ccbin/cc" "-Wl,--fix-cortex-a53-843419" "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.rust/target/release/build/num-traits-63325cb8d99d9d9b/rustcNOFDrp/symbols.o" "<2 object files omitted>" "-Wl,--as-needed" "-Wl,-Bstatic" "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.rust/target/release/deps/libautocfg-2a6c5d6959ba0f1a.rlib" "<sysroot>/lib/rustlib/aarch64-unknown-linux-gnu/lib/{libstd-*,libpanic_unwind-*,libobject-*,libmemchr-*,libaddr2line-*,libgimli-*,libcfg_if-*,librustc_demangle-*,libstd_detect-*,libhashbrown-*,librustc_std_workspace_alloc-*,libminiz_oxide-*,libadler2-*,libunwind-*,liblibc-*,librustc_std_workspace_core-*,liballoc-*,libcore-*,libcompiler_builtins-*}.rlib" "-Wl,-Bdynamic" "-lgcc_s" "-lutil" "-lrt" "-lpthread" "-lm" "-ldl" "-lc" "-L" "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.rust/target/release/build/num-traits-63325cb8d99d9d9b/rustcNOFDrp/raw-dylibs" "-Wl,--eh-frame-hdr" "-Wl,-z,noexecstack" "-L" "<sysroot>/lib/rustlib/aarch64-unknown-linux-gnu/lib" "-o" "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.rust/target/release/build/num-traits-63325cb8d99d9d9b/build_script_build-63325cb8d99d9d9b" "-Wl,--gc-sections" "-pie" "-Wl,-z,relro,-z,now" "-Wl,--strip-debug" "-nodefaultlibs"
+        = note: some arguments are omitted. use `--verbose` to show all linker arguments
+        = note: error: unsupported linker arg: --fix-cortex-a53-843419
+      
+      
+      
+      Error: command ['maturin', 'pep517', 'build-wheel', '-i', '/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python3'] returned non-zero exit status 1
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for deepfilterlib
+Failed to build deepfilterlib
+error: failed-wheel-build-for-install
+
+× Failed to build installable wheels for some pyproject.toml based projects
+╰─> deepfilterlib

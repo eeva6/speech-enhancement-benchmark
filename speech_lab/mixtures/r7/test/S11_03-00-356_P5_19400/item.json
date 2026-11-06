@@ -1,0 +1,29 @@
+{
+ "id": "S11_03-00-356_P5_19400",
+ "split": "test",
+ "session": 11,
+ "seg": "03-00-356",
+ "seg_start_s": 180.356,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Yeah, yeah! It- Yeah, yeah. That's our main business, actually. That's our best product.",
+ "start_s": 19.4,
+ "end_s": 24.7,
+ "dur": 5.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 116800,
+ "overlap": true,
+ "ovl_frac": 0.462,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.28755771927535534,
+ "align_how": "minute_line",
+ "az_ref_mean": 4.8,
+ "el_ref_mean": -2.72,
+ "az_ref_range": 9.45,
+ "doa_valid_frac": 1.0
+}

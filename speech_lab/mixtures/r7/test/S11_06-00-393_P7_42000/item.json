@@ -1,0 +1,29 @@
+{
+ "id": "S11_06-00-393_P7_42000",
+ "split": "test",
+ "session": 11,
+ "seg": "06-00-393",
+ "seg_start_s": 360.393,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "[L]",
+ "start_s": 42.0,
+ "end_s": 43.25,
+ "dur": 1.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 52000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -70.66,
+ "el_ref_mean": 9.53,
+ "az_ref_range": 2.77,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_02-00-322_P6_34850",
+ "split": "val",
+ "session": 4,
+ "seg": "02-00-322",
+ "seg_start_s": 120.322,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Very- very cool. Yeah! So I heard- I heard this restaurant is- is well known for their [H] soups and salads! So, [H] that's a real- really good. [H] And [H] yeah. It's a little bit too early for a happy hour for me so I think I'm gonna try to stick to like a- a tea and a- and a- and a salad. But [H] Anyways. Well- well let's see when they bring the menu what- what they've got as a speci- [X]",
+ "start_s": 34.85,
+ "end_s": 60.05,
+ "dur": 25.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 435200,
+ "overlap": true,
+ "ovl_frac": 0.121,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.022760102183383424,
+ "align_how": "minute_line",
+ "az_ref_mean": -13.05,
+ "el_ref_mean": 7.45,
+ "az_ref_range": 35.74,
+ "doa_valid_frac": 1.0
+}

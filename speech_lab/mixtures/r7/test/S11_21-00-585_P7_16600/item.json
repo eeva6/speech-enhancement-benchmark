@@ -1,0 +1,29 @@
+{
+ "id": "S11_21-00-585_P7_16600",
+ "split": "test",
+ "session": 11,
+ "seg": "21-00-585",
+ "seg_start_s": 1260.585,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Loudspeaker? [L]",
+ "start_s": 16.6,
+ "end_s": 18.5,
+ "dur": 1.9,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 62400,
+ "overlap": true,
+ "ovl_frac": 0.737,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.06111317270551808,
+ "align_how": "minute_line",
+ "az_ref_mean": -58.71,
+ "el_ref_mean": -0.7,
+ "az_ref_range": 48.11,
+ "doa_valid_frac": 1.0
+}

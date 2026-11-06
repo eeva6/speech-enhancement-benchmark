@@ -1,0 +1,29 @@
+{
+ "id": "S4_11-00-428_P4_14900",
+ "split": "val",
+ "session": 4,
+ "seg": "11-00-428",
+ "seg_start_s": 660.428,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So let's see here, we have- Oh!",
+ "start_s": 14.9,
+ "end_s": 16.45,
+ "dur": 1.55,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 56800,
+ "overlap": true,
+ "ovl_frac": 0.097,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.18743980035651475,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 64.6,
+ "el_ref_mean": -0.15,
+ "az_ref_range": 3.76,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S11_29-00-684_P7_44200",
+ "split": "test",
+ "session": 11,
+ "seg": "29-00-684",
+ "seg_start_s": 1740.684,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Any weather advisories? ",
+ "start_s": 44.2,
+ "end_s": 45.65,
+ "dur": 1.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 55200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 4.3,
+ "align_res_absmed_ms": 0.009481264896749053,
+ "align_how": "minute_line",
+ "az_ref_mean": -15.42,
+ "el_ref_mean": 0.98,
+ "az_ref_range": 0.43,
+ "doa_valid_frac": 1.0
+}

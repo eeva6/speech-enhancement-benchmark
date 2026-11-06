@@ -1,0 +1,29 @@
+{
+ "id": "S4_25-00-599_P3_38850",
+ "split": "val",
+ "session": 4,
+ "seg": "25-00-599",
+ "seg_start_s": 1500.599,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "They're still mixing the sangria. Like, Ah! Too much orange juice! We've gotta start over!",
+ "start_s": 38.85,
+ "end_s": 43.7,
+ "dur": 4.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 109600,
+ "overlap": true,
+ "ovl_frac": 0.722,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.027005376978195272,
+ "align_how": "session_slope",
+ "az_ref_mean": 59.43,
+ "el_ref_mean": 19.44,
+ "az_ref_range": 80.51,
+ "doa_valid_frac": 1.0
+}

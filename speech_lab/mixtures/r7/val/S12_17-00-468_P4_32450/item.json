@@ -1,0 +1,29 @@
+{
+ "id": "S12_17-00-468_P4_32450",
+ "split": "val",
+ "session": 12,
+ "seg": "17-00-468",
+ "seg_start_s": 1020.468,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "[L] Okay. ",
+ "start_s": 32.45,
+ "end_s": 34.45,
+ "dur": 2.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 64000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.3050326486118138,
+ "align_how": "minute_line",
+ "az_ref_mean": 4.88,
+ "el_ref_mean": 11.85,
+ "az_ref_range": 6.32,
+ "doa_valid_frac": 1.0
+}

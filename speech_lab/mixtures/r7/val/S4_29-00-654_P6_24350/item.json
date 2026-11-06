@@ -1,0 +1,29 @@
+{
+ "id": "S4_29-00-654_P6_24350",
+ "split": "val",
+ "session": 4,
+ "seg": "29-00-654",
+ "seg_start_s": 1740.654,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Instruct me to make mashed potatoes.",
+ "start_s": 24.35,
+ "end_s": 26.5,
+ "dur": 2.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 66400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 12.85,
+ "align_res_absmed_ms": 0.014265026948123705,
+ "align_how": "minute_line",
+ "az_ref_mean": -12.8,
+ "el_ref_mean": 1.07,
+ "az_ref_range": 0.79,
+ "doa_valid_frac": 1.0
+}

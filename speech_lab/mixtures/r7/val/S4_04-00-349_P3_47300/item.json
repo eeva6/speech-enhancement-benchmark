@@ -1,0 +1,29 @@
+{
+ "id": "S4_04-00-349_P3_47300",
+ "split": "val",
+ "session": 4,
+ "seg": "04-00-349",
+ "seg_start_s": 240.349,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Yeah!",
+ "start_s": 47.3,
+ "end_s": 48.3,
+ "dur": 1.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 48000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "no_fit_session_offset",
+ "az_ref_mean": 21.45,
+ "el_ref_mean": 8.42,
+ "az_ref_range": 12.6,
+ "doa_valid_frac": 1.0
+}

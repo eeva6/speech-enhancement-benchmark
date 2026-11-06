@@ -1,0 +1,29 @@
+{
+ "id": "S12_09-00-390_P4_56150",
+ "split": "val",
+ "session": 12,
+ "seg": "09-00-390",
+ "seg_start_s": 540.39,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "So- so the question you asked was \"is this the door to heaven?\"",
+ "start_s": 56.15,
+ "end_s": 59.1,
+ "dur": 2.95,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 79200,
+ "overlap": true,
+ "ovl_frac": 0.339,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0840919601614587,
+ "align_how": "minute_line",
+ "az_ref_mean": 36.09,
+ "el_ref_mean": 14.96,
+ "az_ref_range": 2.01,
+ "doa_valid_frac": 1.0
+}

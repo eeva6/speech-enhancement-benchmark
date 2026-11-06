@@ -1,0 +1,29 @@
+{
+ "id": "S4_19-00-532_P4_03650",
+ "split": "val",
+ "session": 4,
+ "seg": "19-00-532",
+ "seg_start_s": 1140.532,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Well, I mean, we could- we could talk it through. So, if we ask the liar",
+ "start_s": 3.65,
+ "end_s": 6.9,
+ "dur": 3.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 84000,
+ "overlap": true,
+ "ovl_frac": 0.354,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.2884877030737698,
+ "align_how": "minute_line",
+ "az_ref_mean": 17.23,
+ "el_ref_mean": 7.54,
+ "az_ref_range": 25.3,
+ "doa_valid_frac": 1.0
+}

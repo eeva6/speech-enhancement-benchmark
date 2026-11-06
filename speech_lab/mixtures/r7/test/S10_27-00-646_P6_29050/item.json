@@ -1,0 +1,29 @@
+{
+ "id": "S10_27-00-646_P6_29050",
+ "split": "test",
+ "session": 10,
+ "seg": "27-00-646",
+ "seg_start_s": 1620.646,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Oh it's a different one. I've already learned the other ones. Okay.",
+ "start_s": 29.05,
+ "end_s": 33.65,
+ "dur": 4.6,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 105600,
+ "overlap": true,
+ "ovl_frac": 0.174,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.020128982214373536,
+ "align_how": "session_slope",
+ "az_ref_mean": -2.76,
+ "el_ref_mean": -1.9,
+ "az_ref_range": 17.86,
+ "doa_valid_frac": 1.0
+}

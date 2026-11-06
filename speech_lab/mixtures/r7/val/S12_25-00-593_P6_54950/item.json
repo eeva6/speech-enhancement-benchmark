@@ -1,0 +1,29 @@
+{
+ "id": "S12_25-00-593_P6_54950",
+ "split": "val",
+ "session": 12,
+ "seg": "25-00-593",
+ "seg_start_s": 1500.593,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "[L]",
+ "start_s": 54.95,
+ "end_s": 56.45,
+ "dur": 1.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 56000,
+ "overlap": true,
+ "ovl_frac": 0.267,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -40.92,
+ "el_ref_mean": 7.69,
+ "az_ref_range": 9.6,
+ "doa_valid_frac": 1.0
+}

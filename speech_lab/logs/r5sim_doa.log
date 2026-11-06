@@ -1,0 +1,6 @@
+      err_blind  err_tonly  err_causal_median  causal_frac_within_10  err_causal_final
+cond                                                                                  
+0S          0.5        0.5                0.5                    1.0               0.5
+OV10        0.5        0.5                0.5                    1.0               2.0
+OV20        0.5        0.5                0.5                    1.0               1.5
+OV40        1.5        0.5                0.5                    0.8              35.0

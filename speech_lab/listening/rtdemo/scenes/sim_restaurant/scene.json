@@ -1,0 +1,70 @@
+{
+ "id": "sim_restaurant",
+ "title": "Simulated restaurant: companion ahead, talker on the left, babble",
+ "kind": "sim",
+ "array": "lin4",
+ "xy": [
+  [
+   -0.06,
+   0.0
+  ],
+  [
+   -0.02,
+   0.0
+  ],
+  [
+   0.02,
+   0.0
+  ],
+  [
+   0.06,
+   0.0
+  ]
+ ],
+ "front": 1,
+ "head_az_array": 90.0,
+ "look_az_array": 90.0,
+ "scene_type": "restaurant",
+ "talkers": [
+  {
+   "name": "companion (target, 10 deg right)",
+   "az": -10.0,
+   "acts": [
+    [
+     0.3,
+     9.32
+    ],
+    [
+     9.745375,
+     13.670375
+    ],
+    [
+     14.44375,
+     16.0
+    ]
+   ],
+   "target": true
+  },
+  {
+   "name": "other talker (60 deg left)",
+   "az": 60.0,
+   "acts": [
+    [
+     2.0,
+     13.48
+    ],
+    [
+     15.248875,
+     16.0
+    ]
+   ],
+   "target": false
+  }
+ ],
+ "licence": "LibriSpeech dev-clean (CC BY 4.0) speech; pyroomacoustics room simulation",
+ "external_ok": true,
+ "notes": "RT60 0.5 s 9x7x3 m room; target-to-competitor 2 dB, target-to-babble 3 dB at the front mic",
+ "n": 256000,
+ "channels": 4,
+ "fs": 16000
+}

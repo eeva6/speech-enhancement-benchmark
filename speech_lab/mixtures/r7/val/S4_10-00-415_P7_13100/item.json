@@ -1,0 +1,29 @@
+{
+ "id": "S4_10-00-415_P7_13100",
+ "split": "val",
+ "session": 4,
+ "seg": "10-00-415",
+ "seg_start_s": 600.415,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So, you put- you put the three liters on the five liter, so that's",
+ "start_s": 13.1,
+ "end_s": 17.75,
+ "dur": 4.65,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 106400,
+ "overlap": true,
+ "ovl_frac": 0.43,
+ "t_since_turn_onset": 1.6,
+ "align_res_absmed_ms": 0.6919841980561614,
+ "align_how": "session_slope",
+ "az_ref_mean": -26.82,
+ "el_ref_mean": 1.62,
+ "az_ref_range": 45.48,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_24-00-594_P6_07350",
+ "split": "val",
+ "session": 4,
+ "seg": "24-00-594",
+ "seg_start_s": 1440.594,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Oh. Then nevermind.",
+ "start_s": 7.35,
+ "end_s": 8.6,
+ "dur": 1.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 52000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.2424475969746709,
+ "align_how": "minute_line",
+ "az_ref_mean": -34.28,
+ "el_ref_mean": -0.1,
+ "az_ref_range": 41.66,
+ "doa_valid_frac": 1.0
+}

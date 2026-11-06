@@ -1,0 +1,29 @@
+{
+ "id": "S12_17-00-468_P6_39900",
+ "split": "val",
+ "session": 12,
+ "seg": "17-00-468",
+ "seg_start_s": 1020.468,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "We're asking one guard if the other guard was standing in front of which door. ",
+ "start_s": 39.9,
+ "end_s": 45.2,
+ "dur": 5.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 116800,
+ "overlap": true,
+ "ovl_frac": 0.236,
+ "t_since_turn_onset": 2.65,
+ "align_res_absmed_ms": 0.10186341387452558,
+ "align_how": "minute_line",
+ "az_ref_mean": -27.36,
+ "el_ref_mean": 3.24,
+ "az_ref_range": 14.26,
+ "doa_valid_frac": 0.981
+}

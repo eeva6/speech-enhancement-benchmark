@@ -1,0 +1,29 @@
+{
+ "id": "S10_28-00-653_P6_40000",
+ "split": "test",
+ "session": 10,
+ "seg": "28-00-653",
+ "seg_start_s": 1680.653,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "What did the tallest- what is the tallest building in America?",
+ "start_s": 40.0,
+ "end_s": 43.6,
+ "dur": 3.6,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 89600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.008558099580113776,
+ "align_how": "minute_line",
+ "az_ref_mean": -2.86,
+ "el_ref_mean": -0.27,
+ "az_ref_range": 2.13,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_15-00-480_P6_25650",
+ "split": "val",
+ "session": 4,
+ "seg": "15-00-480",
+ "seg_start_s": 900.48,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I'm not that dense.",
+ "start_s": 25.65,
+ "end_s": 26.9,
+ "dur": 1.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 52000,
+ "overlap": true,
+ "ovl_frac": 0.56,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.022389627702068537,
+ "align_how": "session_slope",
+ "az_ref_mean": -45.88,
+ "el_ref_mean": 16.91,
+ "az_ref_range": 5.85,
+ "doa_valid_frac": 1.0
+}

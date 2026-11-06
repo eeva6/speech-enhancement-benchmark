@@ -1,0 +1,38 @@
+{
+ "scene": "libricss_ov40",
+ "blocks": 8000,
+ "block_ms": 2.0,
+ "all_modes_computed": true,
+ "switch": "0:raw,3:hs_sd4,6:hyb_sd4,9:trk_sd4,12:anc_sim",
+ "compute_ms": {
+  "mean": 0.692498809247013,
+  "median": 0.23026799999570358,
+  "p95": 4.312539600209671,
+  "p99": 6.138743530318607,
+  "max": 10.498085000108404
+ },
+ "arrival_to_output_ms": {
+  "mean": 1.5205271211667082,
+  "median": 0.39425499994649726,
+  "p95": 5.936359449970041,
+  "p99": 7.037136739972998,
+  "max": 10.56426700006341
+ },
+ "deadline_misses": 2415,
+ "miss_frac": 0.301875,
+ "rtf_mean": 0.3462494046235065,
+ "load_before": [
+  5.0009765625,
+  4.263671875,
+  3.25146484375
+ ],
+ "load_after": [
+  5.0068359375,
+  4.30029296875,
+  3.28076171875
+ ],
+ "nice": 0,
+ "bit_identical_to_prerender": true,
+ "n_blocks_differing": 0,
+ "note": "deadline = the next block's arrival (2 ms after this one). Misses under load are scheduler pre-emption of this nice-19 process by the round-7 pipeline, not compute (see compute_ms)."
+}

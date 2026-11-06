@@ -1,0 +1,29 @@
+{
+ "id": "S11_10-00-445_P3_38650",
+ "split": "test",
+ "session": 11,
+ "seg": "10-00-445",
+ "seg_start_s": 600.445,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Man's father is my father's son.",
+ "start_s": 38.65,
+ "end_s": 41.4,
+ "dur": 2.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 76000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.02191405110352207,
+ "align_how": "minute_line",
+ "az_ref_mean": 48.68,
+ "el_ref_mean": 7.22,
+ "az_ref_range": 0.39,
+ "doa_valid_frac": 1.0
+}

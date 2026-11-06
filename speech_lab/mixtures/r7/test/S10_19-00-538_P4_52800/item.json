@@ -1,0 +1,29 @@
+{
+ "id": "S10_19-00-538_P4_52800",
+ "split": "test",
+ "session": 10,
+ "seg": "19-00-538",
+ "seg_start_s": 1140.538,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Okay [H]. ",
+ "start_s": 52.8,
+ "end_s": 56.0,
+ "dur": 3.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 83200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.007427090395140112,
+ "align_how": "session_slope",
+ "az_ref_mean": 12.17,
+ "el_ref_mean": -1.7,
+ "az_ref_range": 6.51,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S12_20-00-535_P4_54450",
+ "split": "val",
+ "session": 12,
+ "seg": "20-00-535",
+ "seg_start_s": 1200.535,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Oh my god! That's like ten different shades of red, but okay. Yeah. I- I get that.",
+ "start_s": 54.45,
+ "end_s": 60.05,
+ "dur": 5.6,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 121600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.75,
+ "align_res_absmed_ms": 0.08779114432400092,
+ "align_how": "session_slope",
+ "az_ref_mean": 0.63,
+ "el_ref_mean": 7.81,
+ "az_ref_range": 56.94,
+ "doa_valid_frac": 0.982
+}

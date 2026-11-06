@@ -1,0 +1,29 @@
+{
+ "id": "S12_25-00-593_P4_50500",
+ "split": "val",
+ "session": 12,
+ "seg": "25-00-593",
+ "seg_start_s": 1500.593,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Step the timer for thirty second on one minute off.",
+ "start_s": 50.5,
+ "end_s": 54.7,
+ "dur": 4.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 99200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.20906330610159785,
+ "align_how": "minute_line",
+ "az_ref_mean": 9.16,
+ "el_ref_mean": 4.14,
+ "az_ref_range": 2.18,
+ "doa_valid_frac": 1.0
+}

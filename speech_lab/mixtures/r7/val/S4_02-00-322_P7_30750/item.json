@@ -1,0 +1,30 @@
+{
+ "id": "S4_02-00-322_P7_30750",
+ "split": "val",
+ "session": 4,
+ "seg": "02-00-322",
+ "seg_start_s": 120.322,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group",
+  "4"
+ ],
+ "target": "group",
+ "text": "Oh really? [L] Interesting. [L]",
+ "start_s": 30.75,
+ "end_s": 34.55,
+ "dur": 3.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 92800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.5573020898737013,
+ "align_how": "session_slope",
+ "az_ref_mean": -37.48,
+ "el_ref_mean": 8.14,
+ "az_ref_range": 37.49,
+ "doa_valid_frac": 1.0
+}

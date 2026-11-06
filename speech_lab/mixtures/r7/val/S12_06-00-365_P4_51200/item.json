@@ -1,0 +1,29 @@
+{
+ "id": "S12_06-00-365_P4_51200",
+ "split": "val",
+ "session": 12,
+ "seg": "06-00-365",
+ "seg_start_s": 360.365,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Okay. I'll repeat that slowly, I guess. Yeah. I don't have any brothers and sisters. But- so let's look at Charlie, I guess. But this man [X]",
+ "start_s": 51.2,
+ "end_s": 60.05,
+ "dur": 8.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 173600,
+ "overlap": true,
+ "ovl_frac": 0.288,
+ "t_since_turn_onset": 10.6,
+ "align_res_absmed_ms": 0.32951077446341515,
+ "align_how": "minute_line",
+ "az_ref_mean": 12.73,
+ "el_ref_mean": 9.01,
+ "az_ref_range": 13.88,
+ "doa_valid_frac": 1.0
+}

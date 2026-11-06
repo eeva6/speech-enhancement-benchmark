@@ -1,0 +1,29 @@
+{
+ "id": "S10_06-00-364_P4_17850",
+ "split": "test",
+ "session": 10,
+ "seg": "06-00-364",
+ "seg_start_s": 360.364,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Oh! I see. Is, is, is it a premade burger as well? Is it a premade burger as well?",
+ "start_s": 17.85,
+ "end_s": 24.65,
+ "dur": 6.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 140800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.13820183812640607,
+ "align_how": "minute_line",
+ "az_ref_mean": 41.37,
+ "el_ref_mean": -3.81,
+ "az_ref_range": 13.93,
+ "doa_valid_frac": 1.0
+}

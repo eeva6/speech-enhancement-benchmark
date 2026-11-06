@@ -1,0 +1,29 @@
+{
+ "id": "S12_05-00-338_P6_46100",
+ "split": "val",
+ "session": 12,
+ "seg": "05-00-338",
+ "seg_start_s": 300.338,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "South, west, north.",
+ "start_s": 46.1,
+ "end_s": 49.5,
+ "dur": 3.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 86400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.11621892190305516,
+ "align_how": "minute_line",
+ "az_ref_mean": -25.26,
+ "el_ref_mean": 8.23,
+ "az_ref_range": 10.01,
+ "doa_valid_frac": 1.0
+}

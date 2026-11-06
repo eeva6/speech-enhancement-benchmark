@@ -1,0 +1,5 @@
+Simulated restaurant: companion ahead, talker on the left, babble
+OK for outside listeners (attribution: LibriSpeech dev-clean (CC BY 4.0) speech; pyroomacoustics room simulation)
+
+RT60 0.5 s 9x7x3 m room; target-to-competitor 2 dB, target-to-babble 3 dB at the front mic
+Processed recorded audio (causal 2 ms block engine). Not at-ear sound; no open-ear leakage, feedback or real ANC. SIMULATED_noise_cut.wav is a simulation.

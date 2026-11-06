@@ -1,0 +1,29 @@
+{
+ "id": "S10_04-00-350_P6_49800",
+ "split": "test",
+ "session": 10,
+ "seg": "04-00-350",
+ "seg_start_s": 240.35,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "I want it raw.",
+ "start_s": 49.8,
+ "end_s": 50.9,
+ "dur": 1.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 49600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.7694365340285003,
+ "align_how": "session_slope",
+ "az_ref_mean": -1.28,
+ "el_ref_mean": 3.58,
+ "az_ref_range": 2.14,
+ "doa_valid_frac": 1.0
+}

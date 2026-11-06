@@ -1,0 +1,29 @@
+{
+ "id": "S12_04-00-332_P4_11900",
+ "split": "val",
+ "session": 12,
+ "seg": "04-00-332",
+ "seg_start_s": 240.332,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Oh! That's an actual thing. I thought you were just saying a huge burger in general. [L] Okay.",
+ "start_s": 11.9,
+ "end_s": 16.75,
+ "dur": 4.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 109600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.041449005948379636,
+ "align_how": "session_slope",
+ "az_ref_mean": -11.88,
+ "el_ref_mean": 28.88,
+ "az_ref_range": 29.01,
+ "doa_valid_frac": 1.0
+}

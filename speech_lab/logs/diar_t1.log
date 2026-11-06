@@ -1,0 +1,18 @@
+173160 795 ['P1', 'P2', 'P3', 'P4', 'P6', 'P7'] (3461, 2) (3464, 60) (34632,)
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+spec {'der_c0': np.float64(0.775), 'miss_c0': np.float64(0.725), 'fa_c0': np.float64(0.003), 'conf_c0': np.float64(0.047), 'der_c25': np.float64(0.733), 'jer': 0.775, 'n_ref': 6, 'n_hyp': 4} 7.3
+ahc {'der_c0': np.float64(0.825), 'miss_c0': np.float64(0.725), 'fa_c0': np.float64(0.003), 'conf_c0': np.float64(0.098), 'der_c25': np.float64(0.798), 'jer': 0.831, 'n_ref': 6, 'n_hyp': 4} 1.0
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+spec_oracleVAD {'der_c0': np.float64(0.373), 'miss_c0': np.float64(0.202), 'fa_c0': np.float64(0.0), 'conf_c0': np.float64(0.172), 'der_c25': np.float64(0.289), 'jer': 0.507, 'n_ref': 6, 'n_hyp': 5} 109.5
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+spec_head {'der_c0': np.float64(0.805), 'miss_c0': np.float64(0.725), 'fa_c0': np.float64(0.003), 'conf_c0': np.float64(0.078), 'der_c25': np.float64(0.773), 'jer': 0.806, 'n_ref': 6, 'n_hyp': 3} 5.3
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+spec_world {'der_c0': np.float64(0.819), 'miss_c0': np.float64(0.725), 'fa_c0': np.float64(0.003), 'conf_c0': np.float64(0.091), 'der_c25': np.float64(0.786), 'jer': 0.842, 'n_ref': 6, 'n_hyp': 3} 5.3
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+spec_max {'der_c0': np.float64(0.756), 'miss_c0': np.float64(0.725), 'fa_c0': np.float64(0.003), 'conf_c0': np.float64(0.028), 'der_c25': np.float64(0.708), 'jer': 0.739, 'n_ref': 6, 'n_hyp': 5} 5.4
+plat {'der_c0': np.float64(0.405), 'miss_c0': np.float64(0.324), 'fa_c0': np.float64(0.027), 'conf_c0': np.float64(0.054), 'der_c25': np.float64(0.328), 'jer': 0.487, 'n_ref': 6, 'n_hyp': 5} 0.6

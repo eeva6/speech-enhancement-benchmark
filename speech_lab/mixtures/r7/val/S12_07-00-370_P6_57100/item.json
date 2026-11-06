@@ -1,0 +1,29 @@
+{
+ "id": "S12_07-00-370_P6_57100",
+ "split": "val",
+ "session": 12,
+ "seg": "07-00-370",
+ "seg_start_s": 420.37,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Your father's son",
+ "start_s": 57.1,
+ "end_s": 58.6,
+ "dur": 1.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 56000,
+ "overlap": true,
+ "ovl_frac": 0.5,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.2587583294371143,
+ "align_how": "minute_line",
+ "az_ref_mean": -71.05,
+ "el_ref_mean": 0.24,
+ "az_ref_range": 0.4,
+ "doa_valid_frac": 1.0
+}

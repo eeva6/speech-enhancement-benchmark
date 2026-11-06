@@ -1,0 +1,29 @@
+{
+ "id": "S10_06-00-364_P6_45100",
+ "split": "test",
+ "session": 10,
+ "seg": "06-00-364",
+ "seg_start_s": 360.364,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "So, I don't have actually [H] enough [H] baby girls. [H] Recently just got a lot of [H] boys. Would you like to swap?",
+ "start_s": 45.1,
+ "end_s": 54.6,
+ "dur": 9.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 184000,
+ "overlap": true,
+ "ovl_frac": 0.989,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.04565790368360467,
+ "align_how": "minute_line",
+ "az_ref_mean": -2.95,
+ "el_ref_mean": 5.16,
+ "az_ref_range": 13.54,
+ "doa_valid_frac": 1.0
+}

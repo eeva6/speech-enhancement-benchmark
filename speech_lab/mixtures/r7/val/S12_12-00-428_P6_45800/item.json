@@ -1,0 +1,29 @@
+{
+ "id": "S12_12-00-428_P6_45800",
+ "split": "val",
+ "session": 12,
+ "seg": "12-00-428",
+ "seg_start_s": 720.428,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Is it truth liar truth liar? ",
+ "start_s": 45.8,
+ "end_s": 48.15,
+ "dur": 2.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 69600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.08972678915597498,
+ "align_how": "minute_line",
+ "az_ref_mean": -56.16,
+ "el_ref_mean": 10.09,
+ "az_ref_range": 12.0,
+ "doa_valid_frac": 1.0
+}

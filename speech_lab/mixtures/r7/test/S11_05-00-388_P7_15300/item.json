@@ -1,0 +1,29 @@
+{
+ "id": "S11_05-00-388_P7_15300",
+ "split": "test",
+ "session": 11,
+ "seg": "05-00-388",
+ "seg_start_s": 300.388,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "N- [L] No. I think regular water is fine.",
+ "start_s": 15.3,
+ "end_s": 17.75,
+ "dur": 2.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 71200,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.017050625956471777,
+ "align_how": "session_slope",
+ "az_ref_mean": -31.47,
+ "el_ref_mean": -5.7,
+ "az_ref_range": 35.31,
+ "doa_valid_frac": 1.0
+}

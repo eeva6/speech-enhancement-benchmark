@@ -1,0 +1,29 @@
+{
+ "id": "S4_30-00-679_P7_12550",
+ "split": "val",
+ "session": 4,
+ "seg": "30-00-679",
+ "seg_start_s": 1800.679,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Turn my phone on sleep.",
+ "start_s": 12.55,
+ "end_s": 14.2,
+ "dur": 1.65,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 58400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 12.5,
+ "align_res_absmed_ms": 0.03514154195727315,
+ "align_how": "minute_line",
+ "az_ref_mean": -31.59,
+ "el_ref_mean": -12.05,
+ "az_ref_range": 14.21,
+ "doa_valid_frac": 1.0
+}

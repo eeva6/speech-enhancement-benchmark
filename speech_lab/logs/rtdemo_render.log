@@ -1,0 +1,38 @@
+sim_street wall 2.5s for 16.0s audio, load [2.16, 2.32, 1.62]->[2.23, 2.33, 1.62]
+sim_restaurant wall 2.9s for 16.0s audio, load [2.23, 2.33, 1.62]->[2.23, 2.33, 1.62]
+libricss_ov40 wall 3.3s for 16.0s audio, load [2.23, 2.33, 1.62]->[2.29, 2.34, 1.63]
+easycom_s10 wall 3.9s for 16.0s audio, load [2.29, 2.34, 1.63]->[2.35, 2.35, 1.64]
+easycom_s11 wall 2.8s for 16.0s audio, load [2.35, 2.35, 1.64]->[2.35, 2.35, 1.64]
+web scenes: ['sim_street', 'sim_restaurant', 'libricss_ov40', 'easycom_s10', 'easycom_s11']
+sim_street anc_sim {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+sim_street hs_ds {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+sim_street hs_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+sim_street hyb_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+sim_street raw {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+sim_street trk_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+sim_restaurant anc_sim {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+sim_restaurant hs_ds {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+sim_restaurant hs_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+sim_restaurant hyb_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+sim_restaurant raw {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+sim_restaurant trk_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+libricss_ov40 anc_sim {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+libricss_ov40 hs_ds {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+libricss_ov40 hs_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+libricss_ov40 hyb_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+libricss_ov40 raw {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+libricss_ov40 trk_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+easycom_s10 anc_sim {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+easycom_s10 ear {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+easycom_s10 hs_ds {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+easycom_s10 hs_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+easycom_s10 hyb_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+easycom_s10 raw {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+easycom_s10 trk_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+easycom_s11 anc_sim {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+easycom_s11 ear {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+easycom_s11 hs_ds {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+easycom_s11 hs_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+easycom_s11 hyb_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+easycom_s11 raw {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}
+easycom_s11 trk_sd4 {'bit_identical': True, 'max_abs_diff': 0.0, 'check': 'mode alone, fresh engine, lazily designed weights vs all-modes render with precomputed table'}

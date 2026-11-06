@@ -1,0 +1,29 @@
+{
+ "id": "S12_04-00-332_P6_53150",
+ "split": "val",
+ "session": 12,
+ "seg": "04-00-332",
+ "seg_start_s": 240.332,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "But I would like it well done.",
+ "start_s": 53.15,
+ "end_s": 54.95,
+ "dur": 1.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 60800,
+ "overlap": true,
+ "ovl_frac": 0.5,
+ "t_since_turn_onset": 4.85,
+ "align_res_absmed_ms": 0.029398696824500803,
+ "align_how": "minute_line",
+ "az_ref_mean": -4.63,
+ "el_ref_mean": 10.45,
+ "az_ref_range": 8.61,
+ "doa_valid_frac": 1.0
+}

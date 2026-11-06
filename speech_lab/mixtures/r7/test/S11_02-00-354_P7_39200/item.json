@@ -1,0 +1,29 @@
+{
+ "id": "S11_02-00-354_P7_39200",
+ "split": "test",
+ "session": 11,
+ "seg": "02-00-354",
+ "seg_start_s": 120.354,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "5"
+ ],
+ "target": "other",
+ "text": "What about you, Oliver?",
+ "start_s": 39.2,
+ "end_s": 40.25,
+ "dur": 1.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 48800,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 6.85,
+ "align_res_absmed_ms": 0.25025277864187956,
+ "align_how": "minute_line",
+ "az_ref_mean": -37.41,
+ "el_ref_mean": 4.95,
+ "az_ref_range": 10.51,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S12_14-00-450_P4_16850",
+ "split": "val",
+ "session": 12,
+ "seg": "14-00-450",
+ "seg_start_s": 840.45,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Oh! N- n- n- n- no, but- but that doesn't tell us anything about which door, right? So",
+ "start_s": 16.85,
+ "end_s": 21.85,
+ "dur": 5.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 112000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.09052265522768721,
+ "align_how": "minute_line",
+ "az_ref_mean": 10.21,
+ "el_ref_mean": 8.36,
+ "az_ref_range": 5.24,
+ "doa_valid_frac": 1.0
+}

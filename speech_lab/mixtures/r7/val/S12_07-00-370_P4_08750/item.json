@@ -1,0 +1,29 @@
+{
+ "id": "S12_07-00-370_P4_08750",
+ "split": "val",
+ "session": 12,
+ "seg": "07-00-370",
+ "seg_start_s": 420.37,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So, so I said Charlie senior,",
+ "start_s": 8.75,
+ "end_s": 12.0,
+ "dur": 3.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 84000,
+ "overlap": true,
+ "ovl_frac": 0.662,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.22835302661405876,
+ "align_how": "minute_line",
+ "az_ref_mean": 18.09,
+ "el_ref_mean": 7.05,
+ "az_ref_range": 23.2,
+ "doa_valid_frac": 1.0
+}

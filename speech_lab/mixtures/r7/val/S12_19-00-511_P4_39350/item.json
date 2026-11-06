@@ -1,0 +1,29 @@
+{
+ "id": "S12_19-00-511_P4_39350",
+ "split": "val",
+ "session": 12,
+ "seg": "19-00-511",
+ "seg_start_s": 1140.511,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "[H]",
+ "start_s": 39.35,
+ "end_s": 41.0,
+ "dur": 1.65,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 58400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.24076204863376915,
+ "align_how": "minute_line",
+ "az_ref_mean": 6.17,
+ "el_ref_mean": 2.18,
+ "az_ref_range": 42.15,
+ "doa_valid_frac": 0.97
+}

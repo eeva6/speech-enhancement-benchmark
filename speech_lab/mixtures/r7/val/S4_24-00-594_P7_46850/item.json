@@ -1,0 +1,29 @@
+{
+ "id": "S4_24-00-594_P7_46850",
+ "split": "val",
+ "session": 4,
+ "seg": "24-00-594",
+ "seg_start_s": 1440.594,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "The tag on the glasses?",
+ "start_s": 46.85,
+ "end_s": 48.2,
+ "dur": 1.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 53600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 1.3897661119699478,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -21.06,
+ "el_ref_mean": 3.89,
+ "az_ref_range": 3.91,
+ "doa_valid_frac": 1.0
+}

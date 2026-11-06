@@ -1,0 +1,29 @@
+{
+ "id": "S4_28-00-637_P4_01700",
+ "split": "val",
+ "session": 4,
+ "seg": "28-00-637",
+ "seg_start_s": 1680.637,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "How many ounces in a cup?",
+ "start_s": 1.7,
+ "end_s": 3.6,
+ "dur": 1.9,
+ "ctx_s": 1.7,
+ "utt_offset_samples": 27200,
+ "n_samples": 57600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.007224587534437887,
+ "align_how": "minute_line",
+ "az_ref_mean": -8.19,
+ "el_ref_mean": -1.69,
+ "az_ref_range": 14.11,
+ "doa_valid_frac": 1.0
+}

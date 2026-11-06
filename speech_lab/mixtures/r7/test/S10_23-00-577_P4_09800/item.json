@@ -1,0 +1,29 @@
+{
+ "id": "S10_23-00-577_P4_09800",
+ "split": "test",
+ "session": 10,
+ "seg": "23-00-577",
+ "seg_start_s": 1380.577,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Okay. Not oddly shaped. [H] Shaped.",
+ "start_s": 9.8,
+ "end_s": 12.6,
+ "dur": 2.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 76800,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.30137485009618104,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 30.4,
+ "el_ref_mean": 1.62,
+ "az_ref_range": 99.31,
+ "doa_valid_frac": 1.0
+}

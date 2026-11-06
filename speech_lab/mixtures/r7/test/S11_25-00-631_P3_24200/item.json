@@ -1,0 +1,30 @@
+{
+ "id": "S11_25-00-631_P3_24200",
+ "split": "test",
+ "session": 11,
+ "seg": "25-00-631",
+ "seg_start_s": 1500.631,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "5",
+  "2"
+ ],
+ "target": "wearer",
+ "text": "The- the light on his glasses? On her glasses. Excuse me.",
+ "start_s": 24.2,
+ "end_s": 28.7,
+ "dur": 4.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 104000,
+ "overlap": true,
+ "ovl_frac": 0.3,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.01973686448764056,
+ "align_how": "session_slope",
+ "az_ref_mean": 50.44,
+ "el_ref_mean": 6.87,
+ "az_ref_range": 174.7,
+ "doa_valid_frac": 1.0
+}

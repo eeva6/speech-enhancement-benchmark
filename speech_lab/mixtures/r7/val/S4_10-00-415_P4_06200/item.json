@@ -1,0 +1,29 @@
+{
+ "id": "S4_10-00-415_P4_06200",
+ "split": "val",
+ "session": 4,
+ "seg": "10-00-415",
+ "seg_start_s": 600.415,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Yeah. It's some- it's something like using the- the five minus the three gives you two liters right so if you like-",
+ "start_s": 6.2,
+ "end_s": 14.0,
+ "dur": 7.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 156800,
+ "overlap": true,
+ "ovl_frac": 0.66,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.1445249654352665,
+ "align_how": "minute_line",
+ "az_ref_mean": 14.39,
+ "el_ref_mean": 4.28,
+ "az_ref_range": 79.22,
+ "doa_valid_frac": 1.0
+}

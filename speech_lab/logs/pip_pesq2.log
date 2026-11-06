@@ -1,0 +1,16 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting pesq
+  Downloading pesq-0.0.4.tar.gz (38 kB)
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: pesq
+  Building wheel for pesq (pyproject.toml): started
+  Building wheel for pesq (pyproject.toml): finished with status 'done'
+  Created wheel for pesq: filename=pesq-0.0.4-cp312-cp312-linux_aarch64.whl size=269509 sha256=8ce8e4cd56b66af3cfa200a924b694e2980005f2ef210cd1d392a7c0097db4b1
+  Stored in directory: /tmp/pip-ephem-wheel-cache-0jpc_6vv/wheels/9b/d4/a4/9cf3512534cd47ce4a036d1593ee4013f2bf7509e631a147a3
+Successfully built pesq
+Installing collected packages: pesq
+Successfully installed pesq-0.0.4
+
+[notice] A new release of pip is available: 25.0.1 -> 26.2.1
+[notice] To update, run: pip install --upgrade pip

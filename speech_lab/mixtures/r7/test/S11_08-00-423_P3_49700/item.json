@@ -1,0 +1,29 @@
+{
+ "id": "S11_08-00-423_P3_49700",
+ "split": "test",
+ "session": 11,
+ "seg": "08-00-423",
+ "seg_start_s": 480.423,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "They can be whatever you want.",
+ "start_s": 49.7,
+ "end_s": 50.9,
+ "dur": 1.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 51200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.07202931010397151,
+ "align_how": "minute_line",
+ "az_ref_mean": 30.54,
+ "el_ref_mean": 2.52,
+ "az_ref_range": 2.28,
+ "doa_valid_frac": 1.0
+}

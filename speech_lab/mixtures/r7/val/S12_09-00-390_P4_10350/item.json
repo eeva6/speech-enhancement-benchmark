@@ -1,0 +1,29 @@
+{
+ "id": "S12_09-00-390_P4_10350",
+ "split": "val",
+ "session": 12,
+ "seg": "09-00-390",
+ "seg_start_s": 540.39,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I just know all of these. This is not like I'm thinking on my feet, right? So. Yeah. ",
+ "start_s": 10.35,
+ "end_s": 16.2,
+ "dur": 5.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 125600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0840919601614587,
+ "align_how": "minute_line",
+ "az_ref_mean": 28.23,
+ "el_ref_mean": 10.94,
+ "az_ref_range": 47.28,
+ "doa_valid_frac": 1.0
+}

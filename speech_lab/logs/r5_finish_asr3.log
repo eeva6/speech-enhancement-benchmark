@@ -1,0 +1,36 @@
+== 04:40:45 --tag r5 --methods noisy,mvdr_online_est,deepfilternet3,tse,ds_est,mvdr_online_est_dfn3,mvdr_online_est_tse --items sub48
+ASR: 0 
+== 04:40:49 --tag r5sim --methods noisy,ds_est,mvdr_online_est,deepfilternet3,tse --items sub48
+ASR: 98 
+== 04:47:01 --tag r5 --methods ref_image --items sub48
+ASR: 30 
+== 04:49:00 --tag r5sim --methods ref_image --items sub48
+ASR: 48 
+== 04:53:17 --tag r5ctx --methods noisy,noisy_cut,mvdr_online_est,mvdr_online_est_cut,tse,tse_cut
+ASR: 0 
+== 04:53:26 --tag r5 --methods tse_dryenrol --items sub48
+ASR: 0 
+== 04:54:34 --tag r5 --methods noisy,mvdr_online_est,deepfilternet3,tse,ds_est,mvdr_online_est_dfn3,mvdr_online_est_tse --items sub48
+ASR: 78 
+== 05:02:16 --tag r5sim --methods noisy,ds_est,mvdr_online_est,deepfilternet3,tse --items sub48
+ASR: 52 
+== 05:06:42 --tag r5 --methods ref_image --items sub48
+ASR: 0 
+== 05:06:46 --tag r5sim --methods ref_image --items sub48
+ASR: 0 
+== 05:06:49 --tag r5ctx --methods noisy,noisy_cut,mvdr_online_est,mvdr_online_est_cut,tse,tse_cut
+ASR: 0 
+== 05:06:53 --tag r5 --methods tse_dryenrol --items sub48
+ASR: 0 
+== 05:07:56 --tag r5 --methods noisy,mvdr_online_est,deepfilternet3,tse,ds_est,mvdr_online_est_dfn3,mvdr_online_est_tse --items sub48
+ASR: 66 
+== 05:17:14 --tag r5sim --methods noisy,ds_est,mvdr_online_est,deepfilternet3,tse --items sub48
+ASR: 48 
+== 05:21:45 --tag r5 --methods ref_image --items sub48
+ASR: 0 
+== 05:21:48 --tag r5sim --methods ref_image --items sub48
+ASR: 0 
+== 05:21:50 --tag r5ctx --methods noisy,noisy_cut,mvdr_online_est,mvdr_online_est_cut,tse,tse_cut
+ASR: 11 
+== 05:22:30 --tag r5 --methods tse_dryenrol --items sub48
+ASR: 0 

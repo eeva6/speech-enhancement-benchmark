@@ -1,0 +1,29 @@
+{
+ "id": "S11_24-00-623_P3_21500",
+ "split": "test",
+ "session": 11,
+ "seg": "24-00-623",
+ "seg_start_s": 1440.623,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "Is it the zipper on this jacket again?",
+ "start_s": 21.5,
+ "end_s": 23.05,
+ "dur": 1.55,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 56800,
+ "overlap": true,
+ "ovl_frac": 0.129,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 108.57,
+ "el_ref_mean": -8.6,
+ "az_ref_range": 35.51,
+ "doa_valid_frac": 1.0
+}

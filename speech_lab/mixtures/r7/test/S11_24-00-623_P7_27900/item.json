@@ -1,0 +1,29 @@
+{
+ "id": "S11_24-00-623_P7_27900",
+ "split": "test",
+ "session": 11,
+ "seg": "24-00-623",
+ "seg_start_s": 1440.623,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "5"
+ ],
+ "target": "other",
+ "text": "Yeah. [L]",
+ "start_s": 27.9,
+ "end_s": 31.4,
+ "dur": 3.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 88000,
+ "overlap": true,
+ "ovl_frac": 0.729,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.14373181329574436,
+ "align_how": "minute_line",
+ "az_ref_mean": -155.02,
+ "el_ref_mean": 15.27,
+ "az_ref_range": 163.66,
+ "doa_valid_frac": 1.0
+}

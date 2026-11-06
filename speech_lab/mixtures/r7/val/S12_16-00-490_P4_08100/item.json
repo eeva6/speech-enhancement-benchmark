@@ -1,0 +1,29 @@
+{
+ "id": "S12_16-00-490_P4_08100",
+ "split": "val",
+ "session": 12,
+ "seg": "16-00-490",
+ "seg_start_s": 960.49,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "The famous physicist? Yeah. So, he had a story once where, when he went to MIT, as part of his frat, they had to solve these riddles and at some point he had heard everything under the sun. So, he would go meet these new people, right? Just like us, I suppose. And then they would ask him, and he wouldn't tell them that I've heard this, right? And they would think he was some sort of crazy genius, which he was, I guess. But he would just fake thinking for like five seconds and then just be like \"I got it\" and say the answer.",
+ "start_s": 8.1,
+ "end_s": 36.6,
+ "dur": 28.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 488000,
+ "overlap": true,
+ "ovl_frac": 0.482,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.23227569909067824,
+ "align_how": "minute_line",
+ "az_ref_mean": 13.01,
+ "el_ref_mean": 8.79,
+ "az_ref_range": 18.33,
+ "doa_valid_frac": 1.0
+}

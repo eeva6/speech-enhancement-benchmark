@@ -1,0 +1,18 @@
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s345 --methods ds_td_rt --suffix '' --fkw '{}'
+{"method": "ds_td_rt", "tag": "r5", "n_done": 0, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s345 --methods sd4_rt --suffix 'w6' --fkw '{"wng_db": 6.0}'
+{"method": "sd4_rt__w6", "tag": "r5", "n_done": 0, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s345 --methods sd8_rt --suffix '' --fkw '{}'
+{"method": "sd8_rt", "tag": "r5", "n_done": 0, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s345 --methods ds_td_ref --suffix '' --fkw '{}'
+{"method": "ds_td_ref", "tag": "r5", "n_done": 0, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s345 --methods sd4_ref --suffix 'w6' --fkw '{"wng_db": 6.0}'
+{"method": "sd4_ref__w6", "tag": "r5", "n_done": 0, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.run_r6 --tag r5 --items s345 --methods sd8_ref --suffix '' --fkw '{}'
+{"method": "sd8_ref", "tag": "r5", "n_done": 0, "n_fail": 0}
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.score_r6 --tag r5 --items s345 --asr --methods noisy,ds_est,ds_td_rt,sd4_rt__w6,sd8_rt,ds_td_ref,sd4_ref__w6,sd8_ref --shard 1 --nshard 2
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.score_r6 --tag r5 --items s345 --asr --methods noisy,ds_est,ds_td_rt,sd4_rt__w6,sd8_rt,ds_td_ref,sd4_ref__w6,sd8_ref --shard 0 --nshard 2
+ASR: 146
+ASR: 146
+ASR: 144
+ASR: 144

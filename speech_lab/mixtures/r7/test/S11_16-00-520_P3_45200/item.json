@@ -1,0 +1,29 @@
+{
+ "id": "S11_16-00-520_P3_45200",
+ "split": "test",
+ "session": 11,
+ "seg": "16-00-520",
+ "seg_start_s": 960.52,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Oh! That would be- that would be a lot easier then, right? For your- for your running west, you just stay in the same place. [L] Skip- You skip a mile of the run. [L] Alright.",
+ "start_s": 45.2,
+ "end_s": 53.55,
+ "dur": 8.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 165600,
+ "overlap": true,
+ "ovl_frac": 0.299,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.02951199348899536,
+ "align_how": "minute_line",
+ "az_ref_mean": 35.57,
+ "el_ref_mean": 8.28,
+ "az_ref_range": 34.75,
+ "doa_valid_frac": 1.0
+}

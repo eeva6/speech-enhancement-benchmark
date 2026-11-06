@@ -1,0 +1,29 @@
+{
+ "id": "S4_19-00-532_P6_21450",
+ "split": "val",
+ "session": 4,
+ "seg": "19-00-532",
+ "seg_start_s": 1140.532,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "You can ask: is the other guy a liar?",
+ "start_s": 21.45,
+ "end_s": 24.2,
+ "dur": 2.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 76000,
+ "overlap": true,
+ "ovl_frac": 0.055,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03946890683437232,
+ "align_how": "minute_line",
+ "az_ref_mean": -33.44,
+ "el_ref_mean": 8.96,
+ "az_ref_range": 23.76,
+ "doa_valid_frac": 1.0
+}

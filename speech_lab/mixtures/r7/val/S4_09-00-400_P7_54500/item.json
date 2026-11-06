@@ -1,0 +1,29 @@
+{
+ "id": "S4_09-00-400_P7_54500",
+ "split": "val",
+ "session": 4,
+ "seg": "09-00-400",
+ "seg_start_s": 540.4,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Oh. Well, you can- you have a-",
+ "start_s": 54.5,
+ "end_s": 56.85,
+ "dur": 2.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 69600,
+ "overlap": true,
+ "ovl_frac": 0.489,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.10677761019906029,
+ "align_how": "minute_line",
+ "az_ref_mean": -32.71,
+ "el_ref_mean": -5.41,
+ "az_ref_range": 22.3,
+ "doa_valid_frac": 1.0
+}

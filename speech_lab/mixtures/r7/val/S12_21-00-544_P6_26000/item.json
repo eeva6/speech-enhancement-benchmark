@@ -1,0 +1,29 @@
+{
+ "id": "S12_21-00-544_P6_26000",
+ "split": "val",
+ "session": 12,
+ "seg": "21-00-544",
+ "seg_start_s": 1260.544,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "No. It is not Harry's watch.",
+ "start_s": 26.0,
+ "end_s": 28.6,
+ "dur": 2.6,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 73600,
+ "overlap": true,
+ "ovl_frac": 0.346,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03495043711154722,
+ "align_how": "minute_line",
+ "az_ref_mean": -57.25,
+ "el_ref_mean": 1.7,
+ "az_ref_range": 39.04,
+ "doa_valid_frac": 1.0
+}

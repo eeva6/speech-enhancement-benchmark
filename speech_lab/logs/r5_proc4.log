@@ -1,0 +1,13 @@
+== r5 noisy
+{"method": "noisy", "n": 0, "note": "nothing to do"}
+== r5 rnnoise
+{"method": "rnnoise", "n": 0, "note": "nothing to do"}
+== r5 deepfilternet3
+{"method": "deepfilternet3", "n": 0, "note": "nothing to do"}
+== r5 tse
+{"method": "tse", "tag": "r5", "n": 24, "n_fail": 0, "rtf": 3.886161541646384}
+== r5 ds_est
+{"method": "ds_est", "n": 0, "note": "nothing to do"}
+== r5 mvdr_online_est
+{"method": "mvdr_online_est", "n": 0, "note": "nothing to do"}
+== r5 mvdr_online_dir_est

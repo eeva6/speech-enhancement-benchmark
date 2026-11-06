@@ -1,0 +1,29 @@
+{
+ "id": "S4_26-00-615_P3_10950",
+ "split": "val",
+ "session": 4,
+ "seg": "26-00-615",
+ "seg_start_s": 1560.615,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "What's the local news for Wellsborough?",
+ "start_s": 10.95,
+ "end_s": 13.95,
+ "dur": 3.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 80000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03364003714523278,
+ "align_how": "minute_line",
+ "az_ref_mean": 4.17,
+ "el_ref_mean": 1.04,
+ "az_ref_range": 2.25,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_20-00-540_P3_22500",
+ "split": "val",
+ "session": 4,
+ "seg": "20-00-540",
+ "seg_start_s": 1200.54,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Is this like twenty questions?",
+ "start_s": 22.5,
+ "end_s": 24.25,
+ "dur": 1.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 60000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.2908965980168432,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 21.12,
+ "el_ref_mean": -7.31,
+ "az_ref_range": 33.47,
+ "doa_valid_frac": 1.0
+}

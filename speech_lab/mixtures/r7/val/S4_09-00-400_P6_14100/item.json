@@ -1,0 +1,29 @@
+{
+ "id": "S4_09-00-400_P6_14100",
+ "split": "val",
+ "session": 4,
+ "seg": "09-00-400",
+ "seg_start_s": 540.4,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Yes! A really bad construction worker. [L]",
+ "start_s": 14.1,
+ "end_s": 18.55,
+ "dur": 4.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 103200,
+ "overlap": true,
+ "ovl_frac": 0.865,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.1888180704554543,
+ "align_how": "minute_line",
+ "az_ref_mean": -31.4,
+ "el_ref_mean": -0.32,
+ "az_ref_range": 58.55,
+ "doa_valid_frac": 1.0
+}

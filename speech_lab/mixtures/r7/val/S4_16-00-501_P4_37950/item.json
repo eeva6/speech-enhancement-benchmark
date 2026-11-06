@@ -1,0 +1,29 @@
+{
+ "id": "S4_16-00-501_P4_37950",
+ "split": "val",
+ "session": 4,
+ "seg": "16-00-501",
+ "seg_start_s": 960.501,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "3"
+ ],
+ "target": "other",
+ "text": "Polar? He's at the North Pole or something?",
+ "start_s": 37.95,
+ "end_s": 40.0,
+ "dur": 2.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 64800,
+ "overlap": true,
+ "ovl_frac": 0.171,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.008043814887059852,
+ "align_how": "minute_line",
+ "az_ref_mean": 9.1,
+ "el_ref_mean": 15.28,
+ "az_ref_range": 4.37,
+ "doa_valid_frac": 1.0
+}

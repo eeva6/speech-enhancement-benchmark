@@ -1,0 +1,47 @@
+{
+ "frozen": [
+  {
+   "method": "ds_td_rt",
+   "suffix": "",
+   "fkw": {},
+   "cls": "<=5 ms"
+  },
+  {
+   "method": "sd4_rt",
+   "suffix": "w6",
+   "fkw": {
+    "wng_db": 6.0
+   },
+   "cls": "<=5 ms STFT beamformer"
+  },
+  {
+   "method": "sd8_rt",
+   "suffix": "",
+   "fkw": {},
+   "cls": "<=10 ms STFT beamformer"
+  }
+ ],
+ "extras": [
+  {
+   "method": "ds_td_ref",
+   "suffix": "",
+   "fkw": {},
+   "cls": "upper bound"
+  },
+  {
+   "method": "sd4_ref",
+   "suffix": "w6",
+   "fkw": {
+    "wng_db": 6.0
+   },
+   "cls": "upper bound"
+  },
+  {
+   "method": "sd8_ref",
+   "suffix": "",
+   "fkw": {},
+   "cls": "upper bound"
+  }
+ ],
+ "rule": "per latency class (<=5 ms, <=10 ms) and, separately, within the STFT-beamformer family: max mean d word-correct vs unprocessed on overlapped sessions 0-2 items, subject to 0S delta >= -0.02 (the <=10 ms family pick is the best 8-ms config)"
+}

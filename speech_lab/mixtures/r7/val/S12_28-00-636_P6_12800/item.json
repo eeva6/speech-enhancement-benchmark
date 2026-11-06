@@ -1,0 +1,29 @@
+{
+ "id": "S12_28-00-636_P6_12800",
+ "split": "val",
+ "session": 12,
+ "seg": "28-00-636",
+ "seg_start_s": 1680.636,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "How many points did LeBron James score last night?",
+ "start_s": 12.8,
+ "end_s": 15.8,
+ "dur": 3.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 80000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 12.75,
+ "align_res_absmed_ms": 0.005310205779096577,
+ "align_how": "session_slope",
+ "az_ref_mean": -27.88,
+ "el_ref_mean": 2.45,
+ "az_ref_range": 0.71,
+ "doa_valid_frac": 1.0
+}

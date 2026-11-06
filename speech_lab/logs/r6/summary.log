@@ -1,0 +1,42 @@
+Matplotlib is building the font cache; this may take a moment.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/selab/summary_r6.py", line 228, in <module>
+    main()
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/selab/summary_r6.py", line 214, in main
+    fig.tight_layout(); fig.savefig(FIG / "panel_forest_ov.png", dpi=150); plt.close(fig)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/matplotlib/figure.py", line 3515, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/matplotlib/backend_bases.py", line 2257, in print_figure
+    self.figure.draw(renderer)
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/matplotlib/artist.py", line 94, in draw_wrapper
+    result = draw(artist, renderer, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/matplotlib/artist.py", line 71, in draw_wrapper
+    return draw(artist, renderer)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/matplotlib/figure.py", line 3282, in draw
+    mimage._draw_list_compositing_images(
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/matplotlib/image.py", line 133, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/matplotlib/artist.py", line 71, in draw_wrapper
+    return draw(artist, renderer)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/matplotlib/axes/_base.py", line 3372, in draw
+    mimage._draw_list_compositing_images(
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/matplotlib/image.py", line 133, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/matplotlib/artist.py", line 71, in draw_wrapper
+    return draw(artist, renderer)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/matplotlib/lines.py", line 855, in draw
+    ec_rgba = mcolors.to_rgba(
+              ^^^^^^^^^^^^^^^^
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/matplotlib/colors.py", line 353, in to_rgba
+    rgba = _to_rgba_no_colorcycle(c, alpha)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/matplotlib/colors.py", line 430, in _to_rgba_no_colorcycle
+    raise ValueError("RGBA sequence should have length 3 or 4")
+ValueError: RGBA sequence should have length 3 or 4

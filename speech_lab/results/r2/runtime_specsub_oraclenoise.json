@@ -1,0 +1,17 @@
+{
+ "method": "specsub_oraclenoise",
+ "tag": "r2",
+ "n": 180,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 0.0159620210000071,
+ "mean_proc_s": 0.01185112099441236,
+ "rtf": 0.0020513876959927855,
+ "peak_rss_mb": 269.71484375,
+ "rss_before_mb": 246.1875,
+ "n_params": null,
+ "noise_psd": "oracle",
+ "infos": {},
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

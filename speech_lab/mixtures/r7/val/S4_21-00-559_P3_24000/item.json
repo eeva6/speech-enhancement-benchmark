@@ -1,0 +1,29 @@
+{
+ "id": "S4_21-00-559_P3_24000",
+ "split": "val",
+ "session": 4,
+ "seg": "21-00-559",
+ "seg_start_s": 1260.559,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "[H] Do- do- Ca- can you ask, like, is it bigger than a breadbox?",
+ "start_s": 24.0,
+ "end_s": 28.3,
+ "dur": 4.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 100800,
+ "overlap": true,
+ "ovl_frac": 0.291,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03605852180044167,
+ "align_how": "session_slope",
+ "az_ref_mean": 29.96,
+ "el_ref_mean": -2.47,
+ "az_ref_range": 54.03,
+ "doa_valid_frac": 1.0
+}

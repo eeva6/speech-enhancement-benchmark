@@ -1,0 +1,17 @@
+{
+ "method": "specsub",
+ "tag": "r1",
+ "n": 192,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 0.018421520999936547,
+ "mean_proc_s": 0.013036989680621688,
+ "rtf": 0.0022522499561308832,
+ "peak_rss_mb": 269.32421875,
+ "rss_before_mb": 248.4375,
+ "n_params": null,
+ "noise_psd": "ms",
+ "infos": {},
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

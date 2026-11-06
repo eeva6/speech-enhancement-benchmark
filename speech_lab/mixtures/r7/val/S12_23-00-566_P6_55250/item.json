@@ -1,0 +1,29 @@
+{
+ "id": "S12_23-00-566_P6_55250",
+ "split": "val",
+ "session": 12,
+ "seg": "23-00-566",
+ "seg_start_s": 1380.566,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I don't think so. [L] Not that I know of. Yea-. [X]",
+ "start_s": 55.25,
+ "end_s": 60.05,
+ "dur": 4.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 108800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.06656870391452685,
+ "align_how": "minute_line",
+ "az_ref_mean": -44.27,
+ "el_ref_mean": 10.97,
+ "az_ref_range": 68.8,
+ "doa_valid_frac": 1.0
+}

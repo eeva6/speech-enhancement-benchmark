@@ -1,0 +1,30 @@
+{
+ "id": "S11_16-00-520_P7_51650",
+ "split": "test",
+ "session": 11,
+ "seg": "16-00-520",
+ "seg_start_s": 960.52,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group",
+  "3"
+ ],
+ "target": "group",
+ "text": "That doesn't count! [L] Alright. If you had a five liter bowl, and a three liter bowl, and an unlimited access to water, [X]",
+ "start_s": 51.65,
+ "end_s": 60.05,
+ "dur": 8.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 166400,
+ "overlap": true,
+ "ovl_frac": 0.226,
+ "t_since_turn_onset": 1.55,
+ "align_res_absmed_ms": 0.03634043605416082,
+ "align_how": "minute_line",
+ "az_ref_mean": -42.37,
+ "el_ref_mean": -2.59,
+ "az_ref_range": 66.69,
+ "doa_valid_frac": 1.0
+}

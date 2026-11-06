@@ -1,0 +1,29 @@
+{
+ "id": "S4_23-00-578_P3_01200",
+ "split": "val",
+ "session": 4,
+ "seg": "23-00-578",
+ "seg_start_s": 1380.578,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "I just picked the thing that was directly in front of me.",
+ "start_s": 1.2,
+ "end_s": 3.1,
+ "dur": 1.9,
+ "ctx_s": 1.2,
+ "utt_offset_samples": 19200,
+ "n_samples": 49600,
+ "overlap": true,
+ "ovl_frac": 0.053,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.016553500245208852,
+ "align_how": "minute_line",
+ "az_ref_mean": 43.08,
+ "el_ref_mean": -0.12,
+ "az_ref_range": 82.24,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_29-00-654_P7_51900",
+ "split": "val",
+ "session": 4,
+ "seg": "29-00-654",
+ "seg_start_s": 1740.654,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Make a reminder for doctors appointment on Tuesday.",
+ "start_s": 51.9,
+ "end_s": 54.95,
+ "dur": 3.05,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 80800,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 2.5,
+ "align_res_absmed_ms": 0.19905405497411266,
+ "align_how": "session_slope",
+ "az_ref_mean": -63.76,
+ "el_ref_mean": -4.56,
+ "az_ref_range": 14.8,
+ "doa_valid_frac": 1.0
+}

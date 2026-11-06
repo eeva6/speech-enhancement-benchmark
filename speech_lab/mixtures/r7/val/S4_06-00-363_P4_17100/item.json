@@ -1,0 +1,29 @@
+{
+ "id": "S4_06-00-363_P4_17100",
+ "split": "val",
+ "session": 4,
+ "seg": "06-00-363",
+ "seg_start_s": 360.363,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Got it. Got it. Okay. I trust you.",
+ "start_s": 17.1,
+ "end_s": 19.35,
+ "dur": 2.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 68000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.7515556644648314,
+ "align_how": "session_slope",
+ "az_ref_mean": 5.3,
+ "el_ref_mean": 8.85,
+ "az_ref_range": 49.49,
+ "doa_valid_frac": 1.0
+}

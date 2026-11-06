@@ -1,0 +1,21 @@
+     |                                    |
+     |                                    the lifetime is elided here
+     |
+     = help: the same lifetime is referred to in inconsistent ways, making the signature confusing
+help: use `'_` for type paths
+     |
+1069 | pub fn tvalue_to_array_view_mut(x: &mut TValue) -> ArrayViewMutD<'_, f32> {
+     |                                                                  +++
+
+warning: linker stderr: ignoring deprecated linker optimization setting "1"
+  |
+  = note: `#[warn(linker_messages)]` on by default
+
+warning: `deep_filter` (lib) generated 5 warnings (run `cargo fix --lib -p deep_filter` to apply 4 suggestions)
+    Finished `release` profile [optimized] target(s) in 10m 19s
+cp: cannot stat '/tmp/df_target/release/deep-filter': No such file or directory
+total 35620
+drwxr-xr-x 2 sandbox sandbox     4096 Oct 22 05:53 .
+drwxr-xr-x 4 sandbox sandbox     4096 Oct 22 02:40 ..
+-rwxr-xr-x 1 sandbox sandbox 23291640 Oct 22 03:59 deep-filter
+-rwxr-xr-x 1 sandbox sandbox 13174120 Oct 22 05:53 libdf.so

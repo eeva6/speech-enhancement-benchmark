@@ -1,0 +1,29 @@
+{
+ "id": "S10_01-00-304_P6_04800",
+ "split": "test",
+ "session": 10,
+ "seg": "01-00-304",
+ "seg_start_s": 60.304,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Should we tell him? Her!",
+ "start_s": 4.8,
+ "end_s": 7.1,
+ "dur": 2.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 68800,
+ "overlap": true,
+ "ovl_frac": 0.63,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.038386890082620084,
+ "align_how": "minute_line",
+ "az_ref_mean": -21.16,
+ "el_ref_mean": 4.63,
+ "az_ref_range": 15.68,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S12_25-00-593_P4_04000",
+ "split": "val",
+ "session": 12,
+ "seg": "25-00-593",
+ "seg_start_s": 1500.593,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I can't think of anything discrete.",
+ "start_s": 4.0,
+ "end_s": 8.5,
+ "dur": 4.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 104000,
+ "overlap": true,
+ "ovl_frac": 0.111,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.20906330610159785,
+ "align_how": "minute_line",
+ "az_ref_mean": -7.18,
+ "el_ref_mean": 0.75,
+ "az_ref_range": 38.69,
+ "doa_valid_frac": 0.989
+}

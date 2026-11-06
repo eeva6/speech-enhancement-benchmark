@@ -1,0 +1,29 @@
+{
+ "id": "S4_03-00-332_P3_48700",
+ "split": "val",
+ "session": 4,
+ "seg": "03-00-332",
+ "seg_start_s": 180.332,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "A sangria sounds delicious. Awesome.",
+ "start_s": 48.7,
+ "end_s": 51.25,
+ "dur": 2.55,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 72800,
+ "overlap": true,
+ "ovl_frac": 0.529,
+ "t_since_turn_onset": 2.4,
+ "align_res_absmed_ms": 0.07671591811231337,
+ "align_how": "minute_line",
+ "az_ref_mean": 46.79,
+ "el_ref_mean": -1.19,
+ "az_ref_range": 46.38,
+ "doa_valid_frac": 1.0
+}

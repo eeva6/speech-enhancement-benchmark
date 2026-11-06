@@ -1,0 +1,29 @@
+{
+ "id": "S4_20-00-540_P4_53900",
+ "split": "val",
+ "session": 4,
+ "seg": "20-00-540",
+ "seg_start_s": 1200.54,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "I think the person who got it.",
+ "start_s": 53.9,
+ "end_s": 55.1,
+ "dur": 1.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 51200,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.843343383166939,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 32.8,
+ "el_ref_mean": 6.83,
+ "az_ref_range": 35.91,
+ "doa_valid_frac": 1.0
+}

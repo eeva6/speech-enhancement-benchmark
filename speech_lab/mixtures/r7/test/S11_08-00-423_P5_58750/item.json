@@ -1,0 +1,29 @@
+{
+ "id": "S11_08-00-423_P5_58750",
+ "split": "test",
+ "session": 11,
+ "seg": "08-00-423",
+ "seg_start_s": 480.423,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Yeah I- I know the answer.",
+ "start_s": 58.75,
+ "end_s": 60.05,
+ "dur": 1.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 52800,
+ "overlap": true,
+ "ovl_frac": 0.154,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 8.4,
+ "el_ref_mean": 7.91,
+ "az_ref_range": 4.04,
+ "doa_valid_frac": 1.0
+}

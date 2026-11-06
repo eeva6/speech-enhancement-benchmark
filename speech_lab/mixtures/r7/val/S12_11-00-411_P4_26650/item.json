@@ -1,0 +1,29 @@
+{
+ "id": "S12_11-00-411_P4_26650",
+ "split": "val",
+ "session": 12,
+ "seg": "11-00-411",
+ "seg_start_s": 660.411,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "What if we just straight up asked them? Are you a lying cheat? Then- Are you a liar? So the truthful guy will say no. And the other one- Oh, would it- Oh, they'll both say no. And if you flip it they'll both say yes. Okay. That doesn't get us anywhere.",
+ "start_s": 26.65,
+ "end_s": 41.75,
+ "dur": 15.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 273600,
+ "overlap": true,
+ "ovl_frac": 0.387,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.1518580102128908,
+ "align_how": "session_slope",
+ "az_ref_mean": 12.78,
+ "el_ref_mean": 7.45,
+ "az_ref_range": 34.42,
+ "doa_valid_frac": 0.993
+}

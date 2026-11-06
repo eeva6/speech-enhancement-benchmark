@@ -1,0 +1,29 @@
+{
+ "id": "S11_16-00-520_P7_19800",
+ "split": "test",
+ "session": 11,
+ "seg": "16-00-520",
+ "seg_start_s": 960.52,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Oh. [L]",
+ "start_s": 19.8,
+ "end_s": 21.65,
+ "dur": 1.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 61600,
+ "overlap": true,
+ "ovl_frac": 0.108,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03634043605416082,
+ "align_how": "minute_line",
+ "az_ref_mean": -61.48,
+ "el_ref_mean": 6.4,
+ "az_ref_range": 1.31,
+ "doa_valid_frac": 1.0
+}

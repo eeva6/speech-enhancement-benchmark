@@ -1,0 +1,12 @@
+method,ood_competing,ood_reverb_rec_babble,rec_announcements,rec_babble,rec_hvac,rec_transient
+deepfilternet3,-0.113,0.037,0.178,0.158,0.225,0.133
+demucs_dns64,-0.128,0.001,0.266,0.264,0.241,0.158
+metricgan_plus,-0.075,-0.016,0.059,0.062,0.054,-0.032
+mmse_lsa,-0.017,-0.001,0.003,0.01,0.071,-0.004
+rnnoise,-0.052,-0.097,0.123,0.138,0.186,0.118
+tse_convtasnet_ecapa,0.333,0.008,0.256,0.268,0.21,0.12
+tse_convtasnet_oracle,0.333,0.032,0.256,0.268,0.202,0.12
+wiener_dd,-0.02,-0.003,0.001,0.009,0.068,-0.005
+wiener_stream16,-0.031,-0.016,-0.017,-0.009,0.024,-0.018
+wiener_stream32,-0.051,-0.026,-0.03,-0.017,0.025,-0.035
+wiener_stream8,-0.01,-0.009,-0.01,0.0,0.018,-0.01

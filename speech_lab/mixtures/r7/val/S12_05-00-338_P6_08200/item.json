@@ -1,0 +1,29 @@
+{
+ "id": "S12_05-00-338_P6_08200",
+ "split": "val",
+ "session": 12,
+ "seg": "05-00-338",
+ "seg_start_s": 300.338,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Oh wow. Merlot sounds delicious, thank you.",
+ "start_s": 8.2,
+ "end_s": 10.35,
+ "dur": 2.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 66400,
+ "overlap": true,
+ "ovl_frac": 0.488,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.11621892190305516,
+ "align_how": "minute_line",
+ "az_ref_mean": -14.43,
+ "el_ref_mean": 5.56,
+ "az_ref_range": 38.18,
+ "doa_valid_frac": 1.0
+}

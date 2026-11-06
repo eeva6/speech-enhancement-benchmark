@@ -1,0 +1,30 @@
+{
+ "id": "S4_08-00-381_P4_45950",
+ "split": "val",
+ "session": 4,
+ "seg": "08-00-381",
+ "seg_start_s": 480.381,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group",
+  "3"
+ ],
+ "target": "group",
+ "text": "This is- this is a dated puzzle. You're right about LEDs. They don't make any heat now, right? Yeah.",
+ "start_s": 45.95,
+ "end_s": 50.25,
+ "dur": 4.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 100800,
+ "overlap": true,
+ "ovl_frac": 0.453,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.3170176350977272,
+ "align_how": "minute_line",
+ "az_ref_mean": 11.64,
+ "el_ref_mean": 2.34,
+ "az_ref_range": 38.53,
+ "doa_valid_frac": 1.0
+}

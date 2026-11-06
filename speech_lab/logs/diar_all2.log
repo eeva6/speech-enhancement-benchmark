@@ -1,0 +1,387 @@
+== Sun Oct 25 17:39:25 UTC 2026 features ec_test lc_tune lc_test
+DONE
+== Sun Oct 25 17:39:27 UTC 2026 test (both)
+Matplotlib is building the font cache; this may take a moment.
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s3 A_spectral DER 0.022/0.058 cpWER 0.091
+lc_0S_s3 A_ahc DER 0.022/0.059 cpWER 0.093
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s3 A_spectral_oracleVAD DER 0.008/0.019 cpWER 0.088
+lc_0S_s3 A_ahc_oracleVAD DER 0.009/0.020 cpWER 0.092
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s3 A_spectral_oracleK DER 0.022/0.058 cpWER 0.091
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s3 B_spatial_spectral DER 0.016/0.049 cpWER 0.082
+lc_0S_s3 B_spatial_ahc DER 0.017/0.053 cpWER 0.091
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s3 B_spatial_spectral_oracleVAD DER 0.002/0.009 cpWER 0.074
+lc_0S_s3 platform DER 0.002/0.013 cpWER 0.071
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s4 A_spectral DER 0.024/0.056 cpWER 0.104
+lc_0S_s4 A_ahc DER 0.041/0.072 cpWER 0.125
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s4 A_spectral_oracleVAD DER 0.015/0.019 cpWER 0.099
+lc_0S_s4 A_ahc_oracleVAD DER 0.031/0.036 cpWER 0.119
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s4 A_spectral_oracleK DER 0.024/0.056 cpWER 0.104
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s4 B_spatial_spectral DER 0.015/0.044 cpWER 0.087
+lc_0S_s4 B_spatial_ahc DER 0.038/0.069 cpWER 0.117
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s4 B_spatial_spectral_oracleVAD DER 0.001/0.004 cpWER 0.083
+lc_0S_s4 platform DER 0.004/0.019 cpWER 0.081
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s5 A_spectral DER 0.005/0.035 cpWER 0.071
+lc_0S_s5 A_ahc DER 0.005/0.035 cpWER 0.071
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s5 A_spectral_oracleVAD DER 0.003/0.010 cpWER 0.070
+lc_0S_s5 A_ahc_oracleVAD DER 0.003/0.010 cpWER 0.069
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s5 A_spectral_oracleK DER 0.005/0.035 cpWER 0.071
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s5 B_spatial_spectral DER 0.002/0.028 cpWER 0.065
+lc_0S_s5 B_spatial_ahc DER 0.002/0.029 cpWER 0.067
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_0S_s5 B_spatial_spectral_oracleVAD DER 0.001/0.003 cpWER 0.063
+lc_0S_s5 platform DER 0.002/0.018 cpWER 0.060
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s3 A_spectral DER 0.034/0.082 cpWER 0.155
+lc_OV10_s3 A_ahc DER 0.075/0.120 cpWER 0.209
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s3 A_spectral_oracleVAD DER 0.028/0.060 cpWER 0.154
+lc_OV10_s3 A_ahc_oracleVAD DER 0.070/0.100 cpWER 0.210
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s3 A_spectral_oracleK DER 0.034/0.082 cpWER 0.155
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s3 B_spatial_spectral DER 0.032/0.077 cpWER 0.144
+lc_OV10_s3 B_spatial_ahc DER 0.032/0.078 cpWER 0.145
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s3 B_spatial_spectral_oracleVAD DER 0.026/0.056 cpWER 0.142
+lc_OV10_s3 platform DER 0.004/0.018 cpWER 0.167
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s4 A_spectral DER 0.050/0.091 cpWER 0.203
+lc_OV10_s4 A_ahc DER 0.051/0.093 cpWER 0.209
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s4 A_spectral_oracleVAD DER 0.035/0.062 cpWER 0.203
+lc_OV10_s4 A_ahc_oracleVAD DER 0.036/0.064 cpWER 0.209
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s4 A_spectral_oracleK DER 0.050/0.091 cpWER 0.203
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s4 B_spatial_spectral DER 0.048/0.085 cpWER 0.198
+lc_OV10_s4 B_spatial_ahc DER 0.048/0.087 cpWER 0.200
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s4 B_spatial_spectral_oracleVAD DER 0.031/0.054 cpWER 0.198
+lc_OV10_s4 platform DER 0.009/0.022 cpWER 0.197
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s5 A_spectral DER 0.033/0.081 cpWER 0.140
+lc_OV10_s5 A_ahc DER 0.035/0.083 cpWER 0.140
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s5 A_spectral_oracleVAD DER 0.030/0.062 cpWER 0.137
+lc_OV10_s5 A_ahc_oracleVAD DER 0.032/0.064 cpWER 0.139
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s5 A_spectral_oracleK DER 0.033/0.081 cpWER 0.140
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s5 B_spatial_spectral DER 0.029/0.074 cpWER 0.130
+lc_OV10_s5 B_spatial_ahc DER 0.028/0.073 cpWER 0.129
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV10_s5 B_spatial_spectral_oracleVAD DER 0.025/0.055 cpWER 0.129
+lc_OV10_s5 platform DER 0.002/0.019 cpWER 0.143
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s3 A_spectral DER 0.082/0.134 cpWER 0.246
+lc_OV20_s3 A_ahc DER 0.082/0.135 cpWER 0.247
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s3 A_spectral_oracleVAD DER 0.073/0.112 cpWER 0.247
+lc_OV20_s3 A_ahc_oracleVAD DER 0.074/0.113 cpWER 0.247
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s3 A_spectral_oracleK DER 0.082/0.134 cpWER 0.246
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s3 B_spatial_spectral DER 0.079/0.128 cpWER 0.237
+lc_OV20_s3 B_spatial_ahc DER 0.080/0.130 cpWER 0.241
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s3 B_spatial_spectral_oracleVAD DER 0.071/0.106 cpWER 0.239
+lc_OV20_s3 platform DER 0.004/0.022 cpWER 0.249
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s4 A_spectral DER 0.108/0.146 cpWER 0.231
+lc_OV20_s4 A_ahc DER 0.193/0.228 cpWER 0.350
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s4 A_spectral_oracleVAD DER 0.081/0.112 cpWER 0.223
+lc_OV20_s4 A_ahc_oracleVAD DER 0.166/0.194 cpWER 0.340
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s4 A_spectral_oracleK DER 0.108/0.146 cpWER 0.231
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s4 B_spatial_spectral DER 0.105/0.140 cpWER 0.230
+lc_OV20_s4 B_spatial_ahc DER 0.105/0.141 cpWER 0.234
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s4 B_spatial_spectral_oracleVAD DER 0.077/0.104 cpWER 0.223
+lc_OV20_s4 platform DER 0.002/0.013 cpWER 0.243
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s5 A_spectral DER 0.086/0.127 cpWER 0.224
+lc_OV20_s5 A_ahc DER 0.084/0.126 cpWER 0.229
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s5 A_spectral_oracleVAD DER 0.083/0.115 cpWER 0.225
+lc_OV20_s5 A_ahc_oracleVAD DER 0.082/0.115 cpWER 0.229
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s5 A_spectral_oracleK DER 0.086/0.127 cpWER 0.224
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s5 B_spatial_spectral DER 0.075/0.111 cpWER 0.211
+lc_OV20_s5 B_spatial_ahc DER 0.077/0.114 cpWER 0.218
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV20_s5 B_spatial_spectral_oracleVAD DER 0.073/0.100 cpWER 0.211
+lc_OV20_s5 platform DER 0.002/0.016 cpWER 0.245
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s3 A_spectral DER 0.220/0.246 cpWER 0.386
+lc_OV40_s3 A_ahc DER 0.220/0.246 cpWER 0.383
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s3 A_spectral_oracleVAD DER 0.185/0.210 cpWER 0.387
+lc_OV40_s3 A_ahc_oracleVAD DER 0.185/0.210 cpWER 0.384
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s3 A_spectral_oracleK DER 0.220/0.246 cpWER 0.386
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s3 B_spatial_spectral DER 0.218/0.244 cpWER 0.401
+lc_OV40_s3 B_spatial_ahc DER 0.219/0.245 cpWER 0.400
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s3 B_spatial_spectral_oracleVAD DER 0.185/0.209 cpWER 0.402
+lc_OV40_s3 platform DER 0.001/0.013 cpWER 0.435
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s4 A_spectral DER 0.242/0.267 cpWER 0.378
+lc_OV40_s4 A_ahc DER 0.242/0.268 cpWER 0.378
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s4 A_spectral_oracleVAD DER 0.179/0.206 cpWER 0.371
+lc_OV40_s4 A_ahc_oracleVAD DER 0.180/0.207 cpWER 0.371
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s4 A_spectral_oracleK DER 0.242/0.267 cpWER 0.378
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s4 B_spatial_spectral DER 0.241/0.263 cpWER 0.375
+lc_OV40_s4 B_spatial_ahc DER 0.242/0.264 cpWER 0.376
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s4 B_spatial_spectral_oracleVAD DER 0.180/0.203 cpWER 0.370
+lc_OV40_s4 platform DER 0.006/0.019 cpWER 0.392
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s5 A_spectral DER 0.205/0.241 cpWER 0.445
+lc_OV40_s5 A_ahc DER 0.224/0.260 cpWER 0.486
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s5 A_spectral_oracleVAD DER 0.199/0.232 cpWER 0.447
+lc_OV40_s5 A_ahc_oracleVAD DER 0.217/0.250 cpWER 0.486
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s5 A_spectral_oracleK DER 0.205/0.241 cpWER 0.445
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s5 B_spatial_spectral DER 0.195/0.228 cpWER 0.440
+lc_OV40_s5 B_spatial_ahc DER 0.195/0.229 cpWER 0.453
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+lc_OV40_s5 B_spatial_spectral_oracleVAD DER 0.189/0.219 cpWER 0.442
+lc_OV40_s5 platform DER 0.002/0.017 cpWER 0.468
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s10 A_spectral DER 0.371/0.502 cpWER 0.582
+ec_s10 A_ahc DER 0.345/0.450 cpWER 0.508
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s10 A_spectral_oracleVAD DER 0.265/0.362 cpWER 0.591
+ec_s10 A_ahc_oracleVAD DER 0.314/0.385 cpWER 0.628
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s10 A_spectral_oracleK DER 0.384/0.474 cpWER 0.528
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s10 B_spatial_spectral DER 0.383/0.486 cpWER 0.560
+ec_s10 B_spatial_ahc DER 0.364/0.470 cpWER 0.525
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s10 B_spatial_spectral_oracleVAD DER 0.286/0.355 cpWER 0.565
+ec_s10 platform DER 0.285/0.348 cpWER 0.685
+ec_s10 B_head_rawDOA DER 0.358/0.463 cpWER 0.521
+ec_s10 B_world_poseOracle DER 0.361/0.467 cpWER 0.520
+ec_s10 B_max_poseOracle DER 0.364/0.470 cpWER 0.525
+ec_s10 B_head_rawDOA_oracleVAD DER 0.241/0.312 cpWER 0.528
+ec_s10 B_max_poseOracle_oracleVAD DER 0.254/0.324 cpWER 0.535
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s10 B_gated_spectral DER 0.345/0.451 cpWER 0.520
+ec_s10 B_gated_ahc DER 0.405/0.494 cpWER 0.550
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s10 B_gated_spectral_oracleVAD DER 0.354/0.401 cpWER 0.604
+ec_s10 B_gated_ahc_oracleVAD DER 0.374/0.426 cpWER 0.654
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s11 A_spectral DER 0.388/0.504 cpWER 0.606
+ec_s11 A_ahc DER 0.443/0.579 cpWER 0.676
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s11 A_spectral_oracleVAD DER 0.195/0.299 cpWER 0.574
+ec_s11 A_ahc_oracleVAD DER 0.326/0.435 cpWER 0.679
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s11 A_spectral_oracleK DER 0.388/0.504 cpWER 0.606
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s11 B_spatial_spectral DER 0.644/0.720 cpWER 0.920
+ec_s11 B_spatial_ahc DER 0.520/0.629 cpWER 0.820
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s11 B_spatial_spectral_oracleVAD DER 0.420/0.494 cpWER 0.803
+ec_s11 platform DER 0.268/0.376 cpWER 0.772
+ec_s11 B_head_rawDOA DER 0.460/0.588 cpWER 0.681
+ec_s11 B_world_poseOracle DER 0.537/0.647 cpWER 0.848
+ec_s11 B_max_poseOracle DER 0.520/0.629 cpWER 0.820
+ec_s11 B_head_rawDOA_oracleVAD DER 0.332/0.441 cpWER 0.670
+ec_s11 B_max_poseOracle_oracleVAD DER 0.373/0.470 cpWER 0.794
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s11 B_gated_spectral DER 0.413/0.531 cpWER 0.640
+ec_s11 B_gated_ahc DER 0.505/0.615 cpWER 0.789
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/pyannote/metrics/utils.py:199: UserWarning: 'uem' was approximated by the union of 'reference' and 'hypothesis' extents.
+  warnings.warn(
+ec_s11 B_gated_spectral_oracleVAD DER 0.206/0.305 cpWER 0.588
+ec_s11 B_gated_ahc_oracleVAD DER 0.378/0.471 cpWER 0.801
+== Sun Oct 25 17:46:22 UTC 2026 summarize
+          ds                       variant   n  DER_c25  DER_c0  miss_c0  fa_c0  conf_c0    JER  spk_abs_err  spk_signed  cpWER  WER_all
+0    easycom                         A_ahc   2    0.394   0.515    0.288  0.104    0.123  0.470        2.000       2.000  0.592    0.500
+1    easycom               A_ahc_oracleVAD   2    0.320   0.410    0.181  0.000    0.230  0.456        2.000       2.000  0.654    0.500
+2    easycom                    A_spectral   2    0.380   0.503    0.308  0.080    0.115  0.470        1.000       1.000  0.594    0.500
+3    easycom            A_spectral_oracleK   2    0.386   0.489    0.308  0.080    0.101  0.500        0.000       0.000  0.567    0.500
+4    easycom          A_spectral_oracleVAD   2    0.230   0.331    0.181  0.000    0.150  0.370        1.000       1.000  0.583    0.500
+5    easycom                   B_gated_ahc   2    0.455   0.555    0.288  0.104    0.163  0.541        1.500       1.500  0.669    0.500
+6    easycom         B_gated_ahc_oracleVAD   2    0.376   0.448    0.181  0.000    0.268  0.512        2.500       2.500  0.728    0.500
+7    easycom              B_gated_spectral   2    0.379   0.491    0.308  0.080    0.103  0.478        1.000       1.000  0.580    0.500
+8    easycom    B_gated_spectral_oracleVAD   2    0.280   0.353    0.181  0.000    0.172  0.460        0.500      -0.500  0.596    0.500
+9    easycom                 B_head_rawDOA   2    0.409   0.525    0.288  0.104    0.134  0.487        2.000       2.000  0.601    0.500
+10   easycom       B_head_rawDOA_oracleVAD   2    0.286   0.376    0.181  0.000    0.196  0.422        2.000       2.000  0.599    0.500
+11   easycom              B_max_poseOracle   2    0.442   0.550    0.288  0.104    0.158  0.512        2.500       2.500  0.672    0.500
+12   easycom    B_max_poseOracle_oracleVAD   2    0.313   0.397    0.181  0.000    0.217  0.447        2.500       2.500  0.665    0.500
+13   easycom                 B_spatial_ahc   2    0.442   0.550    0.288  0.104    0.158  0.512        2.500       2.500  0.672    0.500
+14   easycom            B_spatial_spectral   2    0.514   0.603    0.308  0.080    0.215  0.639        1.000       0.000  0.740    0.500
+15   easycom  B_spatial_spectral_oracleVAD   2    0.353   0.425    0.181  0.000    0.244  0.531        1.000       1.000  0.684    0.500
+16   easycom            B_world_poseOracle   2    0.449   0.557    0.288  0.104    0.165  0.516        3.000       3.000  0.684    0.500
+17   easycom                      platform   2    0.277   0.362    0.215  0.050    0.098  0.452        1.000      -1.000  0.728    0.500
+18  libricss                         A_ahc  12    0.106   0.144    0.103  0.012    0.028  0.171        0.250       0.083  0.243    0.182
+19  libricss               A_ahc_oracleVAD  12    0.091   0.115    0.089  0.000    0.027  0.143        0.250       0.083  0.241    0.182
+20  libricss                    A_spectral  12    0.093   0.130    0.103  0.012    0.015  0.152        0.000       0.000  0.223    0.182
+21  libricss            A_spectral_oracleK  12    0.093   0.130    0.103  0.012    0.015  0.152        0.000       0.000  0.223    0.182
+22  libricss          A_spectral_oracleVAD  12    0.077   0.102    0.089  0.000    0.013  0.123        0.000       0.000  0.221    0.182
+23  libricss                 B_spatial_ahc  12    0.090   0.126    0.103  0.012    0.011  0.142        0.083       0.083  0.223    0.182
+24  libricss            B_spatial_spectral  12    0.088   0.123    0.103  0.012    0.007  0.137        0.000       0.000  0.217    0.182
+25  libricss  B_spatial_spectral_oracleVAD  12    0.072   0.094    0.089  0.000    0.005  0.105        0.000       0.000  0.215    0.182
+26  libricss                      platform  12    0.003   0.018    0.014  0.004    0.000  0.020        0.000       0.000  0.229    0.182
+cond                             0S   OV10   OV20   OV40
+variant                                                 
+A_ahc                         0.055  0.099  0.163  0.258
+A_ahc_oracleVAD               0.022  0.076  0.140  0.222
+A_spectral                    0.050  0.085  0.136  0.251
+A_spectral_oracleK            0.050  0.085  0.136  0.251
+A_spectral_oracleVAD          0.016  0.061  0.113  0.216
+B_spatial_ahc                 0.050  0.079  0.128  0.246
+B_spatial_spectral            0.040  0.079  0.126  0.245
+B_spatial_spectral_oracleVAD  0.005  0.055  0.103  0.210
+platform                      0.017  0.020  0.017  0.016
+                               der_single  share_single  der_overlap  share_overlap  acc_turn<1s  acc_turn1-3s  acc_turn>3s
+ds       variant                                                                                                           
+easycom  A_spectral                 0.289         0.664        0.689          0.336        0.213         0.552        0.642
+         A_spectral_oracleVAD       0.166         0.664        0.654          0.336        0.268         0.659        0.735
+         B_spatial_spectral         0.451         0.664        0.676          0.336        0.272         0.445        0.523
+         platform                   0.257         0.664        0.464          0.336        0.551         0.774        0.663
+libricss A_spectral                 0.034         0.824        0.388          0.176        0.000         0.747        0.890
+         A_spectral_oracleVAD       0.012         0.824        0.387          0.176        0.000         0.765        0.906
+         B_spatial_spectral         0.028         0.824        0.378          0.176        0.000         0.764        0.897
+         platform                   0.008         0.824        0.037          0.176        0.000         0.950        0.988
+         ds stage       sec        dur    rtf
+0   easycom   asr   253.695   2807.400  0.090
+1   easycom   emb  1655.779   6317.850  0.262
+2   easycom  plat   159.001   6317.850  0.025
+3   easycom   srp    28.893   6317.850  0.005
+4   easycom   vad    75.606   6317.850  0.012
+5  libricss   asr   794.289   7257.500  0.109
+6  libricss   emb  4567.089  14514.512  0.315
+7  libricss  plat    70.040  14514.512  0.005
+8  libricss   srp    84.684  14514.512  0.006
+9  libricss   vad   149.469  14514.512  0.010
+                       mean  count
+ds       bin                      
+easycom  (-1.0, 0.3]  0.019     26
+         (0.3, 0.5]   0.035      6
+libricss (-1.0, 0.3]  0.002    628
+         (0.3, 0.5]   0.003     42
+         (0.5, 0.7]   0.000      2
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/speechbrain/utils/checkpoints.py:202: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(path, map_location=device)
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/speechbrain/processing/features.py:1550: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  stats = torch.load(path, map_location=self.device)
+{'uri': 'lc_0S_s3', 'n_ref': 8, 'n_clusters': 8, 'n_named': 8, 'der_opt': np.float64(0.06373058139791837), 'der_named': np.float64(0.06373058139791837)}
+{'uri': 'lc_0S_s4', 'n_ref': 8, 'n_clusters': 8, 'n_named': 8, 'der_opt': np.float64(0.06682177524266987), 'der_named': np.float64(0.06682177524266987)}
+{'uri': 'lc_0S_s5', 'n_ref': 8, 'n_clusters': 8, 'n_named': 8, 'der_opt': np.float64(0.034085069940051387), 'der_named': np.float64(0.034085069940051387)}
+{'uri': 'lc_OV10_s3', 'n_ref': 8, 'n_clusters': 8, 'n_named': 8, 'der_opt': np.float64(0.07966325593892036), 'der_named': np.float64(0.07966325593892036)}
+{'uri': 'lc_OV10_s4', 'n_ref': 8, 'n_clusters': 8, 'n_named': 7, 'der_opt': np.float64(0.07975173924507636), 'der_named': np.float64(0.16333691661765004)}
+{'uri': 'lc_OV10_s5', 'n_ref': 8, 'n_clusters': 8, 'n_named': 7, 'der_opt': np.float64(0.08452700526146247), 'der_named': np.float64(0.2120047245785461)}
+{'uri': 'lc_OV20_s3', 'n_ref': 8, 'n_clusters': 8, 'n_named': 8, 'der_opt': np.float64(0.13298207166670553), 'der_named': np.float64(0.13298207166670553)}
+{'uri': 'lc_OV20_s4', 'n_ref': 8, 'n_clusters': 8, 'n_named': 8, 'der_opt': np.float64(0.14876807466882247), 'der_named': np.float64(0.14876807466882247)}
+{'uri': 'lc_OV20_s5', 'n_ref': 8, 'n_clusters': 8, 'n_named': 8, 'der_opt': np.float64(0.12729841082989993), 'der_named': np.float64(0.12729841082989993)}
+{'uri': 'lc_OV40_s3', 'n_ref': 8, 'n_clusters': 8, 'n_named': 6, 'der_opt': np.float64(0.2595496940533476), 'der_named': np.float64(0.3577298560367532)}
+{'uri': 'lc_OV40_s4', 'n_ref': 8, 'n_clusters': 8, 'n_named': 6, 'der_opt': np.float64(0.26322802286007835), 'der_named': np.float64(0.35288640595903165)}
+{'uri': 'lc_OV40_s5', 'n_ref': 8, 'n_clusters': 8, 'n_named': 7, 'der_opt': np.float64(0.24861727178139204), 'der_named': np.float64(0.3320190570067357)}
+n_ref         8.000
+n_clusters    8.000
+n_named       7.417
+der_opt       0.132
+der_named     0.173
+dtype: float64
+== Sun Oct 25 17:50:59 UTC 2026 ALL DONE

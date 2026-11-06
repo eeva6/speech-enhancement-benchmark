@@ -1,0 +1,29 @@
+{
+ "id": "S11_11-00-454_P7_17450",
+ "split": "test",
+ "session": 11,
+ "seg": "11-00-454",
+ "seg_start_s": 660.454,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Oh. This is a well known problem. You are on a gameshow and there are three doors. I think everybody knows this one.  [L] Oh, okay.",
+ "start_s": 17.45,
+ "end_s": 27.75,
+ "dur": 10.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 196800,
+ "overlap": true,
+ "ovl_frac": 0.345,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.10391551040811464,
+ "align_how": "minute_line",
+ "az_ref_mean": -18.77,
+ "el_ref_mean": 0.37,
+ "az_ref_range": 15.27,
+ "doa_valid_frac": 1.0
+}

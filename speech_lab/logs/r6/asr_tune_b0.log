@@ -1,0 +1,2 @@
++ /workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/bin/python -m selab.score_r6 --tag r5 --items s012 --asr --methods noisy,ds_est,ds_td_rt,sd4_rtn,sd4_rt,sd4_rt__w-6,sd4_rt__w6,gm4_rt,gm4_rt__w6,gm4_rt__c03,rtf4_rt,rtf4_rt__w6,sd8_rt,sd8_rt__r1000,sd4_rt__r1000,sd8_rt__v15m,sd4_rt__v15m --shard 0 --nshard 2
+ASR: 173

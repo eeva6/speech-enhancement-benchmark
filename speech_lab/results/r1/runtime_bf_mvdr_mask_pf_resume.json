@@ -1,0 +1,17 @@
+{
+ "method": "bf_mvdr_mask_pf",
+ "tag": "r1",
+ "n": 4,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 5.713985621999882,
+ "mean_proc_s": 4.956888109333401,
+ "rtf": 0.8053433158949473,
+ "peak_rss_mb": 867.03125,
+ "rss_before_mb": 246.32421875,
+ "n_params": null,
+ "noise_psd": "ms",
+ "infos": {},
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

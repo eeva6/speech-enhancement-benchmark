@@ -1,0 +1,29 @@
+{
+ "id": "S4_23-00-578_P4_24350",
+ "split": "val",
+ "session": 4,
+ "seg": "23-00-578",
+ "seg_start_s": 1380.578,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "No! You fell right into my trap!",
+ "start_s": 24.35,
+ "end_s": 26.6,
+ "dur": 2.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 68000,
+ "overlap": true,
+ "ovl_frac": 0.289,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.4038360348204151,
+ "align_how": "session_slope",
+ "az_ref_mean": -0.86,
+ "el_ref_mean": 5.7,
+ "az_ref_range": 7.14,
+ "doa_valid_frac": 1.0
+}

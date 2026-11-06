@@ -1,0 +1,17 @@
+{
+ "method": "noisereduce",
+ "tag": "r1",
+ "n": 192,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 0.07767774300009478,
+ "mean_proc_s": 0.0348972162198904,
+ "rtf": 0.006028788518346827,
+ "peak_rss_mb": 299.5234375,
+ "rss_before_mb": 248.4375,
+ "n_params": null,
+ "noise_psd": "ms",
+ "infos": {},
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

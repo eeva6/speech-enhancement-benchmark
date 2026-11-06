@@ -1,0 +1,5 @@
+== r1 rnnoise
+{"method": "rnnoise", "n": 192, "n_fail": 0, "rtf": 0.16961206242730137, "peak_rss_mb": 290.28515625, "first_call_s": 13.556918402999997}
+== r1 deepfilternet3
+{"method": "deepfilternet3", "n": 192, "n_fail": 0, "rtf": 0.6799217645664307, "peak_rss_mb": 455.43359375, "first_call_s": 7.934046169999988}
+== r2 rnnoise

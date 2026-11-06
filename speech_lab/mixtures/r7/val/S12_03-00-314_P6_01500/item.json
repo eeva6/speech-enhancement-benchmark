@@ -1,0 +1,29 @@
+{
+ "id": "S12_03-00-314_P6_01500",
+ "split": "val",
+ "session": 12,
+ "seg": "03-00-314",
+ "seg_start_s": 180.314,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Hey. We're doing well.",
+ "start_s": 1.5,
+ "end_s": 2.8,
+ "dur": 1.3,
+ "ctx_s": 1.5,
+ "utt_offset_samples": 24000,
+ "n_samples": 44800,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.3861373115796596,
+ "align_how": "session_slope",
+ "az_ref_mean": -62.48,
+ "el_ref_mean": 11.6,
+ "az_ref_range": 2.93,
+ "doa_valid_frac": 1.0
+}

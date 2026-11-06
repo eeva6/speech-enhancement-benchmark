@@ -1,0 +1,697 @@
+method,id,cond,snr,wer,hyp
+clean_ref,babble_snr-10_00,babble,-10.0,0.0,i told myself that if i were really thinking of you and not of myself a letter would be better than nothing
+clean_ref,babble_snr-10_01,babble,-10.0,0.0909090909090909,due to the their praise of maiden pure of teeming motherhood
+clean_ref,babble_snr-10_02,babble,-10.0,0.0769230769230769,accustomed as i had been to the steam ferry boats of the elb i found the long oars of the boatman but sorry means of locomotion
+clean_ref,babble_snr-10_03,babble,-10.0,0.04,as soon as on my vision smote the power sublime that had already pierced me through air from my boyhood i had yet come forth
+clean_ref,babble_snr+0_00,babble,0.0,0.1666666666666666,i shall find my portmanteau in my room you said
+clean_ref,babble_snr+0_01,babble,0.0,0.0,on the roof from a tube painted green like the rest smoke arose
+clean_ref,babble_snr+0_02,babble,0.0,0.1428571428571428,you see loving someone as i love you makes the whole world different
+clean_ref,babble_snr+0_03,babble,0.0,0.125,ursus wasn't everything in the piece in the company in the kitchen in the orchestra
+clean_ref,babble_snr+10_00,babble,10.0,0.0,she bit her lip and looked down at her hands which were clasped tightly in front of her
+clean_ref,babble_snr+10_01,babble,10.0,0.2,the world's thick vapours well your eyes unworthy of that glorious show blind his splendor bent upon his shame
+clean_ref,babble_snr+10_02,babble,10.0,0.0,hans our extraordinary guide went first walking with a steady rapid unvarying step
+clean_ref,babble_snr+10_03,babble,10.0,0.0,what should we have done if everybody had kept on burning wood to this day
+clean_ref,traffic_snr-10_00,traffic,-10.0,0.0,it seemed to me that he despised him for being so simple and docile
+clean_ref,traffic_snr-10_01,traffic,-10.0,0.0,mount bremer is the most noted stronghold of the sheep in the whole shasta region
+clean_ref,traffic_snr-10_02,traffic,-10.0,0.0,besides this face those who had brought him up had given him the resources of a gymnast and an athlete
+clean_ref,traffic_snr-10_03,traffic,-10.0,0.0,the last two days of the voyage bartley found almost intolerable
+clean_ref,traffic_snr+0_00,traffic,0.0,0.0,hans our extraordinary guide went first walking with a steady rapid unvarying step
+clean_ref,traffic_snr+0_01,traffic,0.0,0.0,mount bremer is the most noted stronghold of the sheep in the whole shasta region
+clean_ref,traffic_snr+0_02,traffic,0.0,0.0,the caravan was divided into three compartments partitioned from each other
+clean_ref,traffic_snr+0_03,traffic,0.0,0.0,the fact was that scarcely any one of them but expected some goods by the periodical vessel
+clean_ref,traffic_snr+10_00,traffic,10.0,0.1111111111111111,like the two kings of sparta they ran jointly dividing between them the laborers and cares of state
+clean_ref,traffic_snr+10_01,traffic,10.0,0.0,bartley leaned his head in his hands and spoke through his teeth
+clean_ref,traffic_snr+10_02,traffic,10.0,0.0,even this comedian of jaws and claws was eclipsed in success
+clean_ref,traffic_snr+10_03,traffic,10.0,0.0476190476190476,doraforth then laid the book out of his hand and by the time the servant had left the room thus began
+clean_ref,broadband_env_snr-10_00,broadband_env,-10.0,0.1111111111111111,miss woodley thought it her duty to be mute and now the jingle of a teaspoon was like a deep toned bell all was so quiet
+clean_ref,broadband_env_snr-10_01,broadband_env,-10.0,0.0,i wish i hadn't taken that brandy he said fool that i am
+clean_ref,broadband_env_snr-10_02,broadband_env,-10.0,0.0,when did you come bartley and how did it happen you haven't spoken a word
+clean_ref,broadband_env_snr-10_03,broadband_env,-10.0,0.0,i don't know what i ought to say but i don't believe you'd be happy truly i don't aren't you trying to frighten me
+clean_ref,broadband_env_snr+0_00,broadband_env,0.0,0.0588235294117647,be the results however what they might randall could see but one plain course before him now
+clean_ref,broadband_env_snr+0_01,broadband_env,0.0,0.3333333333333333,the government may go to panu ward burgess get out
+clean_ref,broadband_env_snr+0_02,broadband_env,0.0,0.0,and i she whispered i felt that you were feeling that
+clean_ref,broadband_env_snr+0_03,broadband_env,0.0,0.2307692307692307,for these red phoebe and venus that we may conform to english pronunciation
+clean_ref,broadband_env_snr+10_00,broadband_env,10.0,0.0,the wheels were all of the same size and high as wagon wheels
+clean_ref,broadband_env_snr+10_01,broadband_env,10.0,0.3333333333333333,yee are newcomers and because i smile be can she per adventure in this place elect to human nature for its nest
+clean_ref,broadband_env_snr+10_02,broadband_env,10.0,0.0,go quietly alone no harm will befall you
+clean_ref,broadband_env_snr+10_03,broadband_env,10.0,0.0,according to all appearance industrious manipulators of children had worked upon his face
+clean_ref,pink_snr-10_00,pink,-10.0,0.0,thanks to the heat of these residences grass grows on the roof which grass is carefully cut for hay
+clean_ref,pink_snr-10_01,pink,-10.0,0.1363636363636363,at that hour there was no one in the fairground except perhaps some reeling drunkard making staggering shadows and dark corners
+clean_ref,pink_snr-10_02,pink,-10.0,0.0,hilda sat on the arm of it and put her hands lightly on his shoulders
+clean_ref,pink_snr-10_03,pink,-10.0,0.0,a faint fetid smell came from him and a thread of green liquid oozed from his crushed head
+clean_ref,pink_snr+0_00,pink,0.0,0.1666666666666666,i shall find my portmanteau in my room you said
+clean_ref,pink_snr+0_01,pink,0.0,0.0,the astonishment with which the villagers regarded this machine was overwhelming
+clean_ref,pink_snr+0_02,pink,0.0,0.0,this connoisseur was suddenly fascinated and had adopted the laughing man
+clean_ref,pink_snr+0_03,pink,0.0,0.0,in fact the ringleader john rex gave me his confession and i sent it to the bishop
+clean_ref,pink_snr+10_00,pink,10.0,0.0,the last two days of the voyage bartley found almost intolerable
+clean_ref,pink_snr+10_01,pink,10.0,0.0,abandoned indeed by god and man almost
+clean_ref,pink_snr+10_02,pink,10.0,0.0,the fact was that scarcely any one of them but expected some goods by the periodical vessel
+clean_ref,pink_snr+10_03,pink,10.0,0.0,miss milner you shall not leave the house this evening sir
+clean_ref,competing_snr-10_00,competing,-10.0,0.0,oh god give me strength aid me help me
+clean_ref,competing_snr-10_01,competing,-10.0,0.0,it was on one of these gravel beds that i met my adventure
+clean_ref,competing_snr-10_02,competing,-10.0,0.0,i don't know what i ought to say but i don't believe you'd be happy truly i don't aren't you trying to frighten me
+clean_ref,competing_snr-10_03,competing,-10.0,0.1875,with that exception their success became so great that no mount to bank memory could recall its parallel
+clean_ref,competing_snr+0_00,competing,0.0,0.1666666666666666,in gwyn plains evil thoughts never ripened and he had therefore no remorse
+clean_ref,competing_snr+0_01,competing,0.0,0.0833333333333333,i never know you was so brave jim she went on comfortably
+clean_ref,competing_snr+0_02,competing,0.0,0.3846153846153846,from to a great change had taken place
+clean_ref,competing_snr+0_03,competing,0.0,0.1428571428571428,don't you see how many uses we have found for this refused coal car
+clean_ref,competing_snr+10_00,competing,10.0,0.0,that success was prodigious still it remained local
+clean_ref,competing_snr+10_01,competing,10.0,0.0,even this comedian of jaws and claws was eclipsed in success
+clean_ref,competing_snr+10_02,competing,10.0,0.0,the emptying of tankards did not decrease their success
+clean_ref,competing_snr+10_03,competing,10.0,0.125,to ride over saltwater upon the back of a little horse seemed to me absurd
+clean_ref,reverb_babble_snr-10_00,reverb_babble,-10.0,0.0,but her husband felt heavy at heart and thought it were better to share the last crust with the children
+clean_ref,reverb_babble_snr-10_01,reverb_babble,-10.0,0.0,according to all appearance industrious manipulators of children had worked upon his face
+clean_ref,reverb_babble_snr-10_02,reverb_babble,-10.0,0.0555555555555555,but she left him no peace till he consented saying but i shall miss the poor children
+clean_ref,reverb_babble_snr-10_03,reverb_babble,-10.0,0.2307692307692307,for these red phoebe and venus that we may conform to english pronunciation
+clean_ref,reverb_babble_snr+0_00,reverb_babble,0.0,0.0,yes one oughtn't to leave the colony without seeing it says burgess it's worth seeing
+clean_ref,reverb_babble_snr+0_01,reverb_babble,0.0,0.1538461538461538,held his face quivered but she whispered yes i think it must have been
+clean_ref,reverb_babble_snr+0_02,reverb_babble,0.0,0.0,these sacred edifices are however very much like these people who do without watches and never miss them
+clean_ref,reverb_babble_snr+0_03,reverb_babble,0.0,0.15,this world's thick vapours well your eyes unworthy of that glorious show blind his splendor bent upon his shame
+clean_ref,reverb_babble_snr+10_00,reverb_babble,10.0,0.125,ursus wasn't everything in the piece in the company in the kitchen in the orchestra
+clean_ref,reverb_babble_snr+10_01,reverb_babble,10.0,0.0,oh god give me strength aid me help me
+clean_ref,reverb_babble_snr+10_02,reverb_babble,10.0,0.0416666666666666,so they went on to the veranda and looked down upon the lights of the prison and listened to the sea lapping the shore
+clean_ref,reverb_babble_snr+10_03,reverb_babble,10.0,0.0555555555555555,the sacred edifices are however very much like these people who do without watches and never miss them
+noisy,babble_snr+0_00,babble,0.0,0.8333333333333334,yes yes yes
+noisy,babble_snr+0_01,babble,0.0,0.2307692307692307,for the roof from a tube painted green like the rest smoke a rose
+noisy,babble_snr+0_02,babble,0.0,1.0,
+noisy,babble_snr+0_03,babble,0.0,0.1875,versus wasn't everything in the piece in the company in the kitchen in the orchestra
+noisy,babble_snr+10_00,babble,10.0,0.1111111111111111,she bit her lip and looked down at her hands which would clasp tightly in front of her
+noisy,babble_snr+10_01,babble,10.0,0.3,the world's thick vapors will your eyes unworthy of that glorious show blind his slender bent upon his shape
+noisy,babble_snr+10_02,babble,10.0,0.0,hans our extraordinary guide went first walking with a steady rapid unvarying step
+noisy,babble_snr+10_03,babble,10.0,0.0666666666666666,what should we have done if everybody had kept on burning wood for this day
+noisy,babble_snr-10_00,babble,-10.0,0.9545454545454546,i hope you'll find the link in the description below
+noisy,babble_snr-10_01,babble,-10.0,1.0,
+noisy,babble_snr-10_02,babble,-10.0,1.0,
+noisy,babble_snr-10_03,babble,-10.0,0.96,and the
+noisy,broadband_env_snr+0_00,broadband_env,0.0,0.0588235294117647,be the results however what they might randall could see but one plain course before him now
+noisy,broadband_env_snr+0_01,broadband_env,0.0,0.0833333333333333,the government may go to and you too lord burgess get out
+noisy,broadband_env_snr+0_02,broadband_env,0.0,0.0,and i she whispered i felt that you were feeling that
+noisy,broadband_env_snr+0_03,broadband_env,0.0,0.2307692307692307,for these red phoebe and venus that we may conform to english pronunciation
+noisy,broadband_env_snr+10_00,broadband_env,10.0,0.0,the wheels were all of the same size and high as wagon wheels
+noisy,broadband_env_snr+10_01,broadband_env,10.0,0.2857142857142857,yey are newcomers and because i smile bikanchy per adventure in this place elect to human nature for its nest
+noisy,broadband_env_snr+10_02,broadband_env,10.0,0.375,go quietly alone i'll harm overfall you
+noisy,broadband_env_snr+10_03,broadband_env,10.0,0.0,according to all appearance industrious manipulators of children had worked upon his face
+noisy,broadband_env_snr-10_00,broadband_env,-10.0,6.62962962962963,we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket we are the rocket
+noisy,broadband_env_snr-10_01,broadband_env,-10.0,1.0,
+noisy,broadband_env_snr-10_02,broadband_env,-10.0,0.2666666666666666,what did you come from and how did it happen you haven't spoken yet
+noisy,broadband_env_snr-10_03,broadband_env,-10.0,0.4166666666666667,i don't know what i ought to say but i don't believe in the fact that it's really like that are you trying to fight me
+noisy,competing_snr+0_00,competing,0.0,0.9166666666666666,in gwyn playing evil thoughts never right as well as she cool and he had there for no remorse tears
+noisy,competing_snr+0_01,competing,0.0,1.1666666666666667,pigeon was in the worst case of him he began to drone his leg
+noisy,competing_snr+0_02,competing,0.0,0.3846153846153846,from to a great change had taken place
+noisy,competing_snr+0_03,competing,0.0,1.4285714285714286,pointed up to this guy and questioned me with his glass i noticed how white will shake his own hands
+noisy,competing_snr+10_00,competing,10.0,0.0,that success was prodigious still it remained local
+noisy,competing_snr+10_01,competing,10.0,0.0909090909090909,even this comedian of jaws and cause was eclipsed in success
+noisy,competing_snr+10_02,competing,10.0,0.0,the emptying of tankards did not decrease their success
+noisy,competing_snr+10_03,competing,10.0,0.125,to ride over saltwater upon the back of a little horse seemed to me absurd
+noisy,competing_snr-10_00,competing,-10.0,0.7777777777777778,oh god give me strength who's unhappy fate and be my mind
+noisy,competing_snr-10_01,competing,-10.0,1.1538461538461535,not mr vladimir and had women to fall back upon whereas he had a woman
+noisy,competing_snr-10_02,competing,-10.0,0.9583333333333334,back into the arabesque chamber but at the urgent and treaty of the princes of kosala
+noisy,competing_snr-10_03,competing,-10.0,1.5,was hardly likely to be lively herself but her name was madge and it was the accident of her christian name which decided to
+noisy,pink_snr+0_00,pink,0.0,0.4166666666666667,i should find my fourth ontario in my room yes yes
+noisy,pink_snr+0_01,pink,0.0,0.0,the astonishment with which the villagers regarded this machine was overwhelming
+noisy,pink_snr+0_02,pink,0.0,0.0,this connoisseur was suddenly fascinated and had adopted the laughing man
+noisy,pink_snr+0_03,pink,0.0,0.1176470588235294,back the ringleader john rex gave me his confession and i sent it to the bishop
+noisy,pink_snr+10_00,pink,10.0,0.0,the last two days of the voyage bartley found almost intolerable
+noisy,pink_snr+10_01,pink,10.0,0.0,abandoned indeed by god and man almost
+noisy,pink_snr+10_02,pink,10.0,0.0,the fact was that scarcely any one of them but expected some goods by the periodical vessel
+noisy,pink_snr+10_03,pink,10.0,0.0,miss milner you shall not leave the house this evening sir
+noisy,pink_snr-10_00,pink,-10.0,0.6842105263157895,thanks safety and the residents of the grass woken group with grass carefully cut the paint
+noisy,pink_snr-10_01,pink,-10.0,0.9090909090909092,and that hour we're doing something in the air now it definitely absolutely runs taking the jacket and shot up to the top
+noisy,pink_snr-10_02,pink,-10.0,0.9333333333333332,i hope it's time to be on the way
+noisy,pink_snr-10_03,pink,-10.0,1.0,thanks for watching
+noisy,reverb_babble_snr+0_00,reverb_babble,0.0,0.9333333333333332,yes if you want to offer to my will i see you in the morning
+noisy,reverb_babble_snr+0_01,reverb_babble,0.0,1.0,so what's the basic concrete question for you i think it's not the only one
+noisy,reverb_babble_snr+0_02,reverb_babble,0.0,1.0,and a time of sacred edits is far more very much like you
+noisy,reverb_babble_snr+0_03,reverb_babble,0.0,1.25,the world is still great there's no one here i'm so worthy of a foreign show of strength a lot of this matters it prevents a bloody shame
+noisy,reverb_babble_snr+10_00,reverb_babble,10.0,0.25,earth's voice and everything in the peace in the company in the kitchen in the orchestra
+noisy,reverb_babble_snr+10_01,reverb_babble,10.0,0.1111111111111111,oh god give me strength aim me help me
+noisy,reverb_babble_snr+10_02,reverb_babble,10.0,0.5416666666666666,so they went on to the romantic and then they were down on the mountains of the prison and listened to me speak like i'm sure i am
+noisy,reverb_babble_snr+10_03,reverb_babble,10.0,0.0555555555555555,the sacred edifices are however very much like these people who do without watches and never miss them
+noisy,reverb_babble_snr-10_00,reverb_babble,-10.0,0.95,and
+noisy,reverb_babble_snr-10_01,reverb_babble,-10.0,1.4615384615384617,i'm sad if i might stop i'll take over the place that's how i'm going to make a difference
+noisy,reverb_babble_snr-10_02,reverb_babble,-10.0,1.0,i would like to thank you for your support
+noisy,reverb_babble_snr-10_03,reverb_babble,-10.0,1.0769230769230769,every girl who has a relationship with the community is a very good one
+noisy,traffic_snr+0_00,traffic,0.0,0.0769230769230769,hans our extraordinary guide went first walking with a steady rapid unburying step
+noisy,traffic_snr+0_01,traffic,0.0,0.2,not bremmer but the most noted stronghold of the sheep in the whole shasta region
+noisy,traffic_snr+0_02,traffic,0.0,0.0,the caravan was divided into three compartments partitioned from each other
+noisy,traffic_snr+0_03,traffic,0.0,0.1764705882352941,the fact was that scarcely any one of them would have expected some goods by the periodic vessel
+noisy,traffic_snr+10_00,traffic,10.0,0.1666666666666666,like the two kings of sparta they were enjointly dividing between them the laborers and cares of state
+noisy,traffic_snr+10_01,traffic,10.0,0.0833333333333333,bartley leaned his head in his hands and spoke to his teeth
+noisy,traffic_snr+10_02,traffic,10.0,0.0,even this comedian of jaws and claws was eclipsed in success
+noisy,traffic_snr+10_03,traffic,10.0,0.0476190476190476,doraforth then laid the book out of his hand and by the time the servant had left the room thus began
+noisy,traffic_snr-10_00,traffic,-10.0,0.7857142857142857,i've seen you to know that a display is in the mirror so simple and also
+noisy,traffic_snr-10_01,traffic,-10.0,1.0,you
+noisy,traffic_snr-10_02,traffic,-10.0,0.7,besides this space it's a rocket that's given him the resources of the two that's in it actually
+noisy,traffic_snr-10_03,traffic,-10.0,0.7272727272727273,in the last half of the nation
+wiener_dd,babble_snr+0_00,babble,0.0,0.8333333333333334,yes yes
+wiener_dd,babble_snr+0_01,babble,0.0,0.3846153846153846,another roof from a tube painting green like the rest smoke a rose
+wiener_dd,babble_snr+0_02,babble,0.0,0.8571428571428571,i'm loving someone who i need
+wiener_dd,babble_snr+0_03,babble,0.0,0.3125,versus wasn't everything human in the peace in the company in the kitchen in the orchestra
+wiener_dd,babble_snr+10_00,babble,10.0,0.1111111111111111,she bit her lip and looked down at her hands which would clasp tightly in front of her
+wiener_dd,babble_snr+10_01,babble,10.0,0.3,the world's thick vapors will your eyes unworthy of that glorious show blind his slender bent upon his shade
+wiener_dd,babble_snr+10_02,babble,10.0,0.0,hans our extraordinary guide went first walking with a steady rapid unvarying step
+wiener_dd,babble_snr+10_03,babble,10.0,0.2666666666666666,what should we have done if everybody had cast down birdie wood for this day
+wiener_dd,babble_snr-10_00,babble,-10.0,1.0,what exactly
+wiener_dd,babble_snr-10_01,babble,-10.0,1.0,i'm going to be in the morning
+wiener_dd,babble_snr-10_02,babble,-10.0,1.0,
+wiener_dd,babble_snr-10_03,babble,-10.0,0.96,and the station will be the first to get out of the room about as early as the morning when i leave the video
+wiener_dd,broadband_env_snr+0_00,broadband_env,0.0,0.0588235294117647,be the results however what they might randall could see but one plain course before him now
+wiener_dd,broadband_env_snr+0_01,broadband_env,0.0,0.1666666666666666,the government they go to and you too lord burgess get out
+wiener_dd,broadband_env_snr+0_02,broadband_env,0.0,0.0,and i she whispered i felt that you were feeling that
+wiener_dd,broadband_env_snr+0_03,broadband_env,0.0,0.2307692307692307,for these red phoebe and venus that we may conform to english pronunciation
+wiener_dd,broadband_env_snr+10_00,broadband_env,10.0,0.0,the wheels were all of the same size and high as wagon wheels
+wiener_dd,broadband_env_snr+10_01,broadband_env,10.0,0.2857142857142857,yey are newcomers and because i smile bikenshi per adventure in this place elect to human nature for its nest
+wiener_dd,broadband_env_snr+10_02,broadband_env,10.0,0.75,go quietly alone i don't want to know before you
+wiener_dd,broadband_env_snr+10_03,broadband_env,10.0,0.0,according to all appearance industrious manipulators of children had worked upon his face
+wiener_dd,broadband_env_snr-10_00,broadband_env,-10.0,1.0,i
+wiener_dd,broadband_env_snr-10_01,broadband_env,-10.0,13.76923076923077,i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure if i'm not sure
+wiener_dd,broadband_env_snr-10_02,broadband_env,-10.0,0.5333333333333333,what did you come for me and how did you have it you haven't spoken yet
+wiener_dd,broadband_env_snr-10_03,broadband_env,-10.0,0.4583333333333333,i don't know what i ought to say but i don't think i'm happy to explain to you that guy are you trying to fight me
+wiener_dd,competing_snr+0_00,competing,0.0,0.75,in gwyn playing evil vauds never arrives as well as she cools and he had therefore no remorse
+wiener_dd,competing_snr+0_01,competing,0.0,1.0,pigeon was in the worst case of jim she went out comforting drawing his leg
+wiener_dd,competing_snr+0_02,competing,0.0,0.3846153846153846,from to a great change had taken place
+wiener_dd,competing_snr+0_03,competing,0.0,1.4285714285714286,pointed up to the sky and questioned me with the glass i noticed how white will shake his own hands
+wiener_dd,competing_snr+10_00,competing,10.0,0.0,that success was prodigious still it remained local
+wiener_dd,competing_snr+10_01,competing,10.0,0.0909090909090909,even this comedian of jaws and cause was eclipsed in success
+wiener_dd,competing_snr+10_02,competing,10.0,0.0,the emptying of tankards did not decrease their success
+wiener_dd,competing_snr+10_03,competing,10.0,0.125,to ride a result water upon the back of a little horse seemed to me absurd
+wiener_dd,competing_snr-10_00,competing,-10.0,0.6666666666666666,oh god give me strength who's unhappy fate in my mind
+wiener_dd,competing_snr-10_01,competing,-10.0,1.2307692307692308,not mr vladimir and had women to fall back in time whereas he had a woman
+wiener_dd,competing_snr-10_02,competing,-10.0,0.9583333333333334,back to the arabesque chamber but at the urgent and treaty of the princes of kosala
+wiener_dd,competing_snr-10_03,competing,-10.0,1.5,was hardly likely to be lively herself but her name was madge and it was the accident of her christian name which decided to
+wiener_dd,pink_snr+0_00,pink,0.0,0.5,i should find my pro town chair in my room yes yes
+wiener_dd,pink_snr+0_01,pink,0.0,0.0,the astonishment with which the villagers regarded this machine was overwhelming
+wiener_dd,pink_snr+0_02,pink,0.0,0.0,this connoisseur was suddenly fascinated and had adopted the laughing man
+wiener_dd,pink_snr+0_03,pink,0.0,0.1176470588235294,back the ringleader john rex gave me his confession and i sent it to the bishop
+wiener_dd,pink_snr+10_00,pink,10.0,0.0909090909090909,the last two days of the voyage barton found almost intolerable
+wiener_dd,pink_snr+10_01,pink,10.0,0.0,abandoned indeed by god and man almost
+wiener_dd,pink_snr+10_02,pink,10.0,0.0,the fact was that scarcely any one of them but expected some goods by the periodical vessel
+wiener_dd,pink_snr+10_03,pink,10.0,0.0,miss milner you shall not leave the house this evening sir
+wiener_dd,pink_snr-10_00,pink,-10.0,0.7894736842105263,thanks to the u s residents of the nebraska local group the nebraska's carefully hovered game
+wiener_dd,pink_snr-10_01,pink,-10.0,0.7727272727272727,that hour they were selling in the air craft it kept from absolutely rust they kept tackling shadows in the dark
+wiener_dd,pink_snr-10_02,pink,-10.0,0.9333333333333332,so good stuff and you're honored and good to know you're here
+wiener_dd,pink_snr-10_03,pink,-10.0,1.2222222222222223,i think that it's now a thing to do to describe the way that we need to be a part of our journey
+wiener_dd,reverb_babble_snr+0_00,reverb_babble,0.0,1.2666666666666666,yes if we want to offer you to make sure that our secrets hold the greatest time you'll fade the door
+wiener_dd,reverb_babble_snr+0_01,reverb_babble,0.0,1.0,so what's basic about the question
+wiener_dd,reverb_babble_snr+0_02,reverb_babble,0.0,0.7777777777777778,and a time of sacred petitosis is far back very much like you i'll meet you without watching and never miss
+wiener_dd,reverb_babble_snr+0_03,reverb_babble,0.0,1.25,well this world has been great there's no one here to support the poor and show us from a wide distance that's how they shake us up
+wiener_dd,reverb_babble_snr+10_00,reverb_babble,10.0,0.1875,versus was an everything in the peace in the company in the kitchen in the orchestra
+wiener_dd,reverb_babble_snr+10_01,reverb_babble,10.0,0.4444444444444444,oh god give me strength amen
+wiener_dd,reverb_babble_snr+10_02,reverb_babble,10.0,0.5,so they went on to the romance and they were down on the house again and listened to the speed of my own shore
+wiener_dd,reverb_babble_snr+10_03,reverb_babble,10.0,0.0555555555555555,the sacred edifices are however very much like these people who do without watches and never miss them
+wiener_dd,reverb_babble_snr-10_00,reverb_babble,-10.0,0.9,and we're going to have a chat with you on the phone
+wiener_dd,reverb_babble_snr-10_01,reverb_babble,-10.0,1.0,i'm sad
+wiener_dd,reverb_babble_snr-10_02,reverb_babble,-10.0,10.166666666666666,i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed to be able to stop out i'm not supposed
+wiener_dd,reverb_babble_snr-10_03,reverb_babble,-10.0,1.0,we will be back in a few minutes
+wiener_dd,traffic_snr+0_00,traffic,0.0,0.3076923076923077,hans with our extraordinary guide what works walking with a steady rapid unburying step
+wiener_dd,traffic_snr+0_01,traffic,0.0,0.2666666666666666,not bremer but the most noted strong hold of the sheep in the whole shasta region
+wiener_dd,traffic_snr+0_02,traffic,0.0,0.0,the caravan was divided into three compartments partitioned from each other
+wiener_dd,traffic_snr+0_03,traffic,0.0,0.1176470588235294,the fact was that scarcely any one of them would expected some goods by the periodic vessel
+wiener_dd,traffic_snr+10_00,traffic,10.0,0.1666666666666666,like the two kings of sparta they wrote in jointly dividing between them the laborers and cares of state
+wiener_dd,traffic_snr+10_01,traffic,10.0,0.0833333333333333,bartley leaned his head in his hands and spoke to his teeth
+wiener_dd,traffic_snr+10_02,traffic,10.0,0.0,even this comedian of jaws and claws was eclipsed in success
+wiener_dd,traffic_snr+10_03,traffic,10.0,0.0476190476190476,doraforth then laid the book out of his hand and by the time the servant had left the room thus began
+wiener_dd,traffic_snr-10_00,traffic,-10.0,1.0,i see you two little despise you for the goodness of someone that's wrong
+wiener_dd,traffic_snr-10_01,traffic,-10.0,1.0,i
+wiener_dd,traffic_snr-10_02,traffic,-10.0,0.55,besides this space the waves have broken up and given him the resources as a tune that's in an athlete
+wiener_dd,traffic_snr-10_03,traffic,-10.0,0.9090909090909092,please i'm gonna last off the measuring
+tse_convtasnet_ecapa,babble_snr+0_00,babble,0.0,0.4166666666666667,i shall find my book one channel in my room yes yes
+tse_convtasnet_ecapa,babble_snr+0_01,babble,0.0,0.1538461538461538,on the roof from a tube painted green like the rest smoke a rose
+tse_convtasnet_ecapa,babble_snr+0_02,babble,0.0,0.2142857142857142,we see loving someone as i love you makes the whole world different
+tse_convtasnet_ecapa,babble_snr+0_03,babble,0.0,0.5,the first is wasn't everything in the piece in the company in the kitchen and the orchestra to build up
+tse_convtasnet_ecapa,babble_snr+10_00,babble,10.0,0.1666666666666666,she bit her lip and looked down at her hands which were clasped tightly and funder her
+tse_convtasnet_ecapa,babble_snr+10_01,babble,10.0,0.3,the swirled thick vapors whelm your eyes unworthy of that glorious show aligned his slender bent upon his shame
+tse_convtasnet_ecapa,babble_snr+10_02,babble,10.0,0.0,hans our extraordinary guide went first walking with a steady rapid unvarying step
+tse_convtasnet_ecapa,babble_snr+10_03,babble,10.0,0.0,what should we have done if everybody had kept on burning wood to this day
+tse_convtasnet_ecapa,babble_snr-10_00,babble,-10.0,1.0,i'm not going to talk about the stuff that they know about
+tse_convtasnet_ecapa,babble_snr-10_01,babble,-10.0,15.181818181818182,to cheer our talk or their praise to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people to the people
+tse_convtasnet_ecapa,babble_snr-10_02,babble,-10.0,0.9615384615384616,i should otherwise not to think that the entire brand old man was challenged to convince me to be the son of the host
+tse_convtasnet_ecapa,babble_snr-10_03,babble,-10.0,0.96,and station with me that virtually has catalogued about an interval in the following point over miles
+tse_convtasnet_ecapa,broadband_env_snr+0_00,broadband_env,0.0,0.0588235294117647,be the results however what they might randall could see but one plain course before him now
+tse_convtasnet_ecapa,broadband_env_snr+0_01,broadband_env,0.0,0.9166666666666666,i don't have a new two word burgess
+tse_convtasnet_ecapa,broadband_env_snr+0_02,broadband_env,0.0,0.0,and i she whispered i felt that you were feeling that
+tse_convtasnet_ecapa,broadband_env_snr+0_03,broadband_env,0.0,0.2307692307692307,for these red phoebe and venus that we may conform to english pronunciation
+tse_convtasnet_ecapa,broadband_env_snr+10_00,broadband_env,10.0,0.0769230769230769,the wheels were all of the same size and high as wagon
+tse_convtasnet_ecapa,broadband_env_snr+10_01,broadband_env,10.0,0.238095238095238,yay are newcomers and because i smile began she per adventure in this place elect to human nature for its nest
+tse_convtasnet_ecapa,broadband_env_snr+10_02,broadband_env,10.0,0.375,go quietly alone i'll harm her before you
+tse_convtasnet_ecapa,broadband_env_snr+10_03,broadband_env,10.0,0.0,according to all appearance industrious manipulators of children had worked upon his face
+tse_convtasnet_ecapa,broadband_env_snr-10_00,broadband_env,-10.0,0.925925925925926,this one the bottom is down and the top is down
+tse_convtasnet_ecapa,broadband_env_snr-10_01,broadband_env,-10.0,1.0,and the other one in the center
+tse_convtasnet_ecapa,broadband_env_snr-10_02,broadband_env,-10.0,1.0,learn to meet your home partner and have the impact you can have it spoken of earth
+tse_convtasnet_ecapa,broadband_env_snr-10_03,broadband_env,-10.0,0.4166666666666667,i don't know what i have to say but i don't believe you can fight me again but you're trying to fight me
+tse_convtasnet_ecapa,competing_snr+0_00,competing,0.0,0.1666666666666666,in gwyn plains evil thoughts never ripened and he had therefore no remorse
+tse_convtasnet_ecapa,competing_snr+0_01,competing,0.0,0.5,i never know you was so brave jim she went out comforting her own his leg
+tse_convtasnet_ecapa,competing_snr+0_02,competing,0.0,0.3846153846153846,from to a great change had taken place
+tse_convtasnet_ecapa,competing_snr+0_03,competing,0.0,0.2857142857142857,don't you see how many uses we have found for the refused cold car
+tse_convtasnet_ecapa,competing_snr+10_00,competing,10.0,0.0,that success was prodigious still it remained local
+tse_convtasnet_ecapa,competing_snr+10_01,competing,10.0,0.0,even this comedian of jaws and claws was eclipsed in success
+tse_convtasnet_ecapa,competing_snr+10_02,competing,10.0,0.0,the emptying of tankards did not decrease their success
+tse_convtasnet_ecapa,competing_snr+10_03,competing,10.0,0.125,to ride over saltwater upon the back of a little horse seemed to me absurd
+tse_convtasnet_ecapa,competing_snr-10_00,competing,-10.0,0.0,oh god give me strength aid me help me
+tse_convtasnet_ecapa,competing_snr-10_01,competing,-10.0,0.0,it was on one of these gravel beds that i met my adventure
+tse_convtasnet_ecapa,competing_snr-10_02,competing,-10.0,0.0416666666666666,i don't know what i ought to say but i don't believe you'd be happy surely i don't aren't you trying to frighten me
+tse_convtasnet_ecapa,competing_snr-10_03,competing,-10.0,0.1875,with that exception their success became so great that no amount of bank memory could recall its parallel
+tse_convtasnet_ecapa,pink_snr+0_00,pink,0.0,0.4166666666666667,i should find my kill in my wound instead yes yes
+tse_convtasnet_ecapa,pink_snr+0_01,pink,0.0,0.0,the astonishment with which the villagers regarded this machine was overwhelming
+tse_convtasnet_ecapa,pink_snr+0_02,pink,0.0,0.4545454545454545,his connoisseur was suddenly fascinated and had a tough for loving man
+tse_convtasnet_ecapa,pink_snr+0_03,pink,0.0,0.1764705882352941,that the ringleader john rex gave me his confession and i sent it to the vision
+tse_convtasnet_ecapa,pink_snr+10_00,pink,10.0,0.0909090909090909,the last two days of the voyage bartu found almost intolerable
+tse_convtasnet_ecapa,pink_snr+10_01,pink,10.0,0.0,abandoned indeed by god and man almost
+tse_convtasnet_ecapa,pink_snr+10_02,pink,10.0,0.0588235294117647,the fact was that scarcely any one of them but expected some goods by the periodical best
+tse_convtasnet_ecapa,pink_snr+10_03,pink,10.0,0.0909090909090909,ms milner you shall not leave the house this evening sir
+tse_convtasnet_ecapa,pink_snr-10_00,pink,-10.0,0.9473684210526316,i think brass brass those are the ones that look like this
+tse_convtasnet_ecapa,pink_snr-10_01,pink,-10.0,0.9545454545454546,and that algorithm smells in the air well successful after the evening clock take a shot at the shadow of darkness
+tse_convtasnet_ecapa,pink_snr-10_02,pink,-10.0,0.8666666666666667,over the fact that we are on the ground
+tse_convtasnet_ecapa,pink_snr-10_03,pink,-10.0,0.9444444444444444,and i think that's the end of the process
+tse_convtasnet_ecapa,reverb_babble_snr+0_00,reverb_babble,0.0,0.8666666666666667,yes one clock will run out of synonyms and the middle clock will be changed
+tse_convtasnet_ecapa,reverb_babble_snr+0_01,reverb_babble,0.0,1.0,i'm sorry
+tse_convtasnet_ecapa,reverb_babble_snr+0_02,reverb_babble,0.0,0.9444444444444444,and i like sacred petals of harm that i learned very much that you skip walking with you without walking and never miss it
+tse_convtasnet_ecapa,reverb_babble_snr+0_03,reverb_babble,0.0,1.1,this world is making great players well and they're up high for the importance of show off this is my third bennett's upon exchange
+tse_convtasnet_ecapa,reverb_babble_snr+10_00,reverb_babble,10.0,0.4375,earth is what is in every piece in the company in the kitchen the harvest
+tse_convtasnet_ecapa,reverb_babble_snr+10_01,reverb_babble,10.0,0.4444444444444444,oh god give me strength
+tse_convtasnet_ecapa,reverb_babble_snr+10_02,reverb_babble,10.0,0.75,so then we go on to the answer and then we'll see the next thing we'll do and listen to the field where we can ensure that
+tse_convtasnet_ecapa,reverb_babble_snr+10_03,reverb_babble,10.0,0.3888888888888889,the sacred edicts are a loved group very much like these people who do without watches and never listen
+tse_convtasnet_ecapa,reverb_babble_snr-10_00,reverb_babble,-10.0,0.95,the
+tse_convtasnet_ecapa,reverb_babble_snr-10_01,reverb_babble,-10.0,1.0,i'll send you the instructions and you'll watch the music
+tse_convtasnet_ecapa,reverb_babble_snr-10_02,reverb_babble,-10.0,1.2222222222222223,it's the help that i'm making in this world of art that's expected to be inspired by the richness or is it easy
+tse_convtasnet_ecapa,reverb_babble_snr-10_03,reverb_babble,-10.0,17.23076923076923,and please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please
+tse_convtasnet_ecapa,traffic_snr+0_00,traffic,0.0,0.1538461538461538,hans our extraordinary guide my first walking with steady rapid unvarying step
+tse_convtasnet_ecapa,traffic_snr+0_01,traffic,0.0,0.3333333333333333,not primarily just the most noted stronghold of the sheep in old shasta region
+tse_convtasnet_ecapa,traffic_snr+0_02,traffic,0.0,0.0,the caravan was divided into three compartments partitioned from each other
+tse_convtasnet_ecapa,traffic_snr+0_03,traffic,0.0,0.4705882352941176,the fact was that it was seriously any gun but it extracted some goods by the periodic vessel
+tse_convtasnet_ecapa,traffic_snr+10_00,traffic,10.0,0.1666666666666666,like the two kings of sparta they were enjointly dividing between them the laborers and cares of state
+tse_convtasnet_ecapa,traffic_snr+10_01,traffic,10.0,0.0833333333333333,partly leaned his head in his hands and spoke through his teeth
+tse_convtasnet_ecapa,traffic_snr+10_02,traffic,10.0,0.0,even this comedian of jaws and claws was eclipsed in success
+tse_convtasnet_ecapa,traffic_snr+10_03,traffic,10.0,0.0476190476190476,rafforth then laid the book out of his hand and by the time the servant had left the room thus began
+tse_convtasnet_ecapa,traffic_snr-10_00,traffic,-10.0,0.9285714285714286,it gets future new that it gets buy out and it's just a good rock
+tse_convtasnet_ecapa,traffic_snr-10_01,traffic,-10.0,0.9333333333333332,well i'm not supposed to be able to stop me over the team
+tse_convtasnet_ecapa,traffic_snr-10_02,traffic,-10.0,0.65,sites this space had brought up the given head of resources and agendas and map the
+tse_convtasnet_ecapa,traffic_snr-10_03,traffic,-10.0,0.9090909090909092,the last one i didn't want to have is my english book
+demucs_dns64,babble_snr+0_00,babble,0.0,0.8333333333333334,yes yes yes
+demucs_dns64,babble_snr+0_01,babble,0.0,0.2307692307692307,the roof from a tube painted green like the rest smoke a rose
+demucs_dns64,babble_snr+0_02,babble,0.0,10.214285714285714,i'm not supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed to be a pussie but i'm supposed
+demucs_dns64,babble_snr+0_03,babble,0.0,0.625,versus wasn't everything in the company in the kitchen and the work is true
+demucs_dns64,babble_snr+10_00,babble,10.0,0.1111111111111111,when she bit her lip and looked down at her hands which were clasped tightly on front of her
+demucs_dns64,babble_snr+10_01,babble,10.0,0.2,this world's thick vapors whelm your eyes unworthy of that glorious show blind his slender bent upon his chain
+demucs_dns64,babble_snr+10_02,babble,10.0,0.0,hans our extraordinary guide went first walking with a steady rapid unvarying step
+demucs_dns64,babble_snr+10_03,babble,10.0,0.0666666666666666,what should we have done if everybody had kept on burning wood for this day
+demucs_dns64,babble_snr-10_00,babble,-10.0,0.9545454545454546,the proper information about station and the airport and the delivery of this trip exactly
+demucs_dns64,babble_snr-10_01,babble,-10.0,0.9090909090909092,i'll take a look at the details of the video
+demucs_dns64,babble_snr-10_02,babble,-10.0,0.8846153846153846,the president of the u s
+demucs_dns64,babble_snr-10_03,babble,-10.0,1.04,the only guy teaching us to him now and print his papers was thrown at him in his eyes the plans of working to the other
+demucs_dns64,broadband_env_snr+0_00,broadband_env,0.0,0.0588235294117647,be the results however what they might randall could see but one plain course before him now
+demucs_dns64,broadband_env_snr+0_01,broadband_env,0.0,0.25,government they go to and you too war burgess get out
+demucs_dns64,broadband_env_snr+0_02,broadband_env,0.0,0.0,and i she whispered i felt that you were feeling that
+demucs_dns64,broadband_env_snr+0_03,broadband_env,0.0,0.2307692307692307,for these red phoebe and venus that we may conform to english pronunciation
+demucs_dns64,broadband_env_snr+10_00,broadband_env,10.0,0.0,the wheels were all of the same size and high as wagon wheels
+demucs_dns64,broadband_env_snr+10_01,broadband_env,10.0,0.3333333333333333,yey are newcomers and because i smile be can she per adventure in this place elect to human nature for its nest
+demucs_dns64,broadband_env_snr+10_02,broadband_env,10.0,0.0,go quietly alone no harm will befall you
+demucs_dns64,broadband_env_snr+10_03,broadband_env,10.0,0.0,according to all appearance industrious manipulators of children had worked upon his face
+demucs_dns64,broadband_env_snr-10_00,broadband_env,-10.0,0.9629629629629628,of the two other different ways
+demucs_dns64,broadband_env_snr-10_01,broadband_env,-10.0,0.7692307692307693,i wish i had a bad time playing on this thing
+demucs_dns64,broadband_env_snr-10_02,broadband_env,-10.0,11.2,let me do fun part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and part ing and
+demucs_dns64,broadband_env_snr-10_03,broadband_env,-10.0,0.5,i don't know what i actually say but i don't believe in this activity it's really right now i keep trying to find me
+demucs_dns64,competing_snr+0_00,competing,0.0,0.75,in gwyneth's evil vaudevoirs never write as well as she could and had therefore no remorse
+demucs_dns64,competing_snr+0_01,competing,0.0,1.1666666666666667,pigeon was in the water's face of jim she went out for a pretty grown his leg
+demucs_dns64,competing_snr+0_02,competing,0.0,0.3846153846153846,from a to a great change had taken place
+demucs_dns64,competing_snr+0_03,competing,0.0,0.6428571428571429,pointed out to this guy we have found for the towel coal shard
+demucs_dns64,competing_snr+10_00,competing,10.0,0.0,that success was prodigious still it remained local
+demucs_dns64,competing_snr+10_01,competing,10.0,0.1818181818181818,even this comedian of laws and cause was eclipsed in success
+demucs_dns64,competing_snr+10_02,competing,10.0,0.2222222222222222,the emptying of tankards did not decrease their thick vest
+demucs_dns64,competing_snr+10_03,competing,10.0,0.1875,to ride over saltwater upon the back of a little forest seemed to me absurd
+demucs_dns64,competing_snr-10_00,competing,-10.0,0.6666666666666666,oh god give me strength who's unhappy fate in being mine
+demucs_dns64,competing_snr-10_01,competing,-10.0,1.1538461538461535,not mr vladimir and had women to fall back upon whereas he had a woman
+demucs_dns64,competing_snr-10_02,competing,-10.0,0.9583333333333334,back into the arabesque chamber but at the urgent and treaty of the princes of kosala
+demucs_dns64,competing_snr-10_03,competing,-10.0,1.5,was hardly likely to be lively herself but her name was magdge and it was the accident of her christian named which decided to
+demucs_dns64,pink_snr+0_00,pink,0.0,0.4166666666666667,i shall find my coir pontero in my room and say yes yes yes
+demucs_dns64,pink_snr+0_01,pink,0.0,0.0,the astonishment with which the villagers regarded this machine was overwhelming
+demucs_dns64,pink_snr+0_02,pink,0.0,0.0,this connoisseur was suddenly fascinated and had adopted the laughing man
+demucs_dns64,pink_snr+0_03,pink,0.0,0.0588235294117647,in fact the ringleader john rex gave me his confession and i sent it to the dish
+demucs_dns64,pink_snr+10_00,pink,10.0,0.0909090909090909,the last two days of the voyage bartu found almost intolerable
+demucs_dns64,pink_snr+10_01,pink,10.0,0.0,abandoned indeed by god and man almost
+demucs_dns64,pink_snr+10_02,pink,10.0,0.0,the fact was that scarcely any one of them but expected some goods by the periodical vessel
+demucs_dns64,pink_snr+10_03,pink,10.0,0.0,miss milner you shall not leave the house this evening sir
+demucs_dns64,pink_snr-10_00,pink,-10.0,0.8421052631578947,ready to do the regular christmas grass those over which grass the parents may have to pay
+demucs_dns64,pink_snr-10_01,pink,-10.0,0.9090909090909092,that hour goes down to his hair crown except perhaps when we get the gun take the status shadow and start
+demucs_dns64,pink_snr-10_02,pink,-10.0,0.9333333333333332,over the last few years
+demucs_dns64,pink_snr-10_03,pink,-10.0,1.0,thanks for that
+demucs_dns64,reverb_babble_snr+0_00,reverb_babble,0.0,0.8,yes one ought to win
+demucs_dns64,reverb_babble_snr+0_01,reverb_babble,0.0,1.1538461538461535,i wouldn't say it's a coffee but she goes there after my cake so i think it looks better
+demucs_dns64,reverb_babble_snr+0_02,reverb_babble,0.0,0.8888888888888888,i thought i'd say that it's a lot of my work very much like these people who use our budgets and never listen
+demucs_dns64,reverb_babble_snr+0_03,reverb_babble,0.0,1.45,the first is the elevator as well but i'm a sub dorzeal for the internal study the last is the distance which is the bench which is the entrance
+demucs_dns64,reverb_babble_snr+10_00,reverb_babble,10.0,0.1875,the person was in everything in the peace in the company in the kitchen in the orchestra
+demucs_dns64,reverb_babble_snr+10_01,reverb_babble,10.0,0.4444444444444444,oh god give me strength
+demucs_dns64,reverb_babble_snr+10_02,reverb_babble,10.0,0.9166666666666666,so in part we will ask let's not get this and this is seen what i'm sure
+demucs_dns64,reverb_babble_snr+10_03,reverb_babble,10.0,0.2222222222222222,the sacred benefits are however very much like you people who do without watching and never miss them
+demucs_dns64,reverb_babble_snr-10_00,reverb_babble,-10.0,0.95,i'm not going to stand something
+demucs_dns64,reverb_babble_snr-10_01,reverb_babble,-10.0,1.0,i'll send you a photo
+demucs_dns64,reverb_babble_snr-10_02,reverb_babble,-10.0,1.1111111111111112,of the death of the world's life in the sense that we can see some of our friends and sisters
+demucs_dns64,reverb_babble_snr-10_03,reverb_babble,-10.0,1.0,all we need is a sense of the power to suffer from this
+demucs_dns64,traffic_snr+0_00,traffic,0.0,0.2307692307692307,hans our extraordinary guy went first walking with steady rapid unvary step
+demucs_dns64,traffic_snr+0_01,traffic,0.0,0.2,not better is the most noted stronghold of the sheep in the old shasta region
+demucs_dns64,traffic_snr+0_02,traffic,0.0,0.0,the caravan was divided into three compartments partitioned from each other
+demucs_dns64,traffic_snr+0_03,traffic,0.0,0.2352941176470588,the fact was that scarcely any one of them would expect it some goods by the periodical messon
+demucs_dns64,traffic_snr+10_00,traffic,10.0,0.1666666666666666,like the two kings of sparta they were enjointly dividing between them the laborers and cares of state
+demucs_dns64,traffic_snr+10_01,traffic,10.0,0.0,bartley leaned his head in his hands and spoke through his teeth
+demucs_dns64,traffic_snr+10_02,traffic,10.0,0.0,even this comedian of jaws and claws was eclipsed in success
+demucs_dns64,traffic_snr+10_03,traffic,10.0,0.0476190476190476,doroforth then laid the book out of his hand and by the time the servant had left the room thus began
+demucs_dns64,traffic_snr-10_00,traffic,-10.0,1.0,i think you know that it is biotin but that's just similar to that side
+demucs_dns64,traffic_snr-10_01,traffic,-10.0,0.9333333333333332,when the family of the students may be noticed the truth is that they can't
+demucs_dns64,traffic_snr-10_02,traffic,-10.0,0.35,besides this space those have brought the thought of giving him the resources of a gymnast and an athlete
+demucs_dns64,traffic_snr-10_03,traffic,-10.0,0.8181818181818182,the last one i already did was the first one
+demucs_then_tse,babble_snr+0_00,babble,0.0,0.8333333333333334,yes yes
+demucs_then_tse,babble_snr+0_01,babble,0.0,0.2307692307692307,on the roof from a tube painted green light the rest smoke a rose
+demucs_then_tse,babble_snr+0_02,babble,0.0,0.9285714285714286,someone is eyelid but she's okay to the best of us
+demucs_then_tse,babble_snr+0_03,babble,0.0,0.5,versus wasn't everything in the company in the kitchen in the orchestra the wilderness
+demucs_then_tse,babble_snr+10_00,babble,10.0,0.0555555555555555,she bit her lip and looked down at her hands which were clasped tightly on front of her
+demucs_then_tse,babble_snr+10_01,babble,10.0,0.2,this world's thick vapors whelm your eyes unworthy of that glorious show blind his slender bent upon his chain
+demucs_then_tse,babble_snr+10_02,babble,10.0,0.2307692307692307,bond's art's ordinary guide went first walking with a steady rapid unvarying step
+demucs_then_tse,babble_snr+10_03,babble,10.0,0.1333333333333333,what should we have done as everybody had kept on burning wood for this day
+demucs_then_tse,babble_snr-10_00,babble,-10.0,0.9545454545454546,i call the proper i'm going to say i'm going to have a single barrier on the next step exactly
+demucs_then_tse,babble_snr-10_01,babble,-10.0,2.0,i think one of the top men as well is the ulcer's now attached to the weapon such as the killer wing
+demucs_then_tse,babble_snr-10_02,babble,-10.0,0.9615384615384616,and she's got enough of that
+demucs_then_tse,babble_snr-10_03,babble,-10.0,0.96,the only
+demucs_then_tse,broadband_env_snr+0_00,broadband_env,0.0,0.0588235294117647,be the results however what they might randall could see but one plain course before him now
+demucs_then_tse,broadband_env_snr+0_01,broadband_env,0.0,0.25,government i go to and you too ward burgess get out
+demucs_then_tse,broadband_env_snr+0_02,broadband_env,0.0,0.0,and i she whispered i felt that you were feeling that
+demucs_then_tse,broadband_env_snr+0_03,broadband_env,0.0,0.2307692307692307,for these red phoebe and venus that we may conform to english pronunciation
+demucs_then_tse,broadband_env_snr+10_00,broadband_env,10.0,0.0,the wheels were all of the same size and high as wagon wheels
+demucs_then_tse,broadband_env_snr+10_01,broadband_env,10.0,0.238095238095238,yay are newcomers and because i smile began she per adventure in this place elect to human nature for its nest
+demucs_then_tse,broadband_env_snr+10_02,broadband_env,10.0,0.125,go quietly alone no harm will before you
+demucs_then_tse,broadband_env_snr+10_03,broadband_env,10.0,0.0,according to all appearance industrious manipulators of children had worked upon his face
+demucs_then_tse,broadband_env_snr-10_00,broadband_env,-10.0,0.925925925925926,and the other is established on the x men's but all simplified as much as possible
+demucs_then_tse,broadband_env_snr-10_01,broadband_env,-10.0,1.0769230769230769,we should have got to be a blind person we will have any more
+demucs_then_tse,broadband_env_snr-10_02,broadband_env,-10.0,0.6,where did you come from and how do you talk
+demucs_then_tse,broadband_env_snr-10_03,broadband_env,-10.0,0.5416666666666666,i don't know what i actually say but i don't believe in the fact that it's pretty right now i'd be trying to fight me
+demucs_then_tse,competing_snr+0_00,competing,0.0,0.3333333333333333,in gwynplain's evil thought never ripened it had therefore no remorse
+demucs_then_tse,competing_snr+0_01,competing,0.0,1.0,i'm so brave jim she went out of the comforting room his leg
+demucs_then_tse,competing_snr+0_02,competing,0.0,0.3846153846153846,from a to a great change had taken place
+demucs_then_tse,competing_snr+0_03,competing,0.0,0.3571428571428571,don't you see uses we have found for the details coal shards
+demucs_then_tse,competing_snr+10_00,competing,10.0,0.0,that success was prodigious still it remained local
+demucs_then_tse,competing_snr+10_01,competing,10.0,0.1818181818181818,even this comedian of daws and clos was eclipsed in success
+demucs_then_tse,competing_snr+10_02,competing,10.0,0.0,the emptying of tankards did not decrease their success
+demucs_then_tse,competing_snr+10_03,competing,10.0,0.375,the right of saltwater upon the back of a little forest seemed to me absurd
+demucs_then_tse,competing_snr-10_00,competing,-10.0,0.4444444444444444,oh god give me strength
+demucs_then_tse,competing_snr-10_01,competing,-10.0,1.0,
+demucs_then_tse,competing_snr-10_02,competing,-10.0,0.9583333333333334,back into the arabesque chamber but at the urgent and treaty of the princes of kosala
+demucs_then_tse,competing_snr-10_03,competing,-10.0,1.5,was hardly likely to be lively herself but her name was magdge and it was the accident of her christian name which decided to
+demucs_then_tse,pink_snr+0_00,pink,0.0,0.4166666666666667,i shall find my toy pontero in my ring and say yes yes
+demucs_then_tse,pink_snr+0_01,pink,0.0,0.0,the astonishment with which the villagers regarded this machine was overwhelming
+demucs_then_tse,pink_snr+0_02,pink,0.0,0.0,this connoisseur was suddenly fascinated and had adopted the laughing man
+demucs_then_tse,pink_snr+0_03,pink,0.0,0.1764705882352941,back the ringleader john rex gave me his confession and i sent it to the dish
+demucs_then_tse,pink_snr+10_00,pink,10.0,0.0909090909090909,the last two days of the voyage bartu found almost intolerable
+demucs_then_tse,pink_snr+10_01,pink,10.0,0.0,abandoned indeed by god and man almost
+demucs_then_tse,pink_snr+10_02,pink,10.0,0.0,the fact was that scarcely any one of them but expected some goods by the periodical vessel
+demucs_then_tse,pink_snr+10_03,pink,10.0,0.0,miss milner you shall not leave the house this evening sir
+demucs_then_tse,pink_snr-10_00,pink,-10.0,0.8421052631578947,and the graduate staff of the group which grads the parents may participate
+demucs_then_tse,pink_snr-10_01,pink,-10.0,0.8636363636363636,if that out we're going to snell through this fair cloud except for happens we're giving you money
+demucs_then_tse,pink_snr-10_02,pink,-10.0,0.8666666666666667,over the south of the army
+demucs_then_tse,pink_snr-10_03,pink,-10.0,1.0,thanks for watching
+demucs_then_tse,reverb_babble_snr+0_00,reverb_babble,0.0,0.8666666666666667,yes you want to walk too quick
+demucs_then_tse,reverb_babble_snr+0_01,reverb_babble,0.0,1.0,so i will be in the next section
+demucs_then_tse,reverb_babble_snr+0_02,reverb_babble,0.0,0.8888888888888888,and it's a lot of a network of very much little people who can use our documents and never listen
+demucs_then_tse,reverb_babble_snr+0_03,reverb_babble,0.0,1.0,also the predictors well are highly subdued for individuals from the last business thanks guys
+demucs_then_tse,reverb_babble_snr+10_00,reverb_babble,10.0,0.25,and was in everything in the peace in the covering in the gigeon in the orchestra
+demucs_then_tse,reverb_babble_snr+10_01,reverb_babble,10.0,0.5555555555555556,oh god i'm getting a strength ending help me
+demucs_then_tse,reverb_babble_snr+10_02,reverb_babble,10.0,0.9166666666666666,so we got a little ask and this is feeling like we were sure
+demucs_then_tse,reverb_babble_snr+10_03,reverb_babble,10.0,0.3333333333333333,the sacred benefits are however very much like you people who do without watching and never this time
+demucs_then_tse,reverb_babble_snr-10_00,reverb_babble,-10.0,1.0,i'm sure
+demucs_then_tse,reverb_babble_snr-10_01,reverb_babble,-10.0,1.1538461538461535,it's always weird and some of the pictures are just like a piece of art
+demucs_then_tse,reverb_babble_snr-10_02,reverb_babble,-10.0,1.0,i'll say that that's what i'm doing in my service to the university of north carolina
+demucs_then_tse,reverb_babble_snr-10_03,reverb_babble,-10.0,1.0,
+demucs_then_tse,traffic_snr+0_00,traffic,0.0,0.3076923076923077,ons our extraordinary guide point first walking with steady rapid unvary step
+demucs_then_tse,traffic_snr+0_01,traffic,0.0,0.2,not better is the most noted stronghold of the sheep and the whole shasta region
+demucs_then_tse,traffic_snr+0_02,traffic,0.0,0.0,the caravan was divided into three compartments partitioned from each other
+demucs_then_tse,traffic_snr+0_03,traffic,0.0,0.2352941176470588,the fact was that scarcely any one of them but it's fetched some goods by a periodical message
+demucs_then_tse,traffic_snr+10_00,traffic,10.0,0.1666666666666666,like the two kings of sparta they were enjointly dividing between them the laborers and cares of state
+demucs_then_tse,traffic_snr+10_01,traffic,10.0,0.0,bartley leaned his head in his hands and spoke through his teeth
+demucs_then_tse,traffic_snr+10_02,traffic,10.0,0.0,even this comedian of jaws and claws was eclipsed in success
+demucs_then_tse,traffic_snr+10_03,traffic,10.0,0.0476190476190476,doorforth then laid the book out of his hand and by the time the servant had left the room thus began
+demucs_then_tse,traffic_snr-10_00,traffic,-10.0,0.8571428571428571,i think you know that it is biotin for the sister and that's that
+demucs_then_tse,traffic_snr-10_01,traffic,-10.0,0.9333333333333332,when the terminal test needs to be managed to handle it it's needed
+demucs_then_tse,traffic_snr-10_02,traffic,-10.0,0.6,besides this space both a product is given head to resources of agendas and an athlete
+demucs_then_tse,traffic_snr-10_03,traffic,-10.0,0.8181818181818182,the last one i have been making
+metricgan_plus,babble_snr+0_00,babble,0.0,0.75,i should probably like very little tails in the room yes yes yes
+metricgan_plus,babble_snr+0_01,babble,0.0,0.6153846153846154,from a tube painted green light pressed
+metricgan_plus,babble_snr+0_02,babble,0.0,1.3571428571428572,we'll see what you're studying since i've got you like a short but we're kind of more interested in the art
+metricgan_plus,babble_snr+0_03,babble,0.0,0.75,first it wasn't everything we live the place and the company is a kitchen of awesome food
+metricgan_plus,babble_snr+10_00,babble,10.0,0.2777777777777778,she bit her lip and looked down at her hands which would clasp tight on the front of her
+metricgan_plus,babble_snr+10_01,babble,10.0,0.25,this world's thick vapors weld your eyes unworthy of that glorious show blind his splendor bent upon his shade
+metricgan_plus,babble_snr+10_02,babble,10.0,0.0,hans our extraordinary guide went first walking with a steady rapid unvarying step
+metricgan_plus,babble_snr+10_03,babble,10.0,0.1333333333333333,what should we have done if everybody had kept us already wood to this day
+metricgan_plus,babble_snr-10_00,babble,-10.0,5.090909090909091,i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry i'm sorry
+metricgan_plus,babble_snr-10_01,babble,-10.0,1.0909090909090908,humility love and everything is a scale or a life saving manner
+metricgan_plus,babble_snr-10_02,babble,-10.0,0.9615384615384616,to what others are
+metricgan_plus,babble_snr-10_03,babble,-10.0,1.28,it will be good to ask at least it really seems to be a tragedy with the fact that it's about a few years since the world has appeared in the island
+metricgan_plus,broadband_env_snr+0_00,broadband_env,0.0,0.0588235294117647,be the results however what they might randall could see but one plain course before him now
+metricgan_plus,broadband_env_snr+0_01,broadband_env,0.0,0.8333333333333334,governor they go to angieu to board ferguson
+metricgan_plus,broadband_env_snr+0_02,broadband_env,0.0,0.0,and i she whispered i felt that you were feeling that
+metricgan_plus,broadband_env_snr+0_03,broadband_env,0.0,0.2307692307692307,for these red feb and venus that we may conform to english pronunciation
+metricgan_plus,broadband_env_snr+10_00,broadband_env,10.0,0.0769230769230769,the wheels were all of the same size and high as wagon wheel
+metricgan_plus,broadband_env_snr+10_01,broadband_env,10.0,0.3333333333333333,yay i knew commerce and because i smile bikanchi per adventure in this place elect to human nature for its nest
+metricgan_plus,broadband_env_snr+10_02,broadband_env,10.0,0.625,go quietly along come on over for you
+metricgan_plus,broadband_env_snr+10_03,broadband_env,10.0,0.0,according to all appearance industrious manipulators of children had worked upon his face
+metricgan_plus,broadband_env_snr-10_00,broadband_env,-10.0,0.9629629629629628,all the time the five minutes the first minute the last minute the last minute the last minute the last minute
+metricgan_plus,broadband_env_snr-10_01,broadband_env,-10.0,1.0,i'm always looking for a factor for that kind of a risk
+metricgan_plus,broadband_env_snr-10_02,broadband_env,-10.0,0.9333333333333332,and try to get into it
+metricgan_plus,broadband_env_snr-10_03,broadband_env,-10.0,0.9583333333333334,i must never get out of here
+metricgan_plus,competing_snr+0_00,competing,0.0,1.25,in gwen playing the evil vods is never right as well as she could and he had their tour new before
+metricgan_plus,competing_snr+0_01,competing,0.0,1.1666666666666667,pigeon i need to know you're so great up jim she went up he began to ruin his leg
+metricgan_plus,competing_snr+0_02,competing,0.0,0.4615384615384615,from to a great change had taken place only
+metricgan_plus,competing_snr+0_03,competing,0.0,1.5,pointed up to the thigh and cut it to the gland i noticed how white will shake to his own hands
+metricgan_plus,competing_snr+10_00,competing,10.0,0.0,that success was prodigious still it remained local
+metricgan_plus,competing_snr+10_01,competing,10.0,0.0909090909090909,even this comedian of jaws and cause was eclipsed in success
+metricgan_plus,competing_snr+10_02,competing,10.0,0.0,the emptying of tankards did not decrease their success
+metricgan_plus,competing_snr+10_03,competing,10.0,0.25,to ride a result water upon the back of a little seems to me absurd
+metricgan_plus,competing_snr-10_00,competing,-10.0,0.6666666666666666,oh god give me strength who's unhappy fate and being mine
+metricgan_plus,competing_snr-10_01,competing,-10.0,1.1538461538461535,not mr vladimir and had women to fall back upon whereas he had a woman
+metricgan_plus,competing_snr-10_02,competing,-10.0,0.9583333333333334,to the arabesque chamber but at the urgent and treaty of the princes of quasala
+metricgan_plus,competing_snr-10_03,competing,-10.0,1.5,was hardly likely to be lively herself but her name was madge and it was the accident of her christian names which decided to
+metricgan_plus,pink_snr+0_00,pink,0.0,0.6666666666666666,i provide my foot on toe with my knee yes yes
+metricgan_plus,pink_snr+0_01,pink,0.0,0.2727272727272727,the astonishment with which the villagers regarded its machines overwhelming
+metricgan_plus,pink_snr+0_02,pink,0.0,0.7272727272727273,this connoisseur would suddenly fascinate and head it down to the parking mess
+metricgan_plus,pink_snr+0_03,pink,0.0,0.6470588235294118,but the ring is drawn red it is confession i said it to the dick
+metricgan_plus,pink_snr+10_00,pink,10.0,0.0909090909090909,the last two days of the voyage partly found almost intolerable
+metricgan_plus,pink_snr+10_01,pink,10.0,0.1428571428571428,abandoned indeed by god and man father
+metricgan_plus,pink_snr+10_02,pink,10.0,0.0,the fact was that scarcely any one of them but expected some goods by the periodical vessel
+metricgan_plus,pink_snr+10_03,pink,10.0,0.0909090909090909,ms milner you shall not leave the house this evening sir
+metricgan_plus,pink_snr-10_00,pink,-10.0,1.0,that's it that's it
+metricgan_plus,pink_snr-10_01,pink,-10.0,1.0,oh
+metricgan_plus,pink_snr-10_02,pink,-10.0,1.0,i'm going to go to the bathroom
+metricgan_plus,pink_snr-10_03,pink,-10.0,1.0,oh
+metricgan_plus,reverb_babble_snr+0_00,reverb_babble,0.0,1.1333333333333333,i said it all happened to my uncle for the next centuries i was hoping to wait any further
+metricgan_plus,reverb_babble_snr+0_01,reverb_babble,0.0,0.9230769230769232,human face country press your circle show us an english circle with them
+metricgan_plus,reverb_babble_snr+0_02,reverb_babble,0.0,1.2222222222222223,i think that this is our event and very much certainly we will see you with a full time stand up in this weekend
+metricgan_plus,reverb_babble_snr+0_03,reverb_babble,0.0,1.2,the spread of the day of the love for god so fully for what he shall find his honor for the best of the king
+metricgan_plus,reverb_babble_snr+10_00,reverb_babble,10.0,0.625,earth is in effect in the case in a comedy in the form of a story
+metricgan_plus,reverb_babble_snr+10_01,reverb_babble,10.0,1.0,fodor adivissem katie totten
+metricgan_plus,reverb_babble_snr+10_02,reverb_babble,10.0,0.75,so we want to go ahead and bring down to the next person and this is steve welcome to show them
+metricgan_plus,reverb_babble_snr+10_03,reverb_babble,10.0,0.8888888888888888,he's super head of the r hlover very much like you see who's without watch it's getting never a missus
+metricgan_plus,reverb_babble_snr-10_00,reverb_babble,-10.0,1.0,the third is the fourth time in the third institution the third institution is a good thing
+metricgan_plus,reverb_babble_snr-10_01,reverb_babble,-10.0,1.0,i'm sorry i'm so sorry
+metricgan_plus,reverb_babble_snr-10_02,reverb_babble,-10.0,1.0,we have the opportunity to be the child of the man the future of life the future of life
+metricgan_plus,reverb_babble_snr-10_03,reverb_babble,-10.0,1.1538461538461535,great version of that kind of old chisel act of a head of its effect
+metricgan_plus,traffic_snr+0_00,traffic,0.0,1.0,this is my arm's door area i can collect food walking with steady rapid un varying step
+metricgan_plus,traffic_snr+0_01,traffic,0.0,0.6,the plumber is the most limited stronghold at the feet and very sensitive region
+metricgan_plus,traffic_snr+0_02,traffic,0.0,0.0,the caravan was divided into three compartments partitioned from each other
+metricgan_plus,traffic_snr+0_03,traffic,0.0,0.4117647058823529,the fact was that scarcity any one of them could expect some goods via theory automously
+metricgan_plus,traffic_snr+10_00,traffic,10.0,0.4444444444444444,like the chishiscarda they were in joint dividing between them the laborers and cares of state
+metricgan_plus,traffic_snr+10_01,traffic,10.0,0.0833333333333333,bartley leaned his head in his hands and spoke to his teeth
+metricgan_plus,traffic_snr+10_02,traffic,10.0,0.0909090909090909,even this comedian of jaws and faws was eclipsed in success
+metricgan_plus,traffic_snr+10_03,traffic,10.0,0.1428571428571428,doraforth then laid the book out of his hand and by the time the servitude left the room thus began
+metricgan_plus,traffic_snr-10_00,traffic,-10.0,0.9285714285714286,i'm so sorry
+metricgan_plus,traffic_snr-10_01,traffic,-10.0,0.9333333333333332,i am the future
+metricgan_plus,traffic_snr-10_02,traffic,-10.0,0.9,aside from this faith this will run ahead in the resource of the jim westland family
+metricgan_plus,traffic_snr-10_03,traffic,-10.0,1.0,you
+wiener_dd_oraclenoise,babble_snr+0_00,babble,0.0,0.8333333333333334,yes yes yes
+wiener_dd_oraclenoise,babble_snr+0_01,babble,0.0,0.2307692307692307,for the roof from a tube painted green like the rest smoke or rose
+wiener_dd_oraclenoise,babble_snr+0_02,babble,0.0,0.5714285714285714,we see that being someone is not like me makes the whole world different
+wiener_dd_oraclenoise,babble_snr+0_03,babble,0.0,0.3125,first this wasn't everything in the piece in the company in the kitchen in the working store
+wiener_dd_oraclenoise,babble_snr+10_00,babble,10.0,0.1111111111111111,she bit her lip and looked down at her homes which looked clasped tightly in front of her
+wiener_dd_oraclenoise,babble_snr+10_01,babble,10.0,0.3,the world's thick vapors will your eyes unworthy of that glorious show aligned his splendor bent upon his shame
+wiener_dd_oraclenoise,babble_snr+10_02,babble,10.0,0.0,hans our extraordinary guide went first walking with a steady rapid unvarying step
+wiener_dd_oraclenoise,babble_snr+10_03,babble,10.0,0.1333333333333333,what should we have done if everybody had cast on burning wood for this day
+wiener_dd_oraclenoise,babble_snr-10_00,babble,-10.0,1.0,
+wiener_dd_oraclenoise,babble_snr-10_01,babble,-10.0,1.0,i'm thinking about it
+wiener_dd_oraclenoise,babble_snr-10_02,babble,-10.0,1.0,
+wiener_dd_oraclenoise,babble_snr-10_03,babble,-10.0,1.0,
+wiener_dd_oraclenoise,broadband_env_snr+0_00,broadband_env,0.0,0.0588235294117647,be the results however what they might randall could see but one plain course before him now
+wiener_dd_oraclenoise,broadband_env_snr+0_01,broadband_env,0.0,0.0833333333333333,the government may go to and you too lord burgess get out
+wiener_dd_oraclenoise,broadband_env_snr+0_02,broadband_env,0.0,0.0,and i she whispered i felt that you were feeling that
+wiener_dd_oraclenoise,broadband_env_snr+0_03,broadband_env,0.0,0.2307692307692307,for these red phoebe and venus that we may conform to english pronunciation
+wiener_dd_oraclenoise,broadband_env_snr+10_00,broadband_env,10.0,0.0,the wheels were all of the same size and high as wagon wheels
+wiener_dd_oraclenoise,broadband_env_snr+10_01,broadband_env,10.0,0.2857142857142857,yay are newcomers and because i smile bikanchy per adventure in this place elect to human nature for its nest
+wiener_dd_oraclenoise,broadband_env_snr+10_02,broadband_env,10.0,0.375,go quietly alone i'll harm overfall you
+wiener_dd_oraclenoise,broadband_env_snr+10_03,broadband_env,10.0,0.0,according to all appearance industrious manipulators of children had worked upon his face
+wiener_dd_oraclenoise,broadband_env_snr-10_00,broadband_env,-10.0,1.0,this one you're not going to be able to reach out to it's now that you're not going to be able to reach out to the other ones
+wiener_dd_oraclenoise,broadband_env_snr-10_01,broadband_env,-10.0,1.0,
+wiener_dd_oraclenoise,broadband_env_snr-10_02,broadband_env,-10.0,0.4,so do you come partly and how does it happen you haven't spoken at all
+wiener_dd_oraclenoise,broadband_env_snr-10_03,broadband_env,-10.0,0.25,i don't know what i ought to say but i don't believe he'd be happy to tell you i don't are you trying to party me
+wiener_dd_oraclenoise,competing_snr+0_00,competing,0.0,0.5833333333333334,in gwyn playing the evil vauds he never write them and he had therefore no remorse
+wiener_dd_oraclenoise,competing_snr+0_01,competing,0.0,0.5833333333333334,i never know you were so brave jim she went out and turned around his leg
+wiener_dd_oraclenoise,competing_snr+0_02,competing,0.0,0.3846153846153846,from to a great change had taken place
+wiener_dd_oraclenoise,competing_snr+0_03,competing,0.0,0.7857142857142857,pointed up don't see i mean you have found for the whole time
+wiener_dd_oraclenoise,competing_snr+10_00,competing,10.0,0.0,that success was prodigious still it remained local
+wiener_dd_oraclenoise,competing_snr+10_01,competing,10.0,0.0,even this comedian of jaws and claws was eclipsed in success
+wiener_dd_oraclenoise,competing_snr+10_02,competing,10.0,0.0,the emptying of tankards did not decrease their success
+wiener_dd_oraclenoise,competing_snr+10_03,competing,10.0,0.1875,to ride over saltwater upon the back of a little horse it seemed to me absurd
+wiener_dd_oraclenoise,competing_snr-10_00,competing,-10.0,0.6666666666666666,oh god give me strength who's unhappy fate and built mine
+wiener_dd_oraclenoise,competing_snr-10_01,competing,-10.0,1.0,not mr vladimir and women to fall back whereas he had a woman
+wiener_dd_oraclenoise,competing_snr-10_02,competing,-10.0,0.9583333333333334,back to the arabesque chamber but at the urgent and treaty of the princess of kosala
+wiener_dd_oraclenoise,competing_snr-10_03,competing,-10.0,1.4375,was hardly likely to be lively herself her name was mange and it was the accident of her christian name which decided to
+wiener_dd_oraclenoise,pink_snr+0_00,pink,0.0,0.4166666666666667,i should find my courtroom chair in my room yes yes
+wiener_dd_oraclenoise,pink_snr+0_01,pink,0.0,0.0,the astonishment with which the villagers regarded this machine was overwhelming
+wiener_dd_oraclenoise,pink_snr+0_02,pink,0.0,0.0,this connoisseur was suddenly fascinated and had adopted the laughing man
+wiener_dd_oraclenoise,pink_snr+0_03,pink,0.0,0.1764705882352941,back the ringleader john rex gave me his confession and i sent it to the issue
+wiener_dd_oraclenoise,pink_snr+10_00,pink,10.0,0.0909090909090909,the last two days of the voyage barty found almost intolerable
+wiener_dd_oraclenoise,pink_snr+10_01,pink,10.0,0.0,abandoned indeed by god and man almost
+wiener_dd_oraclenoise,pink_snr+10_02,pink,10.0,0.0,the fact was that scarcely any one of them but expected some goods by the periodical vessel
+wiener_dd_oraclenoise,pink_snr+10_03,pink,10.0,0.0909090909090909,ms milner you shall not leave the house this evening sir
+wiener_dd_oraclenoise,pink_snr-10_00,pink,-10.0,0.5789473684210527,thanks to the students' residents of the grassland and the roof the grass is carefully unpaved
+wiener_dd_oraclenoise,pink_snr-10_01,pink,-10.0,0.9545454545454546,and that owl is going to the near ground it does put absolutely in front of the background shadow to the dog
+wiener_dd_oraclenoise,pink_snr-10_02,pink,-10.0,1.0,hold it flat in the army and flip the dead like you can show here
+wiener_dd_oraclenoise,pink_snr-10_03,pink,-10.0,1.0555555555555556,think study now think about it and try to clean the way it is and try to make it
+wiener_dd_oraclenoise,reverb_babble_snr+0_00,reverb_babble,0.0,0.8,yes one ought to make offer a message or a thing
+wiener_dd_oraclenoise,reverb_babble_snr+0_01,reverb_babble,0.0,0.9230769230769232,so let's face a great question for sarah so i think they've asked them
+wiener_dd_oraclenoise,reverb_babble_snr+0_02,reverb_babble,0.0,0.7222222222222222,the sacred benefits of our life are very much like you keeping without watching and never missing
+wiener_dd_oraclenoise,reverb_babble_snr+0_03,reverb_babble,0.0,1.0,the squirrels and incubators will appear up for the important show the worm is splattered the event is not in shame
+wiener_dd_oraclenoise,reverb_babble_snr+10_00,reverb_babble,10.0,0.25,earth is wise in everything in the peace in the company in the kitchen in the orchestra
+wiener_dd_oraclenoise,reverb_babble_snr+10_01,reverb_babble,10.0,0.4444444444444444,oh god give me strength
+wiener_dd_oraclenoise,reverb_babble_snr+10_02,reverb_babble,10.0,0.4583333333333333,so they went on to the romantic and they were on the nazi in prison and listened to the seed but i'm sure
+wiener_dd_oraclenoise,reverb_babble_snr+10_03,reverb_babble,10.0,0.1666666666666666,the sacred enempsus are however very much like these people who do without watches can never miss them
+wiener_dd_oraclenoise,reverb_babble_snr-10_00,reverb_babble,-10.0,11.0,i'm going to try to get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get this husband to come on and get
+wiener_dd_oraclenoise,reverb_babble_snr-10_01,reverb_babble,-10.0,1.0,i'm sorry
+wiener_dd_oraclenoise,reverb_babble_snr-10_02,reverb_babble,-10.0,0.9444444444444444,i'm going to talk about the other side of the video
+wiener_dd_oraclenoise,reverb_babble_snr-10_03,reverb_babble,-10.0,1.2307692307692308,before we discuss the media we are keeping a competitive home and see what we need
+wiener_dd_oraclenoise,traffic_snr+0_00,traffic,0.0,0.0769230769230769,hans our extraordinary guide went first walking with a steady rapid unburying step
+wiener_dd_oraclenoise,traffic_snr+0_01,traffic,0.0,0.1333333333333333,not bremer is the most noted stronghold of the sheep in the old shasta region
+wiener_dd_oraclenoise,traffic_snr+0_02,traffic,0.0,0.0,the caravan was divided into three compartments partitioned from each other
+wiener_dd_oraclenoise,traffic_snr+0_03,traffic,0.0,0.0,the fact was that scarcely any one of them but expected some goods by the periodical vessel
+wiener_dd_oraclenoise,traffic_snr+10_00,traffic,10.0,0.1666666666666666,like the two kings of sparta they wrote in jointly dividing between them the laborers and cares of state
+wiener_dd_oraclenoise,traffic_snr+10_01,traffic,10.0,0.0833333333333333,bartly leaned his head in his hands and spoke through his teeth
+wiener_dd_oraclenoise,traffic_snr+10_02,traffic,10.0,0.0,even this comedian of jaws and claws was eclipsed in success
+wiener_dd_oraclenoise,traffic_snr+10_03,traffic,10.0,0.0476190476190476,doraforth then laid the book out of his hand and by the time the servant had left the room thus began
+wiener_dd_oraclenoise,traffic_snr-10_00,traffic,-10.0,0.3571428571428571,it seemed to me that it despised and forgiven so simple and gossip
+wiener_dd_oraclenoise,traffic_snr-10_01,traffic,-10.0,0.8666666666666667,my family was using it instead of pushing the camera down
+wiener_dd_oraclenoise,traffic_snr-10_02,traffic,-10.0,0.25,besides this space those who had brought him up have given him the resources of a gym that's in an athlete
+wiener_dd_oraclenoise,traffic_snr-10_03,traffic,-10.0,0.8181818181818182,the last one that needs to be pulled
+rnnoise,babble_snr+0_00,babble,0.0,1.0,
+rnnoise,babble_snr+0_01,babble,0.0,0.46153846153846156,and the root from a tube painted green like a smoke or grow
+rnnoise,babble_snr+0_02,babble,0.0,1.0,
+rnnoise,babble_snr+0_03,babble,0.0,1.25,i wanted to miss this much and everything but i knew it would be in the company in the kitchen or i thought you were supposed to
+rnnoise,babble_snr+10_00,babble,10.0,0.3333333333333333,bit her lip and look down at her home it will clasp tightly in front of her
+rnnoise,babble_snr+10_01,babble,10.0,0.65,there's well your eyes and the worthy of that glorious show mind his splendor bent upon you today
+rnnoise,babble_snr+10_02,babble,10.0,0.3076923076923077,my eyes went first walking with a steady rapid unvarying step
+rnnoise,babble_snr+10_03,babble,10.0,0.4666666666666667,on if everybody had kept up burning wood for this day
+rnnoise,babble_snr-10_00,babble,-10.0,1.0,
+rnnoise,babble_snr-10_01,babble,-10.0,1.6363636363636365,i'm gonna go and open this tutorial and i'm gonna have to be able to open this tutorial
+rnnoise,babble_snr-10_02,babble,-10.0,1.1538461538461537,actually i don't want to spend more than grand but i'll never forget about it i'll just talk to the men and to the women and to the women and to the women
+rnnoise,babble_snr-10_03,babble,-10.0,0.96,and we will be back in the afternoon
+rnnoise,broadband_env_snr+0_00,broadband_env,0.0,0.058823529411764705,be the results however what they might randall could see but one plain course before him now
+rnnoise,broadband_env_snr+0_01,broadband_env,0.0,0.5,but governments they go to and you too will for just get out
+rnnoise,broadband_env_snr+0_02,broadband_env,0.0,0.0,and i she whispered i felt that you were feeling that
+rnnoise,broadband_env_snr+0_03,broadband_env,0.0,0.23076923076923078,for these red phoebe and venus that we may conform to english pronunciation
+rnnoise,broadband_env_snr+10_00,broadband_env,10.0,0.0,the wheels were all of the same size and high as wagon wheels
+rnnoise,broadband_env_snr+10_01,broadband_env,10.0,0.3333333333333333,he are newcomers and because i smile be can she her adventure in this place elect to human nature for its nest
+rnnoise,broadband_env_snr+10_02,broadband_env,10.0,0.5,go quietly alone don't find more before you
+rnnoise,broadband_env_snr+10_03,broadband_env,10.0,0.0,according to all appearance industrious manipulators of children had worked upon his face
+rnnoise,broadband_env_snr-10_00,broadband_env,-10.0,1.0,i think she needs it
+rnnoise,broadband_env_snr-10_01,broadband_env,-10.0,1.0,yes folks
+rnnoise,broadband_env_snr-10_02,broadband_env,-10.0,1.0,let me see
+rnnoise,broadband_env_snr-10_03,broadband_env,-10.0,0.4583333333333333,i don't know what i ought to say but i don't believe in the least on the idea of are you trying to fight a minute
+rnnoise,competing_snr+0_00,competing,0.0,1.0,in gwyn and the evil mod for his archives as well as she could he had therefore no remorse
+rnnoise,competing_snr+0_01,competing,0.0,0.5833333333333334,i never know you was so gay of jim she went out from hurting ronas lake
+rnnoise,competing_snr+0_02,competing,0.0,0.46153846153846156,from to a great range had taken place
+rnnoise,competing_snr+0_03,competing,0.0,1.4285714285714286,pointed out that it didn't die and questioned you soo blam i noticed how white and luscious is on hand
+rnnoise,competing_snr+10_00,competing,10.0,0.25,this was prodigious still it remained local
+rnnoise,competing_snr+10_01,competing,10.0,0.18181818181818182,even this comedian of laws and cause was eclipsed in success
+rnnoise,competing_snr+10_02,competing,10.0,0.2222222222222222,the team of tankers did not decrease their success
+rnnoise,competing_snr+10_03,competing,10.0,0.625,the right of the saltwater up on the back of a little forest can seem to me absurd
+rnnoise,competing_snr-10_00,competing,-10.0,0.6666666666666666,oh god give me strength who's unhappy fate in being mine
+rnnoise,competing_snr-10_01,competing,-10.0,1.0,not mr vladimir and women to pull back on
+rnnoise,competing_snr-10_02,competing,-10.0,0.9583333333333334,back into the way of a best human but at the end of the treaty of the plunces of kosala
+rnnoise,competing_snr-10_03,competing,-10.0,1.5,was hardly likely to be lively herself but her name was magd and it was the accident of her christian named which decided to
+rnnoise,pink_snr+0_00,pink,0.0,0.8333333333333334,i should buy my total jail and i will win and say yes yes
+rnnoise,pink_snr+0_01,pink,0.0,0.0,the astonishment with which the villagers regarded this machine was overwhelming
+rnnoise,pink_snr+0_02,pink,0.0,0.0,this connoisseur was suddenly fascinated and had adopted the laughing man
+rnnoise,pink_snr+0_03,pink,0.0,0.058823529411764705,in fact the ringleader john rex gave me his confession and i said it to the bishop
+rnnoise,pink_snr+10_00,pink,10.0,0.09090909090909091,the last two days of the voyage bartney found almost intolerable
+rnnoise,pink_snr+10_01,pink,10.0,0.0,abandoned indeed by god and man almost
+rnnoise,pink_snr+10_02,pink,10.0,0.0,the fact was that scarcely any one of them but expected some goods by the periodical vessel
+rnnoise,pink_snr+10_03,pink,10.0,0.09090909090909091,ms milner you shall not leave the house this evening sir
+rnnoise,pink_snr-10_00,pink,-10.0,0.8421052631578947,bank is big for you his revenues his grassroots and the roof which grabs the girl from the bank
+rnnoise,pink_snr-10_01,pink,-10.0,0.8636363636363636,when that hour comes knowing about it get the absominate they can stack like a shadow
+rnnoise,pink_snr-10_02,pink,-10.0,0.9333333333333333,don't get sad in the arms it is a dirty thing
+rnnoise,pink_snr-10_03,pink,-10.0,1.0,thanks for having us now
+rnnoise,reverb_babble_snr+0_00,reverb_babble,0.0,0.9333333333333333,yes
+rnnoise,reverb_babble_snr+0_01,reverb_babble,0.0,1.0,oh thank you
+rnnoise,reverb_babble_snr+0_02,reverb_babble,0.0,0.9444444444444444,and clap
+rnnoise,reverb_babble_snr+0_03,reverb_babble,0.0,1.0,that's it
+rnnoise,reverb_babble_snr+10_00,reverb_babble,10.0,0.9375,and the box
+rnnoise,reverb_babble_snr+10_01,reverb_babble,10.0,1.0,okay
+rnnoise,reverb_babble_snr+10_02,reverb_babble,10.0,1.0,okay
+rnnoise,reverb_babble_snr+10_03,reverb_babble,10.0,0.9444444444444444,dj you do it
+rnnoise,reverb_babble_snr-10_00,reverb_babble,-10.0,0.9,i listen to the people
+rnnoise,reverb_babble_snr-10_01,reverb_babble,-10.0,1.0,i'm sorry
+rnnoise,reverb_babble_snr-10_02,reverb_babble,-10.0,1.0,let's see
+rnnoise,reverb_babble_snr-10_03,reverb_babble,-10.0,1.0,the
+rnnoise,traffic_snr+0_00,traffic,0.0,0.46153846153846156,ons a large ordinary guy went first walking with a steady rapid unburying step
+rnnoise,traffic_snr+0_01,traffic,0.0,0.4,reminds us the most noted struggle of the sheep in both shasta region
+rnnoise,traffic_snr+0_02,traffic,0.0,0.09090909090909091,the caravan was divided into three compartments partition from each other
+rnnoise,traffic_snr+0_03,traffic,0.0,0.23529411764705882,in fact it was that scarcely any one of them but expected some goods by an eeriotic vessel
+rnnoise,traffic_snr+10_00,traffic,10.0,0.1111111111111111,like the two kings of sparta they ran jointly dividing between them the laborers and cares of state
+rnnoise,traffic_snr+10_01,traffic,10.0,0.16666666666666666,partly leaned his head in his hands and spoke through his tea
+rnnoise,traffic_snr+10_02,traffic,10.0,0.0,even this comedian of jaws and claws was eclipsed in success
+rnnoise,traffic_snr+10_03,traffic,10.0,0.09523809523809523,dolaforth then laid the book out of his hand and by the time the servant had lacked the room thus began
+rnnoise,traffic_snr-10_00,traffic,-10.0,0.9285714285714286,feed me a bit of the spiting but it's so similar
+rnnoise,traffic_snr-10_01,traffic,-10.0,1.0,i'm with you today it's difficult to achieve
+rnnoise,traffic_snr-10_02,traffic,-10.0,0.7,besides this base those who had brought a clock if you didn't have the piece or succeeded do that's a good athlete
+rnnoise,traffic_snr-10_03,traffic,-10.0,0.7272727272727273,the last time we got the recording
+deepfilternet3,babble_snr+0_00,babble,0.0,1.0,yeah yeah
+deepfilternet3,babble_snr+0_01,babble,0.0,0.46153846153846156,the roof from a toothpane it's green like the rest of smoked roads
+deepfilternet3,babble_snr+0_02,babble,0.0,1.0,i'm not sure if you're like that
+deepfilternet3,babble_snr+0_03,babble,0.0,0.6875,the first is wasn't everything in the company in the kitchen and the work is structured
+deepfilternet3,babble_snr+10_00,babble,10.0,0.1111111111111111,she bit her lip and looked down at her hands which will clasp tightly in front of her
+deepfilternet3,babble_snr+10_01,babble,10.0,0.5,this world's thick vapors weld your eyes unworthy of that glorious show
+deepfilternet3,babble_snr+10_02,babble,10.0,0.23076923076923078,my cons our extraordinary guide went first walking with a steady rapid unvarying style
+deepfilternet3,babble_snr+10_03,babble,10.0,0.3333333333333333,what should we have done if everybody had cast out certain wood for this date
+deepfilternet3,babble_snr-10_00,babble,-10.0,1.0,the
+deepfilternet3,babble_snr-10_01,babble,-10.0,1.0,i'll just go talk to the great details
+deepfilternet3,babble_snr-10_02,babble,-10.0,0.8846153846153846,i'm not quite the ceo of the british
+deepfilternet3,babble_snr-10_03,babble,-10.0,1.0,and
+deepfilternet3,broadband_env_snr+0_00,broadband_env,0.0,0.058823529411764705,be the results however what they might randall could see but one plain course before him now
+deepfilternet3,broadband_env_snr+0_01,broadband_env,0.0,0.3333333333333333,government may go to end you tube or burgess get out
+deepfilternet3,broadband_env_snr+0_02,broadband_env,0.0,0.0,and i she whispered i felt that you were feeling that
+deepfilternet3,broadband_env_snr+0_03,broadband_env,0.0,0.23076923076923078,for these red phoebe and venus that we may conform to english pronunciation
+deepfilternet3,broadband_env_snr+10_00,broadband_env,10.0,0.0,the wheels were all of the same size and high as wagon wheels
+deepfilternet3,broadband_env_snr+10_01,broadband_env,10.0,0.3333333333333333,yee yay newcomers and because i smile bikanchi per adventure in this place elect to human nature for its nest
+deepfilternet3,broadband_env_snr+10_02,broadband_env,10.0,0.375,go quietly alone don't harm them before you
+deepfilternet3,broadband_env_snr+10_03,broadband_env,10.0,0.0,according to all appearance industrious manipulators of children had worked upon his face
+deepfilternet3,broadband_env_snr-10_00,broadband_env,-10.0,1.0,
+deepfilternet3,broadband_env_snr-10_01,broadband_env,-10.0,1.0,which will spot some of the back movements
+deepfilternet3,broadband_env_snr-10_02,broadband_env,-10.0,0.8,what did you do in part with and how did you do that you had a stroke anything
+deepfilternet3,broadband_env_snr-10_03,broadband_env,-10.0,0.25,i don't know what i ought to say but i don't believe i'll be happy to leave again are you trying to fight me
+deepfilternet3,competing_snr+0_00,competing,0.0,0.9166666666666666,in gwyn playing evil mods he never arrives as well as she cools and he had therefore no recourse
+deepfilternet3,competing_snr+0_01,competing,0.0,1.1666666666666667,pigeon was in the worst space of travel she went out of comforting drawing his leg
+deepfilternet3,competing_snr+0_02,competing,0.0,0.38461538461538464,from to a great change had taken place
+deepfilternet3,competing_snr+0_03,competing,0.0,1.4285714285714286,pointed up to this guy and questioned me with his plan i noticed how white and washed his own hands
+deepfilternet3,competing_snr+10_00,competing,10.0,0.0,that success was prodigious still it remained local
+deepfilternet3,competing_snr+10_01,competing,10.0,0.0,even this comedian of jaws and claws was eclipsed in success
+deepfilternet3,competing_snr+10_02,competing,10.0,0.0,the emptying of tankards did not decrease their success
+deepfilternet3,competing_snr+10_03,competing,10.0,0.1875,to ride a result water upon the back of a little system seemed to me absurd
+deepfilternet3,competing_snr-10_00,competing,-10.0,0.6666666666666666,oh god give me strength who's unhappy fate and be blind
+deepfilternet3,competing_snr-10_01,competing,-10.0,1.1538461538461537,not mr vladimir and had women to fall back upon whereas he had a woman
+deepfilternet3,competing_snr-10_02,competing,-10.0,0.9583333333333334,back into the arabesque chamber but at the urgent and treaty of the princes of kosala
+deepfilternet3,competing_snr-10_03,competing,-10.0,1.5,was hardly likely to be lively herself but her name was mag and it was the accident of her christian name which decided to
+deepfilternet3,pink_snr+0_00,pink,0.0,0.5,i should find my photo on my wound and say yes yes
+deepfilternet3,pink_snr+0_01,pink,0.0,0.0,the astonishment with which the villagers regarded this machine was overwhelming
+deepfilternet3,pink_snr+0_02,pink,0.0,0.09090909090909091,this connoisseur was suddenly fascinated and had adopted the laughing mat
+deepfilternet3,pink_snr+0_03,pink,0.0,0.17647058823529413,back the ringleader john rex gave me his confession and i sent it to the tissue
+deepfilternet3,pink_snr+10_00,pink,10.0,0.0,the last two days of the voyage bartley found almost intolerable
+deepfilternet3,pink_snr+10_01,pink,10.0,0.0,abandoned indeed by god and man almost
+deepfilternet3,pink_snr+10_02,pink,10.0,0.0,the fact was that scarcely any one of them but expected some goods by the periodical vessel
+deepfilternet3,pink_snr+10_03,pink,10.0,0.09090909090909091,ms milner you shall not leave the house this evening sir
+deepfilternet3,pink_snr-10_00,pink,-10.0,1.0,thank you
+deepfilternet3,pink_snr-10_01,pink,-10.0,1.0909090909090908,that's how we're going to tell the snowmen in the air route it just without a submitting month they can stagger the shadow for the dark one
+deepfilternet3,pink_snr-10_02,pink,-10.0,0.9333333333333333,those facts and the opinions
+deepfilternet3,pink_snr-10_03,pink,-10.0,1.0,thanks dennis now

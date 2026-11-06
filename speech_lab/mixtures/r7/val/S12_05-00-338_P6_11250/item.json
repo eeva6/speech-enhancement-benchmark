@@ -1,0 +1,29 @@
+{
+ "id": "S12_05-00-338_P6_11250",
+ "split": "val",
+ "session": 12,
+ "seg": "05-00-338",
+ "seg_start_s": 300.338,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Great. Thank you so much.",
+ "start_s": 11.25,
+ "end_s": 12.4,
+ "dur": 1.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 50400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 3.05,
+ "align_res_absmed_ms": 0.11621892190305516,
+ "align_how": "minute_line",
+ "az_ref_mean": 5.76,
+ "el_ref_mean": 13.21,
+ "az_ref_range": 7.97,
+ "doa_valid_frac": 1.0
+}

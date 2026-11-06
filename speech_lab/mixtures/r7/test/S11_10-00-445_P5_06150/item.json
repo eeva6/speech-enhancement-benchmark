@@ -1,0 +1,29 @@
+{
+ "id": "S11_10-00-445_P5_06150",
+ "split": "test",
+ "session": 11,
+ "seg": "10-00-445",
+ "seg_start_s": 600.445,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "This man's, the man, the man he's looking at, his father",
+ "start_s": 6.15,
+ "end_s": 10.4,
+ "dur": 4.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 100000,
+ "overlap": true,
+ "ovl_frac": 0.141,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0168338228831999,
+ "align_how": "session_slope",
+ "az_ref_mean": -2.53,
+ "el_ref_mean": 19.04,
+ "az_ref_range": 4.14,
+ "doa_valid_frac": 1.0
+}

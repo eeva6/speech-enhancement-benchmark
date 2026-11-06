@@ -1,0 +1,29 @@
+{
+ "id": "S11_21-00-585_P5_16500",
+ "split": "test",
+ "session": 11,
+ "seg": "21-00-585",
+ "seg_start_s": 1260.585,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "The speaker stands.",
+ "start_s": 16.5,
+ "end_s": 17.85,
+ "dur": 1.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 53600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.5936952074989676,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -10.55,
+ "el_ref_mean": 9.2,
+ "az_ref_range": 31.77,
+ "doa_valid_frac": 1.0
+}

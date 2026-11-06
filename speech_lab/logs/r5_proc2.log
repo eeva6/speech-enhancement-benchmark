@@ -1,0 +1,8 @@
+== r5 noisy
+{"method": "noisy", "n": 0, "note": "nothing to do"}
+== r5 rnnoise
+{"method": "rnnoise", "n": 0, "note": "nothing to do"}
+== r5 deepfilternet3
+{"method": "deepfilternet3", "n": 0, "note": "nothing to do"}
+== r5 tse
+== r5 ds_est

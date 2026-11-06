@@ -1,0 +1,17 @@
+{
+ "method": "bf_mvdr_oracle",
+ "tag": "r1",
+ "n": 48,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 0.07103984100012894,
+ "mean_proc_s": 0.26087768463828476,
+ "rtf": 0.04286251547926793,
+ "peak_rss_mb": 292.6171875,
+ "rss_before_mb": 248.44140625,
+ "n_params": null,
+ "noise_psd": "ms",
+ "infos": {},
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

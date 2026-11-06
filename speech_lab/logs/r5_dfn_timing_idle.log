@@ -1,0 +1,54 @@
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/df/io.py:9: UserWarning: `torchaudio.backend.common.AudioMetaData` has been moved to `torchaudio.AudioMetaData`. Please update the import path.
+  from torchaudio.backend.common import AudioMetaData
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+/workspace/projects/8ab30c5b-4a43-47d2-af42-980fa05ae57f/speech_lab/.venv/lib/python3.12/site-packages/df/checkpoint.py:77: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  latest = torch.load(latest, map_location="cpu")
+{
+ "model": "DeepFilterNet3_onnx.tar.gz",
+ "cpu": "2 vCPU aarch64 (shared sandbox; load average recorded)",
+ "create_s": 0.6513892530000476,
+ "hop_samples_48k": 480,
+ "hop_ms": 10.0,
+ "n_frames": 7923,
+ "n_files": 12,
+ "audio_s": 79.23,
+ "frame_ms": {
+  "mean": 0.687227551558753,
+  "median": 0.675658,
+  "p95": 0.7722146999999999,
+  "p99": 0.8431507799999997,
+  "max": 4.859627,
+  "first10_mean": 1.2456763
+ },
+ "rtf_frames": 0.0687227551558753,
+ "frac_frames_over_hop": 0.0,
+ "ctypes_overhead_us": 0.301,
+ "loadavg_1min_during": 1.5126953125,
+ "capi_output_delay_samples_48k": 1440,
+ "capi_output_delay_ms": 30.0,
+ "capi_vs_python_si_sdr_db": 24.31354331970215,
+ "config": {
+  "sr": 48000,
+  "fft_size": 960,
+  "hop_size": 480,
+  "lookahead_frames": 2,
+  "algorithmic_latency_ms": 40.0,
+  "note": "algorithmic = (fft-hop) analysis/synthesis overlap + lookahead*hop + one hop of buffering"
+ },
+ "end_to_end_latency_ms_estimate": {
+  "algorithmic": 40.0,
+  "plus_p99_compute": 40.84315078
+ },
+ "cli": {
+  "wall_s": 4.012062457000013,
+  "cpu_s": 3.34,
+  "audio_s": 47.0600625,
+  "rtf_wall": 0.08525408263110601,
+  "rtf_cpu": 0.07097313141052458,
+  "loadavg_1min_before": 1.52587890625,
+  "note": "includes model load (once per run) and WAV I/O",
+  "stderr_tail": "",
+  "returncode": 0
+ }
+}

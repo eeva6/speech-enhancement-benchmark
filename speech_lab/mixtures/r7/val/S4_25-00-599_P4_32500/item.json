@@ -1,0 +1,29 @@
+{
+ "id": "S4_25-00-599_P4_32500",
+ "split": "val",
+ "session": 4,
+ "seg": "25-00-599",
+ "seg_start_s": 1500.599,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "I mean how long does it take to cook that steak?",
+ "start_s": 32.5,
+ "end_s": 34.4,
+ "dur": 1.9,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 62400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.06700212543364614,
+ "align_how": "minute_line",
+ "az_ref_mean": -16.87,
+ "el_ref_mean": 5.01,
+ "az_ref_range": 36.3,
+ "doa_valid_frac": 0.974
+}

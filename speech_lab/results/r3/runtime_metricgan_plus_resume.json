@@ -1,0 +1,17 @@
+{
+ "method": "metricgan_plus",
+ "tag": "r3",
+ "n": 144,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 7.305729740000061,
+ "mean_proc_s": 0.260376187272722,
+ "rtf": 0.0395470054089455,
+ "peak_rss_mb": 318.37109375,
+ "rss_before_mb": 246.24609375,
+ "n_params": 1895514,
+ "noise_psd": "ms",
+ "infos": {},
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

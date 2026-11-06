@@ -1,0 +1,30 @@
+{
+ "id": "S11_23-00-605_P7_28150",
+ "split": "test",
+ "session": 11,
+ "seg": "23-00-605",
+ "seg_start_s": 1380.605,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "5",
+  "3"
+ ],
+ "target": "other",
+ "text": "No. He already said that. Yeah. The masking tape thingy?",
+ "start_s": 28.15,
+ "end_s": 32.3,
+ "dur": 4.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 98400,
+ "overlap": true,
+ "ovl_frac": 0.867,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.10229478357359767,
+ "align_how": "minute_line",
+ "az_ref_mean": 44.07,
+ "el_ref_mean": 3.02,
+ "az_ref_range": 154.95,
+ "doa_valid_frac": 1.0
+}

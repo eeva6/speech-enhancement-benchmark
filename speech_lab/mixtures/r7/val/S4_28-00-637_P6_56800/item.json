@@ -1,0 +1,29 @@
+{
+ "id": "S4_28-00-637_P6_56800",
+ "split": "val",
+ "session": 4,
+ "seg": "28-00-637",
+ "seg_start_s": 1680.637,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Is it going to be cooler tonight?",
+ "start_s": 56.8,
+ "end_s": 58.65,
+ "dur": 1.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 61600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 2.4,
+ "align_res_absmed_ms": 0.008573771083320025,
+ "align_how": "session_slope",
+ "az_ref_mean": -7.85,
+ "el_ref_mean": -1.06,
+ "az_ref_range": 17.32,
+ "doa_valid_frac": 1.0
+}

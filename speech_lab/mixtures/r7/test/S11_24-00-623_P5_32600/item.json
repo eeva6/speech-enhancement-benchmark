@@ -1,0 +1,29 @@
+{
+ "id": "S11_24-00-623_P5_32600",
+ "split": "test",
+ "session": 11,
+ "seg": "24-00-623",
+ "seg_start_s": 1440.623,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Okay, I spy with my little eye three cannibals on one. Not it. [H] Let's see, let's see.",
+ "start_s": 32.6,
+ "end_s": 40.6,
+ "dur": 8.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 160000,
+ "overlap": true,
+ "ovl_frac": 0.312,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.37677241198252887,
+ "align_how": "minute_line",
+ "az_ref_mean": -1.88,
+ "el_ref_mean": 5.5,
+ "az_ref_range": 16.84,
+ "doa_valid_frac": 0.994
+}

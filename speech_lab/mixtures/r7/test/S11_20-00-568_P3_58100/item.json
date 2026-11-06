@@ -1,0 +1,29 @@
+{
+ "id": "S11_20-00-568_P3_58100",
+ "split": "test",
+ "session": 11,
+ "seg": "20-00-568",
+ "seg_start_s": 1200.568,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I guess it's for little kids. [L]",
+ "start_s": 58.1,
+ "end_s": 59.25,
+ "dur": 1.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 50400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0379854827770032,
+ "align_how": "minute_line",
+ "az_ref_mean": 42.0,
+ "el_ref_mean": 12.62,
+ "az_ref_range": 3.04,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_22-00-570_P4_19050",
+ "split": "val",
+ "session": 4,
+ "seg": "22-00-570",
+ "seg_start_s": 1320.57,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Oh it wa- it was beh-",
+ "start_s": 19.05,
+ "end_s": 20.35,
+ "dur": 1.3,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 52800,
+ "overlap": true,
+ "ovl_frac": 0.962,
+ "t_since_turn_onset": 2.15,
+ "align_res_absmed_ms": 0.5245372303761542,
+ "align_how": "session_slope",
+ "az_ref_mean": 6.15,
+ "el_ref_mean": 5.11,
+ "az_ref_range": 51.25,
+ "doa_valid_frac": 1.0
+}

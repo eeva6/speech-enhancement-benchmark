@@ -1,0 +1,29 @@
+{
+ "id": "S4_08-00-381_P4_03900",
+ "split": "val",
+ "session": 4,
+ "seg": "08-00-381",
+ "seg_start_s": 480.381,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "3"
+ ],
+ "target": "other",
+ "text": "You're, you're a lawyer?",
+ "start_s": 3.9,
+ "end_s": 5.15,
+ "dur": 1.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 52000,
+ "overlap": true,
+ "ovl_frac": 0.68,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.3170176350977272,
+ "align_how": "minute_line",
+ "az_ref_mean": -8.44,
+ "el_ref_mean": 13.42,
+ "az_ref_range": 14.92,
+ "doa_valid_frac": 1.0
+}

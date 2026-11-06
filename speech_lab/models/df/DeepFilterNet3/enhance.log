@@ -1,0 +1,8 @@
+2026-10-16 02:23:11 | INFO     | DF | Running on torch 2.4.1
+2026-10-16 02:23:11 | INFO     | DF | Running on host (none)
+2026-10-16 02:23:11 | INFO     | DF | Loading model settings of DeepFilterNet3
+2026-10-16 02:23:11 | INFO     | DF | Using DeepFilterNet3 model at /home/sandbox/.cache/DeepFilterNet/DeepFilterNet3
+2026-10-16 02:23:11 | INFO     | DF | Initializing model `deepfilternet3`
+2026-10-16 02:23:12 | INFO     | DF | Found checkpoint /home/sandbox/.cache/DeepFilterNet/DeepFilterNet3/checkpoints/model_120.ckpt.best with epoch 120
+2026-10-16 02:23:12 | INFO     | DF | Running on device cpu
+2026-10-16 02:23:12 | INFO     | DF | Model loaded

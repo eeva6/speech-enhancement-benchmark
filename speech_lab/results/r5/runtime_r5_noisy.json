@@ -1,0 +1,13 @@
+{
+ "method": "noisy",
+ "tag": "r5",
+ "n": 3,
+ "n_fail": 0,
+ "fails": [],
+ "rtf": 4.191599698364582e-05,
+ "peak_rss_mb": 241.171875,
+ "infos": {},
+ "streaming": null,
+ "latency": "0",
+ "cpu": "2 vCPU aarch64, no GPU"
+}

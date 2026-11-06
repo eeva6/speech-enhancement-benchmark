@@ -1,0 +1,13 @@
+{
+ "method": "ds_est",
+ "tag": "r5",
+ "n": 3,
+ "n_fail": 0,
+ "fails": [],
+ "rtf": 0.23780617431858755,
+ "peak_rss_mb": 423.00390625,
+ "infos": {},
+ "streaming": null,
+ "latency": "filter causal; DOA offline (whole segment)",
+ "cpu": "2 vCPU aarch64, no GPU"
+}

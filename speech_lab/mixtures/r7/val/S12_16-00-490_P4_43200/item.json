@@ -1,0 +1,29 @@
+{
+ "id": "S12_16-00-490_P4_43200",
+ "split": "val",
+ "session": 12,
+ "seg": "16-00-490",
+ "seg_start_s": 960.49,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So so, they they taught us this in [H] probability class.",
+ "start_s": 43.2,
+ "end_s": 46.7,
+ "dur": 3.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 88000,
+ "overlap": true,
+ "ovl_frac": 0.243,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.23227569909067824,
+ "align_how": "minute_line",
+ "az_ref_mean": 22.39,
+ "el_ref_mean": 34.04,
+ "az_ref_range": 5.19,
+ "doa_valid_frac": 1.0
+}

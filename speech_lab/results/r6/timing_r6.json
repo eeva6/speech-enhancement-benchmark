@@ -1,0 +1,5 @@
+{
+ "cpu": "2 vCPU aarch64, single thread, Python/numpy reference implementation",
+ "n_items": 8,
+ "load_mean": 0.652764892578125
+}

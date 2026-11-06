@@ -1,0 +1,29 @@
+{
+ "id": "S11_26-00-642_P7_02000",
+ "split": "test",
+ "session": 11,
+ "seg": "26-00-642",
+ "seg_start_s": 1560.642,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Oh! It's my turn, okay.",
+ "start_s": 2.0,
+ "end_s": 3.35,
+ "dur": 1.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 53600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": null,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -28.5,
+ "el_ref_mean": -2.02,
+ "az_ref_range": 16.21,
+ "doa_valid_frac": 1.0
+}

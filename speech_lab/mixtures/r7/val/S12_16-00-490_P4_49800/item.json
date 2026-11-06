@@ -1,0 +1,30 @@
+{
+ "id": "S12_16-00-490_P4_49800",
+ "split": "val",
+ "session": 12,
+ "seg": "16-00-490",
+ "seg_start_s": 960.49,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group",
+  "6"
+ ],
+ "target": "group",
+ "text": "Y- Well it was from a third to two thirds [H] if you change. S- so, this is basically Bayes' Theorem, right? If you just write the table out, it turns out that if you fli- [X]",
+ "start_s": 49.8,
+ "end_s": 60.05,
+ "dur": 10.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 196000,
+ "overlap": true,
+ "ovl_frac": 0.434,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.23227569909067824,
+ "align_how": "minute_line",
+ "az_ref_mean": 22.02,
+ "el_ref_mean": 27.24,
+ "az_ref_range": 6.02,
+ "doa_valid_frac": 1.0
+}

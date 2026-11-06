@@ -1,0 +1,29 @@
+{
+ "id": "S11_26-00-642_P3_50450",
+ "split": "test",
+ "session": 11,
+ "seg": "26-00-642",
+ "seg_start_s": 1560.642,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Show me more available?",
+ "start_s": 50.45,
+ "end_s": 52.35,
+ "dur": 1.9,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 62400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 10.35,
+ "align_res_absmed_ms": 0.01738344508339651,
+ "align_how": "minute_line",
+ "az_ref_mean": 34.66,
+ "el_ref_mean": 5.85,
+ "az_ref_range": 28.99,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S10_26-00-618_P4_19050",
+ "split": "test",
+ "session": 10,
+ "seg": "26-00-618",
+ "seg_start_s": 1560.618,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "How many people have blue eyes in New York City?",
+ "start_s": 19.05,
+ "end_s": 22.15,
+ "dur": 3.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 81600,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.01056724249792751,
+ "align_how": "minute_line",
+ "az_ref_mean": 8.48,
+ "el_ref_mean": -1.3,
+ "az_ref_range": 3.22,
+ "doa_valid_frac": 1.0
+}

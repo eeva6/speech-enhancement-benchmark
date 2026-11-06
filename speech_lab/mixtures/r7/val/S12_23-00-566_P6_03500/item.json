@@ -1,0 +1,29 @@
+{
+ "id": "S12_23-00-566_P6_03500",
+ "split": "val",
+ "session": 12,
+ "seg": "23-00-566",
+ "seg_start_s": 1380.566,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Oh wow. Very precise.",
+ "start_s": 3.5,
+ "end_s": 6.85,
+ "dur": 3.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 85600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.06656870391452685,
+ "align_how": "minute_line",
+ "az_ref_mean": -32.28,
+ "el_ref_mean": 3.7,
+ "az_ref_range": 46.29,
+ "doa_valid_frac": 1.0
+}

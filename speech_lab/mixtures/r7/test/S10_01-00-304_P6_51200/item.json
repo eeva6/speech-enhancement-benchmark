@@ -1,0 +1,29 @@
+{
+ "id": "S10_01-00-304_P6_51200",
+ "split": "test",
+ "session": 10,
+ "seg": "01-00-304",
+ "seg_start_s": 60.304,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "No, no no. You can live but [H] your job is gonna be replaced by the machines.",
+ "start_s": 51.2,
+ "end_s": 56.15,
+ "dur": 4.95,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 111200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.038386890082620084,
+ "align_how": "minute_line",
+ "az_ref_mean": -8.06,
+ "el_ref_mean": 7.36,
+ "az_ref_range": 3.02,
+ "doa_valid_frac": 1.0
+}

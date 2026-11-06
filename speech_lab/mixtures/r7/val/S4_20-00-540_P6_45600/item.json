@@ -1,0 +1,29 @@
+{
+ "id": "S4_20-00-540_P6_45600",
+ "split": "val",
+ "session": 4,
+ "seg": "20-00-540",
+ "seg_start_s": 1200.54,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "The conduit boxes, yes!. hat's what- Right. Yeah, cause you're a construction worker.",
+ "start_s": 45.6,
+ "end_s": 50.85,
+ "dur": 5.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 116000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.21889196068514138,
+ "align_how": "minute_line",
+ "az_ref_mean": -24.42,
+ "el_ref_mean": 5.02,
+ "az_ref_range": 55.91,
+ "doa_valid_frac": 1.0
+}

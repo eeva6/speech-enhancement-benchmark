@@ -1,0 +1,29 @@
+{
+ "id": "S10_24-00-607_P6_29500",
+ "split": "test",
+ "session": 10,
+ "seg": "24-00-607",
+ "seg_start_s": 1440.607,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Oh, those stripes?",
+ "start_s": 29.5,
+ "end_s": 30.7,
+ "dur": 1.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 51200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.13355196279007941,
+ "align_how": "minute_line",
+ "az_ref_mean": -20.26,
+ "el_ref_mean": -1.49,
+ "az_ref_range": 44.93,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,43 @@
+Defaulting to user installation because normal site-packages is not writeable
+Looking in indexes: https://download.pytorch.org/whl/cpu
+Collecting torch==2.4.1
+  Downloading https://download-r2.pytorch.org/whl/cpu/torch-2.4.1-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl (89.6 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 89.6/89.6 MB 225.3 MB/s eta 0:00:00
+Collecting torchaudio==2.4.1
+  Downloading https://download-r2.pytorch.org/whl/cpu/torchaudio-2.4.1-cp312-cp312-linux_aarch64.whl (1.7 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.7/1.7 MB 287.7 MB/s eta 0:00:00
+Collecting filelock (from torch==2.4.1)
+  Downloading filelock-3.32.3-py3-none-any.whl.metadata (2.0 kB)
+Requirement already satisfied: typing-extensions>=4.8.0 in /usr/local/lib/python3.12/site-packages (from torch==2.4.1) (4.16.0)
+Collecting sympy (from torch==2.4.1)
+  Downloading sympy-1.14.0-py3-none-any.whl.metadata (12 kB)
+Collecting networkx (from torch==2.4.1)
+  Downloading networkx-3.6.1-py3-none-any.whl.metadata (6.8 kB)
+Collecting jinja2 (from torch==2.4.1)
+  Downloading https://download.pytorch.org/whl/jinja2-3.1.6-py3-none-any.whl.metadata (2.9 kB)
+Collecting fsspec (from torch==2.4.1)
+  Downloading fsspec-2026.7.0-py3-none-any.whl.metadata (10 kB)
+Collecting setuptools (from torch==2.4.1)
+  Downloading https://download.pytorch.org/whl/setuptools-78.1.0-py3-none-any.whl.metadata (6.6 kB)
+Collecting MarkupSafe>=2.0 (from jinja2->torch==2.4.1)
+  Downloading https://download.pytorch.org/whl/markupsafe-3.0.3-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl.metadata (2.7 kB)
+Collecting mpmath<1.4,>=1.1.0 (from sympy->torch==2.4.1)
+  Downloading mpmath-1.3.0-py3-none-any.whl.metadata (8.6 kB)
+Downloading filelock-3.32.3-py3-none-any.whl (98 kB)
+Downloading fsspec-2026.7.0-py3-none-any.whl (206 kB)
+Downloading https://download.pytorch.org/whl/jinja2-3.1.6-py3-none-any.whl (134 kB)
+Downloading networkx-3.6.1-py3-none-any.whl (2.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 95.4 MB/s eta 0:00:00
+Downloading https://download.pytorch.org/whl/setuptools-78.1.0-py3-none-any.whl (1.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.3/1.3 MB 67.8 MB/s eta 0:00:00
+Downloading sympy-1.14.0-py3-none-any.whl (6.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.3/6.3 MB 249.8 MB/s eta 0:00:00
+Downloading https://download.pytorch.org/whl/markupsafe-3.0.3-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl (24 kB)
+Downloading mpmath-1.3.0-py3-none-any.whl (536 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 536.2/536.2 kB 145.4 MB/s eta 0:00:00
+Installing collected packages: mpmath, sympy, setuptools, networkx, MarkupSafe, fsspec, filelock, jinja2, torch, torchaudio
+  WARNING: The script isympy is installed in '/home/sandbox/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts convert-caffe2-to-onnx, convert-onnx-to-caffe2 and torchrun are installed in '/home/sandbox/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed MarkupSafe-3.0.3 filelock-3.32.3 fsspec-2026.7.0 jinja2-3.1.6 mpmath-1.3.0 networkx-3.6.1 setuptools-78.1.0 sympy-1.14.0 torch-2.4.1 torchaudio-2.4.1

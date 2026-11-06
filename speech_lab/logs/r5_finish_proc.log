@@ -1,0 +1,7 @@
+== 04:01:09 --method mvdr_online_est_dfn3 --tag r5
+{"method": "mvdr_online_est_dfn3", "tag": "r5", "n": 144, "n_fail": 0, "rtf": 1.3482022275162215}
+== 04:24:28 --method noisy --tag r5sim
+{"method": "noisy", "tag": "r5sim", "n": 144, "n_fail": 0, "rtf": 2.64785906819921e-05}
+== 04:25:20 --method ds_est --tag r5sim
+{"method": "ds_est", "tag": "r5sim", "n": 19, "n_fail": 0, "rtf": 0.4064582742158983}
+== 04:26:33 --method mvdr_online_est --tag r5sim

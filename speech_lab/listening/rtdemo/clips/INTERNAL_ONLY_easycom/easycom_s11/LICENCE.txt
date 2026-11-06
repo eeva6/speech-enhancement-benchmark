@@ -1,0 +1,5 @@
+Real EasyCom glasses recording, session 11 (restaurant-noise conversation)
+INTERNAL ONLY. EasyCom is CC BY-NC 4.0, research use only. Do not play to or share with outside people.
+
+6 channels: frame mics ch1-4 (used by the beamformers) + in-ear mics ch5-6. INTERNAL ONLY.
+Processed recorded audio (causal 2 ms block engine). Not at-ear sound; no open-ear leakage, feedback or real ANC. SIMULATED_noise_cut.wav is a simulation.

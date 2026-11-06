@@ -1,0 +1,29 @@
+{
+ "id": "S12_03-00-314_P4_02050",
+ "split": "val",
+ "session": 12,
+ "seg": "03-00-314",
+ "seg_start_s": 180.314,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "Good. How bout you?",
+ "start_s": 2.05,
+ "end_s": 3.2,
+ "dur": 1.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 50400,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.25861964968498796,
+ "align_how": "session_slope",
+ "az_ref_mean": -8.39,
+ "el_ref_mean": 16.16,
+ "az_ref_range": 3.16,
+ "doa_valid_frac": 0.913
+}

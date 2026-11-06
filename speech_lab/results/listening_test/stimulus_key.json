@@ -1,0 +1,1154 @@
+{
+ "e3e70682c2": {
+  "id": "rec_babble_snr+0_00",
+  "method": "noisy"
+ },
+ "f728b4fa42": {
+  "id": "rec_babble_snr+0_00",
+  "method": "wiener_dd"
+ },
+ "eb1167b367": {
+  "id": "rec_babble_snr+0_00",
+  "method": "rnnoise"
+ },
+ "f7c1bd874d": {
+  "id": "rec_babble_snr+0_00",
+  "method": "deepfilternet3"
+ },
+ "e443df7895": {
+  "id": "rec_babble_snr+0_00",
+  "method": "demucs_dns64"
+ },
+ "23a7711a81": {
+  "id": "rec_babble_snr+0_00",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "1846d424c1": {
+  "id": "rec_babble_snr+0_01",
+  "method": "noisy"
+ },
+ "fcbd04c340": {
+  "id": "rec_babble_snr+0_01",
+  "method": "wiener_dd"
+ },
+ "b4862b21fb": {
+  "id": "rec_babble_snr+0_01",
+  "method": "rnnoise"
+ },
+ "259f4329e6": {
+  "id": "rec_babble_snr+0_01",
+  "method": "deepfilternet3"
+ },
+ "12e0c8b2ba": {
+  "id": "rec_babble_snr+0_01",
+  "method": "demucs_dns64"
+ },
+ "5487ce1eaf": {
+  "id": "rec_babble_snr+0_01",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "5a92118719": {
+  "id": "rec_babble_snr+0_02",
+  "method": "noisy"
+ },
+ "a3f2c9bf9c": {
+  "id": "rec_babble_snr+0_02",
+  "method": "wiener_dd"
+ },
+ "8d723104f7": {
+  "id": "rec_babble_snr+0_02",
+  "method": "rnnoise"
+ },
+ "85776e9add": {
+  "id": "rec_babble_snr+0_02",
+  "method": "deepfilternet3"
+ },
+ "eb2083e6ce": {
+  "id": "rec_babble_snr+0_02",
+  "method": "demucs_dns64"
+ },
+ "17e0aa3c03": {
+  "id": "rec_babble_snr+0_02",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "b5d32b1666": {
+  "id": "rec_babble_snr+0_03",
+  "method": "noisy"
+ },
+ "a0116be5ab": {
+  "id": "rec_babble_snr+0_03",
+  "method": "wiener_dd"
+ },
+ "d3fbf47a7e": {
+  "id": "rec_babble_snr+0_03",
+  "method": "rnnoise"
+ },
+ "baf3897a3e": {
+  "id": "rec_babble_snr+0_03",
+  "method": "deepfilternet3"
+ },
+ "101fbcccde": {
+  "id": "rec_babble_snr+0_03",
+  "method": "demucs_dns64"
+ },
+ "38c1962e91": {
+  "id": "rec_babble_snr+0_03",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "247a8333f7": {
+  "id": "rec_babble_snr+0_04",
+  "method": "noisy"
+ },
+ "1759edc372": {
+  "id": "rec_babble_snr+0_04",
+  "method": "wiener_dd"
+ },
+ "e005b86051": {
+  "id": "rec_babble_snr+0_04",
+  "method": "rnnoise"
+ },
+ "7d41e602ee": {
+  "id": "rec_babble_snr+0_04",
+  "method": "deepfilternet3"
+ },
+ "4a84eb038d": {
+  "id": "rec_babble_snr+0_04",
+  "method": "demucs_dns64"
+ },
+ "552f233a8c": {
+  "id": "rec_babble_snr+0_04",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "3405095c8a": {
+  "id": "rec_babble_snr+0_05",
+  "method": "noisy"
+ },
+ "8c1745a79a": {
+  "id": "rec_babble_snr+0_05",
+  "method": "wiener_dd"
+ },
+ "1775336d71": {
+  "id": "rec_babble_snr+0_05",
+  "method": "rnnoise"
+ },
+ "5129fb7c62": {
+  "id": "rec_babble_snr+0_05",
+  "method": "deepfilternet3"
+ },
+ "2f1205544a": {
+  "id": "rec_babble_snr+0_05",
+  "method": "demucs_dns64"
+ },
+ "0870e15c2f": {
+  "id": "rec_babble_snr+0_05",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "42930b33a8": {
+  "id": "rec_babble_snr-5_00",
+  "method": "noisy"
+ },
+ "adc0da7a16": {
+  "id": "rec_babble_snr-5_00",
+  "method": "wiener_dd"
+ },
+ "2648ee38e0": {
+  "id": "rec_babble_snr-5_00",
+  "method": "rnnoise"
+ },
+ "148b2758d7": {
+  "id": "rec_babble_snr-5_00",
+  "method": "deepfilternet3"
+ },
+ "d450fe4aec": {
+  "id": "rec_babble_snr-5_00",
+  "method": "demucs_dns64"
+ },
+ "d67e55fd64": {
+  "id": "rec_babble_snr-5_00",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "8594092746": {
+  "id": "rec_babble_snr-5_01",
+  "method": "noisy"
+ },
+ "37176e84d9": {
+  "id": "rec_babble_snr-5_01",
+  "method": "wiener_dd"
+ },
+ "d344749096": {
+  "id": "rec_babble_snr-5_01",
+  "method": "rnnoise"
+ },
+ "4674374194": {
+  "id": "rec_babble_snr-5_01",
+  "method": "deepfilternet3"
+ },
+ "a425799aa9": {
+  "id": "rec_babble_snr-5_01",
+  "method": "demucs_dns64"
+ },
+ "fb82860dea": {
+  "id": "rec_babble_snr-5_01",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "5306f3f515": {
+  "id": "rec_babble_snr-5_02",
+  "method": "noisy"
+ },
+ "964a870c7c": {
+  "id": "rec_babble_snr-5_02",
+  "method": "wiener_dd"
+ },
+ "30bcab0ed8": {
+  "id": "rec_babble_snr-5_02",
+  "method": "rnnoise"
+ },
+ "4562be7fbb": {
+  "id": "rec_babble_snr-5_02",
+  "method": "deepfilternet3"
+ },
+ "5f3f563838": {
+  "id": "rec_babble_snr-5_02",
+  "method": "demucs_dns64"
+ },
+ "6d16ee1855": {
+  "id": "rec_babble_snr-5_02",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "c87a746319": {
+  "id": "rec_babble_snr-5_03",
+  "method": "noisy"
+ },
+ "38018b47b2": {
+  "id": "rec_babble_snr-5_03",
+  "method": "wiener_dd"
+ },
+ "a25b59fd92": {
+  "id": "rec_babble_snr-5_03",
+  "method": "rnnoise"
+ },
+ "9a27d85888": {
+  "id": "rec_babble_snr-5_03",
+  "method": "deepfilternet3"
+ },
+ "1fdb8b3206": {
+  "id": "rec_babble_snr-5_03",
+  "method": "demucs_dns64"
+ },
+ "d480865f9b": {
+  "id": "rec_babble_snr-5_03",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "176ea1b164": {
+  "id": "rec_babble_snr-5_04",
+  "method": "noisy"
+ },
+ "1db53334fb": {
+  "id": "rec_babble_snr-5_04",
+  "method": "wiener_dd"
+ },
+ "31d0b66405": {
+  "id": "rec_babble_snr-5_04",
+  "method": "rnnoise"
+ },
+ "b7d6467b2f": {
+  "id": "rec_babble_snr-5_04",
+  "method": "deepfilternet3"
+ },
+ "ba26d85135": {
+  "id": "rec_babble_snr-5_04",
+  "method": "demucs_dns64"
+ },
+ "ade9b2b4ef": {
+  "id": "rec_babble_snr-5_04",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "9edfa3da6c": {
+  "id": "rec_babble_snr-5_05",
+  "method": "noisy"
+ },
+ "11ebcd4942": {
+  "id": "rec_babble_snr-5_05",
+  "method": "wiener_dd"
+ },
+ "4d125e7fa5": {
+  "id": "rec_babble_snr-5_05",
+  "method": "rnnoise"
+ },
+ "0fa07a3f2e": {
+  "id": "rec_babble_snr-5_05",
+  "method": "deepfilternet3"
+ },
+ "98b33c6e0a": {
+  "id": "rec_babble_snr-5_05",
+  "method": "demucs_dns64"
+ },
+ "642aad48fc": {
+  "id": "rec_babble_snr-5_05",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "e786ab375b": {
+  "id": "rec_hvac_snr+0_00",
+  "method": "noisy"
+ },
+ "e6fd68e8d6": {
+  "id": "rec_hvac_snr+0_00",
+  "method": "wiener_dd"
+ },
+ "b29c467d2b": {
+  "id": "rec_hvac_snr+0_00",
+  "method": "rnnoise"
+ },
+ "c470f0e7f7": {
+  "id": "rec_hvac_snr+0_00",
+  "method": "deepfilternet3"
+ },
+ "28805c5dad": {
+  "id": "rec_hvac_snr+0_00",
+  "method": "demucs_dns64"
+ },
+ "878b9f6b57": {
+  "id": "rec_hvac_snr+0_00",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "ebe2136898": {
+  "id": "rec_hvac_snr+0_01",
+  "method": "noisy"
+ },
+ "0361524c2c": {
+  "id": "rec_hvac_snr+0_01",
+  "method": "wiener_dd"
+ },
+ "e66cd36e68": {
+  "id": "rec_hvac_snr+0_01",
+  "method": "rnnoise"
+ },
+ "eae2025e82": {
+  "id": "rec_hvac_snr+0_01",
+  "method": "deepfilternet3"
+ },
+ "637e0edc5b": {
+  "id": "rec_hvac_snr+0_01",
+  "method": "demucs_dns64"
+ },
+ "27460f2240": {
+  "id": "rec_hvac_snr+0_01",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "753c7c9903": {
+  "id": "rec_hvac_snr+0_02",
+  "method": "noisy"
+ },
+ "bd30291a55": {
+  "id": "rec_hvac_snr+0_02",
+  "method": "wiener_dd"
+ },
+ "2284b7a447": {
+  "id": "rec_hvac_snr+0_02",
+  "method": "rnnoise"
+ },
+ "7b59051bf4": {
+  "id": "rec_hvac_snr+0_02",
+  "method": "deepfilternet3"
+ },
+ "ac642b4c49": {
+  "id": "rec_hvac_snr+0_02",
+  "method": "demucs_dns64"
+ },
+ "e456697cf2": {
+  "id": "rec_hvac_snr+0_02",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "21e150949e": {
+  "id": "rec_hvac_snr+0_03",
+  "method": "noisy"
+ },
+ "bf9cc54563": {
+  "id": "rec_hvac_snr+0_03",
+  "method": "wiener_dd"
+ },
+ "14aa451ca6": {
+  "id": "rec_hvac_snr+0_03",
+  "method": "rnnoise"
+ },
+ "b2d650af31": {
+  "id": "rec_hvac_snr+0_03",
+  "method": "deepfilternet3"
+ },
+ "391cf0463d": {
+  "id": "rec_hvac_snr+0_03",
+  "method": "demucs_dns64"
+ },
+ "b5d97ef760": {
+  "id": "rec_hvac_snr+0_03",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "dfe1b30791": {
+  "id": "rec_hvac_snr+0_04",
+  "method": "noisy"
+ },
+ "df26f51766": {
+  "id": "rec_hvac_snr+0_04",
+  "method": "wiener_dd"
+ },
+ "c5adf6816b": {
+  "id": "rec_hvac_snr+0_04",
+  "method": "rnnoise"
+ },
+ "2a69acc70b": {
+  "id": "rec_hvac_snr+0_04",
+  "method": "deepfilternet3"
+ },
+ "b396905742": {
+  "id": "rec_hvac_snr+0_04",
+  "method": "demucs_dns64"
+ },
+ "e28bc9ff87": {
+  "id": "rec_hvac_snr+0_04",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "9a9e43108f": {
+  "id": "rec_hvac_snr+0_05",
+  "method": "noisy"
+ },
+ "09f6048fe2": {
+  "id": "rec_hvac_snr+0_05",
+  "method": "wiener_dd"
+ },
+ "d675ebf74f": {
+  "id": "rec_hvac_snr+0_05",
+  "method": "rnnoise"
+ },
+ "d29dc5dfcf": {
+  "id": "rec_hvac_snr+0_05",
+  "method": "deepfilternet3"
+ },
+ "6a46721acf": {
+  "id": "rec_hvac_snr+0_05",
+  "method": "demucs_dns64"
+ },
+ "f689a4a5ff": {
+  "id": "rec_hvac_snr+0_05",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "d663049d15": {
+  "id": "rec_hvac_snr-5_00",
+  "method": "noisy"
+ },
+ "03c54c71fc": {
+  "id": "rec_hvac_snr-5_00",
+  "method": "wiener_dd"
+ },
+ "6ae04d52ad": {
+  "id": "rec_hvac_snr-5_00",
+  "method": "rnnoise"
+ },
+ "03a8987936": {
+  "id": "rec_hvac_snr-5_00",
+  "method": "deepfilternet3"
+ },
+ "faf1501b00": {
+  "id": "rec_hvac_snr-5_00",
+  "method": "demucs_dns64"
+ },
+ "9cb017c187": {
+  "id": "rec_hvac_snr-5_00",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "9bbd750d1e": {
+  "id": "rec_hvac_snr-5_01",
+  "method": "noisy"
+ },
+ "4d6b234fdf": {
+  "id": "rec_hvac_snr-5_01",
+  "method": "wiener_dd"
+ },
+ "2ea60b99fa": {
+  "id": "rec_hvac_snr-5_01",
+  "method": "rnnoise"
+ },
+ "ec3aa314da": {
+  "id": "rec_hvac_snr-5_01",
+  "method": "deepfilternet3"
+ },
+ "0597aab614": {
+  "id": "rec_hvac_snr-5_01",
+  "method": "demucs_dns64"
+ },
+ "ccc14d5173": {
+  "id": "rec_hvac_snr-5_01",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "41a93f90dc": {
+  "id": "rec_hvac_snr-5_02",
+  "method": "noisy"
+ },
+ "d138d15085": {
+  "id": "rec_hvac_snr-5_02",
+  "method": "wiener_dd"
+ },
+ "1d77ce4058": {
+  "id": "rec_hvac_snr-5_02",
+  "method": "rnnoise"
+ },
+ "d9ead92647": {
+  "id": "rec_hvac_snr-5_02",
+  "method": "deepfilternet3"
+ },
+ "34ab18fd0a": {
+  "id": "rec_hvac_snr-5_02",
+  "method": "demucs_dns64"
+ },
+ "50910bdc8e": {
+  "id": "rec_hvac_snr-5_02",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "914591aef0": {
+  "id": "rec_hvac_snr-5_03",
+  "method": "noisy"
+ },
+ "d8ab0b300a": {
+  "id": "rec_hvac_snr-5_03",
+  "method": "wiener_dd"
+ },
+ "9b8b71a1b3": {
+  "id": "rec_hvac_snr-5_03",
+  "method": "rnnoise"
+ },
+ "a4e695c9b6": {
+  "id": "rec_hvac_snr-5_03",
+  "method": "deepfilternet3"
+ },
+ "6f790959a3": {
+  "id": "rec_hvac_snr-5_03",
+  "method": "demucs_dns64"
+ },
+ "2da44da189": {
+  "id": "rec_hvac_snr-5_03",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "4a814d5396": {
+  "id": "rec_hvac_snr-5_04",
+  "method": "noisy"
+ },
+ "4578bab326": {
+  "id": "rec_hvac_snr-5_04",
+  "method": "wiener_dd"
+ },
+ "5e00ea6dca": {
+  "id": "rec_hvac_snr-5_04",
+  "method": "rnnoise"
+ },
+ "c787ddfb56": {
+  "id": "rec_hvac_snr-5_04",
+  "method": "deepfilternet3"
+ },
+ "4505f4f60a": {
+  "id": "rec_hvac_snr-5_04",
+  "method": "demucs_dns64"
+ },
+ "955d0e77fb": {
+  "id": "rec_hvac_snr-5_04",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "fd42f69765": {
+  "id": "rec_hvac_snr-5_05",
+  "method": "noisy"
+ },
+ "1d69d9fc4b": {
+  "id": "rec_hvac_snr-5_05",
+  "method": "wiener_dd"
+ },
+ "ef0a81ed3d": {
+  "id": "rec_hvac_snr-5_05",
+  "method": "rnnoise"
+ },
+ "db66bfda2d": {
+  "id": "rec_hvac_snr-5_05",
+  "method": "deepfilternet3"
+ },
+ "4d7bd30712": {
+  "id": "rec_hvac_snr-5_05",
+  "method": "demucs_dns64"
+ },
+ "4c9a0ae154": {
+  "id": "rec_hvac_snr-5_05",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "8f928dc519": {
+  "id": "rec_transient_snr+0_00",
+  "method": "noisy"
+ },
+ "564ae90979": {
+  "id": "rec_transient_snr+0_00",
+  "method": "wiener_dd"
+ },
+ "cff4c56bf9": {
+  "id": "rec_transient_snr+0_00",
+  "method": "rnnoise"
+ },
+ "1db2b4527a": {
+  "id": "rec_transient_snr+0_00",
+  "method": "deepfilternet3"
+ },
+ "09aedbd06d": {
+  "id": "rec_transient_snr+0_00",
+  "method": "demucs_dns64"
+ },
+ "afe6790abc": {
+  "id": "rec_transient_snr+0_00",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "2aa36cf7eb": {
+  "id": "rec_transient_snr+0_01",
+  "method": "noisy"
+ },
+ "ce5dc80760": {
+  "id": "rec_transient_snr+0_01",
+  "method": "wiener_dd"
+ },
+ "16408169a3": {
+  "id": "rec_transient_snr+0_01",
+  "method": "rnnoise"
+ },
+ "32b2c49215": {
+  "id": "rec_transient_snr+0_01",
+  "method": "deepfilternet3"
+ },
+ "628308690f": {
+  "id": "rec_transient_snr+0_01",
+  "method": "demucs_dns64"
+ },
+ "8e751eb764": {
+  "id": "rec_transient_snr+0_01",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "eb8f205672": {
+  "id": "rec_transient_snr+0_02",
+  "method": "noisy"
+ },
+ "b6e355f695": {
+  "id": "rec_transient_snr+0_02",
+  "method": "wiener_dd"
+ },
+ "156af4586c": {
+  "id": "rec_transient_snr+0_02",
+  "method": "rnnoise"
+ },
+ "ffc573d5fd": {
+  "id": "rec_transient_snr+0_02",
+  "method": "deepfilternet3"
+ },
+ "2aa50f4ec6": {
+  "id": "rec_transient_snr+0_02",
+  "method": "demucs_dns64"
+ },
+ "1d7173e55b": {
+  "id": "rec_transient_snr+0_02",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "da54f267dd": {
+  "id": "rec_transient_snr+0_03",
+  "method": "noisy"
+ },
+ "869bdbd2e7": {
+  "id": "rec_transient_snr+0_03",
+  "method": "wiener_dd"
+ },
+ "33a1d1c2ad": {
+  "id": "rec_transient_snr+0_03",
+  "method": "rnnoise"
+ },
+ "41a8a6e165": {
+  "id": "rec_transient_snr+0_03",
+  "method": "deepfilternet3"
+ },
+ "ff3e0ba10a": {
+  "id": "rec_transient_snr+0_03",
+  "method": "demucs_dns64"
+ },
+ "9f98218837": {
+  "id": "rec_transient_snr+0_03",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "755a3ac132": {
+  "id": "rec_transient_snr+0_04",
+  "method": "noisy"
+ },
+ "d3b564b08b": {
+  "id": "rec_transient_snr+0_04",
+  "method": "wiener_dd"
+ },
+ "98a33736fd": {
+  "id": "rec_transient_snr+0_04",
+  "method": "rnnoise"
+ },
+ "905c053b25": {
+  "id": "rec_transient_snr+0_04",
+  "method": "deepfilternet3"
+ },
+ "6c596216ae": {
+  "id": "rec_transient_snr+0_04",
+  "method": "demucs_dns64"
+ },
+ "ade7cef37e": {
+  "id": "rec_transient_snr+0_04",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "d562738652": {
+  "id": "rec_transient_snr+0_05",
+  "method": "noisy"
+ },
+ "a2939b3b7f": {
+  "id": "rec_transient_snr+0_05",
+  "method": "wiener_dd"
+ },
+ "8af5890333": {
+  "id": "rec_transient_snr+0_05",
+  "method": "rnnoise"
+ },
+ "027c013f38": {
+  "id": "rec_transient_snr+0_05",
+  "method": "deepfilternet3"
+ },
+ "bf3df0bbf6": {
+  "id": "rec_transient_snr+0_05",
+  "method": "demucs_dns64"
+ },
+ "52631db9d1": {
+  "id": "rec_transient_snr+0_05",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "dfde228125": {
+  "id": "rec_transient_snr-5_00",
+  "method": "noisy"
+ },
+ "27e969e2c8": {
+  "id": "rec_transient_snr-5_00",
+  "method": "wiener_dd"
+ },
+ "4b5ca43695": {
+  "id": "rec_transient_snr-5_00",
+  "method": "rnnoise"
+ },
+ "786e30efce": {
+  "id": "rec_transient_snr-5_00",
+  "method": "deepfilternet3"
+ },
+ "843b2a7d15": {
+  "id": "rec_transient_snr-5_00",
+  "method": "demucs_dns64"
+ },
+ "10fc9eee0a": {
+  "id": "rec_transient_snr-5_00",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "4cea2df00a": {
+  "id": "rec_transient_snr-5_01",
+  "method": "noisy"
+ },
+ "72d6bc20d8": {
+  "id": "rec_transient_snr-5_01",
+  "method": "wiener_dd"
+ },
+ "ccf719ab29": {
+  "id": "rec_transient_snr-5_01",
+  "method": "rnnoise"
+ },
+ "75f2bc20a7": {
+  "id": "rec_transient_snr-5_01",
+  "method": "deepfilternet3"
+ },
+ "61d9fe3981": {
+  "id": "rec_transient_snr-5_01",
+  "method": "demucs_dns64"
+ },
+ "089b30a080": {
+  "id": "rec_transient_snr-5_01",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "cb4d18d6ad": {
+  "id": "rec_transient_snr-5_02",
+  "method": "noisy"
+ },
+ "99a2ecb1c2": {
+  "id": "rec_transient_snr-5_02",
+  "method": "wiener_dd"
+ },
+ "6d265dd8bf": {
+  "id": "rec_transient_snr-5_02",
+  "method": "rnnoise"
+ },
+ "4a276dda34": {
+  "id": "rec_transient_snr-5_02",
+  "method": "deepfilternet3"
+ },
+ "6af79ad299": {
+  "id": "rec_transient_snr-5_02",
+  "method": "demucs_dns64"
+ },
+ "d872298c7b": {
+  "id": "rec_transient_snr-5_02",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "9b8086da63": {
+  "id": "rec_transient_snr-5_03",
+  "method": "noisy"
+ },
+ "dd620222d9": {
+  "id": "rec_transient_snr-5_03",
+  "method": "wiener_dd"
+ },
+ "e2a01335a8": {
+  "id": "rec_transient_snr-5_03",
+  "method": "rnnoise"
+ },
+ "4d6cd7822e": {
+  "id": "rec_transient_snr-5_03",
+  "method": "deepfilternet3"
+ },
+ "552ae5ca41": {
+  "id": "rec_transient_snr-5_03",
+  "method": "demucs_dns64"
+ },
+ "4312ece2dc": {
+  "id": "rec_transient_snr-5_03",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "c5c142624d": {
+  "id": "rec_transient_snr-5_04",
+  "method": "noisy"
+ },
+ "6238d0a0cf": {
+  "id": "rec_transient_snr-5_04",
+  "method": "wiener_dd"
+ },
+ "ef7e85eca4": {
+  "id": "rec_transient_snr-5_04",
+  "method": "rnnoise"
+ },
+ "babd474549": {
+  "id": "rec_transient_snr-5_04",
+  "method": "deepfilternet3"
+ },
+ "f11ddff70e": {
+  "id": "rec_transient_snr-5_04",
+  "method": "demucs_dns64"
+ },
+ "2412579d6a": {
+  "id": "rec_transient_snr-5_04",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "9a1a7d6fdd": {
+  "id": "rec_transient_snr-5_05",
+  "method": "noisy"
+ },
+ "b2ddc481ac": {
+  "id": "rec_transient_snr-5_05",
+  "method": "wiener_dd"
+ },
+ "5a4f4145fc": {
+  "id": "rec_transient_snr-5_05",
+  "method": "rnnoise"
+ },
+ "775e0ec39c": {
+  "id": "rec_transient_snr-5_05",
+  "method": "deepfilternet3"
+ },
+ "19faa06e0c": {
+  "id": "rec_transient_snr-5_05",
+  "method": "demucs_dns64"
+ },
+ "052daad326": {
+  "id": "rec_transient_snr-5_05",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "21f8c1569e": {
+  "id": "ood_competing_snr+0_00",
+  "method": "noisy"
+ },
+ "b3386c3e1a": {
+  "id": "ood_competing_snr+0_00",
+  "method": "wiener_dd"
+ },
+ "31e9ca8058": {
+  "id": "ood_competing_snr+0_00",
+  "method": "rnnoise"
+ },
+ "c707aef9c6": {
+  "id": "ood_competing_snr+0_00",
+  "method": "deepfilternet3"
+ },
+ "0f66b32de1": {
+  "id": "ood_competing_snr+0_00",
+  "method": "demucs_dns64"
+ },
+ "9d44c93e77": {
+  "id": "ood_competing_snr+0_00",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "a685585756": {
+  "id": "ood_competing_snr+0_01",
+  "method": "noisy"
+ },
+ "b6af98b2ae": {
+  "id": "ood_competing_snr+0_01",
+  "method": "wiener_dd"
+ },
+ "d960af85c9": {
+  "id": "ood_competing_snr+0_01",
+  "method": "rnnoise"
+ },
+ "633cbf79e9": {
+  "id": "ood_competing_snr+0_01",
+  "method": "deepfilternet3"
+ },
+ "beebb4eaea": {
+  "id": "ood_competing_snr+0_01",
+  "method": "demucs_dns64"
+ },
+ "fbbff9e0ae": {
+  "id": "ood_competing_snr+0_01",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "dc45488d84": {
+  "id": "ood_competing_snr+0_02",
+  "method": "noisy"
+ },
+ "09c6741730": {
+  "id": "ood_competing_snr+0_02",
+  "method": "wiener_dd"
+ },
+ "5f1ff97c71": {
+  "id": "ood_competing_snr+0_02",
+  "method": "rnnoise"
+ },
+ "5b471c4374": {
+  "id": "ood_competing_snr+0_02",
+  "method": "deepfilternet3"
+ },
+ "f4dd05d513": {
+  "id": "ood_competing_snr+0_02",
+  "method": "demucs_dns64"
+ },
+ "0a3c2c6fef": {
+  "id": "ood_competing_snr+0_02",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "06d2ed7ce6": {
+  "id": "ood_competing_snr+0_03",
+  "method": "noisy"
+ },
+ "91bacf80aa": {
+  "id": "ood_competing_snr+0_03",
+  "method": "wiener_dd"
+ },
+ "3acaaf8237": {
+  "id": "ood_competing_snr+0_03",
+  "method": "rnnoise"
+ },
+ "e27ac8e9d1": {
+  "id": "ood_competing_snr+0_03",
+  "method": "deepfilternet3"
+ },
+ "809e2109c7": {
+  "id": "ood_competing_snr+0_03",
+  "method": "demucs_dns64"
+ },
+ "81d1bf066b": {
+  "id": "ood_competing_snr+0_03",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "254bf7ae1d": {
+  "id": "ood_competing_snr+0_04",
+  "method": "noisy"
+ },
+ "6c0be55c90": {
+  "id": "ood_competing_snr+0_04",
+  "method": "wiener_dd"
+ },
+ "1ad1daaaef": {
+  "id": "ood_competing_snr+0_04",
+  "method": "rnnoise"
+ },
+ "6a48054219": {
+  "id": "ood_competing_snr+0_04",
+  "method": "deepfilternet3"
+ },
+ "f45da406bb": {
+  "id": "ood_competing_snr+0_04",
+  "method": "demucs_dns64"
+ },
+ "6e5bac2072": {
+  "id": "ood_competing_snr+0_04",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "7f22cd1207": {
+  "id": "ood_competing_snr+0_05",
+  "method": "noisy"
+ },
+ "53125ffdf6": {
+  "id": "ood_competing_snr+0_05",
+  "method": "wiener_dd"
+ },
+ "5a3da36714": {
+  "id": "ood_competing_snr+0_05",
+  "method": "rnnoise"
+ },
+ "b1182d235b": {
+  "id": "ood_competing_snr+0_05",
+  "method": "deepfilternet3"
+ },
+ "2d8b5b4159": {
+  "id": "ood_competing_snr+0_05",
+  "method": "demucs_dns64"
+ },
+ "3b019fcbf9": {
+  "id": "ood_competing_snr+0_05",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "98ba0f0e12": {
+  "id": "ood_competing_snr-5_00",
+  "method": "noisy"
+ },
+ "00d3d1af35": {
+  "id": "ood_competing_snr-5_00",
+  "method": "wiener_dd"
+ },
+ "bb6b0095ac": {
+  "id": "ood_competing_snr-5_00",
+  "method": "rnnoise"
+ },
+ "bf7b68ae1f": {
+  "id": "ood_competing_snr-5_00",
+  "method": "deepfilternet3"
+ },
+ "b080e0035e": {
+  "id": "ood_competing_snr-5_00",
+  "method": "demucs_dns64"
+ },
+ "3b9cea959a": {
+  "id": "ood_competing_snr-5_00",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "743c7e9d2f": {
+  "id": "ood_competing_snr-5_01",
+  "method": "noisy"
+ },
+ "b51d70d858": {
+  "id": "ood_competing_snr-5_01",
+  "method": "wiener_dd"
+ },
+ "0726d44a21": {
+  "id": "ood_competing_snr-5_01",
+  "method": "rnnoise"
+ },
+ "55c36c3d5c": {
+  "id": "ood_competing_snr-5_01",
+  "method": "deepfilternet3"
+ },
+ "4bdd5f994a": {
+  "id": "ood_competing_snr-5_01",
+  "method": "demucs_dns64"
+ },
+ "8d9ecfb9f5": {
+  "id": "ood_competing_snr-5_01",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "97d01e702f": {
+  "id": "ood_competing_snr-5_02",
+  "method": "noisy"
+ },
+ "88819f421a": {
+  "id": "ood_competing_snr-5_02",
+  "method": "wiener_dd"
+ },
+ "606821d628": {
+  "id": "ood_competing_snr-5_02",
+  "method": "rnnoise"
+ },
+ "200f7753f2": {
+  "id": "ood_competing_snr-5_02",
+  "method": "deepfilternet3"
+ },
+ "8222134550": {
+  "id": "ood_competing_snr-5_02",
+  "method": "demucs_dns64"
+ },
+ "2f16fb50c1": {
+  "id": "ood_competing_snr-5_02",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "a9c72e7b6b": {
+  "id": "ood_competing_snr-5_03",
+  "method": "noisy"
+ },
+ "99e8c82821": {
+  "id": "ood_competing_snr-5_03",
+  "method": "wiener_dd"
+ },
+ "b3c161c313": {
+  "id": "ood_competing_snr-5_03",
+  "method": "rnnoise"
+ },
+ "4ca49aaf6b": {
+  "id": "ood_competing_snr-5_03",
+  "method": "deepfilternet3"
+ },
+ "ed28508dbd": {
+  "id": "ood_competing_snr-5_03",
+  "method": "demucs_dns64"
+ },
+ "4c4b91fe6c": {
+  "id": "ood_competing_snr-5_03",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "3f80c31f15": {
+  "id": "ood_competing_snr-5_04",
+  "method": "noisy"
+ },
+ "a31559405e": {
+  "id": "ood_competing_snr-5_04",
+  "method": "wiener_dd"
+ },
+ "605dd4d60e": {
+  "id": "ood_competing_snr-5_04",
+  "method": "rnnoise"
+ },
+ "f642c8f36a": {
+  "id": "ood_competing_snr-5_04",
+  "method": "deepfilternet3"
+ },
+ "70f8dd9952": {
+  "id": "ood_competing_snr-5_04",
+  "method": "demucs_dns64"
+ },
+ "f3cc9d8a4b": {
+  "id": "ood_competing_snr-5_04",
+  "method": "tse_convtasnet_ecapa"
+ },
+ "2f7a304ff3": {
+  "id": "ood_competing_snr-5_05",
+  "method": "noisy"
+ },
+ "1cb66f6746": {
+  "id": "ood_competing_snr-5_05",
+  "method": "wiener_dd"
+ },
+ "27649a62b0": {
+  "id": "ood_competing_snr-5_05",
+  "method": "rnnoise"
+ },
+ "eda2fc4c72": {
+  "id": "ood_competing_snr-5_05",
+  "method": "deepfilternet3"
+ },
+ "6bf4d047c4": {
+  "id": "ood_competing_snr-5_05",
+  "method": "demucs_dns64"
+ },
+ "f5a3e8933f": {
+  "id": "ood_competing_snr-5_05",
+  "method": "tse_convtasnet_ecapa"
+ }
+}

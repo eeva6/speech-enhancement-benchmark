@@ -1,0 +1,29 @@
+{
+ "id": "S10_00-00-000_P4_54700",
+ "split": "test",
+ "session": 10,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "6"
+ ],
+ "target": "other",
+ "text": "I think no wonder it's three dollars! You get a big one for three dollars.",
+ "start_s": 54.7,
+ "end_s": 57.9,
+ "dur": 3.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 83200,
+ "overlap": true,
+ "ovl_frac": 0.016,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.009130355920206057,
+ "align_how": "session_slope",
+ "az_ref_mean": 16.58,
+ "el_ref_mean": 4.57,
+ "az_ref_range": 22.79,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_05-00-353_P6_16000",
+ "split": "val",
+ "session": 4,
+ "seg": "05-00-353",
+ "seg_start_s": 300.353,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "And [H] I've heard that the salad is really good, so I will go with the green salad. And I- And I [H] I don't have any surgeries or anything planned so [H] I'll do [H] the mimosa. Yeah. Yeah. That sounds really good.",
+ "start_s": 16.0,
+ "end_s": 30.25,
+ "dur": 14.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 260000,
+ "overlap": true,
+ "ovl_frac": 0.414,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.023814409360056743,
+ "align_how": "session_slope",
+ "az_ref_mean": -4.8,
+ "el_ref_mean": 4.78,
+ "az_ref_range": 15.62,
+ "doa_valid_frac": 1.0
+}

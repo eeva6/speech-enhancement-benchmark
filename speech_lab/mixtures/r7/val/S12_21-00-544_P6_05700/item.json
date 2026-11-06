@@ -1,0 +1,29 @@
+{
+ "id": "S12_21-00-544_P6_05700",
+ "split": "val",
+ "session": 12,
+ "seg": "21-00-544",
+ "seg_start_s": 1260.544,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Cause the camera? So I can't spy anything over there? I would win! [L] Let's see, let's see. I spy with my little eye something circular.",
+ "start_s": 5.7,
+ "end_s": 19.85,
+ "dur": 14.15,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 258400,
+ "overlap": true,
+ "ovl_frac": 0.339,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.03495043711154722,
+ "align_how": "minute_line",
+ "az_ref_mean": -25.48,
+ "el_ref_mean": -0.96,
+ "az_ref_range": 54.42,
+ "doa_valid_frac": 1.0
+}

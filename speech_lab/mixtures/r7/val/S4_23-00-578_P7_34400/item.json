@@ -1,0 +1,29 @@
+{
+ "id": "S4_23-00-578_P7_34400",
+ "split": "val",
+ "session": 4,
+ "seg": "23-00-578",
+ "seg_start_s": 1380.578,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "A screen?",
+ "start_s": 34.4,
+ "end_s": 35.5,
+ "dur": 1.1,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 49600,
+ "overlap": true,
+ "ovl_frac": 0.045,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.014951259800000116,
+ "align_how": "session_slope",
+ "az_ref_mean": -62.49,
+ "el_ref_mean": 3.59,
+ "az_ref_range": 64.28,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,18 @@
+{
+ "method": "rnnoise",
+ "tag": "r3",
+ "n": 144,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 2.501974460999918,
+ "mean_proc_s": 0.6040675300419311,
+ "rtf": 0.0917482590407349,
+ "peak_rss_mb": 290.94921875,
+ "rss_before_mb": 246.33203125,
+ "n_params": null,
+ "noise_psd": "ms",
+ "infos": {},
+ "streaming": null,
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

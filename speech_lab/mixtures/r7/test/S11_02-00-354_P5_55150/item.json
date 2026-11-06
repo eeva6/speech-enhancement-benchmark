@@ -1,0 +1,29 @@
+{
+ "id": "S11_02-00-354_P5_55150",
+ "split": "test",
+ "session": 11,
+ "seg": "02-00-354",
+ "seg_start_s": 120.354,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "7"
+ ],
+ "target": "other",
+ "text": "[H] School material.",
+ "start_s": 55.15,
+ "end_s": 56.55,
+ "dur": 1.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 54400,
+ "overlap": true,
+ "ovl_frac": 0.393,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.2734154732024763,
+ "align_how": "session_slope",
+ "az_ref_mean": 11.89,
+ "el_ref_mean": 0.86,
+ "az_ref_range": 18.62,
+ "doa_valid_frac": 1.0
+}

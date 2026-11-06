@@ -1,0 +1,29 @@
+{
+ "id": "S11_23-00-605_P3_23400",
+ "split": "test",
+ "session": 11,
+ "seg": "23-00-605",
+ "seg_start_s": 1380.605,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "[L]",
+ "start_s": 23.4,
+ "end_s": 24.4,
+ "dur": 1.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 48000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0894279801286757,
+ "align_how": "minute_line",
+ "az_ref_mean": -30.73,
+ "el_ref_mean": 10.5,
+ "az_ref_range": 8.7,
+ "doa_valid_frac": 1.0
+}

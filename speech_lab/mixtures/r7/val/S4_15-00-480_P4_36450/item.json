@@ -1,0 +1,29 @@
+{
+ "id": "S4_15-00-480_P4_36450",
+ "split": "val",
+ "session": 4,
+ "seg": "15-00-480",
+ "seg_start_s": 900.48,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "A man runs a mile south, a mile west, and a mile north,",
+ "start_s": 36.45,
+ "end_s": 41.65,
+ "dur": 5.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 115200,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.2707218227442354,
+ "align_how": "minute_line",
+ "az_ref_mean": -0.41,
+ "el_ref_mean": 15.26,
+ "az_ref_range": 1.52,
+ "doa_valid_frac": 1.0
+}

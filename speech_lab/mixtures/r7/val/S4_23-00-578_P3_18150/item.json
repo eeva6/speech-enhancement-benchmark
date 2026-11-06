@@ -1,0 +1,29 @@
+{
+ "id": "S4_23-00-578_P3_18150",
+ "split": "val",
+ "session": 4,
+ "seg": "23-00-578",
+ "seg_start_s": 1380.578,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "I haven't gotten any either, so we're even.",
+ "start_s": 18.15,
+ "end_s": 20.1,
+ "dur": 1.95,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 63200,
+ "overlap": true,
+ "ovl_frac": 0.692,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.016553500245208852,
+ "align_how": "minute_line",
+ "az_ref_mean": 47.2,
+ "el_ref_mean": -1.59,
+ "az_ref_range": 44.63,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S12_12-00-428_P4_40850",
+ "split": "val",
+ "session": 12,
+ "seg": "12-00-428",
+ "seg_start_s": 720.428,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "So, it's yes no, no yes. So, it's diagonal which means we can't ask one question because we need like a vertical cut right? ",
+ "start_s": 40.85,
+ "end_s": 50.05,
+ "dur": 9.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 179200,
+ "overlap": true,
+ "ovl_frac": 0.429,
+ "t_since_turn_onset": 6.15,
+ "align_res_absmed_ms": 0.1036290850606747,
+ "align_how": "minute_line",
+ "az_ref_mean": 7.06,
+ "el_ref_mean": 22.64,
+ "az_ref_range": 10.64,
+ "doa_valid_frac": 1.0
+}

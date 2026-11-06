@@ -1,0 +1,29 @@
+{
+ "id": "S11_03-00-356_P7_28200",
+ "split": "test",
+ "session": 11,
+ "seg": "03-00-356",
+ "seg_start_s": 180.356,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "5"
+ ],
+ "target": "other",
+ "text": "They also go to school and then they drive?",
+ "start_s": 28.2,
+ "end_s": 30.6,
+ "dur": 2.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 70400,
+ "overlap": true,
+ "ovl_frac": 0.063,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.004082136001670733,
+ "align_how": "session_slope",
+ "az_ref_mean": -34.85,
+ "el_ref_mean": 2.13,
+ "az_ref_range": 35.29,
+ "doa_valid_frac": 1.0
+}

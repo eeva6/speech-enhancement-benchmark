@@ -1,0 +1,29 @@
+{
+ "id": "S12_18-00-494_P6_06350",
+ "split": "val",
+ "session": 12,
+ "seg": "18-00-494",
+ "seg_start_s": 1080.494,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Then if you- if you flipped it and you asked you the truth teller if- if- am I standing in front of the door, you would say no.",
+ "start_s": 6.35,
+ "end_s": 12.85,
+ "dur": 6.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 136000,
+ "overlap": true,
+ "ovl_frac": 0.092,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.11990268103545532,
+ "align_how": "minute_line",
+ "az_ref_mean": -21.18,
+ "el_ref_mean": 6.57,
+ "az_ref_range": 17.53,
+ "doa_valid_frac": 1.0
+}

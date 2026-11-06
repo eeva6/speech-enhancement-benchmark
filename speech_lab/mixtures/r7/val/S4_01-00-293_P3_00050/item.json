@@ -1,0 +1,29 @@
+{
+ "id": "S4_01-00-293_P3_00050",
+ "split": "val",
+ "session": 4,
+ "seg": "01-00-293",
+ "seg_start_s": 60.293,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "[X] That's me, so.",
+ "start_s": 0.05,
+ "end_s": 1.05,
+ "dur": 1.0,
+ "ctx_s": 0.05,
+ "utt_offset_samples": 800,
+ "n_samples": 16800,
+ "overlap": true,
+ "ovl_frac": 0.55,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.12708880240097642,
+ "align_how": "session_slope",
+ "az_ref_mean": 14.38,
+ "el_ref_mean": 6.11,
+ "az_ref_range": 6.47,
+ "doa_valid_frac": 1.0
+}

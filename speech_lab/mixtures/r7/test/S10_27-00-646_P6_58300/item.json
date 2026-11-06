@@ -1,0 +1,29 @@
+{
+ "id": "S10_27-00-646_P6_58300",
+ "split": "test",
+ "session": 10,
+ "seg": "27-00-646",
+ "seg_start_s": 1620.646,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "How long will it take to get to the down- [X]",
+ "start_s": 58.3,
+ "end_s": 60.05,
+ "dur": 1.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 60000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.020128982214373536,
+ "align_how": "session_slope",
+ "az_ref_mean": -4.53,
+ "el_ref_mean": 1.53,
+ "az_ref_range": 0.78,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,17 @@
+{
+ "method": "wiener_dd",
+ "tag": "r1",
+ "n": 192,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 0.021599700000024313,
+ "mean_proc_s": 0.020764680020943994,
+ "rtf": 0.0035872736584089075,
+ "peak_rss_mb": 272.8046875,
+ "rss_before_mb": 248.43359375,
+ "n_params": null,
+ "noise_psd": "ms",
+ "infos": {},
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

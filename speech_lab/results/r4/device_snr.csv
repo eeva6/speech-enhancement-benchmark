@@ -1,0 +1,17 @@
+config,device_snr_minus_ear_snr_dB
+ear_amp_sd2ms,-2.467807499009211
+ear_amp_sd2ms_pf,
+ear_amp_sd8ms,-2.4602574758709346
+glasses_sd2ms,1.4984168146743844
+glasses_sd2ms_pf,
+glasses_sd8ms,1.8134481434468217
+ideal_clean,121.21562484119549
+neckband_sd2ms,1.2954195086034679
+neckband_sd2ms_pf,
+neckband_sd8ms,1.904808339235045
+remote_mic,5.269097696283996
+remote_mic_pf,
+tabletop_sd2ms,2.226140313876855
+tabletop_sd2ms_pf,
+tabletop_sd8ms,2.5718855681699537
+unaided,

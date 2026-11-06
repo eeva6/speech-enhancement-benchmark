@@ -1,0 +1,13 @@
+== r3 noisy
+{"method": "noisy", "n": 144, "n_fail": 0, "rtf": 0.003187632276622013, "peak_rss_mb": 249.83984375, "first_call_s": 0.03407572300011452}
+== r3 wiener_dd
+{"method": "wiener_dd", "n": 144, "n_fail": 0, "rtf": 0.0035733590513121875, "peak_rss_mb": 273.94921875, "first_call_s": 0.10896185999990848}
+== r3 mmse_lsa
+{"method": "mmse_lsa", "n": 144, "n_fail": 0, "rtf": 0.009302544977314562, "peak_rss_mb": 274.03515625, "first_call_s": 0.05623958899968784}
+== r3 metricgan_plus
+{"method": "metricgan_plus", "n": 144, "n_fail": 0, "rtf": 0.0395470054089455, "peak_rss_mb": 318.37109375, "first_call_s": 7.305729740000061}
+== r3 rnnoise
+{"method": "rnnoise", "n": 144, "n_fail": 0, "rtf": 0.0917482590407349, "peak_rss_mb": 290.94921875, "first_call_s": 2.501974460999918}
+== r3 deepfilternet3
+{"method": "deepfilternet3", "n": 144, "n_fail": 0, "rtf": 0.08761703785067729, "peak_rss_mb": 495.5234375, "first_call_s": 0.9421142290002535}
+== r3 demucs_dns64

@@ -1,0 +1,29 @@
+{
+ "id": "S4_22-00-570_P7_05150",
+ "split": "val",
+ "session": 4,
+ "seg": "22-00-570",
+ "seg_start_s": 1320.57,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "[H] No, but it's nearby.",
+ "start_s": 5.15,
+ "end_s": 7.5,
+ "dur": 2.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 69600,
+ "overlap": true,
+ "ovl_frac": 0.298,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.12458450873964466,
+ "align_how": "minute_line",
+ "az_ref_mean": -21.78,
+ "el_ref_mean": 5.71,
+ "az_ref_range": 20.34,
+ "doa_valid_frac": 1.0
+}

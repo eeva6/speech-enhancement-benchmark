@@ -1,0 +1,29 @@
+{
+ "id": "S12_18-00-494_P6_00300",
+ "split": "val",
+ "session": 12,
+ "seg": "18-00-494",
+ "seg_start_s": 1080.494,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Cause he is. And I'm a liar.",
+ "start_s": 0.3,
+ "end_s": 2.25,
+ "dur": 1.95,
+ "ctx_s": 0.3,
+ "utt_offset_samples": 4800,
+ "n_samples": 36000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.11990268103545532,
+ "align_how": "minute_line",
+ "az_ref_mean": -34.12,
+ "el_ref_mean": 6.18,
+ "az_ref_range": 8.83,
+ "doa_valid_frac": 1.0
+}

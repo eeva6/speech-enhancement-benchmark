@@ -1,0 +1,1442 @@
+[
+ {
+  "id": "rec_babble_snr-5_00",
+  "cond": "rec_babble",
+  "snr": -5,
+  "uid": "awb_arctic_b0325",
+  "spk": "awb",
+  "text": "It was a gigantic inadequacy. Our Mr Howison will call upon you at your hotel.",
+  "dur": 5.3700625,
+  "gain": 0.798093855381012
+ },
+ {
+  "id": "rec_babble_snr-5_01",
+  "cond": "rec_babble",
+  "snr": -5,
+  "uid": "clb_arctic_a0268",
+  "spk": "clb",
+  "text": "Now go ahead and tell me in a straightforward way what has happened. That's where they cut off the Scottish Chiefs and killed all hands.",
+  "dur": 8.5,
+  "gain": 0.41966795921325684
+ },
+ {
+  "id": "rec_babble_snr-5_02",
+  "cond": "rec_babble",
+  "snr": -5,
+  "uid": "ksp_arctic_b0389",
+  "spk": "ksp",
+  "text": "Among my minor afflictions, I may mention a new and mysterious one. The voyage was our idea of a good time.",
+  "dur": 7.170125,
+  "gain": 0.6098816394805908
+ },
+ {
+  "id": "rec_babble_snr-5_03",
+  "cond": "rec_babble",
+  "snr": -5,
+  "uid": "slt_arctic_a0107",
+  "spk": "slt",
+  "text": "If you only could know how I thank you. He waded into the edge of the water and began scrubbing himself.",
+  "dur": 5.910125,
+  "gain": 0.5438324809074402
+ },
+ {
+  "id": "rec_babble_snr-5_04",
+  "cond": "rec_babble",
+  "snr": -5,
+  "uid": "awb_arctic_b0109",
+  "spk": "awb",
+  "text": "Philip ate lightly of the food which Pierre had ready for him. Such men believe, when they come together.",
+  "dur": 5.915,
+  "gain": 0.5251358151435852
+ },
+ {
+  "id": "rec_babble_snr-5_05",
+  "cond": "rec_babble",
+  "snr": -5,
+  "uid": "clb_arctic_a0181",
+  "spk": "clb",
+  "text": "So cheer up, and give us your paw. This time he did not yap for mercy.",
+  "dur": 5.8,
+  "gain": 0.5377963185310364
+ },
+ {
+  "id": "rec_babble_snr-5_06",
+  "cond": "rec_babble",
+  "snr": -5,
+  "uid": "ksp_arctic_a0037",
+  "spk": "ksp",
+  "text": "I was the only one who remained sitting. We'll have to watch our chances.",
+  "dur": 5.090125,
+  "gain": 0.7156214118003845
+ },
+ {
+  "id": "rec_babble_snr-5_07",
+  "cond": "rec_babble",
+  "snr": -5,
+  "uid": "slt_arctic_a0442",
+  "spk": "slt",
+  "text": "You live on an income which your father earned. He was worth nothing to the world.",
+  "dur": 5.2900625,
+  "gain": 0.5990755558013916
+ },
+ {
+  "id": "rec_babble_snr+0_00",
+  "cond": "rec_babble",
+  "snr": 0,
+  "uid": "awb_arctic_a0477",
+  "spk": "awb",
+  "text": "I sailed third mate in the little Vampire before you were born. His outstretched arm dropped to his side, and he paused.",
+  "dur": 7.675,
+  "gain": 0.9545061588287354
+ },
+ {
+  "id": "rec_babble_snr+0_01",
+  "cond": "rec_babble",
+  "snr": 0,
+  "uid": "clb_arctic_b0070",
+  "spk": "clb",
+  "text": "There was no chance to fire without hitting him. There was no answer from the other side.",
+  "dur": 5.87,
+  "gain": 0.7218979001045227
+ },
+ {
+  "id": "rec_babble_snr+0_02",
+  "cond": "rec_babble",
+  "snr": 0,
+  "uid": "ksp_arctic_b0262",
+  "spk": "ksp",
+  "text": "Saxon's onto her job. Only once did I confide the strangeness of it all to another.",
+  "dur": 6.3500625,
+  "gain": 0.9726404547691345
+ },
+ {
+  "id": "rec_babble_snr+0_03",
+  "cond": "rec_babble",
+  "snr": 0,
+  "uid": "slt_arctic_a0321",
+  "spk": "slt",
+  "text": "The log on which Lop-Ear was lying got adrift. This is a common experience with all of us.",
+  "dur": 5.690125,
+  "gain": 0.9774132966995239
+ },
+ {
+  "id": "rec_babble_snr+0_04",
+  "cond": "rec_babble",
+  "snr": 0,
+  "uid": "awb_arctic_b0142",
+  "spk": "awb",
+  "text": "Something vastly more thrilling had come into it now. It took him half an hour to reach the edge of it.",
+  "dur": 5.85,
+  "gain": 1.1078219413757324
+ },
+ {
+  "id": "rec_babble_snr+0_05",
+  "cond": "rec_babble",
+  "snr": 0,
+  "uid": "clb_arctic_a0331",
+  "spk": "clb",
+  "text": "Poor little Crooked-Leg was terribly scared. Unconsciously, our yells and exclamations yielded to this rhythm.",
+  "dur": 7.84,
+  "gain": 0.8556792736053467
+ },
+ {
+  "id": "rec_babble_snr+0_06",
+  "cond": "rec_babble",
+  "snr": 0,
+  "uid": "ksp_arctic_a0087",
+  "spk": "ksp",
+  "text": "Philip bent lower, and stared into the face of the dead man. He made sure that the magazine was loaded, and resumed his paddling.",
+  "dur": 7.830125,
+  "gain": 1.1271684169769287
+ },
+ {
+  "id": "rec_babble_snr+0_07",
+  "cond": "rec_babble",
+  "snr": 0,
+  "uid": "slt_arctic_a0337",
+  "spk": "slt",
+  "text": "Encouraged by my conduct, Big-Face became a sudden ally. The fighting had now become intermittent.",
+  "dur": 6.3400625,
+  "gain": 0.7291470170021057
+ },
+ {
+  "id": "rec_babble_snr+5_00",
+  "cond": "rec_babble",
+  "snr": 5,
+  "uid": "awb_arctic_a0049",
+  "spk": "awb",
+  "text": "Gregson was asleep when he re-entered the cabin. In spite of their absurdity the words affected Philip curiously.",
+  "dur": 6.875,
+  "gain": 1.321422815322876
+ },
+ {
+  "id": "rec_babble_snr+5_01",
+  "cond": "rec_babble",
+  "snr": 5,
+  "uid": "clb_arctic_b0068",
+  "spk": "clb",
+  "text": "Only the chance sound had led him to observe them. Could the incident have anything to do with Jeanne and Pierre.",
+  "dur": 7.15,
+  "gain": 0.8511292338371277
+ },
+ {
+  "id": "rec_babble_snr+5_02",
+  "cond": "rec_babble",
+  "snr": 5,
+  "uid": "ksp_arctic_a0215",
+  "spk": "ksp",
+  "text": "They die out of spite. The other felt a sudden wave of irritation rush through him.",
+  "dur": 5.730125,
+  "gain": 1.1203625202178955
+ },
+ {
+  "id": "rec_babble_snr+5_03",
+  "cond": "rec_babble",
+  "snr": 5,
+  "uid": "slt_arctic_a0035",
+  "spk": "slt",
+  "text": "He stopped, and Philip nodded at the horrified question in his eyes. She turned in at the hotel.",
+  "dur": 5.840125,
+  "gain": 1.1743377447128296
+ },
+ {
+  "id": "rec_babble_snr+5_04",
+  "cond": "rec_babble",
+  "snr": 5,
+  "uid": "awb_arctic_a0590",
+  "spk": "awb",
+  "text": "We don't see ourselves as foolish. He had comparatively no advantages at first.",
+  "dur": 5.4900625,
+  "gain": 1.282724142074585
+ },
+ {
+  "id": "rec_babble_snr+5_05",
+  "cond": "rec_babble",
+  "snr": 5,
+  "uid": "clb_arctic_a0103",
+  "spk": "clb",
+  "text": "But there came no promise from the bow of the canoe. She was sleeping under his protection as sweetly as a child.",
+  "dur": 7.78,
+  "gain": 0.9032127261161804
+ },
+ {
+  "id": "rec_babble_snr+5_06",
+  "cond": "rec_babble",
+  "snr": 5,
+  "uid": "ksp_arctic_a0588",
+  "spk": "ksp",
+  "text": "He had proved it today, with his amateurish and sophomoric productions. I was sick once -- typhoid.",
+  "dur": 7.4700625,
+  "gain": 1.115584135055542
+ },
+ {
+  "id": "rec_babble_snr+5_07",
+  "cond": "rec_babble",
+  "snr": 5,
+  "uid": "slt_arctic_a0234",
+  "spk": "slt",
+  "text": "Why, the average review is more nauseating than cod liver oil. His voice was passionately rebellious.",
+  "dur": 6.4800625,
+  "gain": 1.230751395225525
+ },
+ {
+  "id": "rec_hvac_snr-5_00",
+  "cond": "rec_hvac",
+  "snr": -5,
+  "uid": "awb_arctic_a0282",
+  "spk": "awb",
+  "text": "I'll be out of my head in fifteen minutes. I do not blame you for anything; remember that.",
+  "dur": 5.905,
+  "gain": 0.877074122428894
+ },
+ {
+  "id": "rec_hvac_snr-5_01",
+  "cond": "rec_hvac",
+  "snr": -5,
+  "uid": "clb_arctic_b0245",
+  "spk": "clb",
+  "text": "Harrison is still my chauffeur. The boy grew and prospered.",
+  "dur": 5.19,
+  "gain": 0.6716538667678833
+ },
+ {
+  "id": "rec_hvac_snr-5_02",
+  "cond": "rec_hvac",
+  "snr": -5,
+  "uid": "ksp_arctic_b0146",
+  "spk": "ksp",
+  "text": "After all, it was simply a mistake in judgment. Had it struck squarely it would have killed him.",
+  "dur": 5.7600625,
+  "gain": 0.8236163854598999
+ },
+ {
+  "id": "rec_hvac_snr-5_03",
+  "cond": "rec_hvac",
+  "snr": -5,
+  "uid": "slt_arctic_b0344",
+  "spk": "slt",
+  "text": "Lots of men take women buggy riding. Daylight made no answer, and the door closed behind him.",
+  "dur": 6.340125,
+  "gain": 0.9312278032302856
+ },
+ {
+  "id": "rec_hvac_snr-5_04",
+  "cond": "rec_hvac",
+  "snr": -5,
+  "uid": "awb_arctic_a0006",
+  "spk": "awb",
+  "text": "God bless 'em, I hope I'll go on seeing them forever. And you always want to see it in the superlative degree.",
+  "dur": 6.8550625,
+  "gain": 0.995245099067688
+ },
+ {
+  "id": "rec_hvac_snr-5_05",
+  "cond": "rec_hvac",
+  "snr": -5,
+  "uid": "clb_arctic_b0333",
+  "spk": "clb",
+  "text": "It does, was her audacious answer. Oh, it's just a novel, a love story.",
+  "dur": 6.02,
+  "gain": 0.4199345111846924
+ },
+ {
+  "id": "rec_hvac_snr-5_06",
+  "cond": "rec_hvac",
+  "snr": -5,
+  "uid": "ksp_arctic_b0488",
+  "spk": "ksp",
+  "text": "Beyond refusing to sell us food, they left us to ourselves. He was a merry monarch, especially so for an Asiatic.",
+  "dur": 7.900125,
+  "gain": 0.7900112271308899
+ },
+ {
+  "id": "rec_hvac_snr-5_07",
+  "cond": "rec_hvac",
+  "snr": -5,
+  "uid": "slt_arctic_b0399",
+  "spk": "slt",
+  "text": "You were looking squeamish this afternoon, he began. How could I answer the question on the spur of the moment.",
+  "dur": 6.9400625,
+  "gain": 0.9507667422294617
+ },
+ {
+  "id": "rec_hvac_snr+0_00",
+  "cond": "rec_hvac",
+  "snr": 0,
+  "uid": "awb_arctic_b0077",
+  "spk": "awb",
+  "text": "It is the nearest refuge. There was pride and strength, the ring of triumph in his voice.",
+  "dur": 5.554875,
+  "gain": 1.1487538814544678
+ },
+ {
+  "id": "rec_hvac_snr+0_01",
+  "cond": "rec_hvac",
+  "snr": 0,
+  "uid": "clb_arctic_a0445",
+  "spk": "clb",
+  "text": "The creative joy, I murmured. He deluged me, overwhelmed me with argument.",
+  "dur": 6.34,
+  "gain": 0.8876765966415405
+ },
+ {
+  "id": "rec_hvac_snr+0_02",
+  "cond": "rec_hvac",
+  "snr": 0,
+  "uid": "ksp_arctic_a0436",
+  "spk": "ksp",
+  "text": "But Martin smiled a superior smile. By that answer my professional medical prestige stood or fell.",
+  "dur": 7.210125,
+  "gain": 1.1944692134857178
+ },
+ {
+  "id": "rec_hvac_snr+0_03",
+  "cond": "rec_hvac",
+  "snr": 0,
+  "uid": "slt_arctic_b0196",
+  "spk": "slt",
+  "text": "How can you manage all alone, Mr Young. The planters are already considering the matter.",
+  "dur": 5.5100625,
+  "gain": 1.0054410696029663
+ },
+ {
+  "id": "rec_hvac_snr+0_04",
+  "cond": "rec_hvac",
+  "snr": 0,
+  "uid": "awb_arctic_b0117",
+  "spk": "awb",
+  "text": "That's Thorpe's, said the young engineer. We saw your light, and thought you wouldn't mind a call.",
+  "dur": 5.6199375,
+  "gain": 1.2624084949493408
+ },
+ {
+  "id": "rec_hvac_snr+0_05",
+  "cond": "rec_hvac",
+  "snr": 0,
+  "uid": "clb_arctic_a0311",
+  "spk": "clb",
+  "text": "Therefore, hurrah for the game. It lived in perpetual apprehension of that quarter of the compass.",
+  "dur": 7.26,
+  "gain": 0.9181388020515442
+ },
+ {
+  "id": "rec_hvac_snr+0_06",
+  "cond": "rec_hvac",
+  "snr": 0,
+  "uid": "ksp_arctic_a0450",
+  "spk": "ksp",
+  "text": "No man ate of the seal meat or the oil. I noticed blood spouting from Kerfoot's left hand.",
+  "dur": 7.1300625,
+  "gain": 1.0129733085632324
+ },
+ {
+  "id": "rec_hvac_snr+0_07",
+  "cond": "rec_hvac",
+  "snr": 0,
+  "uid": "slt_arctic_b0099",
+  "spk": "slt",
+  "text": "Fifty yards ahead of her were the first of the rocks. There was one chance, and only one, of saving Jeanne.",
+  "dur": 6.300125,
+  "gain": 0.8993923664093018
+ },
+ {
+  "id": "rec_hvac_snr+5_00",
+  "cond": "rec_hvac",
+  "snr": 5,
+  "uid": "awb_arctic_b0309",
+  "spk": "awb",
+  "text": "Nor was Elam Harnish an exception. A little treatment, massage, with some help from the doctor.",
+  "dur": 6.1399375,
+  "gain": 1.263250470161438
+ },
+ {
+  "id": "rec_hvac_snr+5_01",
+  "cond": "rec_hvac",
+  "snr": 5,
+  "uid": "clb_arctic_b0251",
+  "spk": "clb",
+  "text": "They must have been swept away by the chaotic currents. It resembled tea less than lager beer resembles champagne.",
+  "dur": 8.38,
+  "gain": 1.059264898300171
+ },
+ {
+  "id": "rec_hvac_snr+5_02",
+  "cond": "rec_hvac",
+  "snr": 5,
+  "uid": "ksp_arctic_a0374",
+  "spk": "ksp",
+  "text": "But life's worth more than cash, she argued. The butchers and meat cutters refused to handle meat destined for unfair restaurants.",
+  "dur": 8.190125,
+  "gain": 1.184716820716858
+ },
+ {
+  "id": "rec_hvac_snr+5_03",
+  "cond": "rec_hvac",
+  "snr": 5,
+  "uid": "slt_arctic_b0447",
+  "spk": "slt",
+  "text": "O'Brien emitted a shriek that sank swiftly to a gurgling sob. Sandel would never become a world champion.",
+  "dur": 7.280125,
+  "gain": 1.2417970895767212
+ },
+ {
+  "id": "rec_hvac_snr+5_04",
+  "cond": "rec_hvac",
+  "snr": 5,
+  "uid": "awb_arctic_a0285",
+  "spk": "awb",
+  "text": "The woman in you is only incidental, accidental, and irrelevant. There was no forecasting this strange girl's processes.",
+  "dur": 7.4299375,
+  "gain": 1.279189944267273
+ },
+ {
+  "id": "rec_hvac_snr+5_05",
+  "cond": "rec_hvac",
+  "snr": 5,
+  "uid": "clb_arctic_a0191",
+  "spk": "clb",
+  "text": "For a time the exciting thrill of his adventure was gone. He did not rush in.",
+  "dur": 5.97,
+  "gain": 1.1061758995056152
+ },
+ {
+  "id": "rec_hvac_snr+5_06",
+  "cond": "rec_hvac",
+  "snr": 5,
+  "uid": "ksp_arctic_b0501",
+  "spk": "ksp",
+  "text": "And wherever I ranged, the way lay along alcohol-drenched roads. And as we hurried up town, Joe Goose explained.",
+  "dur": 8.680125,
+  "gain": 1.1347260475158691
+ },
+ {
+  "id": "rec_hvac_snr+5_07",
+  "cond": "rec_hvac",
+  "snr": 5,
+  "uid": "slt_arctic_b0093",
+  "spk": "slt",
+  "text": "Darkness hid him from Jeanne. And yet if she came he had no words to say.",
+  "dur": 5.2800625,
+  "gain": 1.2014405727386475
+ },
+ {
+  "id": "rec_transient_snr-5_00",
+  "cond": "rec_transient",
+  "snr": -5,
+  "uid": "awb_arctic_b0090",
+  "spk": "awb",
+  "text": "The Churchill narrowed and its current became swifter as they progressed. For a full half-minute Jeanne looked at him without speaking.",
+  "dur": 7.8450625,
+  "gain": 0.8246435523033142
+ },
+ {
+  "id": "rec_transient_snr-5_01",
+  "cond": "rec_transient",
+  "snr": -5,
+  "uid": "clb_arctic_b0299",
+  "spk": "clb",
+  "text": "Miss Brodie's smile was slightly sarcastic. Does the old boy often go off at half-cock that way.",
+  "dur": 7.38,
+  "gain": 0.08062927424907684
+ },
+ {
+  "id": "rec_transient_snr-5_02",
+  "cond": "rec_transient",
+  "snr": -5,
+  "uid": "ksp_arctic_b0013",
+  "spk": "ksp",
+  "text": "Lakes and rivers, hundreds of them, thousands of them. Whitefish, Gregson, whitefish and trout.",
+  "dur": 6.22,
+  "gain": 0.16609758138656616
+ },
+ {
+  "id": "rec_transient_snr-5_03",
+  "cond": "rec_transient",
+  "snr": -5,
+  "uid": "slt_arctic_a0096",
+  "spk": "slt",
+  "text": "Perhaps she had already met her fate a little deeper in the forest. Then you can arrange yourself comfortably among these robes in the bow.",
+  "dur": 7.3000625,
+  "gain": 0.13746750354766846
+ },
+ {
+  "id": "rec_transient_snr-5_04",
+  "cond": "rec_transient",
+  "snr": -5,
+  "uid": "awb_arctic_b0217",
+  "spk": "awb",
+  "text": "Such is my passage engaged on the steamer. The issue was not in doubt.",
+  "dur": 4.6699375,
+  "gain": 0.16114917397499084
+ },
+ {
+  "id": "rec_transient_snr-5_05",
+  "cond": "rec_transient",
+  "snr": -5,
+  "uid": "clb_arctic_b0377",
+  "spk": "clb",
+  "text": "A scarlet loincloth completed his costume. I like to speculate upon the glorious future of man.",
+  "dur": 7.52,
+  "gain": 0.08733171224594116
+ },
+ {
+  "id": "rec_transient_snr-5_06",
+  "cond": "rec_transient",
+  "snr": -5,
+  "uid": "ksp_arctic_a0076",
+  "spk": "ksp",
+  "text": "The gray eyes faltered; the flush deepened. It is the fire, partly, she said.",
+  "dur": 5.250125,
+  "gain": 0.49255141615867615
+ },
+ {
+  "id": "rec_transient_snr-5_07",
+  "cond": "rec_transient",
+  "snr": -5,
+  "uid": "slt_arctic_a0557",
+  "spk": "slt",
+  "text": "The last refugee had passed. And the foundation stone of service, in his case, was obedience.",
+  "dur": 6.240125,
+  "gain": 0.11505164206027985
+ },
+ {
+  "id": "rec_transient_snr+0_00",
+  "cond": "rec_transient",
+  "snr": 0,
+  "uid": "awb_arctic_b0048",
+  "spk": "awb",
+  "text": "He looked like one who had passed through an uncomfortable hour or two. There was nothing more, except a large ink blot under the words.",
+  "dur": 8.1499375,
+  "gain": 0.25284528732299805
+ },
+ {
+  "id": "rec_transient_snr+0_01",
+  "cond": "rec_transient",
+  "snr": 0,
+  "uid": "clb_arctic_b0207",
+  "spk": "clb",
+  "text": "I'm as good as a man, she urged. You read the quotations in today's paper.",
+  "dur": 5.92,
+  "gain": 0.5785276889801025
+ },
+ {
+  "id": "rec_transient_snr+0_02",
+  "cond": "rec_transient",
+  "snr": 0,
+  "uid": "ksp_arctic_b0253",
+  "spk": "ksp",
+  "text": "The very opposite is true; they are discouraged vagabonds. At the same time spears and arrows began to fall among the invaders.",
+  "dur": 8.270125,
+  "gain": 0.8512652516365051
+ },
+ {
+  "id": "rec_transient_snr+0_03",
+  "cond": "rec_transient",
+  "snr": 0,
+  "uid": "slt_arctic_b0205",
+  "spk": "slt",
+  "text": "You were destroying my life. Horses and rifles had been her toys, camp and trail her nursery.",
+  "dur": 6.370125,
+  "gain": 0.3763279318809509
+ },
+ {
+  "id": "rec_transient_snr+0_04",
+  "cond": "rec_transient",
+  "snr": 0,
+  "uid": "awb_arctic_a0336",
+  "spk": "awb",
+  "text": "He'll knock yeh off a few sticks in no time. Red-Eye swung back and forth on the branch farther down.",
+  "dur": 6.105,
+  "gain": 0.8091717958450317
+ },
+ {
+  "id": "rec_transient_snr+0_05",
+  "cond": "rec_transient",
+  "snr": 0,
+  "uid": "clb_arctic_a0416",
+  "spk": "clb",
+  "text": "The added weight had a velocity of fifteen miles per hour. It is also an insidious, deceitful sun.",
+  "dur": 7.86,
+  "gain": 0.4976406395435333
+ },
+ {
+  "id": "rec_transient_snr+0_06",
+  "cond": "rec_transient",
+  "snr": 0,
+  "uid": "ksp_arctic_a0099",
+  "spk": "ksp",
+  "text": "A maddening joy pounded in his brain. You must sleep, he urged.",
+  "dur": 4.610125,
+  "gain": 0.7019938230514526
+ },
+ {
+  "id": "rec_transient_snr+0_07",
+  "cond": "rec_transient",
+  "snr": 0,
+  "uid": "slt_arctic_b0163",
+  "spk": "slt",
+  "text": "The moon had already begun its westward decline. They laughed like two happy children.",
+  "dur": 5.940125,
+  "gain": 0.28158363699913025
+ },
+ {
+  "id": "rec_transient_snr+5_00",
+  "cond": "rec_transient",
+  "snr": 5,
+  "uid": "awb_arctic_a0346",
+  "spk": "awb",
+  "text": "He seemed to fill it with his tremendous vitality. She was trying to pass the apron-string around him.",
+  "dur": 6.24,
+  "gain": 0.6204720139503479
+ },
+ {
+  "id": "rec_transient_snr+5_01",
+  "cond": "rec_transient",
+  "snr": 5,
+  "uid": "clb_arctic_a0224",
+  "spk": "clb",
+  "text": "She nodded, and her eyes grew soft and moist. I was brought up the way most girls in Hawaii are brought up.",
+  "dur": 7.03,
+  "gain": 1.1698096990585327
+ },
+ {
+  "id": "rec_transient_snr+5_02",
+  "cond": "rec_transient",
+  "snr": 5,
+  "uid": "ksp_arctic_b0107",
+  "spk": "ksp",
+  "text": "He was sure, now, of but few things. It was a miracle, and I owe you my life.",
+  "dur": 5.830125,
+  "gain": 0.38030844926834106
+ },
+ {
+  "id": "rec_transient_snr+5_03",
+  "cond": "rec_transient",
+  "snr": 5,
+  "uid": "slt_arctic_a0543",
+  "spk": "slt",
+  "text": "I had been born with no organic, chemical predisposition toward alcohol. He may anticipate the day of his death.",
+  "dur": 7.400125,
+  "gain": 0.3881998360157013
+ },
+ {
+  "id": "rec_transient_snr+5_04",
+  "cond": "rec_transient",
+  "snr": 5,
+  "uid": "awb_arctic_b0231",
+  "spk": "awb",
+  "text": "What's that grub-thief got to do with it. It was a superb picture.",
+  "dur": 4.565,
+  "gain": 1.3205842971801758
+ },
+ {
+  "id": "rec_transient_snr+5_05",
+  "cond": "rec_transient",
+  "snr": 5,
+  "uid": "clb_arctic_a0445",
+  "spk": "clb",
+  "text": "The creative joy, I murmured. He deluged me, overwhelmed me with argument.",
+  "dur": 6.34,
+  "gain": 0.7108330726623535
+ },
+ {
+  "id": "rec_transient_snr+5_06",
+  "cond": "rec_transient",
+  "snr": 5,
+  "uid": "ksp_arctic_b0105",
+  "spk": "ksp",
+  "text": "I know that you are in charge there, and Jeanne knows. For a full minute the two men stared into each other's face.",
+  "dur": 6.9600625,
+  "gain": 1.1790000200271606
+ },
+ {
+  "id": "rec_transient_snr+5_07",
+  "cond": "rec_transient",
+  "snr": 5,
+  "uid": "slt_arctic_a0232",
+  "spk": "slt",
+  "text": "I cannot follow you, she said. I never allow what can't be changed to annoy me.",
+  "dur": 5.4900625,
+  "gain": 1.083857774734497
+ },
+ {
+  "id": "rec_announcements_snr-5_00",
+  "cond": "rec_announcements",
+  "snr": -5,
+  "uid": "awb_arctic_b0182",
+  "spk": "awb",
+  "text": "I was in New York when the crash came. No, I did not fall among thieves.",
+  "dur": 4.750125,
+  "gain": 0.8123261332511902
+ },
+ {
+  "id": "rec_announcements_snr-5_01",
+  "cond": "rec_announcements",
+  "snr": -5,
+  "uid": "clb_arctic_a0430",
+  "spk": "clb",
+  "text": "Nevertheless we found ourselves once more in the high seat of abundance. Wada and Nakata were in a bit of a funk.",
+  "dur": 8.11,
+  "gain": 0.579850971698761
+ },
+ {
+  "id": "rec_announcements_snr-5_02",
+  "cond": "rec_announcements",
+  "snr": -5,
+  "uid": "ksp_arctic_a0093",
+  "spk": "ksp",
+  "text": "For a full minute he crouched and listened. He had barely entered this when he saw the glow of a fire.",
+  "dur": 6.560125,
+  "gain": 0.6294054388999939
+ },
+ {
+  "id": "rec_announcements_snr-5_03",
+  "cond": "rec_announcements",
+  "snr": -5,
+  "uid": "slt_arctic_a0394",
+  "spk": "slt",
+  "text": "It's the strap hangers that'll keep us from going under. As for himself, weren't the street railway earnings increasing steadily.",
+  "dur": 7.5100625,
+  "gain": 0.6731107234954834
+ },
+ {
+  "id": "rec_announcements_snr-5_04",
+  "cond": "rec_announcements",
+  "snr": -5,
+  "uid": "awb_arctic_a0559",
+  "spk": "awb",
+  "text": "Why, he's bought forty pounds of goods from you already. The last refugee had passed.",
+  "dur": 5.240125,
+  "gain": 0.7088744640350342
+ },
+ {
+  "id": "rec_announcements_snr-5_05",
+  "cond": "rec_announcements",
+  "snr": -5,
+  "uid": "clb_arctic_a0106",
+  "spk": "clb",
+  "text": "The emotion which she had suppressed burst forth now in a choking sob. If you only could know how I thank you.",
+  "dur": 8.03,
+  "gain": 0.5475221276283264
+ },
+ {
+  "id": "rec_announcements_snr-5_06",
+  "cond": "rec_announcements",
+  "snr": -5,
+  "uid": "ksp_arctic_a0081",
+  "spk": "ksp",
+  "text": "What if she did not come to the rock. His face was streaming with blood.",
+  "dur": 4.560125,
+  "gain": 0.7918094992637634
+ },
+ {
+  "id": "rec_announcements_snr-5_07",
+  "cond": "rec_announcements",
+  "snr": -5,
+  "uid": "slt_arctic_b0043",
+  "spk": "slt",
+  "text": "It won't be for sale. For a few moments he ate in silence.",
+  "dur": 4.360125,
+  "gain": 0.5132166147232056
+ },
+ {
+  "id": "rec_announcements_snr+0_00",
+  "cond": "rec_announcements",
+  "snr": 0,
+  "uid": "awb_arctic_a0010",
+  "spk": "awb",
+  "text": "I'm playing a single hand in what looks like a losing game. If I ever needed a fighter in my life I need one now.",
+  "dur": 7.1650625,
+  "gain": 1.1336758136749268
+ },
+ {
+  "id": "rec_announcements_snr+0_01",
+  "cond": "rec_announcements",
+  "snr": 0,
+  "uid": "clb_arctic_b0358",
+  "spk": "clb",
+  "text": "The temperature dropped to fifty below zero and remained there the whole trip. And as never before, he was ready to obey.",
+  "dur": 8.83,
+  "gain": 0.6435544490814209
+ },
+ {
+  "id": "rec_announcements_snr+0_02",
+  "cond": "rec_announcements",
+  "snr": 0,
+  "uid": "ksp_arctic_a0151",
+  "spk": "ksp",
+  "text": "And MacDougall was beyond the trail, with three weeks to spare. Philip thrust himself against it and entered.",
+  "dur": 7.010125,
+  "gain": 0.6516596078872681
+ },
+ {
+  "id": "rec_announcements_snr+0_03",
+  "cond": "rec_announcements",
+  "snr": 0,
+  "uid": "slt_arctic_b0333",
+  "spk": "slt",
+  "text": "It does, was her audacious answer. Oh, it's just a novel, a love story.",
+  "dur": 5.36,
+  "gain": 0.9136189818382263
+ },
+ {
+  "id": "rec_announcements_snr+0_04",
+  "cond": "rec_announcements",
+  "snr": 0,
+  "uid": "awb_arctic_b0033",
+  "spk": "awb",
+  "text": "How does your wager look now. He confessed that the sketch had startled him.",
+  "dur": 4.59,
+  "gain": 1.0988084077835083
+ },
+ {
+  "id": "rec_announcements_snr+0_05",
+  "cond": "rec_announcements",
+  "snr": 0,
+  "uid": "clb_arctic_a0387",
+  "spk": "clb",
+  "text": "Bob, growing disgusted, turned back suddenly and attempted to pass Mab. It was my idea to a tee.",
+  "dur": 7.56,
+  "gain": 0.9658879041671753
+ },
+ {
+  "id": "rec_announcements_snr+0_06",
+  "cond": "rec_announcements",
+  "snr": 0,
+  "uid": "ksp_arctic_a0552",
+  "spk": "ksp",
+  "text": "Yet he dreams he is immortal, I argue feebly. I am writing these lines in Honolulu, Hawaii.",
+  "dur": 6.820125,
+  "gain": 0.9137067198753357
+ },
+ {
+  "id": "rec_announcements_snr+0_07",
+  "cond": "rec_announcements",
+  "snr": 0,
+  "uid": "slt_arctic_a0359",
+  "spk": "slt",
+  "text": "Earth and gravel seemed to fill the pan. But he no longer cared quite so much for that form of diversion.",
+  "dur": 6.3000625,
+  "gain": 1.1658451557159424
+ },
+ {
+  "id": "rec_announcements_snr+5_00",
+  "cond": "rec_announcements",
+  "snr": 5,
+  "uid": "awb_arctic_a0190",
+  "spk": "awb",
+  "text": "Two gigantic owls were tearing at the carcass. The big-eyed, clucking moose-birds were most annoying.",
+  "dur": 6.135125,
+  "gain": 1.2721898555755615
+ },
+ {
+  "id": "rec_announcements_snr+5_01",
+  "cond": "rec_announcements",
+  "snr": 5,
+  "uid": "clb_arctic_a0118",
+  "spk": "clb",
+  "text": "Pierre obeys me when we are together. Jeanne was turning the bow shoreward.",
+  "dur": 5.65,
+  "gain": 0.9958255290985107
+ },
+ {
+  "id": "rec_announcements_snr+5_02",
+  "cond": "rec_announcements",
+  "snr": 5,
+  "uid": "ksp_arctic_b0459",
+  "spk": "ksp",
+  "text": "They are not biologists nor sociologists. The more his opponents grew excited, the more Ernest deliberately excited them.",
+  "dur": 8.1000625,
+  "gain": 1.1588746309280396
+ },
+ {
+  "id": "rec_announcements_snr+5_03",
+  "cond": "rec_announcements",
+  "snr": 5,
+  "uid": "slt_arctic_b0205",
+  "spk": "slt",
+  "text": "You were destroying my life. Horses and rifles had been her toys, camp and trail her nursery.",
+  "dur": 6.370125,
+  "gain": 1.1303871870040894
+ },
+ {
+  "id": "rec_announcements_snr+5_04",
+  "cond": "rec_announcements",
+  "snr": 5,
+  "uid": "awb_arctic_a0123",
+  "spk": "awb",
+  "text": "They ate dinner at the fifth, and rested for two hours. Two years ago I gave up civilization for this.",
+  "dur": 6.7249375,
+  "gain": 1.2415400743484497
+ },
+ {
+  "id": "rec_announcements_snr+5_05",
+  "cond": "rec_announcements",
+  "snr": 5,
+  "uid": "clb_arctic_a0579",
+  "spk": "clb",
+  "text": "There was the Emma Louisa. This is my fifth voyage.",
+  "dur": 4.24,
+  "gain": 1.0868744850158691
+ },
+ {
+  "id": "rec_announcements_snr+5_06",
+  "cond": "rec_announcements",
+  "snr": 5,
+  "uid": "ksp_arctic_b0404",
+  "spk": "ksp",
+  "text": "Yes, and no, sir, was the slow reply. And each year something happened, and I did not go.",
+  "dur": 6.7000625,
+  "gain": 1.233656883239746
+ },
+ {
+  "id": "rec_announcements_snr+5_07",
+  "cond": "rec_announcements",
+  "snr": 5,
+  "uid": "slt_arctic_a0376",
+  "spk": "slt",
+  "text": "Your price, my son, is just about thirty per week. This sound did not disturb the hush and awe of the place.",
+  "dur": 6.990125,
+  "gain": 1.3023182153701782
+ },
+ {
+  "id": "ood_competing_snr-5_00",
+  "cond": "ood_competing",
+  "snr": -5,
+  "uid": "awb_arctic_b0365",
+  "spk": "awb",
+  "text": "My age, in years, is twenty-two. I forgot how easily I had taught myself from the printed page.",
+  "dur": 6.56,
+  "gain": 0.7445014715194702
+ },
+ {
+  "id": "ood_competing_snr-5_01",
+  "cond": "ood_competing",
+  "snr": -5,
+  "uid": "clb_arctic_a0157",
+  "spk": "clb",
+  "text": "He had worshiped her, as Dante might have worshiped Beatrice. Does that look good.",
+  "dur": 5.6,
+  "gain": 0.4465164840221405
+ },
+ {
+  "id": "ood_competing_snr-5_02",
+  "cond": "ood_competing",
+  "snr": -5,
+  "uid": "ksp_arctic_b0013",
+  "spk": "ksp",
+  "text": "Lakes and rivers, hundreds of them, thousands of them. Whitefish, Gregson, whitefish and trout.",
+  "dur": 6.22,
+  "gain": 0.6591675281524658
+ },
+ {
+  "id": "ood_competing_snr-5_03",
+  "cond": "ood_competing",
+  "snr": -5,
+  "uid": "slt_arctic_a0469",
+  "spk": "slt",
+  "text": "The eastern heavens were equally spectacular. He spat it out like so much venom.",
+  "dur": 5.560125,
+  "gain": 0.6805551648139954
+ },
+ {
+  "id": "ood_competing_snr-5_04",
+  "cond": "ood_competing",
+  "snr": -5,
+  "uid": "awb_arctic_b0538",
+  "spk": "awb",
+  "text": "Typhoid - did I tell you. But she had become an automaton.",
+  "dur": 3.9999375,
+  "gain": 1.0049405097961426
+ },
+ {
+  "id": "ood_competing_snr-5_05",
+  "cond": "ood_competing",
+  "snr": -5,
+  "uid": "clb_arctic_b0402",
+  "spk": "clb",
+  "text": "An altruistic act is an act performed for the welfare of others. Knowing him, I review the old Scandinavian myths with clearer understanding.",
+  "dur": 10.25,
+  "gain": 0.4568541646003723
+ },
+ {
+  "id": "ood_competing_snr-5_06",
+  "cond": "ood_competing",
+  "snr": -5,
+  "uid": "ksp_arctic_a0197",
+  "spk": "ksp",
+  "text": "Such a dog the wise driver kills, or turns loose. Sometimes her dreams were filled with visions.",
+  "dur": 6.4100625,
+  "gain": 0.5424105525016785
+ },
+ {
+  "id": "ood_competing_snr-5_07",
+  "cond": "ood_competing",
+  "snr": -5,
+  "uid": "slt_arctic_a0340",
+  "spk": "slt",
+  "text": "It was like the beating of hoofs. Why, doggone you all, shake again.",
+  "dur": 4.490125,
+  "gain": 0.44079771637916565
+ },
+ {
+  "id": "ood_competing_snr+0_00",
+  "cond": "ood_competing",
+  "snr": 0,
+  "uid": "awb_arctic_a0073",
+  "spk": "awb",
+  "text": "The promoter's eyes were heavy, with little puffy bags under them. Now he held the whip-hand; Brokaw had acknowledged his own surrender.",
+  "dur": 7.7950625,
+  "gain": 0.7338100671768188
+ },
+ {
+  "id": "ood_competing_snr+0_01",
+  "cond": "ood_competing",
+  "snr": 0,
+  "uid": "clb_arctic_a0268",
+  "spk": "clb",
+  "text": "Now go ahead and tell me in a straightforward way what has happened. That's where they cut off the Scottish Chiefs and killed all hands.",
+  "dur": 8.5,
+  "gain": 0.7805256843566895
+ },
+ {
+  "id": "ood_competing_snr+0_02",
+  "cond": "ood_competing",
+  "snr": 0,
+  "uid": "ksp_arctic_b0522",
+  "spk": "ksp",
+  "text": "Nor would it thaw out his hands and feet. The Russian music player, the Count, was her obedient slave.",
+  "dur": 7.100125,
+  "gain": 0.8807995319366455
+ },
+ {
+  "id": "ood_competing_snr+0_03",
+  "cond": "ood_competing",
+  "snr": 0,
+  "uid": "slt_arctic_a0507",
+  "spk": "slt",
+  "text": "In short, my joyous individualism was dominated by the orthodox bourgeois ethics. Soon shall it be thrust back from off prostrate humanity.",
+  "dur": 9.3400625,
+  "gain": 0.836969792842865
+ },
+ {
+  "id": "ood_competing_snr+0_04",
+  "cond": "ood_competing",
+  "snr": 0,
+  "uid": "awb_arctic_a0322",
+  "spk": "awb",
+  "text": "With my strength I slammed it full into Red-Eye's face. The log on which Lop-Ear was lying got adrift.",
+  "dur": 6.825125,
+  "gain": 1.0077097415924072
+ },
+ {
+  "id": "ood_competing_snr+0_05",
+  "cond": "ood_competing",
+  "snr": 0,
+  "uid": "clb_arctic_b0393",
+  "spk": "clb",
+  "text": "I was still weak from my prolonged immersion. The boy hesitated, then mastered his temper.",
+  "dur": 6.61,
+  "gain": 0.6924628019332886
+ },
+ {
+  "id": "ood_competing_snr+0_06",
+  "cond": "ood_competing",
+  "snr": 0,
+  "uid": "ksp_arctic_a0393",
+  "spk": "ksp",
+  "text": "Already he had begun borrowing from the banks. It's the strap hangers that'll keep us from going under.",
+  "dur": 6.850125,
+  "gain": 0.6995935440063477
+ },
+ {
+  "id": "ood_competing_snr+0_07",
+  "cond": "ood_competing",
+  "snr": 0,
+  "uid": "slt_arctic_b0041",
+  "spk": "slt",
+  "text": "But if Pierre did not return, until tomorrow. Ten minutes had not elapsed since he had dropped the handkerchief.",
+  "dur": 6.660125,
+  "gain": 0.7400889992713928
+ },
+ {
+  "id": "ood_competing_snr+5_00",
+  "cond": "ood_competing",
+  "snr": 5,
+  "uid": "awb_arctic_b0179",
+  "spk": "awb",
+  "text": "Let them go out and eat with my boys. I, I beg pardon, he drawled.",
+  "dur": 5.275,
+  "gain": 1.3846933841705322
+ },
+ {
+  "id": "ood_competing_snr+5_01",
+  "cond": "ood_competing",
+  "snr": 5,
+  "uid": "clb_arctic_b0160",
+  "spk": "clb",
+  "text": "It was over when he made his way through the ring of spectators. In a flash he was on his feet, facing him.",
+  "dur": 7.06,
+  "gain": 1.336496114730835
+ },
+ {
+  "id": "ood_competing_snr+5_02",
+  "cond": "ood_competing",
+  "snr": 5,
+  "uid": "ksp_arctic_b0295",
+  "spk": "ksp",
+  "text": "All right, Sir, replied Jock with great regret. At times I wondered where Sir Archibald got his style.",
+  "dur": 7.5600625,
+  "gain": 1.209808111190796
+ },
+ {
+  "id": "ood_competing_snr+5_03",
+  "cond": "ood_competing",
+  "snr": 5,
+  "uid": "slt_arctic_b0014",
+  "spk": "slt",
+  "text": "Whitefish, Gregson, whitefish and trout. They robbed me a few years later.",
+  "dur": 5.200125,
+  "gain": 1.2630064487457275
+ },
+ {
+  "id": "ood_competing_snr+5_04",
+  "cond": "ood_competing",
+  "snr": 5,
+  "uid": "awb_arctic_a0444",
+  "spk": "awb",
+  "text": "Violent life and athletic sports had never appealed to me. You live on an income which your father earned.",
+  "dur": 6.35,
+  "gain": 1.3713384866714478
+ },
+ {
+  "id": "ood_competing_snr+5_05",
+  "cond": "ood_competing",
+  "snr": 5,
+  "uid": "clb_arctic_a0217",
+  "spk": "clb",
+  "text": "Oppressive as the heat had been, it was now even more oppressive. The ringing of the big bell aroused him.",
+  "dur": 7.43,
+  "gain": 1.0511538982391357
+ },
+ {
+  "id": "ood_competing_snr+5_06",
+  "cond": "ood_competing",
+  "snr": 5,
+  "uid": "ksp_arctic_b0426",
+  "spk": "ksp",
+  "text": "The Gabriel voice of the Samurai rang out. The sunsets grow more bizarre and spectacular off this coast of the Argentine.",
+  "dur": 7.9900625,
+  "gain": 1.347612977027893
+ },
+ {
+  "id": "ood_competing_snr+5_07",
+  "cond": "ood_competing",
+  "snr": 5,
+  "uid": "slt_arctic_a0154",
+  "spk": "slt",
+  "text": "He was smooth-shaven, and his hair and eyes were black. Won't you draw up, gentlemen.",
+  "dur": 5.2700625,
+  "gain": 1.0322009325027466
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr-5_00",
+  "cond": "ood_reverb_rec_babble",
+  "snr": -5,
+  "uid": "awb_arctic_a0456",
+  "spk": "awb",
+  "text": "Eighteen hundred, he calculated. The sharp voice of Wolf Larsen aroused me.",
+  "dur": 4.765,
+  "gain": 0.6978462934494019
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr-5_01",
+  "cond": "ood_reverb_rec_babble",
+  "snr": -5,
+  "uid": "clb_arctic_b0061",
+  "spk": "clb",
+  "text": "Something about it seemed to fascinate him, to challenge his presence. Now it was missing from the wall.",
+  "dur": 6.56,
+  "gain": 0.21183134615421295
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr-5_02",
+  "cond": "ood_reverb_rec_babble",
+  "snr": -5,
+  "uid": "ksp_arctic_a0153",
+  "spk": "ksp",
+  "text": "MacDougall tapped his forehead suspiciously with a stubby forefinger. He was smooth-shaven, and his hair and eyes were black.",
+  "dur": 7.670125,
+  "gain": 0.5563676953315735
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr-5_03",
+  "cond": "ood_reverb_rec_babble",
+  "snr": -5,
+  "uid": "slt_arctic_b0288",
+  "spk": "slt",
+  "text": "We would not spend another such night. At first his progress was slow and erratic.",
+  "dur": 5.6600625,
+  "gain": 0.3794223964214325
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr-5_04",
+  "cond": "ood_reverb_rec_babble",
+  "snr": -5,
+  "uid": "awb_arctic_b0371",
+  "spk": "awb",
+  "text": "Yield yourself to the waters that are ripping and tearing at you. Mr McVeigh told me about him.",
+  "dur": 5.4500625,
+  "gain": 0.4362048804759979
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr-5_05",
+  "cond": "ood_reverb_rec_babble",
+  "snr": -5,
+  "uid": "clb_arctic_b0130",
+  "spk": "clb",
+  "text": "She saw the answer in his face. Thorpe and his men were to destroy this camp, and kill you.",
+  "dur": 7.02,
+  "gain": 0.3788849711418152
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr-5_06",
+  "cond": "ood_reverb_rec_babble",
+  "snr": -5,
+  "uid": "ksp_arctic_a0025",
+  "spk": "ksp",
+  "text": "I was about to do this when cooler judgment prevailed. It occurred to me that there would have to be an accounting.",
+  "dur": 6.4700625,
+  "gain": 0.4973045587539673
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr-5_07",
+  "cond": "ood_reverb_rec_babble",
+  "snr": -5,
+  "uid": "slt_arctic_b0373",
+  "spk": "slt",
+  "text": "Unlike Joshua, he stood in no need of divine assistance. To say the least, Captain Cook was a rather thorough going empiricist.",
+  "dur": 8.1700625,
+  "gain": 0.7156199812889099
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+0_00",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 0,
+  "uid": "awb_arctic_a0261",
+  "spk": "awb",
+  "text": "Think of investing in such an adventure. NOBODY knew his history, they of the Junta least of all.",
+  "dur": 6.045125,
+  "gain": 0.5756473541259766
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+0_01",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 0,
+  "uid": "clb_arctic_b0152",
+  "spk": "clb",
+  "text": "OW, a wild dog, he growled. He was a pariah; a wanderer without a friend or a home.",
+  "dur": 6.84,
+  "gain": 0.3030194044113159
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+0_02",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 0,
+  "uid": "ksp_arctic_b0173",
+  "spk": "ksp",
+  "text": "To these he gave castor oil. Hatred and murder and lust for revenge they possessed to overflowing.",
+  "dur": 6.3700625,
+  "gain": 0.7730812430381775
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+0_03",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 0,
+  "uid": "slt_arctic_a0406",
+  "spk": "slt",
+  "text": "And that was the last of Francois and Perrault. Mercedes screamed, cried, laughed, and manifested the chaotic abandonment of hysteria.",
+  "dur": 8.21,
+  "gain": 0.761077344417572
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+0_04",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 0,
+  "uid": "awb_arctic_a0369",
+  "spk": "awb",
+  "text": "There is not an iota of truth in it, certainly not. I just do appreciate it without being able to express my feelings.",
+  "dur": 7.900125,
+  "gain": 0.8775774240493774
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+0_05",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 0,
+  "uid": "clb_arctic_a0509",
+  "spk": "clb",
+  "text": "Yet, in accordance with Ernest's test of truth, it worked. Much more Ernest told them of themselves and of his disillusionment.",
+  "dur": 8.69,
+  "gain": 0.6656957268714905
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+0_06",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 0,
+  "uid": "ksp_arctic_a0308",
+  "spk": "ksp",
+  "text": "His infernal chattering worries me even now as I think of it. White Leghorns, said Mrs Mortimer.",
+  "dur": 6.350125,
+  "gain": 0.6652688980102539
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+0_07",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 0,
+  "uid": "slt_arctic_b0209",
+  "spk": "slt",
+  "text": "He's terribly touchy about his black wards, as he calls them. Whatever he guessed he locked away in the taboo room of Naomi.",
+  "dur": 7.780125,
+  "gain": 0.5369313955307007
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+5_00",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 5,
+  "uid": "awb_arctic_a0219",
+  "spk": "awb",
+  "text": "Oppressive as the heat had been, it was now even more oppressive. The ringing of the big bell aroused him.",
+  "dur": 6.1550625,
+  "gain": 1.2028504610061646
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+5_01",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 5,
+  "uid": "clb_arctic_b0521",
+  "spk": "clb",
+  "text": "And he thought of Oona, and of her words. Nor would it thaw out his hands and feet.",
+  "dur": 6.33,
+  "gain": 0.5698107481002808
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+5_02",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 5,
+  "uid": "ksp_arctic_a0235",
+  "spk": "ksp",
+  "text": "His voice was passionately rebellious. Don't you see I hate you.",
+  "dur": 4.950125,
+  "gain": 0.7641155123710632
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+5_03",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 5,
+  "uid": "slt_arctic_b0334",
+  "spk": "slt",
+  "text": "Oh, it's just a novel, a love story. Whoever lived on the ranch did that.",
+  "dur": 5.2000625,
+  "gain": 0.8278562426567078
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+5_04",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 5,
+  "uid": "awb_arctic_a0421",
+  "spk": "awb",
+  "text": "The Portuguese boy passed the Hawaiian. When I came to I was waving my hat and murmuring ecstatically:",
+  "dur": 6.8599375,
+  "gain": 0.7983638644218445
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+5_05",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 5,
+  "uid": "clb_arctic_b0331",
+  "spk": "clb",
+  "text": "His partners had starved and died on the Stewart. As to how she dressed, he had no ideas at all.",
+  "dur": 7.42,
+  "gain": 0.875323474407196
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+5_06",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 5,
+  "uid": "ksp_arctic_a0429",
+  "spk": "ksp",
+  "text": "Quick was the disappointment in his face, yet smiling was the acquiescence. Nevertheless we found ourselves once more in the high seat of abundance.",
+  "dur": 9.4000625,
+  "gain": 0.8006003499031067
+ },
+ {
+  "id": "ood_reverb_rec_babble_snr+5_07",
+  "cond": "ood_reverb_rec_babble",
+  "snr": 5,
+  "uid": "slt_arctic_a0093",
+  "spk": "slt",
+  "text": "For a full minute he crouched and listened. He had barely entered this when he saw the glow of a fire.",
+  "dur": 6.040125,
+  "gain": 1.028994083404541
+ }
+]

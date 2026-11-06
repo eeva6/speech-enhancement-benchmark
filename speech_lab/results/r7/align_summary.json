@@ -1,0 +1,67 @@
+{
+ "4": {
+  "n": 116,
+  "b_ppm_median": -4.036045506325744,
+  "fs_close_eff_median": 48008.40623588775,
+  "res_absmed_ms_median": 0.09850622700469103,
+  "res_p90_ms_median": 0.43559053738135844,
+  "how": {
+   "minute_line": 39,
+   "minute_clock_plus_pose": 38,
+   "session_slope": 32,
+   "no_fit_session_offset": 7
+  }
+ },
+ "10": {
+  "n": 48,
+  "b_ppm_median": -3.881791921560865,
+  "fs_close_eff_median": 48008.41364132777,
+  "res_absmed_ms_median": 0.0400803310185438,
+  "res_p90_ms_median": 0.2887499060307164,
+  "how": {
+   "session_slope": 18,
+   "minute_line": 16,
+   "minute_clock_plus_pose": 8,
+   "no_fit_session_offset": 6
+  }
+ },
+ "11": {
+  "n": 69,
+  "b_ppm_median": -4.431687528281675,
+  "fs_close_eff_median": 48008.387241829005,
+  "res_absmed_ms_median": 0.05337804032023996,
+  "res_p90_ms_median": 0.2438658120809123,
+  "how": {
+   "session_slope": 25,
+   "minute_line": 23,
+   "minute_clock_plus_pose": 16,
+   "no_fit_session_offset": 5
+  }
+ },
+ "12": {
+  "n": 60,
+  "b_ppm_median": -7.734211173159914,
+  "fs_close_eff_median": 48008.22869422123,
+  "res_absmed_ms_median": 0.11806080146925524,
+  "res_p90_ms_median": 0.6420434627216309,
+  "how": {
+   "minute_line": 37,
+   "session_slope": 17,
+   "minute_clock_plus_pose": 4,
+   "no_fit_session_offset": 2
+  }
+ },
+ "all": {
+  "n": 293,
+  "res_absmed_ms_median": 0.08710391557542607,
+  "res_absmed_ms_p90": 0.3913381166057664,
+  "res_p90_ms_median": 0.4235037951730191,
+  "frac_outlier_median": 0.0
+ },
+ "loo_pose_clock_check": {
+  "n": 156,
+  "median_abs_ms": 0.43128327094797214,
+  "p90_abs_ms": 1.5258167881859706
+ },
+ "note": "res_* = lags re-measured on the aligned close mic in the same windows used for the fit (in-sample). loo_pose_clock_check = out-of-sample: offset predicted from the other close mics of the minute + pose distance. how=no_fit_* / minute_clock_plus_pose rows had < 4 usable windows (talker nearly silent)."
+}

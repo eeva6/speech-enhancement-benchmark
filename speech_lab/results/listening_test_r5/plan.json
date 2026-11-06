@@ -1,0 +1,209 @@
+{
+ "cells": [
+  {
+   "cond": "OV10",
+   "snr": 0,
+   "sentences": [
+    {
+     "id": "OV10_s1_8463-294828-0015",
+     "text": "CONSEIL I CALLED A THIRD TIME CONSEIL APPEARED",
+     "stim": {
+      "noisy": "e3e70682c2",
+      "deepfilternet3": "f728b4fa42",
+      "mvdr_online_est": "eb1167b367",
+      "tse": "f7c1bd874d",
+      "mvdr_online_est_tse": "e443df7895"
+     },
+     "cue": "cue_23a7711a81"
+    },
+    {
+     "id": "OV10_s2_1188-133604-0025",
+     "text": "YOU KNOW I HAVE JUST BEEN TELLING YOU HOW THIS SCHOOL OF MATERIALISM AND CLAY INVOLVED ITSELF AT LAST IN CLOUD AND FIRE",
+     "stim": {
+      "noisy": "1846d424c1",
+      "deepfilternet3": "fcbd04c340",
+      "mvdr_online_est": "b4862b21fb",
+      "tse": "259f4329e6",
+      "mvdr_online_est_tse": "12e0c8b2ba"
+     },
+     "cue": "cue_5487ce1eaf"
+    },
+    {
+     "id": "OV10_s0_260-123288-0022",
+     "text": "THEY SEEM TO BE WE ARE LOST BUT I AM NOT SURE",
+     "stim": {
+      "noisy": "5a92118719",
+      "deepfilternet3": "a3f2c9bf9c",
+      "mvdr_online_est": "8d723104f7",
+      "tse": "85776e9add",
+      "mvdr_online_est_tse": "eb2083e6ce"
+     },
+     "cue": "cue_17e0aa3c03"
+    },
+    {
+     "id": "OV10_s0_1995-1826-0015",
+     "text": "SHE HAD ALMOST FORGOTTEN THAT IT WAS HERE WITHIN TOUCH AND SIGHT",
+     "stim": {
+      "noisy": "b5d32b1666",
+      "deepfilternet3": "a0116be5ab",
+      "mvdr_online_est": "d3fbf47a7e",
+      "tse": "baf3897a3e",
+      "mvdr_online_est_tse": "101fbcccde"
+     },
+     "cue": "cue_38c1962e91"
+    },
+    {
+     "id": "OV10_s5_4970-29093-0023",
+     "text": "HE WELL KNEW THE PERILS OF THE FRONTIER THE SAVAGE STATE OF SOCIETY THE LURKING INDIANS AND THE DANGERS OF FEVER",
+     "stim": {
+      "noisy": "247a8333f7",
+      "deepfilternet3": "1759edc372",
+      "mvdr_online_est": "e005b86051",
+      "tse": "7d41e602ee",
+      "mvdr_online_est_tse": "4a84eb038d"
+     },
+     "cue": "cue_552f233a8c"
+    }
+   ]
+  },
+  {
+   "cond": "OV20",
+   "snr": 0,
+   "sentences": [
+    {
+     "id": "OV20_s1_5105-28241-0003",
+     "text": "STEAM UP AND CANVAS SPREAD THE SCHOONER STARTED EASTWARDS",
+     "stim": {
+      "noisy": "3405095c8a",
+      "deepfilternet3": "8c1745a79a",
+      "mvdr_online_est": "1775336d71",
+      "tse": "5129fb7c62",
+      "mvdr_online_est_tse": "2f1205544a"
+     },
+     "cue": "cue_0870e15c2f"
+    },
+    {
+     "id": "OV20_s2_1580-141084-0010",
+     "text": "I WILL TAKE THE BLACK CLAY WITH ME ALSO THE PENCIL CUTTINGS GOOD BYE",
+     "stim": {
+      "noisy": "42930b33a8",
+      "deepfilternet3": "adc0da7a16",
+      "mvdr_online_est": "2648ee38e0",
+      "tse": "148b2758d7",
+      "mvdr_online_est_tse": "d450fe4aec"
+     },
+     "cue": "cue_d67e55fd64"
+    },
+    {
+     "id": "OV20_s1_260-123286-0013",
+     "text": "THE SHADOW OF THE RAFT WAS CLEARLY OUTLINED UPON THE SURFACE OF THE WAVES",
+     "stim": {
+      "noisy": "8594092746",
+      "deepfilternet3": "37176e84d9",
+      "mvdr_online_est": "d344749096",
+      "tse": "4674374194",
+      "mvdr_online_est_tse": "a425799aa9"
+     },
+     "cue": "cue_fb82860dea"
+    },
+    {
+     "id": "OV20_s0_6930-76324-0005",
+     "text": "THE TWIN BROTHER DID SOMETHING SHE DIDN'T LIKE AND SHE TURNED HIS PICTURE TO THE WALL",
+     "stim": {
+      "noisy": "5306f3f515",
+      "deepfilternet3": "964a870c7c",
+      "mvdr_online_est": "30bcab0ed8",
+      "tse": "4562be7fbb",
+      "mvdr_online_est_tse": "5f3f563838"
+     },
+     "cue": "cue_6d16ee1855"
+    },
+    {
+     "id": "OV20_s4_3570-5694-0013",
+     "text": "THIS DIFFERENTIATION IS FURTHERED BY THE INHERITANCE OF WEALTH AND THE CONSEQUENT INHERITANCE OF GENTILITY",
+     "stim": {
+      "noisy": "c87a746319",
+      "deepfilternet3": "38018b47b2",
+      "mvdr_online_est": "a25b59fd92",
+      "tse": "9a27d85888",
+      "mvdr_online_est_tse": "1fdb8b3206"
+     },
+     "cue": "cue_d480865f9b"
+    }
+   ]
+  },
+  {
+   "cond": "OV40",
+   "snr": 0,
+   "sentences": [
+    {
+     "id": "OV40_s5_4507-16021-0029",
+     "text": "TO THIS WE REPLY IN ONE WORD ONLY",
+     "stim": {
+      "noisy": "176ea1b164",
+      "deepfilternet3": "1db53334fb",
+      "mvdr_online_est": "31d0b66405",
+      "tse": "b7d6467b2f",
+      "mvdr_online_est_tse": "ba26d85135"
+     },
+     "cue": "cue_ade9b2b4ef"
+    },
+    {
+     "id": "OV40_s1_237-134500-0011",
+     "text": "AREN'T YOU SPLASHED LOOK AT THE SPIDER WEBS ALL OVER THE GRASS",
+     "stim": {
+      "noisy": "9edfa3da6c",
+      "deepfilternet3": "11ebcd4942",
+      "mvdr_online_est": "4d125e7fa5",
+      "tse": "0fa07a3f2e",
+      "mvdr_online_est_tse": "98b33c6e0a"
+     },
+     "cue": "cue_642aad48fc"
+    },
+    {
+     "id": "OV40_s4_908-31957-0013",
+     "text": "SLOW TO WORLD GREETINGS QUICK WITH ITS O LIST WHEN THE ANGELS SPEAK",
+     "stim": {
+      "noisy": "e786ab375b",
+      "deepfilternet3": "e6fd68e8d6",
+      "mvdr_online_est": "b29c467d2b",
+      "tse": "c470f0e7f7",
+      "mvdr_online_est_tse": "28805c5dad"
+     },
+     "cue": "cue_878b9f6b57"
+    },
+    {
+     "id": "OV40_s4_4077-13751-0010",
+     "text": "TO THE FERVENT LATTER DAY SAINT A TEMPLE IS NOT SIMPLY A CHURCH BUILDING A HOUSE FOR RELIGIOUS ASSEMBLY",
+     "stim": {
+      "noisy": "ebe2136898",
+      "deepfilternet3": "0361524c2c",
+      "mvdr_online_est": "e66cd36e68",
+      "tse": "eae2025e82",
+      "mvdr_online_est_tse": "637e0edc5b"
+     },
+     "cue": "cue_27460f2240"
+    },
+    {
+     "id": "OV40_s0_1320-122617-0024",
+     "text": "BUT HAWKEYE WHO WAS TOO MUCH OCCUPIED WITH HIS OWN THOUGHTS TO NOTE THE MOVEMENT CONTINUED SPEAKING MORE TO HIMSELF THAN TO HIS COMPANION",
+     "stim": {
+      "noisy": "753c7c9903",
+      "deepfilternet3": "bd30291a55",
+      "mvdr_online_est": "2284b7a447",
+      "tse": "7b59051bf4",
+      "mvdr_online_est_tse": "ac642b4c49"
+     },
+     "cue": "cue_e456697cf2"
+    }
+   ]
+  }
+ ],
+ "methods": [
+  "noisy",
+  "deepfilternet3",
+  "mvdr_online_est",
+  "tse",
+  "mvdr_online_est_tse"
+ ]
+}

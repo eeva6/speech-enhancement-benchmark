@@ -1,0 +1,29 @@
+{
+ "id": "S12_09-00-390_P6_14100",
+ "split": "val",
+ "session": 12,
+ "seg": "09-00-390",
+ "seg_start_s": 540.39,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "4"
+ ],
+ "target": "other",
+ "text": "Is riddles just your go to?",
+ "start_s": 14.1,
+ "end_s": 15.45,
+ "dur": 1.35,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 53600,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.014641628695244435,
+ "align_how": "minute_line",
+ "az_ref_mean": -20.14,
+ "el_ref_mean": 12.23,
+ "az_ref_range": 26.82,
+ "doa_valid_frac": 1.0
+}

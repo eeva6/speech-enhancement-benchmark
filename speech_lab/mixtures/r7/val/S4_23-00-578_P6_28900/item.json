@@ -1,0 +1,30 @@
+{
+ "id": "S4_23-00-578_P6_28900",
+ "split": "val",
+ "session": 4,
+ "seg": "23-00-578",
+ "seg_start_s": 1380.578,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "7",
+  "4"
+ ],
+ "target": "other",
+ "text": "[L] What a* type of bread box. [H] Our glasses?",
+ "start_s": 28.9,
+ "end_s": 33.4,
+ "dur": 4.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 104000,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.14149290655041113,
+ "align_how": "session_slope",
+ "az_ref_mean": -39.12,
+ "el_ref_mean": 1.58,
+ "az_ref_range": 65.11,
+ "doa_valid_frac": 1.0
+}

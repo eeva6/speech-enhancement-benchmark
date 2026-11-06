@@ -1,0 +1,125 @@
+{
+ "easycom": {
+  "spec": {
+   "cluster": "spectral",
+   "vad_thr": 0.02,
+   "min_sil": 0.15,
+   "kmax": 6
+  },
+  "ahc": {
+   "cluster": "ahc",
+   "vad_thr": 0.02,
+   "min_sil": 0.5,
+   "ahc_thr": 0.8
+  },
+  "spec_sp": {
+   "cluster": "spectral",
+   "vad_thr": 0.02,
+   "min_sil": 0.15,
+   "kmax": 6,
+   "spatial": "world",
+   "beta": 0.15,
+   "sigma": 30.0
+  },
+  "ahc_sp": {
+   "cluster": "ahc",
+   "vad_thr": 0.02,
+   "min_sil": 0.5,
+   "ahc_thr": 0.8,
+   "spatial": "max",
+   "beta": 0.08,
+   "sigma": 15.0
+  },
+  "sp_head": {
+   "cluster": "ahc",
+   "vad_thr": 0.02,
+   "min_sil": 0.5,
+   "ahc_thr": 0.8,
+   "spatial": "head",
+   "beta": 0.08,
+   "sigma": 30.0
+  },
+  "sp_world": {
+   "cluster": "ahc",
+   "vad_thr": 0.02,
+   "min_sil": 0.5,
+   "ahc_thr": 0.8,
+   "spatial": "world",
+   "beta": 0.08,
+   "sigma": 15.0
+  },
+  "sp_max": {
+   "cluster": "ahc",
+   "vad_thr": 0.02,
+   "min_sil": 0.5,
+   "ahc_thr": 0.8,
+   "spatial": "max",
+   "beta": 0.08,
+   "sigma": 15.0
+  },
+  "platform": {
+   "kind": "platform",
+   "dom_db": 6.0,
+   "vad_thr": 0.5,
+   "min_sil": 1.0,
+   "arr_thr": 0.5
+  },
+  "spec_gate": {
+   "cluster": "spectral",
+   "vad_thr": 0.02,
+   "min_sil": 0.15,
+   "kmax": 6,
+   "spatial": "world",
+   "beta": 0.3,
+   "sigma": 30.0,
+   "gate": true
+  },
+  "ahc_gate": {
+   "cluster": "ahc",
+   "vad_thr": 0.02,
+   "min_sil": 0.5,
+   "ahc_thr": 0.8,
+   "spatial": "world",
+   "beta": 0.15,
+   "sigma": 30.0,
+   "gate": true
+  }
+ },
+ "libricss": {
+  "spec": {
+   "cluster": "spectral",
+   "vad_thr": 0.35,
+   "min_sil": 1.0,
+   "kmax": 8
+  },
+  "ahc": {
+   "cluster": "ahc",
+   "vad_thr": 0.35,
+   "min_sil": 1.0,
+   "ahc_thr": 0.8
+  },
+  "spec_sp": {
+   "cluster": "spectral",
+   "vad_thr": 0.35,
+   "min_sil": 1.0,
+   "kmax": 8,
+   "spatial": "head",
+   "beta": 0.08,
+   "sigma": 15.0
+  },
+  "ahc_sp": {
+   "cluster": "ahc",
+   "vad_thr": 0.35,
+   "min_sil": 1.0,
+   "ahc_thr": 0.8,
+   "spatial": "head",
+   "beta": 0.08,
+   "sigma": 30.0
+  },
+  "platform": {
+   "kind": "platform",
+   "e_rel": 40.0,
+   "min_sil": 1.0
+  }
+ }
+}

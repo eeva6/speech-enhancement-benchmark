@@ -1,0 +1,406 @@
+{
+ "method": "tse_convtasnet_oracle",
+ "tag": "r3",
+ "n": 129,
+ "n_fail": 0,
+ "fails": [],
+ "first_call_s": 5.308163354000044,
+ "mean_proc_s": 5.701622275296877,
+ "rtf": 0.864305210040663,
+ "peak_rss_mb": 1252.16796875,
+ "rss_before_mb": 246.32421875,
+ "n_params": 27217841,
+ "noise_psd": "ms",
+ "infos": {
+  "rec_babble_snr+0_07": {
+   "picked": 0
+  },
+  "rec_babble_snr+5_00": {
+   "picked": 0
+  },
+  "rec_babble_snr+5_01": {
+   "picked": 0
+  },
+  "rec_babble_snr+5_02": {
+   "picked": 0
+  },
+  "rec_babble_snr+5_03": {
+   "picked": 0
+  },
+  "rec_babble_snr+5_04": {
+   "picked": 0
+  },
+  "rec_babble_snr+5_05": {
+   "picked": 0
+  },
+  "rec_babble_snr+5_06": {
+   "picked": 0
+  },
+  "rec_babble_snr+5_07": {
+   "picked": 0
+  },
+  "rec_hvac_snr-5_00": {
+   "picked": 1
+  },
+  "rec_hvac_snr-5_01": {
+   "picked": 1
+  },
+  "rec_hvac_snr-5_02": {
+   "picked": 0
+  },
+  "rec_hvac_snr-5_03": {
+   "picked": 1
+  },
+  "rec_hvac_snr-5_04": {
+   "picked": 0
+  },
+  "rec_hvac_snr-5_05": {
+   "picked": 0
+  },
+  "rec_hvac_snr-5_06": {
+   "picked": 0
+  },
+  "rec_hvac_snr-5_07": {
+   "picked": 1
+  },
+  "rec_hvac_snr+0_00": {
+   "picked": 0
+  },
+  "rec_hvac_snr+0_01": {
+   "picked": 1
+  },
+  "rec_hvac_snr+0_02": {
+   "picked": 0
+  },
+  "rec_hvac_snr+0_03": {
+   "picked": 0
+  },
+  "rec_hvac_snr+0_04": {
+   "picked": 0
+  },
+  "rec_hvac_snr+0_05": {
+   "picked": 0
+  },
+  "rec_hvac_snr+0_06": {
+   "picked": 0
+  },
+  "rec_hvac_snr+0_07": {
+   "picked": 0
+  },
+  "rec_hvac_snr+5_00": {
+   "picked": 0
+  },
+  "rec_hvac_snr+5_01": {
+   "picked": 0
+  },
+  "rec_hvac_snr+5_02": {
+   "picked": 0
+  },
+  "rec_hvac_snr+5_03": {
+   "picked": 1
+  },
+  "rec_hvac_snr+5_04": {
+   "picked": 0
+  },
+  "rec_hvac_snr+5_05": {
+   "picked": 0
+  },
+  "rec_hvac_snr+5_06": {
+   "picked": 0
+  },
+  "rec_hvac_snr+5_07": {
+   "picked": 0
+  },
+  "rec_transient_snr-5_00": {
+   "picked": 1
+  },
+  "rec_transient_snr-5_01": {
+   "picked": 0
+  },
+  "rec_transient_snr-5_02": {
+   "picked": 0
+  },
+  "rec_transient_snr-5_03": {
+   "picked": 0
+  },
+  "rec_transient_snr-5_04": {
+   "picked": 0
+  },
+  "rec_transient_snr-5_05": {
+   "picked": 0
+  },
+  "rec_transient_snr-5_06": {
+   "picked": 0
+  },
+  "rec_transient_snr-5_07": {
+   "picked": 1
+  },
+  "rec_transient_snr+0_00": {
+   "picked": 0
+  },
+  "rec_transient_snr+0_01": {
+   "picked": 0
+  },
+  "rec_transient_snr+0_02": {
+   "picked": 0
+  },
+  "rec_transient_snr+0_03": {
+   "picked": 0
+  },
+  "rec_transient_snr+0_04": {
+   "picked": 1
+  },
+  "rec_transient_snr+0_05": {
+   "picked": 0
+  },
+  "rec_transient_snr+0_06": {
+   "picked": 1
+  },
+  "rec_transient_snr+0_07": {
+   "picked": 1
+  },
+  "rec_transient_snr+5_00": {
+   "picked": 0
+  },
+  "rec_transient_snr+5_01": {
+   "picked": 0
+  },
+  "rec_transient_snr+5_02": {
+   "picked": 0
+  },
+  "rec_transient_snr+5_03": {
+   "picked": 0
+  },
+  "rec_transient_snr+5_04": {
+   "picked": 0
+  },
+  "rec_transient_snr+5_05": {
+   "picked": 0
+  },
+  "rec_transient_snr+5_06": {
+   "picked": 0
+  },
+  "rec_transient_snr+5_07": {
+   "picked": 0
+  },
+  "rec_announcements_snr-5_00": {
+   "picked": 0
+  },
+  "rec_announcements_snr-5_01": {
+   "picked": 0
+  },
+  "rec_announcements_snr-5_02": {
+   "picked": 0
+  },
+  "rec_announcements_snr-5_03": {
+   "picked": 1
+  },
+  "rec_announcements_snr-5_04": {
+   "picked": 0
+  },
+  "rec_announcements_snr-5_05": {
+   "picked": 0
+  },
+  "rec_announcements_snr-5_06": {
+   "picked": 0
+  },
+  "rec_announcements_snr-5_07": {
+   "picked": 1
+  },
+  "rec_announcements_snr+0_00": {
+   "picked": 0
+  },
+  "rec_announcements_snr+0_01": {
+   "picked": 0
+  },
+  "rec_announcements_snr+0_02": {
+   "picked": 0
+  },
+  "rec_announcements_snr+0_03": {
+   "picked": 0
+  },
+  "rec_announcements_snr+0_04": {
+   "picked": 0
+  },
+  "rec_announcements_snr+0_05": {
+   "picked": 0
+  },
+  "rec_announcements_snr+0_06": {
+   "picked": 0
+  },
+  "rec_announcements_snr+0_07": {
+   "picked": 1
+  },
+  "rec_announcements_snr+5_00": {
+   "picked": 0
+  },
+  "rec_announcements_snr+5_01": {
+   "picked": 0
+  },
+  "rec_announcements_snr+5_02": {
+   "picked": 0
+  },
+  "rec_announcements_snr+5_03": {
+   "picked": 1
+  },
+  "rec_announcements_snr+5_04": {
+   "picked": 0
+  },
+  "rec_announcements_snr+5_05": {
+   "picked": 0
+  },
+  "rec_announcements_snr+5_06": {
+   "picked": 0
+  },
+  "rec_announcements_snr+5_07": {
+   "picked": 0
+  },
+  "ood_competing_snr-5_00": {
+   "picked": 1
+  },
+  "ood_competing_snr-5_01": {
+   "picked": 0
+  },
+  "ood_competing_snr-5_02": {
+   "picked": 1
+  },
+  "ood_competing_snr-5_03": {
+   "picked": 1
+  },
+  "ood_competing_snr-5_04": {
+   "picked": 0
+  },
+  "ood_competing_snr-5_05": {
+   "picked": 0
+  },
+  "ood_competing_snr-5_06": {
+   "picked": 1
+  },
+  "ood_competing_snr-5_07": {
+   "picked": 1
+  },
+  "ood_competing_snr+0_00": {
+   "picked": 0
+  },
+  "ood_competing_snr+0_01": {
+   "picked": 0
+  },
+  "ood_competing_snr+0_02": {
+   "picked": 1
+  },
+  "ood_competing_snr+0_03": {
+   "picked": 1
+  },
+  "ood_competing_snr+0_04": {
+   "picked": 1
+  },
+  "ood_competing_snr+0_05": {
+   "picked": 0
+  },
+  "ood_competing_snr+0_06": {
+   "picked": 0
+  },
+  "ood_competing_snr+0_07": {
+   "picked": 1
+  },
+  "ood_competing_snr+5_00": {
+   "picked": 0
+  },
+  "ood_competing_snr+5_01": {
+   "picked": 0
+  },
+  "ood_competing_snr+5_02": {
+   "picked": 1
+  },
+  "ood_competing_snr+5_03": {
+   "picked": 1
+  },
+  "ood_competing_snr+5_04": {
+   "picked": 1
+  },
+  "ood_competing_snr+5_05": {
+   "picked": 1
+  },
+  "ood_competing_snr+5_06": {
+   "picked": 1
+  },
+  "ood_competing_snr+5_07": {
+   "picked": 1
+  },
+  "ood_reverb_rec_babble_snr-5_00": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr-5_01": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr-5_02": {
+   "picked": 1
+  },
+  "ood_reverb_rec_babble_snr-5_03": {
+   "picked": 1
+  },
+  "ood_reverb_rec_babble_snr-5_04": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr-5_05": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr-5_06": {
+   "picked": 1
+  },
+  "ood_reverb_rec_babble_snr-5_07": {
+   "picked": 1
+  },
+  "ood_reverb_rec_babble_snr+0_00": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr+0_01": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr+0_02": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr+0_03": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr+0_04": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr+0_05": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr+0_06": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr+0_07": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr+5_00": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr+5_01": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr+5_02": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr+5_03": {
+   "picked": 1
+  },
+  "ood_reverb_rec_babble_snr+5_04": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr+5_05": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr+5_06": {
+   "picked": 0
+  },
+  "ood_reverb_rec_babble_snr+5_07": {
+   "picked": 1
+  }
+ },
+ "streaming": null,
+ "threads": 2,
+ "cpu": "2 vCPU aarch64 (sandbox), no GPU"
+}

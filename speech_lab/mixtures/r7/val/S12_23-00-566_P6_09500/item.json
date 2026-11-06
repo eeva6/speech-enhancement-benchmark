@@ -1,0 +1,29 @@
+{
+ "id": "S12_23-00-566_P6_09500",
+ "split": "val",
+ "session": 12,
+ "seg": "23-00-566",
+ "seg_start_s": 1380.566,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Is it one of these stickers there? There you go. [L] I'll go. I'll go.",
+ "start_s": 9.5,
+ "end_s": 17.15,
+ "dur": 7.65,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 154400,
+ "overlap": true,
+ "ovl_frac": 0.922,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.06656870391452685,
+ "align_how": "minute_line",
+ "az_ref_mean": -34.56,
+ "el_ref_mean": 7.91,
+ "az_ref_range": 45.91,
+ "doa_valid_frac": 1.0
+}

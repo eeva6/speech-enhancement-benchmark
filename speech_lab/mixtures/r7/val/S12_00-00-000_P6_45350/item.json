@@ -1,0 +1,29 @@
+{
+ "id": "S12_00-00-000_P6_45350",
+ "split": "val",
+ "session": 12,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "That helps. [L] That helps a lot. That helps a lot.",
+ "start_s": 45.35,
+ "end_s": 49.8,
+ "dur": 4.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 103200,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.244089838815853,
+ "align_how": "minute_line",
+ "az_ref_mean": -33.19,
+ "el_ref_mean": 12.14,
+ "az_ref_range": 45.31,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S12_24-00-587_P4_49750",
+ "split": "val",
+ "session": 12,
+ "seg": "24-00-587",
+ "seg_start_s": 1440.587,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "The writing on the wall. Wow! I guess I just had an invisible boundary beyond this point, right? Just not look after that.",
+ "start_s": 49.75,
+ "end_s": 58.45,
+ "dur": 8.7,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 171200,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.07487975381081924,
+ "align_how": "minute_line",
+ "az_ref_mean": -8.88,
+ "el_ref_mean": 3.09,
+ "az_ref_range": 83.4,
+ "doa_valid_frac": 0.983
+}

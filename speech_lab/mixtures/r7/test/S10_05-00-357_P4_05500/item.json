@@ -1,0 +1,30 @@
+{
+ "id": "S10_05-00-357_P4_05500",
+ "split": "test",
+ "session": 10,
+ "seg": "05-00-357",
+ "seg_start_s": 300.357,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "None",
+  "6"
+ ],
+ "target": "other",
+ "text": "[L] Yeah?",
+ "start_s": 5.5,
+ "end_s": 7.95,
+ "dur": 2.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 71200,
+ "overlap": true,
+ "ovl_frac": 1.0,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 1.231693138834089,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 24.93,
+ "el_ref_mean": 10.68,
+ "az_ref_range": 15.35,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S11_23-00-605_P3_56550",
+ "split": "test",
+ "session": 11,
+ "seg": "23-00-605",
+ "seg_start_s": 1380.605,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "This game is really stressful. [L]",
+ "start_s": 56.55,
+ "end_s": 58.55,
+ "dur": 2.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 64000,
+ "overlap": true,
+ "ovl_frac": 0.975,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0894279801286757,
+ "align_how": "minute_line",
+ "az_ref_mean": 34.84,
+ "el_ref_mean": -4.19,
+ "az_ref_range": 54.94,
+ "doa_valid_frac": 1.0
+}

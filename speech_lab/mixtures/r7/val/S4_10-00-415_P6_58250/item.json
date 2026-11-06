@@ -1,0 +1,29 @@
+{
+ "id": "S4_10-00-415_P6_58250",
+ "split": "val",
+ "session": 4,
+ "seg": "10-00-415",
+ "seg_start_s": 600.415,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I think you- yeah, you'd fill up the [X]",
+ "start_s": 58.25,
+ "end_s": 60.05,
+ "dur": 1.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 60800,
+ "overlap": true,
+ "ovl_frac": 0.083,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.13262782886158675,
+ "align_how": "minute_line",
+ "az_ref_mean": 3.04,
+ "el_ref_mean": 23.08,
+ "az_ref_range": 4.69,
+ "doa_valid_frac": 1.0
+}

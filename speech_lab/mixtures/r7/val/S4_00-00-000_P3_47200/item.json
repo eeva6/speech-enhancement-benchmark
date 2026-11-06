@@ -1,0 +1,30 @@
+{
+ "id": "S4_00-00-000_P3_47200",
+ "split": "val",
+ "session": 4,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group",
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Contract, but we want to look for the things that are non-standard.",
+ "start_s": 47.2,
+ "end_s": 50.95,
+ "dur": 3.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 92000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 19.45,
+ "align_res_absmed_ms": 0.032628749977448024,
+ "align_how": "minute_line",
+ "az_ref_mean": 21.57,
+ "el_ref_mean": 2.24,
+ "az_ref_range": 16.61,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S12_08-00-374_P6_23850",
+ "split": "val",
+ "session": 12,
+ "seg": "08-00-374",
+ "seg_start_s": 480.374,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Let's see. Fiver liter, three liter, you need four liters? ",
+ "start_s": 23.85,
+ "end_s": 28.45,
+ "dur": 4.6,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 105600,
+ "overlap": true,
+ "ovl_frac": 0.413,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.004293001893529436,
+ "align_how": "session_slope",
+ "az_ref_mean": -35.26,
+ "el_ref_mean": 27.4,
+ "az_ref_range": 2.54,
+ "doa_valid_frac": 1.0
+}

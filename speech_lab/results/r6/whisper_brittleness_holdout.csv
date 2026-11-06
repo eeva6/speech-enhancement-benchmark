@@ -1,0 +1,9 @@
+method,label,n,catastrophic_frac,median_d,n_better,n_worse,n_same
+noisy,Unprocessed mic 0,54,0.09259259259259259,0.0,0,0,54
+ds_est,"R5 delay-and-sum, blind dir. (32 ms STFT)",54,0.05555555555555555,0.0,26,2,26
+ds_td_rt,"Delay-and-sum, time-domain FIR, track+ECAPA",54,0.09259259259259259,0.0,17,9,28
+sd4_rt__w6,"Superdirective+WNG, 4 ms STFT, track+ECAPA [WNG floor +6 dB]",54,0.09259259259259259,0.0,19,16,19
+sd8_rt,"Superdirective+WNG, 8 ms STFT, track+ECAPA",54,0.14814814814814814,0.0,21,14,19
+ds_td_ref,"Delay-and-sum, time-domain FIR, REF dir.",54,0.05555555555555555,0.0,23,3,28
+sd4_ref__w6,"Superdirective+WNG, 4 ms STFT, REF dir. [WNG floor +6 dB]",54,0.05555555555555555,0.03535980148883383,29,5,20
+sd8_ref,"Superdirective+WNG, 8 ms STFT, REF dir.",54,0.037037037037037035,0.04195804195804209,31,5,18

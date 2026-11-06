@@ -1,0 +1,29 @@
+{
+ "id": "S11_16-00-520_P5_22450",
+ "split": "test",
+ "session": 11,
+ "seg": "16-00-520",
+ "seg_start_s": 960.52,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I think so, no? So, if you go south, west, and north, because you- you are- you are at one- you are at the North Pole, you end up at the same place.",
+ "start_s": 22.45,
+ "end_s": 30.85,
+ "dur": 8.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 166400,
+ "overlap": true,
+ "ovl_frac": 0.185,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.18088840442942455,
+ "align_how": "minute_line",
+ "az_ref_mean": -3.58,
+ "el_ref_mean": 7.49,
+ "az_ref_range": 13.24,
+ "doa_valid_frac": 1.0
+}

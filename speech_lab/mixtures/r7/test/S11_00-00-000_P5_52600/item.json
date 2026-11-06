@@ -1,0 +1,29 @@
+{
+ "id": "S11_00-00-000_P5_52600",
+ "split": "test",
+ "session": 11,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Is- is he one you send for the- for the gas?",
+ "start_s": 52.6,
+ "end_s": 55.8,
+ "dur": 3.2,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 83200,
+ "overlap": true,
+ "ovl_frac": 0.562,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.3629149796324782,
+ "align_how": "session_slope",
+ "az_ref_mean": 3.58,
+ "el_ref_mean": -4.01,
+ "az_ref_range": 34.83,
+ "doa_valid_frac": 1.0
+}

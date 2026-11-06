@@ -1,0 +1,30 @@
+{
+ "id": "S4_02-00-322_P6_00050",
+ "split": "val",
+ "session": 4,
+ "seg": "02-00-322",
+ "seg_start_s": 120.322,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group",
+  "7"
+ ],
+ "target": "group",
+ "text": "[X] -fully. So, [H] yeah. I- I have no interest in software either. I try to avoid it as much as possible. But [H] But- but anyways. How bout you?",
+ "start_s": 0.05,
+ "end_s": 9.5,
+ "dur": 9.45,
+ "ctx_s": 0.05,
+ "utt_offset_samples": 800,
+ "n_samples": 152000,
+ "overlap": true,
+ "ovl_frac": 0.185,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.022760102183383424,
+ "align_how": "minute_line",
+ "az_ref_mean": -5.99,
+ "el_ref_mean": 8.05,
+ "az_ref_range": 52.45,
+ "doa_valid_frac": 1.0
+}

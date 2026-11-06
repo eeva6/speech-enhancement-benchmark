@@ -1,0 +1,29 @@
+{
+ "id": "S11_21-00-585_P5_19550",
+ "split": "test",
+ "session": 11,
+ "seg": "21-00-585",
+ "seg_start_s": 1260.585,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "The- the bin. The trashcan. Oh.",
+ "start_s": 19.55,
+ "end_s": 22.95,
+ "dur": 3.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 86400,
+ "overlap": true,
+ "ovl_frac": 0.706,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.5936952074989676,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 14.32,
+ "el_ref_mean": 10.52,
+ "az_ref_range": 40.21,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_09-00-400_P4_20450",
+ "split": "val",
+ "session": 4,
+ "seg": "09-00-400",
+ "seg_start_s": 540.4,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "3"
+ ],
+ "target": "other",
+ "text": "You're not gonna sue them for being dumb though, are they- you?",
+ "start_s": 20.45,
+ "end_s": 22.85,
+ "dur": 2.4,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 70400,
+ "overlap": true,
+ "ovl_frac": 0.771,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.06804027361795306,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": 24.21,
+ "el_ref_mean": 3.16,
+ "az_ref_range": 76.06,
+ "doa_valid_frac": 1.0
+}

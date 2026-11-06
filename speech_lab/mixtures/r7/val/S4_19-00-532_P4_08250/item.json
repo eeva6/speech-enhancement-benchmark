@@ -1,0 +1,29 @@
+{
+ "id": "S4_19-00-532_P4_08250",
+ "split": "val",
+ "session": 4,
+ "seg": "19-00-532",
+ "seg_start_s": 1140.532,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Is this the way to heaven? He's gonna say yes or no, but he's wrong. Right? ",
+ "start_s": 8.25,
+ "end_s": 15.75,
+ "dur": 7.5,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 152000,
+ "overlap": true,
+ "ovl_frac": 0.62,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.2884877030737698,
+ "align_how": "minute_line",
+ "az_ref_mean": 16.88,
+ "el_ref_mean": 8.64,
+ "az_ref_range": 14.31,
+ "doa_valid_frac": 1.0
+}

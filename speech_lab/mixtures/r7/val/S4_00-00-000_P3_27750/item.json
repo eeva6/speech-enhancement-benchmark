@@ -1,0 +1,30 @@
+{
+ "id": "S4_00-00-000_P3_27750",
+ "split": "val",
+ "session": 4,
+ "seg": "00-00-000",
+ "seg_start_s": 0.0,
+ "talker": 3,
+ "wearer": 2,
+ "target_raw": [
+  "Group",
+  "2"
+ ],
+ "target": "wearer",
+ "text": "Yeah. I'm real into, like, mortgage- kind of like- software that can analyze documents and- [H] I'm a real estate attorney, so. My- my name's Harry and I'm interested in- in like, software that can, like, analyze documents real quick to know if they're like, out of standard. Y'know, like, there's a standard [H] like",
+ "start_s": 27.75,
+ "end_s": 46.2,
+ "dur": 18.45,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 327200,
+ "overlap": true,
+ "ovl_frac": 0.087,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.032628749977448024,
+ "align_how": "minute_line",
+ "az_ref_mean": 19.22,
+ "el_ref_mean": 2.5,
+ "az_ref_range": 23.68,
+ "doa_valid_frac": 1.0
+}

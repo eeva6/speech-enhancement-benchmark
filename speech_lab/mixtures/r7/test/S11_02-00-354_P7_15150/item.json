@@ -1,0 +1,29 @@
+{
+ "id": "S11_02-00-354_P7_15150",
+ "split": "test",
+ "session": 11,
+ "seg": "02-00-354",
+ "seg_start_s": 120.354,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "That's the [L] That's the good news. Yeah. But they're all from very distressed chinchilla families, so. They have nowhere else to go, so in a way we're helping them out. But not really. [L]",
+ "start_s": 15.15,
+ "end_s": 26.9,
+ "dur": 11.75,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 220000,
+ "overlap": true,
+ "ovl_frac": 0.298,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.25025277864187956,
+ "align_how": "minute_line",
+ "az_ref_mean": -16.71,
+ "el_ref_mean": -0.62,
+ "az_ref_range": 32.67,
+ "doa_valid_frac": 1.0
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S4_22-00-570_P6_32050",
+ "split": "val",
+ "session": 4,
+ "seg": "22-00-570",
+ "seg_start_s": 1320.57,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "2"
+ ],
+ "target": "wearer",
+ "text": "The little blue circles on the- no?",
+ "start_s": 32.05,
+ "end_s": 34.9,
+ "dur": 2.85,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 77600,
+ "overlap": true,
+ "ovl_frac": 0.526,
+ "t_since_turn_onset": 1.4,
+ "align_res_absmed_ms": 0.3447734779911116,
+ "align_how": "session_slope",
+ "az_ref_mean": -20.43,
+ "el_ref_mean": 0.99,
+ "az_ref_range": 35.32,
+ "doa_valid_frac": 1.0
+}

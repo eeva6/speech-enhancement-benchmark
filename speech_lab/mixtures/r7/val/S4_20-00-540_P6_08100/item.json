@@ -1,0 +1,29 @@
+{
+ "id": "S4_20-00-540_P6_08100",
+ "split": "val",
+ "session": 4,
+ "seg": "20-00-540",
+ "seg_start_s": 1200.54,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "There is no answer.",
+ "start_s": 8.1,
+ "end_s": 9.35,
+ "dur": 1.25,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 52000,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 2.35,
+ "align_res_absmed_ms": 0.21889196068514138,
+ "align_how": "minute_line",
+ "az_ref_mean": -71.46,
+ "el_ref_mean": 19.8,
+ "az_ref_range": 22.61,
+ "doa_valid_frac": 1.0
+}

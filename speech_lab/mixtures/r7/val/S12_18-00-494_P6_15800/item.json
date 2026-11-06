@@ -1,0 +1,29 @@
+{
+ "id": "S12_18-00-494_P6_15800",
+ "split": "val",
+ "session": 12,
+ "seg": "18-00-494",
+ "seg_start_s": 1080.494,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Right? Cause if we are assuming the truth teller is in front of heaven?",
+ "start_s": 15.8,
+ "end_s": 18.6,
+ "dur": 2.8,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 76800,
+ "overlap": true,
+ "ovl_frac": 0.196,
+ "t_since_turn_onset": 9.45,
+ "align_res_absmed_ms": 0.11990268103545532,
+ "align_how": "minute_line",
+ "az_ref_mean": -18.25,
+ "el_ref_mean": 3.47,
+ "az_ref_range": 3.61,
+ "doa_valid_frac": 1.0
+}

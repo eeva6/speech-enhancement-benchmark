@@ -1,0 +1,29 @@
+{
+ "id": "S11_29-00-684_P7_10750",
+ "split": "test",
+ "session": 11,
+ "seg": "29-00-684",
+ "seg_start_s": 1740.684,
+ "talker": 7,
+ "wearer": 2,
+ "target_raw": [
+  "None"
+ ],
+ "target": "none",
+ "text": "Latest news on North Korea.",
+ "start_s": 10.75,
+ "end_s": 12.65,
+ "dur": 1.9,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 62400,
+ "overlap": false,
+ "ovl_frac": 0.0,
+ "t_since_turn_onset": 10.1,
+ "align_res_absmed_ms": 0.009481264896749053,
+ "align_how": "minute_line",
+ "az_ref_mean": -7.19,
+ "el_ref_mean": -1.22,
+ "az_ref_range": 1.83,
+ "doa_valid_frac": 1.0
+}

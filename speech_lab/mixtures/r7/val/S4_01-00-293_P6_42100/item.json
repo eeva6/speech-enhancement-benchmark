@@ -1,0 +1,29 @@
+{
+ "id": "S4_01-00-293_P6_42100",
+ "split": "val",
+ "session": 4,
+ "seg": "01-00-293",
+ "seg_start_s": 60.293,
+ "talker": 6,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "Well that's- that's very cool, Charlie. I- I'm- I'm Victoria Lee and I happen to be a pediatrician. So, [H] yeah! Very very cool. I share your- your joy and passion for, [H] y'know, helping, helping young [H] young people. So",
+ "start_s": 42.1,
+ "end_s": 58.1,
+ "dur": 16.0,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 288000,
+ "overlap": true,
+ "ovl_frac": 0.275,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.0685483100824058,
+ "align_how": "session_slope",
+ "az_ref_mean": -12.71,
+ "el_ref_mean": 4.94,
+ "az_ref_range": 65.43,
+ "doa_valid_frac": 1.0
+}

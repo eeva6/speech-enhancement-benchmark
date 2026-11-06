@@ -1,0 +1,29 @@
+{
+ "id": "S4_20-00-540_P4_00100",
+ "split": "val",
+ "session": 4,
+ "seg": "20-00-540",
+ "seg_start_s": 1200.54,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "1"
+ ],
+ "target": "other",
+ "text": "I don't think we have enough to [U]. Let's skip.",
+ "start_s": 0.1,
+ "end_s": 2.3,
+ "dur": 2.2,
+ "ctx_s": 0.1,
+ "utt_offset_samples": 1600,
+ "n_samples": 36800,
+ "overlap": true,
+ "ovl_frac": 0.295,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.843343383166939,
+ "align_how": "minute_clock_plus_pose",
+ "az_ref_mean": -3.73,
+ "el_ref_mean": 13.38,
+ "az_ref_range": 2.11,
+ "doa_valid_frac": 1.0
+}

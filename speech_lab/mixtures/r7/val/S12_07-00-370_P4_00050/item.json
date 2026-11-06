@@ -1,0 +1,29 @@
+{
+ "id": "S12_07-00-370_P4_00050",
+ "split": "val",
+ "session": 12,
+ "seg": "07-00-370",
+ "seg_start_s": 420.37,
+ "talker": 4,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "[X] -an's father is my father's son. [L] Okay, wait. This is a tongue twister, right?",
+ "start_s": 0.05,
+ "end_s": 7.5,
+ "dur": 7.45,
+ "ctx_s": 0.05,
+ "utt_offset_samples": 800,
+ "n_samples": 120000,
+ "overlap": true,
+ "ovl_frac": 0.362,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.22835302661405876,
+ "align_how": "minute_line",
+ "az_ref_mean": 28.81,
+ "el_ref_mean": 7.77,
+ "az_ref_range": 10.61,
+ "doa_valid_frac": 0.993
+}

@@ -1,0 +1,29 @@
+{
+ "id": "S11_11-00-454_P5_27550",
+ "split": "test",
+ "session": 11,
+ "seg": "11-00-454",
+ "seg_start_s": 660.454,
+ "talker": 5,
+ "wearer": 2,
+ "target_raw": [
+  "Group"
+ ],
+ "target": "group",
+ "text": "I say [H] Monty Hall.",
+ "start_s": 27.55,
+ "end_s": 29.5,
+ "dur": 1.95,
+ "ctx_s": 2.0,
+ "utt_offset_samples": 32000,
+ "n_samples": 63200,
+ "overlap": true,
+ "ovl_frac": 0.231,
+ "t_since_turn_onset": 0.0,
+ "align_res_absmed_ms": 0.006864296210551402,
+ "align_how": "session_slope",
+ "az_ref_mean": 27.95,
+ "el_ref_mean": 8.46,
+ "az_ref_range": 24.74,
+ "doa_valid_frac": 1.0
+}
